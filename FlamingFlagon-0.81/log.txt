@@ -1,59 +1,56 @@
-2024-12-02 15:48:22 UTC
-Windows-10-10.0.22631
+2024-12-28 11:19:16 UTC
+Windows-10-10.0.26100
 Ren'Py 8.2.1.24030407
 
 Flaming Flagon
 0.81
 Built at 2024-10-16 00:46:43 UTC
 
-Early init took 0.14s
-Loading error handling took 0.08s
-Loading script took 1.09s
-Loading save slot metadata took 0.07s
+Early init took 0.10s
+Loading error handling took 0.09s
+Loading script took 2.96s
+Loading save slot metadata took 0.17s
 Loading persistent took 0.00s
 Set script version to: (8, 2, 1)
-Running init code took 0.09s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.04s
-Reloading save slot metadata took 0.03s
+Running init code took 0.07s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.03s
+Reloading save slot metadata took 0.08s
 Index archives took 0.00s
 Dump and make backups took 0.00s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.09s
+Initial gc took 0.07s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.37s
+Creating interface object took 0.25s
 Cleaning stores took 0.00s
-Init translation took 0.09s
+Init translation took 0.06s
 Build styles took 0.00s
-Load screen analysis took 0.05s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.09s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.15s
+Save bytecode. took 0.04s
+Running _start took 0.01s
+Interface start took 0.09s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
 swap interval: 1 frames
 Windowed mode.
 Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce GTX 1060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
+Renderer: b'NVIDIA GeForce RTX 3060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
 Maximum texture size: 4096x4096
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
-['fen normal', 'fen blush', 'fen blush2', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smile', 'fen smile2', 'fen stern', 'fen stern2', 'fen stresse', 'fen sweat', 'fen 2 normal', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen naked blush']
+['fen normal', 'fen blush', 'fen blush2', 'fen blush3', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smell', 'fen smile', 'fen smile2', 'fen smile3', 'fen stern', 'fen stern2', 'fen stern3', 'fen stresse', 'fen sweat', 'fen wink', 'fen 2 normal', 'fen 2 blush', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen 3 normal', 'fen 3 blush', 'fen 3 stresse2', 'fen uw blush', 'fen naked blush', 'fen naked hot2', 'fen naked lick', 'fen naked relax', 'fen naked relax2', 'fen naked shock', 'fen hard blush', 'fen hard hot2', 'fen hard hot3', 'fen cum']
+Screen sizes: virtual=(1920, 1080) physical=(1920, 1009) drawable=(1920, 1009)
+Maximum texture size: 4096x4096
+['fen normal', 'fen blush', 'fen blush2', 'fen blush3', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smell', 'fen smile', 'fen smile2', 'fen smile3', 'fen stern', 'fen stern2', 'fen stern3', 'fen stresse', 'fen sweat', 'fen wink', 'fen 2 normal', 'fen 2 blush', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen 3 normal', 'fen 3 blush', 'fen 3 stresse2', 'fen uw blush', 'fen naked blush', 'fen naked hot2', 'fen naked lick', 'fen naked relax', 'fen naked relax2', 'fen naked shock', 'fen hard blush', 'fen hard hot2', 'fen hard hot3', 'fen cum']
+['fen normal', 'fen blush', 'fen blush2', 'fen blush3', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smell', 'fen smile', 'fen smile2', 'fen smile3', 'fen stern', 'fen stern2', 'fen stern3', 'fen stresse', 'fen sweat', 'fen wink', 'fen 2 normal', 'fen 2 blush', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen 3 normal', 'fen 3 blush', 'fen 3 stresse2', 'fen uw blush', 'fen naked blush', 'fen naked hot2', 'fen naked lick', 'fen naked relax', 'fen naked relax2', 'fen naked shock', 'fen hard blush', 'fen hard hot2', 'fen hard hot3', 'fen cum']
+['fen normal', 'fen blush', 'fen blush2', 'fen blush3', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smell', 'fen smile', 'fen smile2', 'fen smile3', 'fen stern', 'fen stern2', 'fen stern3', 'fen stresse', 'fen sweat', 'fen wink', 'fen 2 normal', 'fen 2 blush', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen 3 normal', 'fen 3 blush', 'fen 3 stresse2', 'fen uw blush', 'fen naked blush', 'fen naked hot2', 'fen naked lick', 'fen naked relax', 'fen naked relax2', 'fen naked shock', 'fen hard blush', 'fen hard hot2', 'fen hard hot3', 'fen cum']
+['fen normal', 'fen blush', 'fen blush2', 'fen blush3', 'fen cry', 'fen eat', 'fen lick', 'fen normal', 'fen sad', 'fen sadsmile', 'fen shock', 'fen smell', 'fen smile', 'fen smile2', 'fen smile3', 'fen stern', 'fen stern2', 'fen stern3', 'fen stresse', 'fen sweat', 'fen wink', 'fen 2 normal', 'fen 2 blush', 'fen 2 smile', 'fen 2 stern', 'fen 2 stern2', 'fen 3 normal', 'fen 3 blush', 'fen 3 stresse2', 'fen uw blush', 'fen naked blush', 'fen naked hot2', 'fen naked lick', 'fen naked relax', 'fen naked relax2', 'fen naked shock', 'fen hard blush', 'fen hard hot2', 'fen hard hot3', 'fen cum']
