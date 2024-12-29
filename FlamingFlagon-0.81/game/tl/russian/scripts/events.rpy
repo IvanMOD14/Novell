@@ -26050,955 +26050,955 @@ translate russian private_bath1_0c111289:
 translate russian private_bath1_96d67b83:
 
     # "After a while, you finally part to catch your breath."
-    ""
+    "Через некоторое время ты отступаешь, чтобы перевести дух."
 
 # game/scripts/events.rpy:11546
 translate russian private_bath1_f7ec8093:
 
     # "A bridge of spit connects your mouths for a moment as you pull away slowly and gaze longingly at one another."
-    ""
+    "Слюнявый мостик на мгновение соединяет ваши рты, когда вы медленно отстраняетесь и с тоской смотрите друг на друга."
 
 # game/scripts/events.rpy:11549
 translate russian private_bath1_7a7ef6e7:
 
     # "Marcus smiles and follows up another smooch on your cheek."
-    ""
+    "Маркус улыбается и еще раз чмокает тебя в щеку."
 
 # game/scripts/events.rpy:11551
 translate russian private_bath1_336ccf91:
 
     # "He growls into your ear and strokes the inside of your thighs."
-    ""
+    "Он рычит тебе на ухо и гладит внутреннюю сторону твоих бедер."
 
 # game/scripts/events.rpy:11553
 translate russian private_bath1_12334407:
 
     # "As Marcus's fingers trail along your soft fur, you feel the effects of your oil mixture."
-    ""
+    "Когда пальцы Маркуса скользят по твоей мягкой шерсти, ты ощущаешь действие смеси масел."
 
 # game/scripts/events.rpy:11560
 translate russian private_bath1_67ff1eef:
 
     # "The compounds course in your blood as your pulse quickens and your cock stands at full attention."
-    ""
+    "Эти вещества циркулируют в твоей крови, когда твой пульс учащается, а твой член стоит."
 
 # game/scripts/events.rpy:11562
 translate russian private_bath1_9baacf25:
 
     # "Every sensation of the man's touch sends shivering ripples of pleasure through your spine."
-    ""
+    "Каждое прикосновение его посылает по твоему позвоночнику волну удовольствия."
 
 # game/scripts/events.rpy:11564
 translate russian private_bath1_901cb52e:
 
     # Marcus "Let me help you with that."
-    Marcus ""
+    Marcus "Позволь мне помочь тебе с этим."
 
 # game/scripts/events.rpy:11570
 translate russian private_bath1_42a7a1ac:
 
     # "The man reaches right between your legs and wraps his hand around your arousal."
-    ""
+    "Мужчина протягивает руку прямо тебе между ног и обхватывает твое возбуждение."
 
 # game/scripts/events.rpy:11572
 translate russian private_bath1_93c07241:
 
     # Marcus "You have a fine cock here, full of youthful vigor and energy."
-    Marcus ""
+    Marcus "У тебя прекрасный член, полэн юношеской бодрости и энергии."
 
 # game/scripts/events.rpy:11574
 translate russian private_bath1_f83fec1b:
 
     # "He teases you with a light grip, just enough for your oiled flesh to drag slightly against his palm."
-    ""
+    "Он дразнит тебя легким пожатием, ровно настолько, чтобы твоя намазанная маслом плоть слегка касалась его ладони."
 
 # game/scripts/events.rpy:11579
 translate russian private_bath1_6dbe536e:
 
     # "Just a few strokes and your cock leaks like a fountain."
-    ""
+    "Всего несколько движений, и из твоего члена течет."
 
 # game/scripts/events.rpy:11581
 translate russian private_bath1_20535eff:
 
     # Marcus "Fuck, that's hot."
-    Marcus ""
+    Marcus "Черт, это сексуально."
 
 # game/scripts/events.rpy:11584
 translate russian private_bath1_9d75d1ce:
 
     # Fen "K-Keep going."
-    Fen ""
+    Fen "П-Продолжай."
 
 # game/scripts/events.rpy:11592
 translate russian private_bath1_34026b31:
 
     # "Marcus obliges and grips your entire length in his hand."
-    ""
+    "Маркус подчиняется и обхватывает тебя по всей длине своей рукой."
 
 # game/scripts/events.rpy:11594
 translate russian private_bath1_44cf4f72:
 
     # "Instantly another massive surge of pleasure wrecks your body as he merely squeezes your shaft."
-    ""
+    "Мгновенно еще один мощный прилив удовольствия сотрясает твое тело, когда он просто сжимает твой член."
 
 # game/scripts/events.rpy:11596
 translate russian private_bath1_2a264d2b:
 
     # Fen "Ah!"
-    Fen ""
+    Fen "Ах!"
 
 # game/scripts/events.rpy:11598
 translate russian private_bath1_8354ae2e:
 
     # Marcus "Whoa, that's hard!"
-    Marcus ""
+    Marcus "Ого, как это тяжело!"
 
 # game/scripts/events.rpy:11600
 translate russian private_bath1_e70e1dda:
 
     # "Your manhood is incredibly rigid as it throbs and gushes with pre at the slightest touch."
-    ""
+    "Твой член невероятно напряжен, оно пульсирует и наполняется энергией при малейшем прикосновении."
 
 # game/scripts/events.rpy:11602
 translate russian private_bath1_07894626:
 
     # "He teases your length, tracing his fingertips along the underside of your shaft, watching it bounce up and down his fingers as your heart beats."
-    ""
+    "Он дразнит тебя по всей длине, проводя кончиками пальцев по нижней стороне твоего члена, наблюдая, как он подпрыгивает вверх-вниз под его пальцами в такт биению твоего сердца."
 
 # game/scripts/events.rpy:11604
 translate russian private_bath1_d5321f32:
 
     # "As he slathers your cock in tingling oil, you moan and whimper from the sensual and gentle touch."
-    ""
+    "Когда он смазывает твой член покалывающим маслом, ты стонешь от чувственных и нежных прикосновений."
 
 # game/scripts/events.rpy:11606
 translate russian private_bath1_6473bd3b:
 
     # Marcus "Just lean back and let me make you feel good."
-    Marcus ""
+    Marcus "Просто откинься назад и позволь мне доставить тебе удовольствие."
 
 # game/scripts/events.rpy:11608
 translate russian private_bath1_ec6a29df:
 
     # "You become aware that you're not the only one getting excited, Marcus's thickness begins to stir."
-    ""
+    "Ты начинаешь осознавать, что возбуждаешься не только ты, толщина тела Маркуса начинает шевелиться."
 
 # game/scripts/events.rpy:11614
 translate russian private_bath1_117fc5e8:
 
     # "His fat girth slaps against your leg as it fully awakens; you feel it throb against your thigh."
-    ""
+    "Когда он полностью встает, его толстый член ударяется о твою ногу; ты чувствуешь, как он пульсирует у твоего бедра."
 
 # game/scripts/events.rpy:11616
 translate russian private_bath1_cf055ade:
 
     # "He notices you looking and gives your bits another teasing squeeze that makes you gasp."
-    ""
+    "Он замечает, что ты смотришь на него, и еще раз дразняще сжимает твои ягодицы, отчего у тебя перехватывает дыхание."
 
 # game/scripts/events.rpy:11618
 translate russian private_bath1_58c61ce3:
 
     # Marcus "Heh, can't help myself around you."
-    Marcus ""
+    Marcus "Хех, ничего не могу с собой поделать, когда ты рядом."
 
 # game/scripts/events.rpy:11623
 translate russian private_bath1_6a42577c:
 
     # "Marcus's other hand continues to rub up and down your chest, teasing your nipples along each pass."
-    ""
+    "Другой рукой Маркус продолжает поглаживать твою грудь вверх и вниз, дразня соски при каждом движении."
 
 # game/scripts/events.rpy:11625
 translate russian private_bath1_548df27b:
 
     # "The hand around your length continues to stroke and squeeze your needy arousal."
-    ""
+    "Рука обхватывающая тебя по всей длине, продолжает поглаживать и сжимать твое нуждающееся в возбуждении тело."
 
 # game/scripts/events.rpy:11627
 translate russian private_bath1_234b15e1:
 
     # Fen "M-Marcus, a-ah."
-    Fen ""
+    Fen "М-Маркус, а-ах."
 
 # game/scripts/events.rpy:11629
 translate russian private_bath1_1636aaf4:
 
     # "You toss your head back, letting out a deep moan as the skilled man works your pole."
-    ""
+    "Ты запрокидываешь голову назад, издавая глубокий стон, пока опытный мужчина работает с твоим шестом."
 
 # game/scripts/events.rpy:11631
 translate russian private_bath1_988f96af:
 
     # Marcus "I can't hold back anymore."
-    Marcus ""
+    Marcus "Я больше не могу сдерживаться."
 
 # game/scripts/events.rpy:11633
 translate russian private_bath1_ec66d4e9:
 
     # Fen "Fuck me."
-    Fen ""
+    Fen "Трахни меня."
 
 # game/scripts/events.rpy:11635
 translate russian private_bath1_e0457494:
 
     # "Your pleading desires are answered as the big guy presses the fat purple head of his cock against your oiled hole."
-    ""
+    "Твои страстные желания исполняются, когда здоровяк прижимает толстую фиолетовую головку своего члена к твоей смазанной дырочке."
 
 # game/scripts/events.rpy:11638
 translate russian private_bath1_8357fb70:
 
     # Fen "Oh!"
-    Fen ""
+    Fen "Ох!"
 
 # game/scripts/events.rpy:11644
 translate russian private_bath1_fe6014c6:
 
     # "The thick tool slides in after the tip, spreading open your tight tunnel."
-    ""
+    "Толстый инструмент скользит вслед за наконечником, открывая твой узкий туннель."
 
 # game/scripts/events.rpy:11647
 translate russian private_bath1_eea8a6f7:
 
     # "Your muscles squeeze the man's girth as his cock throbs violently inside you."
-    ""
+    "Твои мышцы сжимают талию мужчины, когда его член яростно пульсирует внутри тебя."
 
 # game/scripts/events.rpy:11650
 translate russian private_bath1_fac464fd:
 
     # "Marcus huffs and pants against the side of your head as the aphrodisiac mix enhances every sensation."
-    ""
+    "Маркус сопит и пыхтит, прижимаясь к твоей голове, когда смесь афродизиаков усиливает все ощущения."
 
 # game/scripts/events.rpy:11652
 translate russian private_bath1_c8b7bd23:
 
     # "His hands shiver as you sink down upon him."
-    ""
+    "Его руки дрожат, когда ты опускаешься на него."
 
 # game/scripts/events.rpy:11654
 translate russian private_bath1_3ac0e6dc:
 
     # "Slowly his whole length pushes forward, driving deeper inside you."
-    ""
+    "Медленно он продвигается вперед по всей длине, проникая все глубже в тебя."
 
 # game/scripts/events.rpy:11656
 translate russian private_bath1_6d5d0b29:
 
     # "The pulsating tip presses right against your prostate, throbbing right next to the sensitive organ."
-    ""
+    "Пульсирующий кончник прижимается прямо к твоей попке, пульсируя в непосредственной близости от чувствительного места."
 
 # game/scripts/events.rpy:11658
 translate russian private_bath1_7af03852:
 
     # Fen "Fu-ah-fuck yeah."
-    Fen ""
+    Fen "Че-ах-черт да."
 
 # game/scripts/events.rpy:11666
 translate russian private_bath1_93c583ad:
 
     # "You moan with Marcus as he grinds his hips right into your butt, driving the rest of his rod up your tail hole."
-    ""
+    "Ты стонешь вместе с Маркусом, когда он прижимается бедрами прямо к твоей заднице, загоняя остальную часть своего члена в твою дырочку сзади."
 
 # game/scripts/events.rpy:11668
 translate russian private_bath1_66cdc3be:
 
     # "The slick oil coating his cock allows his thick pole to plough right through your guts."
-    ""
+    "Скользкое масло, покрывающее его член, позволяет его толстому члену проникает прямо вглубь."
 
 # game/scripts/events.rpy:11670
 translate russian private_bath1_0bc57fbb:
 
     # "You groan as you feel your insides shift to accommodate the man."
-    ""
+    "Ты стонешь, чувствуя, как внутри у тебя все переворачивается, подстраиваясь под его."
 
 # game/scripts/events.rpy:11672
 translate russian private_bath1_3b2ac004:
 
     # "His grip on you tightens as he huffs and humps, his hand pumps away at your needy arousal."
-    ""
+    "Его хватка на тебе усиливается, когда он пыхтит и выгибается, его рука сжимает твое нуждающееся в возбуждении тело."
 
 # game/scripts/events.rpy:11674
 translate russian private_bath1_308fedee:
 
     # "You whine as you drown in the ocean of sensations, riding every wave of pleasure that crashes over your being."
-    ""
+    "Ты скулишь, утопая в океане ощущений, оседлывая каждую волну удовольствия, которая захлестывает твое существо."
 
 # game/scripts/events.rpy:11676
 translate russian private_bath1_27785446:
 
     # "Marcus seems lost in his motions, holding and caressing with the occasional thrust that forces another deep moan from the bottom of your lungs."
-    ""
+    "Маркус, кажется, потерялся в своих движениях, удерживая и лаская, время от времени делая толчки, которые вырывают из глубины твоих легких еще один стон."
 
 # game/scripts/events.rpy:11678
 translate russian private_bath1_f27aceea:
 
     # "The bigger male licks the sweat from your cheek and moans loudly into your ear."
-    ""
+    "Более крупный самец слизывает пот с твоей щеки и громко стонет тебе в ухо."
 
 # game/scripts/events.rpy:11680
 translate russian private_bath1_c24a9587:
 
     # Marcus "Such a sexy body, you feel like you're ready to blow."
-    Marcus ""
+    Marcus "Такое сексуальное тело, что кажется, будто ты готова взорваться."
 
 # game/scripts/events.rpy:11682
 translate russian private_bath1_019e3526:
 
     # "Your mouth fails to form words as Marcus grabs your balls, squeezing gently and rolling them in his palms."
-    ""
+    "У тебя не получается произнести ни слова, когда Маркус хватает твои яйца, нежно сжимая и перекатывая их в ладонях."
 
 # game/scripts/events.rpy:11684
 translate russian private_bath1_3a397283:
 
     # Marcus "That's it, let it out."
-    Marcus ""
+    Marcus "Вот и все, выпусти это наружу."
 
 # game/scripts/events.rpy:11693
 translate russian private_bath1_d0c2bdd6:
 
     # "He works your cock faster, twisting just a bit each time his hand passes the head."
-    ""
+    "Он работает с твоим членом быстрее, слегка поворачивая его каждый раз, когда его рука проходит мимо головки."
 
 # game/scripts/events.rpy:11695
 translate russian private_bath1_a6fb8b05:
 
     # "Every tweak, thrust, stroke, and rub brings you closer and closer to that earth shattering moment."
-    ""
+    "Каждое прикосновение, толчок, поглаживание и растирание приближают вас все ближе и ближе к этому потрясающему моменту."
 
 # game/scripts/events.rpy:11697
 translate russian private_bath1_77e99e8b:
 
     # Marcus "F-fuck, your ass feels like it's sucking it down!"
-    Marcus ""
+    Marcus "Ч-Черт возьми, твоя задница засасывает все это внутрь!"
 
 # game/scripts/events.rpy:11699
 translate russian private_bath1_530fa772:
 
     # "As he keeps thrusting, Marcus switches between stroking and groping."
-    ""
+    "Продолжая толкаться, Маркус переключается между поглаживаниями и ощупыванием."
 
 # game/scripts/events.rpy:11701
 translate russian private_bath1_69f19581:
 
     # "He marvels as the various spasms in your body ravage your senses."
-    ""
+    "Он восхищается тем, как различные спазмы в твоем теле разрушая твои чувства."
 
 # game/scripts/events.rpy:11703
 translate russian private_bath1_139c285a:
 
     # "He starts to thrust and stroke faster until you simply explode."
-    ""
+    "Он начинает толкаться и поглаживать тебя все быстрее, пока ты просто не взорвешься."
 
 # game/scripts/events.rpy:11705
 translate russian private_bath1_195ebd5f:
 
     # "In the moment your mind is overwhelmed, senses shut down one by one as they are overloaded."
-    ""
+    "В тот момент, когда твой разум перегружен, чувства отключаются одно за другим из-за перегрузки."
 
 # game/scripts/events.rpy:11713
 translate russian private_bath1_cb81bab4:
 
     # Fen "Ah-hh... Ahhhh!"
-    Fen ""
+    Fen "Ах-ахх... Ахххх!"
 
 # game/scripts/events.rpy:11715
 translate russian private_bath1_4c771d0e:
 
     # "The sounds of the room fade away from the deafening beat of your heart. Your vision blurs and cock busts all over Marcus's hand."
-    ""
+    "Звуки в комнате затихают из-за оглушительного стука твоего сердца. У тебя перед глазами все расплывается, и член натыкается на руку Маркуса."
 
 # game/scripts/events.rpy:11717
 translate russian private_bath1_946e5378:
 
     # "Your seed explodes across his table as you seize up and unleash your pent up load."
-    ""
+    "Твоя сперма разлетается по его столу, когда ты хватаешь и высвобождаешь свой сдерживаемый заряд."
 
 # game/scripts/events.rpy:11719
 translate russian private_bath1_c349f435:
 
     # Marcus "Damn that's hot. I'm going to blow too."
-    Marcus ""
+    Marcus "Черт, как горячо. Я тоже собираюсь кончить."
 
 # game/scripts/events.rpy:11721
 translate russian private_bath1_b03f440c:
 
     # "He pulls you down and thrusts at the same time, slamming his entirety into you."
-    ""
+    "Он притягивает тебя к себе и в то же время толкается, полностью погружаясь в тебя."
 
 # game/scripts/events.rpy:11731
 translate russian private_bath1_1460437f:
 
     # Marcus "Grrrrr!!"
-    Marcus ""
+    Marcus "Грррр!!"
 
 # game/scripts/events.rpy:11733
 translate russian private_bath1_254552a9:
 
     # "After a few more pumps, the purple giant's cock erupts inside."
-    ""
+    "После еще нескольких толчков его член извергается внутрь."
 
 # game/scripts/events.rpy:11736
 translate russian private_bath1_bce93048:
 
     # "His torrent of virility floods your insides as you continue to empty your own nuts."
-    ""
+    "Поток его мужественности наполняет тебя изнутри, в то время как ты продолжаешь опустошать свои собственные яйца."
 
 # game/scripts/events.rpy:11738
 translate russian private_bath1_dcedc65d:
 
     # "Your hole milks the man's cock for every drop he has to give while his hand does the same to yours."
-    ""
+    "Твоя дырочка доит его член до последней капли, которую он может дать, в то время как его рука делает то же самое с твоей."
 
 # game/scripts/events.rpy:11740
 translate russian private_bath1_fbf6f31b:
 
     # Marcus "Yeah, that's it. Cum for me."
-    Marcus ""
+    Marcus "Да, вот и все. Кончи для меня."
 
 # game/scripts/events.rpy:11742
 translate russian private_bath1_4178cff6:
 
     # "He keeps stroking, working out shot after shot until only a few beads of pearly white cream run down your length and along his fingers."
-    ""
+    "Он продолжает поглаживать, нанося удар за ударом, пока лишь несколько капель спермы не сбегут по всей твоей длине и по его пальцам."
 
 # game/scripts/events.rpy:11750
 translate russian private_bath1_649ad0ba:
 
     # "The man keeps holding onto you tightly as he finishes emptying himself until the excess cream gushes out from beneath your tail."
-    ""
+    "Он продолжает крепко держаться за тебя, когда заканчивает кончать, до тех пор, пока излишки спермы не хлынут из-под твоего хвоста."
 
 # game/scripts/events.rpy:11752
 translate russian private_bath1_ee82536e:
 
     # "At this point, your insides are completely filled with his warm seed."
-    ""
+    "В этот момент твои внутренности полностью наполняются его теплой спермы."
 
 # game/scripts/events.rpy:11754
 translate russian private_bath1_e9340160:
 
     # "Despite being spent, you instinctively cling to his rod with your hole, not allowing much more to spill out."
-    ""
+    "Несмотря на то, что ты уже закончил, ты инстинктивно прижимаешься к его члену своей дырочкой, не позволяя большему количеству спермы выплеснуться наружу."
 
 # game/scripts/events.rpy:11756
 translate russian private_bath1_1acbebaa:
 
     # "You both pant heavily, murring and cooing as you rub against each other until the tingling subsides."
-    ""
+    "Вы оба тяжело дышите, мурлычете и воркуете, потираясь друг о друга, пока покалывание не утихает."
 
 # game/scripts/events.rpy:11764
 translate russian private_bath1_9eda3967:
 
     # "By the time you catch your breath, Marcus helps you off his lap."
-    ""
+    "К тому времени, как ты переводишь дыхание, Маркус помогает тебе подняться с колен."
 
 # game/scripts/events.rpy:11766
 translate russian private_bath1_aa1cb899:
 
     # "The big man's cock slides out from your loose hole with a wet pop and his cum leaks out in a small stream."
-    ""
+    "Большой мужской член с влажным звуком выскальзывает из твоей дырочки, и его сперма вытекает небольшой струйкой."
 
 # game/scripts/events.rpy:11768
 translate russian private_bath1_697c0dda:
 
     # "Marcus nuzzles your neck and kisses your cheek before handing you a towel to clean off."
-    ""
+    "Маркус утыкается носом в твою шею и целует в щеку, прежде чем дать тебе вытереться полотенцем."
 
 # game/scripts/events.rpy:11773
 translate russian private_bath1_caed6b0f:
 
     # Marcus "Whew, I think we both needed that."
-    Marcus ""
+    Marcus "Фух, я думаю, нам обоим это было нужно."
 
 # game/scripts/events.rpy:11780
 translate russian private_bath1_ac0fa7b0:
 
     # Marcus naked normal "That mix you made... it's definitely something."
-    Marcus naked normal ""
+    Marcus naked normal "Та смесь, которую ты приготовил... это определенно что-то."
 
 # game/scripts/events.rpy:11782
 translate russian private_bath1_ff853d2a:
 
     # Marcus naked grin "It really gets me worked up."
-    Marcus naked grin ""
+    Marcus naked grin "Это действительно выводит меня из себя."
 
 # game/scripts/events.rpy:11789
 translate russian private_bath1_3dea9524:
 
     # Fen "I'd love to do that again some time."
-    Fen ""
+    Fen "Я бы с удовольствием как-нибудь повторил это еще раз."
 
 # game/scripts/events.rpy:11793
 translate russian private_bath1_4e73c491:
 
     # Marcus naked smile "Me too, you know where to find me."
-    Marcus naked smile ""
+    Marcus naked smile "Я тоже, ты знаешь, где меня найти."
 
 # game/scripts/events.rpy:11799
 translate russian private_bath1_8ddaaf9a:
 
     # "After taking a bath in the private pool, you get dressed again and returns."
-    ""
+    "Приняв ванну в частном бассейне, ты снова одеваешься и возвращаешься."
 
 # game/scripts/events.rpy:12231
 translate russian about_khaleb_underwear_3d9fca4b:
 
     # "You briefly excuse yourself to the backyard, where you change out of your underwear."
-    ""
+    "Ты ненадолго выходишь на задний двор, где снимаешь нижнее белье."
 
 # game/scripts/events.rpy:12285
 translate russian about_khaleb_underwear_27e2e5e0:
 
     # "You receive a 20 coins tip."
-    ""
+    "Ты получаешь чаевые в размере 20 монет."
 
 # game/scripts/events.rpy:12333
 translate russian khaleb_bond_01_7ec2f62f:
 
     # Khaleb "Yo, kid! Come over here for a minute."
-    Khaleb ""
+    Khaleb "Эй, малыш! Подойди сюда на минутку."
 
 # game/scripts/events.rpy:12337
 translate russian khaleb_bond_01_966f0bdf:
 
     # Fen "Hm?"
-    Fen ""
+    Fen "Хм?"
 
 # game/scripts/events.rpy:12339
 translate russian khaleb_bond_01_b317b485:
 
     # "You turn around to see Khaleb casually waving you down from the back of the tavern."
-    ""
+    "Ты оборачиваешься и видишь Халеба, который небрежно машет тебе из глубины таверны."
 
 # game/scripts/events.rpy:12347
 translate russian khaleb_bond_01_e4a8d26c:
 
     # "He and his friends are gathered around some sort of board game they've set up with a bag of dice, and..."
-    ""
+    "Он и его друзья собрались вокруг какой-то настольной игры, которую они устроили с помощью мешочка с кубиками, и..."
 
 # game/scripts/events.rpy:12349
 translate russian khaleb_bond_01_c5404041:
 
     # "Are those the salt and pepper shakers from the other tables as the pieces!?"
-    ""
+    "Это солонки и перечницы с других столов в качестве украшений?"
 
 # game/scripts/events.rpy:12356
 translate russian khaleb_bond_01_2c67aa61:
 
     # Fen sweat "({i} Ugh, what the heck is it gonna be this time...? {/i})"
-    Fen sweat ""
+    Fen sweat "({i}Ух, что черт возьми, будет на этот раз...?{/i})"
 
 # game/scripts/events.rpy:12358
 translate russian khaleb_bond_01_1f9b888b:
 
     # Fen "Yes?"
-    Fen ""
+    Fen "Да?"
 
 # game/scripts/events.rpy:12362
 translate russian khaleb_bond_01_577986cb:
 
     # Khaleb "How's a reed like a writin' desk?"
-    Khaleb ""
+    Khaleb "Чем трость похожа на письменный стол?"
 
 # game/scripts/events.rpy:12364
 translate russian khaleb_bond_01_9367855a:
 
     # Fen sweat "Uh...W-What?"
-    Fen sweat ""
+    Fen sweat "Э... Ч-Что?"
 
 # game/scripts/events.rpy:12366
 translate russian khaleb_bond_01_19b3ae3c:
 
     # Khaleb stern "How's a reed like a writin' desk?"
-    Khaleb stern ""
+    Khaleb stern "Чем трость похожа на письменный стол?"
 
 # game/scripts/events.rpy:12368
 translate russian khaleb_bond_01_42bdad32:
 
     # Fen stern "No, no. I heard you the first time. It's just...what?"
-    Fen stern ""
+    Fen stern "Нет, нет. Я услышал тебя с первого раза. Просто... что?"
 
 # game/scripts/events.rpy:12372
 translate russian khaleb_bond_01_8d273923:
 
     # Arek "See? I toldja he'd have no clue neither."
-    Arek ""
+    Arek "Видишь? Я говорил тебе, что он тоже понятия не имеет."
 
 # game/scripts/events.rpy:12376
 translate russian khaleb_bond_01_387af47b:
 
     # Trei "Well, I still like my answer the best: 'It's cuz you can make a desk outa reeds if you got the skill enough for it.'"
-    Trei ""
+    Trei "Что ж, мой ответ мне все равно нравится больше всего: 'Что ты можешь сделать письменный стол из тростника, если у тебя есть для этого умения.'"
 
 # game/scripts/events.rpy:12378
 translate russian khaleb_bond_01_7fa751bb:
 
     # Arek "That's stupid, though. Everybody knows desks are made from wood and not a buncha flimsy grass."
-    Arek ""
+    Arek "Хотя это глупо. Все знают, что столы сделаны из дерева, а не из пучка тонкой травы."
 
 # game/scripts/events.rpy:12380
 translate russian khaleb_bond_01_bfb82dbd:
 
     # Arek grin "I mean, what kinda crap ass desks were they making you write on back in school?"
-    Arek grin ""
+    Arek grin "Я имею в виду, на каких дерьмовых партах вас заставляли писать в школе?"
 
 # game/scripts/events.rpy:12383
 translate russian khaleb_bond_01_74c78c92:
 
     # Trei angry "Fuck, I dunno!"
-    Trei angry ""
+    Trei angry "Черт, я не знаю!"
 
 # game/scripts/events.rpy:12385
 translate russian khaleb_bond_01_cd6460d4:
 
     # Trei stresse "What makes ya think I even went to school, huh!?"
-    Trei stresse ""
+    Trei stresse "С чего ты взял, что я вообще ходил в школу, а!?"
 
 # game/scripts/events.rpy:12387
 translate russian khaleb_bond_01_c0d9f31d:
 
     # Fen sweat "Oookay...Well then, what's—"
-    Fen sweat ""
+    Fen sweat "Ооокей...Ну, так что же—"
 
 # game/scripts/events.rpy:12392
 translate russian khaleb_bond_01_29e0f242:
 
     # Khaleb normal "In case you're wondering, we're busy practisin' our 'refined intellectualism' skills what ways we can."
-    Khaleb normal ""
+    Khaleb normal "Если тебе интересно, мы заняты тем, что оттачиваем наши интеллектуальные навыки всеми возможными способами."
 
 # game/scripts/events.rpy:12394
 translate russian khaleb_bond_01_cc5f963c:
 
     # Arek grin "If we can show those big money-type nobles how we're a cut above the rest of the bozos in this line of work, we'll be set!"
-    Arek grin ""
+    Arek grin "Если мы сможем показать этим аристократам с большими деньгами, что мы на голову выше остальных придурков в этой области работы, мы будем в выигрыше!"
 
 # game/scripts/events.rpy:12396
 translate russian khaleb_bond_01_2bf62774:
 
     # Arek smile "They're gonna be so impressed by the smarts we learned that new jobs'll be flowing in like fine wine."
-    Arek smile ""
+    Arek smile "Они будут так впечатлены тем, чему мы научились, что новые рабочие места хлынут рекой, как хорошее вино."
 
 # game/scripts/events.rpy:12398
 translate russian khaleb_bond_01_03699da9:
 
     # Khaleb "Yeah, it's the reason for me askin' ya that weird question."
-    Khaleb ""
+    Khaleb "Да, именно по этой причине я задал тебе тот странный вопрос."
 
 # game/scripts/events.rpy:12400
 translate russian khaleb_bond_01_f420df9a:
 
     # Khaleb grin "Apparently, it's a real riot at tea parties and stuff whenever somebody asks it. Couldn't say why, though."
-    Khaleb grin ""
+    Khaleb grin "По-видимому, это настоящий бунт на чаепитиях и тому подобном, когда кто-нибудь об этом просит. Хотя не могу сказать почему."
 
 # game/scripts/events.rpy:12404
 translate russian khaleb_bond_01_b47efe9d:
 
     # Trei stern "I'll bet it's an in-joke somebody's sister-aunt thought up one day while she was drunk off her rocker."
-    Trei stern ""
+    Trei stern "Держу пари, это шутка, которую однажды придумала чья-то сестра-тетя, когда была в стельку пьяна."
 
 # game/scripts/events.rpy:12406
 translate russian khaleb_bond_01_780a4597:
 
     # Trei angry "Grrr! I swear, those moneybags had better send their manservant's manservant out to hand deliver us jobs for this."
-    Trei angry ""
+    Trei angry "Гррр! Клянусь, этим толстосумам лучше бы прислать слугу своего слуги, чтобы он доставил нам работу для этого."
 
 # game/scripts/events.rpy:12408
 translate russian khaleb_bond_01_14e7b706:
 
     # Trei stresse "My head's in so much pain from being full of all this damn learning, it's about ta explode..."
-    Trei stresse ""
+    Trei stresse "Моя голова так сильно болит от всей этой чертовой учености, что вот-вот взорвется..."
 
 # game/scripts/events.rpy:12410
 translate russian khaleb_bond_01_ed9dd582:
 
     # Arek grin "Wow. Some part of you's full enough to burst and it ain't your balls for once? Colour me amazed."
-    Arek grin ""
+    Arek grin "Вау. Какая-то часть тебя так переполнена, что вот-вот лопнет, и в кои-то веки это не твои яйца? Удиви меня."
 
 # game/scripts/events.rpy:12412
 translate russian khaleb_bond_01_6a4d2756:
 
     # Fen sweat "Alright then, sure. That part I get. But, uh..."
-    Fen sweat ""
+    Fen sweat "Хорошо тогда, конечно. Эту часть я понимаю. Но..."
 
 # game/scripts/events.rpy:12414
 translate russian khaleb_bond_01_1a3fad51:
 
     # Fen stern "Why did you need to take the salt and pepper from the other tables?"
-    Fen stern ""
+    Fen stern "Зачем тебе понадобилось брать соль и перец с других столов?"
 
 # game/scripts/events.rpy:12416
 translate russian khaleb_bond_01_55500cf1:
 
     # Khaleb stern "Eh? Oh, that."
-    Khaleb stern ""
+    Khaleb stern "А? Ох, это."
 
 # game/scripts/events.rpy:12418
 translate russian khaleb_bond_01_e4bc5904:
 
     # Khaleb normal "That's just for...whatchacallit? Improv!"
-    Khaleb normal ""
+    Khaleb normal "Это просто так... как это называется? Импровизация!"
 
 # game/scripts/events.rpy:12420
 translate russian khaleb_bond_01_ba0de22e:
 
     # Khaleb grin "See, we also caught word of this ritzy board game the rich galoots like to play. Helps 'em whittle away the hours between foot baths, I guess."
-    Khaleb grin ""
+    Khaleb grin "Видишь ли, мы также узнали об этой шикарной настольной игре, в которую любят играть богатые люди. Думаю, это помогает им коротать часы между ванночками для ног."
 
 # game/scripts/events.rpy:12422
 translate russian khaleb_bond_01_672d2dfb:
 
     # Khaleb "Chess is what it's called, or something. And we was lucky enough to find an ol' pawn shop at the corner of Riverside and Third that had a set up for sale."
-    Khaleb ""
+    Khaleb "Шахматы, вот как это называется, или что-то в этом роде. И нам посчастливилось найти старый ломбард на углу Риверсайд и Третьей, где все было выставлено на продажу."
 
 # game/scripts/events.rpy:12424
 translate russian khaleb_bond_01_b1bd5dcb:
 
     # Arek normal "But thing is, the big bozo who owned the joint would'a charged us an arm and a leg for everything. So we had to make due with just the board."
-    Arek normal ""
+    Arek normal "Но дело в том, что большой шишка, владелец заведения, взял бы с нас за все деньги. Так что нам пришлось довольствоваться только платой за питание."
 
 # game/scripts/events.rpy:12426
 translate russian khaleb_bond_01_ad3f181f:
 
     # Khaleb stern "Meh, he was a shyster, that dumb cat. I ain't never liked their types."
-    Khaleb stern ""
+    Khaleb stern "Да, он был мошенником, этот тупой кот. Мне никогда не нравились такие люди."
 
 # game/scripts/events.rpy:12428
 translate russian khaleb_bond_01_638c14d6:
 
     # Khaleb smile "Anyway, kid, ya wanna try a round out with us sometime. Test the muscles in that peabrain you got?"
-    Khaleb smile ""
+    Khaleb smile "В общем, парень, не хочешь ли как-нибудь побыть с нами? Проверь, какие у тебя мускулы на голове?"
 
 # game/scripts/events.rpy:12438
 translate russian khaleb_bond_01_376ad11d:
 
     # "You eye the game they've got going curiously for a moment."
-    ""
+    "На мгновение ты с любопытством наблюдаешь за игрой, которую они затеяли."
 
 # game/scripts/events.rpy:12440
 translate russian khaleb_bond_01_466eaed6:
 
     # "Trei goes to drag a pepper shaker across the black-and-red chequered board and uses it to knock over a salt one before removing it from play."
-    ""
+    "Трей протаскивает перечницу по доске в черно-красную клетку и опрокидывает ею перечницу с солью, прежде чем снять ее с игры."
 
 # game/scripts/events.rpy:12442
 translate russian khaleb_bond_01_b15f70be:
 
     # "You quickly realise you have no idea what they're doing, and, apparently, neither do they."
-    ""
+    "Ты быстро понимаешь, что понятия не имеешь, что они делают и, по-видимому, они тоже этого не понимают."
 
 # game/scripts/events.rpy:12450
 translate russian khaleb_bond_01_7ba7314f:
 
     # Arek "Hey, uh, actually bro, I've been wondering..."
-    Arek ""
+    Arek "Эй, вообще-то братан, мне было интересно..."
 
 # game/scripts/events.rpy:12452
 translate russian khaleb_bond_01_18f6feb8:
 
     # Arek sweat "Ain't there supposed to be all different types a' pieces in chess?"
-    Arek sweat ""
+    Arek sweat "Разве в шахматах не должно быть разных типов фигур?"
 
 # game/scripts/events.rpy:12454
 translate russian khaleb_bond_01_02f71d3e:
 
     # Arek "Like, how am I suppos'ta know which of mine are the knights and which are the queens?"
-    Arek ""
+    Arek "Например, откуда мне знать, кто из моих рыцарей, а кто из королев?"
 
 # game/scripts/events.rpy:12460
 translate russian khaleb_bond_01_dc2ef5ce:
 
     # "Khaleb opens his mouth to speak, but then pauses for a minute, scratching the underside of his chin as he tries to think."
-    ""
+    "Халеб открывает рот, чтобы заговорить, но затем замолкает на минуту, почесывая нижнюю часть подбородка и пытаясь собраться с мыслями."
 
 # game/scripts/events.rpy:12462
 translate russian khaleb_bond_01_b171135a:
 
     # Khaleb "Huh...Ya know, that's actually a hella good question..."
-    Khaleb ""
+    Khaleb "Ха... Знаешь, на самом деле это чертовски хороший вопрос..."
 
 # game/scripts/events.rpy:12466
 translate russian khaleb_bond_01_d3bb1a11:
 
     # Khaleb "Hey kid, you wouldn't happen to have any coloured pieces of twine lyin' about we could use, would ya?"
-    Khaleb ""
+    Khaleb "Эй, малыш, у тебя случайно не завалялось каких-нибудь цветных кусочков бечевки, которые мы могли бы использовать, а?"
 
 # game/scripts/events.rpy:12474
 translate russian khaleb_bond_01_1c41ff9c:
 
     # Fen angry "Put. The shakers. Back. Where they belong!"
-    Fen angry ""
+    Fen angry "Поставь. Шейкеры. Назад. Где им и место!"
 
 # game/scripts/events.rpy:12477
 translate russian khaleb_bond_01_1827ee89:
 
     # Khaleb shock "Geez! Alright, alright. No need to blow yer top over somethin' like this."
-    Khaleb shock ""
+    Khaleb shock "Боже мой! Хорошо, хорошо. Не нужно выходить из себя из-за чего-то подобного."
 
 # game/scripts/events.rpy:12479
 translate russian khaleb_bond_01_43211267:
 
     # Khaleb normal "We'll put everything back, nice an' orderly for you...right after one more game."
-    Khaleb normal ""
+    Khaleb normal "Мы вернем все на свои места, аккуратно расставим все по местам для тебя... сразу после еще одной игры."
 
 # game/scripts/events.rpy:12482
 translate russian khaleb_bond_01_5a0ca06e:
 
     # Fen angry "What!? No. Right now."
-    Fen angry ""
+    Fen angry "Что?! Нет. Прямо сейчас."
 
 # game/scripts/events.rpy:12484
 translate russian khaleb_bond_01_c798549c:
 
     # Fen "This is something that could seriously get me in trouble!"
-    Fen ""
+    Fen "Это то, из-за чего у меня могут быть серьезные неприятности!"
 
 # game/scripts/events.rpy:12486
 translate russian khaleb_bond_01_a747a705:
 
     # Khaleb grin "With who? That lumbering, grizzled palooka in a smock?"
-    Khaleb grin ""
+    Khaleb grin "С кем? С этим неуклюжим седым парнем в халате?"
 
 # game/scripts/events.rpy:12488
 translate russian khaleb_bond_01_6f8dc42c:
 
     # Khaleb "Is he forcing ya to work here under good behaviour cuz of some kinda debt, or something?"
-    Khaleb ""
+    Khaleb "Он заставляет тебя работать здесь за примерное поведение из-за какого-то долга или чего-то в этом роде?"
 
 # game/scripts/events.rpy:12490
 translate russian khaleb_bond_01_ba4417db:
 
     # Fen stern "It's not like that."
-    Fen stern ""
+    Fen stern "Все совсем не так."
 
 # game/scripts/events.rpy:12492
 translate russian khaleb_bond_01_ca082729:
 
     # Khaleb normal "Oh, yeah? Well, then why do ya take months—if not years—out your life working for him?"
-    Khaleb normal ""
+    Khaleb normal "О, да? Тогда почему ты тратишь месяцы, если не годы, своей жизни, работая на него?"
 
 # game/scripts/events.rpy:12494
 translate russian khaleb_bond_01_cb943ea6:
 
     # Fen "I...Well, it's because..."
-    Fen ""
+    Fen "Я... Ну, это потому что..."
 
 # game/scripts/events.rpy:12496
 translate russian khaleb_bond_01_e1c6a887:
 
     # "You don't need to explain anything of yourself to them."
-    ""
+    "Тебе не нужно ничего объяснять им о себе."
 
 # game/scripts/events.rpy:12499
 translate russian khaleb_bond_01_36cd0e5d:
 
     # Fen angry "My reasons are my own, and I'd thank you very much not to pry!"
-    Fen angry ""
+    Fen angry "У меня есть на то свои причины, и я был бы вам очень благодарен, если бы вы не совали нос не в свое дело!"
 
 # game/scripts/events.rpy:12501
 translate russian khaleb_bond_01_15ab3c22:
 
     # Khaleb grin "Tch, figures you'd say that..."
-    Khaleb grin ""
+    Khaleb grin "Тк, я так и думал, что ты это скажешь..."
 
 # game/scripts/events.rpy:12505
 translate russian khaleb_bond_01_93d987fc:
 
     # Trei "Damn, bro! I can't believe you're really gettin' him to show some fang. I'm swooning over here! Ahaha!"
-    Trei ""
+    Trei "Черт, братан! Не могу поверить, что ты действительно заставляешь его показать клыки. Я в шоке! Ахаха!"
 
 # game/scripts/events.rpy:12509
 translate russian khaleb_bond_01_1a610a34:
 
     # Arek smile3 "It is pretty funny that now of all times is when he decides to keep his trap shut, huh?"
-    Arek smile3 ""
+    Arek smile3 "Довольно забавно, что именно сейчас он решает держать рот на замке, да?"
 
 # game/scripts/events.rpy:12511
 translate russian khaleb_bond_01_0f5e08ad:
 
     # Arek "Wonder what nerve it was ya hit."
-    Arek ""
+    Arek "Интересно, какой нерв ты задел?"
 
 # game/scripts/events.rpy:12513
 translate russian khaleb_bond_01_37723ccc:
 
     # Fen angry "Ugh..."
-    Fen angry ""
+    Fen angry "Ух..."
 
 # game/scripts/events.rpy:12515
 translate russian khaleb_bond_01_e7279d86:
 
     # Fen "({i} These guys. Sometimes, I swear... {/i})"
-    Fen ""
+    Fen "({i}Эти ребята. Иногда, клянусь...{/i})"
 
 # game/scripts/events.rpy:12517
 translate russian khaleb_bond_01_a0bff2c3:
 
     # Khaleb normal "Alrighty, Busy Boy, looks like we're all wrapped up with our game now."
-    Khaleb normal ""
+    Khaleb normal "Отличный, занятой парень, похоже, мы все сейчас увлечены нашей игрой."
 
 # game/scripts/events.rpy:12519
 translate russian khaleb_bond_01_58ff7eb0:
 
     # Fen stern "So, what? That means you're done with the shakers, then, right?"
-    Fen stern ""
+    Fen stern "Итак, что? Это значит, что ты покончил с шейкерами, верно?"
 
 # game/scripts/events.rpy:12521
 translate russian khaleb_bond_01_d7038919:
 
     # Khaleb "Yeah, yeah. Take 'em and knock yourself out. We've got an art showing on the East side to crash about now, anyway."
-    Khaleb ""
+    Khaleb "Да, да. Бери их и отрывайся по полной. В любом случае, у нас сейчас художественная выставка в Ист-Сайде, на которую мы должны пойти."
 
 # game/scripts/events.rpy:12523
 translate russian khaleb_bond_01_17235b17:
 
     # Trei stern "Aww, is some rando gonna come up and ask me what I think about ladies who make statues for peoples' lawns again?"
-    Trei stern ""
+    Trei stern "О, неужели какой-нибудь бродяга снова подойдет и спросит меня, что я думаю о дамах, которые делают статуи для их газонов?"
 
 # game/scripts/events.rpy:12525
 translate russian khaleb_bond_01_5a3efe29:
 
     # Trei stern "I don't really give a gnat's ass..."
-    Trei stern ""
+    Trei stern "На самом деле мне на это наплевать..."
 
 # game/scripts/events.rpy:12527
 translate russian khaleb_bond_01_7becb9ac:
 
     # Khaleb smile "Don't worry, Trei. This one's about makin' life-sized figures outta dried up sewage and twigs. If that happens again, it's weird."
-    Khaleb smile ""
+    Khaleb smile "Не волнуйся, Трей. Речь идет о создании фигурок в натуральную величину из засохших сточных вод и веток. Если такое повторится, это будет странно."
 
 # game/scripts/events.rpy:12529
 translate russian khaleb_bond_01_e333449d:
 
     # Arek smile2 "Yeah, just make extra sure not to light any fires this time around, or else our noses are gonna be hot in the stink along with our purses."
-    Arek smile2 ""
+    Arek smile2 "Да, только на этот раз постарайся не разжигать костров, иначе нашим носам будет жарко от вони вместе с нашими кошельками."
 
 # game/scripts/events.rpy:12537
 translate russian khaleb_bond_01_17add820:
 
     # "Good. It looks like they're leaving early tonight."
-    ""
+    "Хорошо. Похоже, сегодня они уходят пораньше."
 
 # game/scripts/events.rpy:12539
 translate russian khaleb_bond_01_675f6cb3:
 
     # "You're not sure you'll ever get used to the odd, negative air that seems to hover around them like a curse wherever they go."
-    ""
+    "Ты не уверен, что когда-нибудь привыкнешь к странной, негативной атмосфере, которая, кажется, витает вокруг них, как проклятие, куда бы они ни пошли."
 
 # game/scripts/events.rpy:12542
 translate russian khaleb_bond_01_2be7c590:
 
     # "At least you managed to get the tables back in their proper display before anybody noticed."
-    ""
+    "По крайней мере, тебе удалось вернуть столы на прежнее место до того, как кто-нибудь заметил."
 
 # game/scripts/events.rpy:12576
 translate russian khaleb_talk_01_6194731a:
 
     # "You go to Khaleb's table after hearing him loudly call you over."
-    ""
+    "Ты подходишь к столику Халеба, услышав, как он громко зовет тебя."
 
 # game/scripts/events.rpy:12584
 translate russian khaleb_talk_01_eff97f39:
 
     # Khaleb "Yo, kid, we need somethin' over here!"
-    Khaleb ""
+    Khaleb "Эй, малыш, нам тут кое-что нужно!"
 
 # game/scripts/events.rpy:12586
 translate russian khaleb_talk_01_aec10b15:
