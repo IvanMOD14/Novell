@@ -118,7 +118,7 @@ translate russian gunther_talk_topic2_dc20ca19:
 translate russian gunther_talk_topic2_13a0f3b5:
 
     # Gunther uw smile2 "I'm the first and only owner of The Flaming Flagon."
-    Gunther uw smile2 "Я первый и единственный владелец Flaming Flagon."
+    Gunther uw smile2 "Я первый и единственный владелец Пылающего Кувшина."
 
 # game/scripts/events.rpy:77
 translate russian gunther_talk_topic2_0d1e19dc:
@@ -604,7 +604,7 @@ translate russian niall_intro_cd53bfd1:
 translate russian niall_intro_c63ae880:
 
     # Fen "Hello there, sir. Welcome to the Flaming Flagon."
-    Fen "Здравствуйте, сэр. Добро пожаловать в Flaming Flagon."
+    Fen "Здравствуйте, сэр. Добро пожаловать в Пылающий Кувшин."
 
 # game/scripts/events.rpy:424
 translate russian niall_intro_fab1123f:
@@ -3766,7 +3766,7 @@ translate russian odachi_intro_514d0138:
 translate russian odachi_intro_6430e539:
 
     # Fen "Oh! Uh, welcome to the Flaming Flagon, sir. Can I help you with anything tonight?"
-    Fen "О! Добро пожаловать в Flaming Flagon, сэр. Могу я тебе чем-нибудь помочь сегодня вечером?"
+    Fen "О! Добро пожаловать в Пылающий Кувшин, сэр. Могу я тебе чем-нибудь помочь сегодня вечером?"
 
 # game/scripts/events.rpy:1946
 translate russian odachi_intro_efa2e237:
@@ -4072,7 +4072,7 @@ translate russian odachi_bond_01_3b247c29:
 translate russian odachi_bond_01_4e60d4f5:
 
     # "So far out of earshot, you can't really make out anything of what they're saying to each other, but not long after, they all get up and leave the Flaming Flagon together."
-    "Так далеко, что не слышно, что они говорят друг другу, но вскоре они все вместе встают и покидают Flaming Flagon."
+    "Так далеко, что не слышно, что они говорят друг другу, но вскоре они все вместе встают и покидают Пылающий Кувшин."
 
 # game/scripts/events.rpy:2100
 translate russian odachi_bond_01_1ebd6e79:
@@ -4402,7 +4402,7 @@ translate russian odachi_bond_02_ba7b0b4d:
 translate russian odachi_bond_02_6a39006c:
 
     # "You grow worried by this, wondering if maybe he'd accidentally gotten himself into some kind of trouble with them since that one time you saw him leave the Flaming Flagon in their company."
-    "Ты начинаешь беспокоиться из-за этого, задаваясь вопросом, не вляпался ли он случайно в какие-нибудь неприятности с ними с тех пор, как однажды ты увидел, как он оставил Flaming Flagon в их компании."
+    "Ты начинаешь беспокоиться из-за этого, задаваясь вопросом, не вляпался ли он случайно в какие-нибудь неприятности с ними с тех пор, как однажды ты увидел, как он оставил Пылающий Кувшин в их компании."
 
 # game/scripts/events.rpy:2283
 translate russian odachi_bond_02_582ac35a:
@@ -5374,7 +5374,7 @@ translate russian odachi_bond_02_4e87a4a6:
 translate russian odachi_bond_02_048c7e72:
 
     # "Navigating your way back to the Flaming Flagon, as you walk through the front door you notice that there's a lot more commotion going on inside the tavern than there was when you left it."
-    "Возвращаясь в Flaming Flagon, ты проходишь через парадную дверь и замечаешь, что внутри таверны царит гораздо большая суматоха, чем когда ты ее покидал."
+    "Возвращаясь в Пылающий Кувшин, ты проходишь через парадную дверь и замечаешь, что внутри таверны царит гораздо большая суматоха, чем когда ты ее покидал."
 
 # game/scripts/events.rpy:2622
 translate russian odachi_bond_02_5aaf237f:
@@ -5500,7 +5500,7 @@ translate russian Murry_gunther_history_62c01e3e:
 translate russian Murry_gunther_history_d713d256:
 
     # Murry normal "Before he even opened the doors of Flaming Flagon to the public, he was standing right where you are."
-    Murry normal "Еще до того, как он открыл двери Flaming Flagon для публики, он уже стоял там, где стоишь ты."
+    Murry normal "Еще до того, как он открыл двери Пылающего Кувшина для публики, он уже стоял там, где стоишь ты."
 
 # game/scripts/events.rpy:2686
 translate russian Murry_gunther_history_b81e57c2:
@@ -5600,7 +5600,7 @@ translate russian strings:
 
     # game/scripts/events.rpy:22
     old "Have you always been the owner of Flaming Flagon?"
-    new "Ты всегда был владельцем Flaming Flagon?"
+    new "Ты всегда был владельцем Пылающего Кувшина?"
 
     # game/scripts/events.rpy:22
     old "What do you do for fun?"
@@ -7000,7 +7000,7 @@ translate russian gunther_event_03_7ca0abff:
 translate russian gunther_event_03_568aed4a:
 
     # Gunther "Oh? You should stop by the Flaming Flagon then."
-    Gunther "О? Тогда тебе стоит заглянуть в Flaming Flagon."
+    Gunther "О? Тогда тебе стоит заглянуть в Пылающий Кувшин."
 
 # game/scripts/events.rpy:1085
 translate russian gunther_event_03_3e13206c:
@@ -7234,7 +7234,7 @@ translate russian gunther_event_03_6797b9c1:
 translate russian gunther_event_03_7c3e709e:
 
     # "You redress feeling cleansed and return with Gunther to the Flaming Flagon for a quiet evening."
-    "Ты возвращаешься с чувством очищения и возвращаешься с Гюнтером в Flaming Flagon, чтобы провести тихий вечер."
+    "Ты возвращаешься с чувством очищения и возвращаешься с Гюнтером в Пылающий Кувшин, чтобы провести тихий вечер."
 
 # game/scripts/events.rpy:1352
 translate russian niall_intro_3c5b9b76:
@@ -8056,7 +8056,7 @@ translate russian marcus_bond_01_f66426d6:
 translate russian marcus_bond_01_354e3914:
 
     # Fen wink "You're at the Flagon now, it is my turn to service {b}you{/b}."
-    Fen wink "Теперь ты в Flagon, теперь моя очередь обслуживать {b}тебя{/b}."
+    Fen wink "Теперь ты в Кувшине, теперь моя очередь обслуживать {b}тебя{/b}."
 
 # game/scripts/events.rpy:4275
 translate russian marcus_bond_01_d8c01307:
@@ -10282,7 +10282,7 @@ translate russian lunch_service_1d836ec7:
 translate russian lunch_service_7aad2527:
 
     # Gunther normal "So, what do you think about just making all of them into food in the morning and selling some as lunch out in front of the Flagon?"
-    Gunther normal "Итак, что ты думаешь о том, чтобы просто приготовить их все утром в качестве закуски, а что-то продать на обед в кафе Flagon?"
+    Gunther normal "Итак, что ты думаешь о том, чтобы просто приготовить их все утром в качестве закуски, а что-то продать на обед в кафе Кувшин?"
 
 # game/scripts/events.rpy:5499
 translate russian lunch_service_010f159f:
@@ -11772,7 +11772,7 @@ translate russian gunther_event_03_5ad42147:
 translate russian gunther_bond_02_582302d2:
 
     # "Another shift over at the Flaming Flagon. The night winds down as one by one, the tables empty."
-    "Очередная смена в Flaming Flagon. Вечер подходит к концу, столики пустеют один за другим."
+    "Очередная смена в Пылающем Кувшине. Вечер подходит к концу, столики пустеют один за другим."
 
 # game/scripts/events.rpy:1999
 translate russian gunther_bond_02_29ebdf25:
@@ -12438,7 +12438,7 @@ translate russian about_terrance_gunther_d48cc443:
 translate russian about_terrance_gunther_8022f7f2:
 
     # Terrance "We go a long ways back. We met in town before he opened the Flagon."
-    Terrance "Нас многое связывает. Мы познакомились в городе еще до того, как он открыл Flagon."
+    Terrance "Нас многое связывает. Мы познакомились в городе еще до того, как он открыл Кувшин."
 
 # game/scripts/events.rpy:3128
 translate russian about_terrance_gunther_3157f608:
@@ -13892,7 +13892,7 @@ translate russian odachi_bond_02a_8e468dc0:
 translate russian odachi_bond_02a_048c7e72:
 
     # "Navigating your way back to the Flaming Flagon, as you walk through the front door you notice that there's a lot more commotion going on inside the tavern than there was when you left it."
-    "Возвращаясь в Flaming Flagon, ты проходишь через парадную дверь и замечаешь, что внутри таверны царит гораздо большая суматоха, чем когда ты ее покидал."
+    "Возвращаясь в Пылающий Кувшин, ты проходишь через парадную дверь и замечаешь, что внутри таверны царит гораздо большая суматоха, чем когда ты ее покидал."
 
 # game/scripts/events.rpy:5656
 translate russian odachi_bond_02a_5aaf237f:
@@ -14570,7 +14570,7 @@ translate russian odachi_bond_02b_c644e956:
 translate russian odachi_bond_02b_cbb4b046:
 
     # "He waves you off with a big, jolly laugh as you run back into the Flagon."
-    "Он с громким, веселым смехом машет тебе на прощание, когда ты бежишь обратно в Flagon."
+    "Он с громким, веселым смехом машет тебе на прощание, когда ты бежишь обратно в Кувшин."
 
 # game/scripts/events.rpy:5956
 translate russian odachi_bond_02b_110327db:
@@ -16132,7 +16132,7 @@ translate russian fen_tailservice_fussyguard_c879e564:
 translate russian fen_tailservice_fussyguard_5afc427d:
 
     # "Not that he's really giving you a choice in the matter, but you let the guard do you the favour of a tongue bath before finishing up your business together."
-    "Не то чтобы он действительно давал тебе выбор в этом вопросе, но ты позволяешь охраннику сделать тебе одолжение на языке ванну перед тем как закончить вместе ваши дела."
+    "Не то чтобы он действительно давал тебе выбор в этом вопросе, но ты позволяешь охраннику сделать тебе одолжение и провести языком по губам, прежде чем закончить вместе ваши дела."
 
 # game/scripts/events.rpy:734
 translate russian fen_tailservice_fussyguard_6954ef28:
@@ -16528,7 +16528,7 @@ translate russian fen_tailservice_carefreeguard_d73f9341:
 translate russian fen_tailservice_carefreeguard_d5741ab2:
 
     # CGuard "M-My balls are–Ngh!–tensing up."
-    CGuard "М-Мои яйца готовы!– напрягаюсь."
+    CGuard "М-мои яйца готовы!– напрягаюсь."
 
 # game/scripts/events.rpy:970
 translate russian fen_tailservice_carefreeguard_7c9c5537:
@@ -16594,7 +16594,7 @@ translate russian fen_tailservice_carefreeguard_2b6ba0ea:
 translate russian fen_tailservice_carefreeguard_e9a6dd5c:
 
     # Fen "W-What!?"
-    Fen "Ч-Что!?"
+    Fen "Ч-что!?"
 
 # game/scripts/events.rpy:1008
 translate russian fen_tailservice_carefreeguard_299f261c:
@@ -17698,7 +17698,7 @@ translate russian bathhouse_niall_end_7c7f10ba:
 translate russian bathhouse_niall_end_3a00516e:
 
     # Arek "Oh, hellooo abs~! ❤"
-    Arek "О, привееет пресенок~! ❤"
+    Arek "О, привееет прес~! ❤"
 
 # game/scripts/events.rpy:8883
 translate russian bathhouse_niall_end_8a45315f:
@@ -19210,7 +19210,7 @@ translate russian gunther_unlockcooking_8a49c105:
 translate russian gunther_unlockcooking_035abb1c:
 
     # Gunther "You've done so much for the Flagon, I'd be more than happy to assist you with tasting."
-    Gunther "Ты так много сделали для Flagon, я буду более чем счастлив помочь тебе с этим."
+    Gunther "Ты так много сделали для Кувшина, я буду более чем счастлив помочь тебе с этим."
 
 # game/scripts/events.rpy:3739
 translate russian gunther_unlockcooking_42370a20:
@@ -24346,7 +24346,7 @@ translate russian terrance_bond_03_sex_08f195d7:
 translate russian terrance_bond_03_sex_481fd8d4:
 
     # Terrance naked blush3 "Ya dunane need to be at the Flagon till afternoon. If Guther complains, I'll set him straight."
-    Terrance naked blush3 "Да нужно быть в Флагоне до обеда. Если Гюнтер жалуется, я все улажу."
+    Terrance naked blush3 "Да нужно быть в Кувшине до обеда. Если Гюнтер жалуется, я все улажу."
 
 # game/scripts/events.rpy:8712
 translate russian terrance_bond_03_sex_b950348f:
@@ -27004,1145 +27004,1145 @@ translate russian khaleb_talk_01_eff97f39:
 translate russian khaleb_talk_01_aec10b15:
 
     # Fen "Yes, what is it?"
-    Fen ""
+    Fen "Да, в чем дело?"
 
 # game/scripts/events.rpy:12588
 translate russian khaleb_talk_01_41420837:
 
     # "({i} Oh, please don't be trouble with another patron, again... {/i})"
-    ""
+    "({i}О, пожалуйста, не создавай проблем с другим посетителем снова...{/i})"
 
 # game/scripts/events.rpy:12590
 translate russian khaleb_talk_01_f4af18d0:
 
     # Khaleb grin "The boys and I are bored. Entertain us with somethin', will ya?"
-    Khaleb grin ""
+    Khaleb grin "Нам с мальчиками скучно. Развлеки нас чем-нибудь, ладно?"
 
 # game/scripts/events.rpy:12592
 translate russian khaleb_talk_01_56e264f9:
 
     # Fen shock "Huh!?"
-    Fen shock ""
+    Fen shock "А!?"
 
 # game/scripts/events.rpy:12594
 translate russian khaleb_talk_01_ae9ac2e8:
 
     # Fen "W-With what? It's not like I'm here as a performer?"
-    Fen ""
+    Fen "С чем? Я же здесь не в качестве актера?"
 
 # game/scripts/events.rpy:12596
 translate russian khaleb_talk_01_95e837c8:
 
     # Khaleb stern "I dunno. We got a request here, it's your job to try an' take care of it somehows, right?"
-    Khaleb stern ""
+    Khaleb stern "Я не знаю. У нас к тебе просьба, это твоя работа - попытаться как-то с этим разобраться, верно?"
 
 # game/scripts/events.rpy:12598
 translate russian khaleb_talk_01_1dfe3898:
 
     # Arek grin "Why don't ya think up some good ways to keep us talkin' for a bit?"
-    Arek grin ""
+    Arek grin "Почему бы тебе не придумать какой-нибудь хороший способ поддержать наш разговор еще немного?"
 
 # game/scripts/events.rpy:12600
 translate russian khaleb_talk_01_df1e6661:
 
     # Arek "You're always wastin' time yammering with all the other chumps here, anyway."
-    Arek ""
+    Arek "В любом случае, ты всегда тратишь время на болтовню со всеми остальными здешними болванами."
 
 # game/scripts/events.rpy:12602
 translate russian khaleb_talk_01_9f66a200:
 
     # Fen "Hmm...Well, I guess..."
-    Fen ""
+    Fen "Хм... Ну, я думаю..."
 
 # game/scripts/events.rpy:12604
 translate russian khaleb_talk_01_5325d8d8:
 
     # "Can you think of any questions you've been meaning to ask them?"
-    ""
+    "Можешь ли ты вспомнить какие-нибудь вопросы, которые ты хотел бы им задать?"
 
 # game/scripts/events.rpy:12610
 translate russian khaleb_talk_01_f326038a:
 
     # "You find the time to approach the Renegades' table again."
-    ""
+    "Ты находишь время снова подойти к столу Ренегатов."
 
 # game/scripts/events.rpy:12618
 translate russian khaleb_talk_01_2ab34120:
 
     # "They all make eyes at you coming towards them unprompted."
-    ""
+    "Они все строят глазки, когда ты подходишь к ним без приглашения."
 
 # game/scripts/events.rpy:12620
 translate russian khaleb_talk_01_8c418791:
 
     # "Was there something else you thought of to ask them?"
-    ""
+    "Было ли что-то еще, о чем ты хотел бы их спросить?"
 
 # game/scripts/events.rpy:12634
 translate russian about_renegades_together_6cc724a8:
 
     # Khaleb normal "Why wouldn't we be? I mean, we toldja we're a team and all."
-    Khaleb normal ""
+    Khaleb normal "А почему бы и нет? Я имею в виду, мы сказали тебе, что мы команда и все такое."
 
 # game/scripts/events.rpy:12636
 translate russian about_renegades_together_d84b6fea:
 
     # Fen "Yeah, but like, I don't think I've ever seen a friend group that spends so much time together like you three do."
-    Fen ""
+    Fen "Да, но по-моему, я никогда не видел группу друзей, которые проводили бы так много времени вместе, как вы трое."
 
 # game/scripts/events.rpy:12638
 translate russian about_renegades_together_9e4b0cb5:
 
     # Arek normal "You thought we've been calling each other 'bro' so much just for the heck of it?"
-    Arek normal ""
+    Arek normal "Ты думал, мы так часто называем друг друга 'братанами' просто так?"
 
 # game/scripts/events.rpy:12640
 translate russian about_renegades_together_34488fd9:
 
     # Arek grin "Nah, that's what being a Renegade means, ya see?"
-    Arek grin ""
+    Arek grin "Нет, вот что значит быть Ренегатом, понимаешь?"
 
 # game/scripts/events.rpy:12642
 translate russian about_renegades_together_58a80ed6:
 
     # Khaleb smile "'Brothers by choice even stronger than blood, an' lovers with hearts more wicked than fate.'"
-    Khaleb smile ""
+    Khaleb smile "'Братья по выбору, даже более крепкие, чем кровь, и любовники с сердцами более злыми, чем судьба.'"
 
 # game/scripts/events.rpy:12644
 translate russian about_renegades_together_bbd5adf1:
 
     # Khaleb normal "That's sorta the motto we roll with to sum it up."
-    Khaleb normal ""
+    Khaleb normal "Это своего рода девиз, которым мы руководствуемся, подводя итог."
 
 # game/scripts/events.rpy:12646
 translate russian about_renegades_together_0d20bb4e:
 
     # Arek smile2 "It was Trei who thought it up, too—the name and the sayin'—if you can believe it."
-    Arek smile2 ""
+    Arek smile2 "Это тоже Трей придумал — название и поговорку — если ты можешь в это поверить."
 
 # game/scripts/events.rpy:12648
 translate russian about_renegades_together_1d8b2bdc:
 
     # Arek smile "I can tell ya straight away, I still don't! Eheehee!"
-    Arek smile ""
+    Arek smile "Могу сказать тебе прямо, я все еще не понимаю! Ехеехее!"
 
 # game/scripts/events.rpy:12650
 translate russian about_renegades_together_be987682:
 
     # Fen "Oh? That's interesting. What inspired you to come up with that for your team?"
-    Fen ""
+    Fen "О? Это интересно. Что вдохновило вас на эту идею для вашей команды?"
 
 # game/scripts/events.rpy:12652
 translate russian about_renegades_together_86f05500:
 
     # Trei stresse "..."
-    Trei stresse ""
+    Trei stresse "..."
 
 # game/scripts/events.rpy:12654
 translate russian about_renegades_together_4416e62f:
 
     # Fen stern "Hm?"
-    Fen stern ""
+    Fen stern "Хм?"
 
 # game/scripts/events.rpy:12656
 translate russian about_renegades_together_86f05500_1:
 
     # Trei stresse "..."
-    Trei stresse ""
+    Trei stresse "..."
 
 # game/scripts/events.rpy:12659
 translate russian about_renegades_together_3b853982:
 
     # Trei sweat "{size=20}I-It came to me in a dream. And...I just thought it sounded real cool, ya know...?{/size}"
-    Trei sweat ""
+    Trei sweat "{size=20}Э-это пришло ко мне во сне. И... я просто подумал, что это звучит очень круто, понимаешь...?{/size}"
 
 # game/scripts/events.rpy:12661
 translate russian about_renegades_together_ed51bba4:
 
     # "That may be the quietest you've ever heard him speak."
-    ""
+    "Возможно, это самая тихая речь, которую ты когда-либо слышал от него."
 
 # game/scripts/events.rpy:12663
 translate russian about_renegades_together_788e1cad:
 
     # Khaleb smile "But anyways, yeah. We, bein' the fearsome Renegades, like to think of ourselves as more than just your average band a' mercs."
-    Khaleb smile ""
+    Khaleb smile "Но в любом случае, да. Мы, будучи Ренегаты, любим думать о себе как о чем-то большем, чем обычные наемники из группы."
 
 # game/scripts/events.rpy:12665
 translate russian about_renegades_together_a1caf2aa:
 
     # Khaleb "We're sworn for each other to help make it best we can in this shitpot world; thick as thieves, and that ain't always figurative neither."
-    Khaleb ""
+    Khaleb "Мы поклялись друг за друга помогать делать все, что в наших силах, в этом дерьмовом мире; мы не разлей вода, и это тоже не всегда фигурально."
 
 # game/scripts/events.rpy:12668
 translate russian about_renegades_together_596d9ae4:
 
     # Arek smile2 "Awoo-woo! Hell yeah, bro! You the best out there! We love ya!!!"
-    Arek smile2 ""
+    Arek smile2 "Оуу! Да, черт возьми, братан! Ты лучший на свете! Мы любим тебя!!!"
 
 # game/scripts/events.rpy:12672
 translate russian about_renegades_together_b5f2bbf7:
 
     # Khaleb smile "That's right. And you'd do best to remember the name Renegades for as long as you can."
-    Khaleb smile ""
+    Khaleb smile "Это верно. И тебе лучше всего запомнить название Ренегаты как можно дольше."
 
 # game/scripts/events.rpy:12674
 translate russian about_renegades_together_23e16d14:
 
     # Khaleb normal "Cuz our names are gonna be up there with the real legends someday, ya hear?"
-    Khaleb normal ""
+    Khaleb normal "Потому что когда-нибудь наши имена станут настоящими легендами, слышишь?"
 
 # game/scripts/events.rpy:12676
 translate russian about_renegades_together_48789978:
 
     # Fen sweat "Uh, yeah sure. I'll take care to keep that in mind..."
-    Fen sweat ""
+    Fen sweat "О, да конечно. Я постараюсь иметь это в виду..."
 
 # game/scripts/events.rpy:12678
 translate russian about_renegades_together_cd34cf49:
 
     # "({i} How would it even be possible for me to forget their name when they keep shouting it all the time...?{/i})"
-    ""
+    "({i}Как я вообще могу забыть их имя, когда они все время его выкрикивают...?{/i})"
 
 # game/scripts/events.rpy:12686
 translate russian about_renegades_food_issue_27d13081:
 
     # Khaleb stern "And what is that suppos'ta mean?"
-    Khaleb stern ""
+    Khaleb stern "И что это должно означать?"
 
 # game/scripts/events.rpy:12688
 translate russian about_renegades_food_issue_b5596f85:
 
     # Fen "Well, you know..."
-    Fen ""
+    Fen "Ну, ты же знаешь..."
 
 # game/scripts/events.rpy:12690
 translate russian about_renegades_food_issue_fec3aba2:
 
     # Fen "It just feels as though every time you three order food here, at least one of you has some kind of complaint to make about it."
-    Fen ""
+    Fen "Просто мне кажется, что каждый раз, когда вы втроем заказываете здесь еду, по крайней мере у одного из вас есть какие-то претензии по этому поводу."
 
 # game/scripts/events.rpy:12692
 translate russian about_renegades_food_issue_cdf51049:
 
     # Fen "'This pudding's too milky' or 'This bowl doesn't have enough soup in it'. Stuff like that."
-    Fen ""
+    Fen "'В этом пудинге слишком много молока' или 'В этой миске недостаточно супа'. И тому подобное."
 
 # game/scripts/events.rpy:12694
 translate russian about_renegades_food_issue_09419ff0:
 
     # Khaleb "Tch. It's not our faults if your kitchen makes mistakes."
-    Khaleb ""
+    Khaleb "Тч. Мы не виноваты, что на твоей кухне случаются ошибки."
 
 # game/scripts/events.rpy:12696
 translate russian about_renegades_food_issue_39e0b609:
 
     # Fen "Y-Yes, but every time? With {i} every {/i} dish?"
-    Fen ""
+    Fen "Д-Да, но каждый раз? С каждым блюдом?"
 
 # game/scripts/events.rpy:12698
 translate russian about_renegades_food_issue_eed9ae82:
 
     # Trei smile "Well, maybe if you guys ever made stuff better in-lined with our refined tastes, we'd have less reason to give yas complaints."
-    Trei smile ""
+    Trei smile "Что ж, может быть, если бы вы, ребята, когда-нибудь улучшили наши блюда в соответствии с нашими изысканными вкусами, у нас было бы меньше причин предъявлять тебе претензии."
 
 # game/scripts/events.rpy:12700
 translate russian about_renegades_food_issue_bdae2e3a:
 
     # Fen "Okayyy...Which would be...?"
-    Fen ""
+    Fen "Хорошооо...Что было бы...?"
 
 # game/scripts/events.rpy:12702
 translate russian about_renegades_food_issue_50a6c14a:
 
     # Khaleb normal "Oh-hoh? You're really open to takin' our requests on this?"
-    Khaleb normal ""
+    Khaleb normal "Ого-го? Ты действительно готов выслушать наши просьбы по этому поводу?"
 
 # game/scripts/events.rpy:12704
 translate russian about_renegades_food_issue_14b0cf2a:
 
     # Fen "Yup, uh-huh."
-    Fen ""
+    Fen "Ага, ах-хах."
 
 # game/scripts/events.rpy:12706
 translate russian about_renegades_food_issue_380a5dae:
 
     # "({i} Anything to keep them from calling me over so much, honestly... {/i})"
-    ""
+    "({i}Все, что угодно, только бы они не говорили мне так часто, честное слово...{/i})"
 
 # game/scripts/events.rpy:12709
 translate russian about_renegades_food_issue_b5042e0d:
 
     # Trei smile "Neat! I wanna see something that's real special and wows-all-around, ya know?"
-    Trei smile ""
+    Trei smile "Классно! Я хочу увидеть что-то по-настоящему особенное и потрясающее всех, понимаешь?"
 
 # game/scripts/events.rpy:12711
 translate russian about_renegades_food_issue_ad5581cb:
 
     # Trei normal "Stuff that got, eh...sliced truffles in it, the good stuff. Or what about some of those fish eggs ya hear about? The tiny black ones."
-    Trei normal ""
+    Trei normal "То, в чем есть, э... нарезанные трюфели, вкусное блюдо. Или как насчет тех рыбьих икринок, о которых вы слышали? Маленьких черных икринок."
 
 # game/scripts/events.rpy:12714
 translate russian about_renegades_food_issue_9bc86311:
 
     # Trei "Oh, oh! Or how about some real gold that you just take and shred all over the food 'til it sparkles?"
-    Trei ""
+    Trei "О, о! Или как насчет настоящего золота, которое можно просто взять и посыпать на блюдо, пока оно не заискрится?"
 
 # game/scripts/events.rpy:12716
 translate russian about_renegades_food_issue_6fc2f212:
 
     # Fen "({i}Are you kidding!? Those ingredients are gonna cost a fortune to find!{/i})" with vpunch
-    Fen "" with vpunch
+    Fen "({i}Ты что, шутишь?? Поиск этих ингредиентов обойдется в целое состояние!{/i})" with vpunch
 
 # game/scripts/events.rpy:12718
 translate russian about_renegades_food_issue_1bc347f7:
 
     # Arek smile3 "Well, I dunno about the rest of yous, but lately I've been itchin' ta try a live animal like I hear some folks will eat on a dare."
-    Arek smile3 ""
+    Arek smile3 "Ну, не знаю, как у вас, а у меня в последнее время руки чешутся попробовать живого зверя, которого, как я слышал, некоторые едят на спор."
 
 # game/scripts/events.rpy:12720
 translate russian about_renegades_food_issue_282f2571:
 
     # Arek "It's usually something like small tentacles, so I guess I'd be down."
-    Arek ""
+    Arek "Обычно это что-то вроде маленьких щупалец, так что, думаю, я был бы подавлен."
 
 # game/scripts/events.rpy:12722
 translate russian about_renegades_food_issue_4494928b:
 
     # Arek smile2 "Especially if you serve it to me with a little sauce on the side to help it go easier."
-    Arek smile2 ""
+    Arek smile2 "Особенно, если вы подадите его с небольшим количеством соуса, чтобы оно легче готовилось."
 
 # game/scripts/events.rpy:12724
 translate russian about_renegades_food_issue_702e41d3:
 
     # Fen shock "({i}No way am I putting something like that on the menu! Do you have any idea how dangerous that sounds!{/i})" with vpunch
-    Fen shock "" with vpunch
+    Fen shock "({i}Я ни за что не включу что-то подобное в меню! Ты хоть представляешь, как опасно это звучит!{/i})" with vpunch
 
 # game/scripts/events.rpy:12726
 translate russian about_renegades_food_issue_251a4a5b:
 
     # Khaleb smile "Damn. You boys got some good answers."
-    Khaleb smile ""
+    Khaleb smile "Черт. У вас, ребята, есть несколько хороших ответов."
 
 # game/scripts/events.rpy:12728
 translate russian about_renegades_food_issue_ed350877:
 
     # Khaleb normal "Looks like I'm gonna have to be the chump who gives a borin' one, but hey, at least it's honest."
-    Khaleb normal ""
+    Khaleb normal "Похоже, мне придется быть тем болваном, который задает скучные вопросы, но эй, по крайней мере, это честно."
 
 # game/scripts/events.rpy:12730
 translate russian about_renegades_food_issue_14becb7e:
 
     # Khaleb "Okay, kid, listen up good. After mullin' it over, I think what I'm famished about the most here is the lack of any real bite to the menu."
-    Khaleb ""
+    Khaleb "Ладно, малышь, послушай внимательно. После того как я обдумал это, думаю, что меня больше всего оголодал отсутствие настоящего кусачего в меню."
 
 # game/scripts/events.rpy:12732
 translate russian about_renegades_food_issue_faf576ab:
 
     # Fen "Bite?"
-    Fen ""
+    Fen "Кусвчего?"
 
 # game/scripts/events.rpy:12734
 translate russian about_renegades_food_issue_c3192fb0:
 
     # Khaleb grin "Yeah, bite. Punch, kick, whatever it is ya'd wanna have done to you..."
-    Khaleb grin ""
+    Khaleb grin "Да, кусайся. Бей, пинай, что бы ты ни хотел, чтобы с тобой сделали..."
 
 # game/scripts/events.rpy:12736
 translate russian about_renegades_food_issue_b38761db:
 
     # Khaleb "Point is, the food's gotta be the kinda stuff that'll make you recoil in your seat after taking the first bite."
-    Khaleb ""
+    Khaleb "Суть в том, что еда должна быть такой, от которой вы откинетесь на спинку стула после первого же кусочка."
 
 # game/scripts/events.rpy:12738
 translate russian about_renegades_food_issue_479abc47:
 
     # Khaleb "Gettin' past that makes it all worth the experience."
-    Khaleb ""
+    Khaleb "Преодоление этого прошлого стоит того, чтобы испытать все это."
 
 # game/scripts/events.rpy:12742
 translate russian about_renegades_food_issue_9a70a718:
 
     # Khaleb smile "And if you ask me, the best way to have that effect is by pickling or fermentin'. But I'm sure there's other ways, too."
-    Khaleb smile ""
+    Khaleb smile "И если хочешь знать мое мнение, лучший способ добиться этого эффекта - мариновать или ферментировать. Но я уверен, что есть и другие способы."
 
 # game/scripts/events.rpy:12744
 translate russian about_renegades_food_issue_8f0edb4c:
 
     # Fen "({i}Ingredients that are pickled or fermented to the point that they—{/i})"
-    Fen ""
+    Fen "({i}Ингредиенты, которые маринованы или ферментированы до такой степени, что они—{/i})"
 
 # game/scripts/events.rpy:12746
 translate russian about_renegades_food_issue_aad78769:
 
     # Fen sweat "({i}Yeah...I can't really imagine how you'd get anything from that besides food that's just straight up rotten.{/i})"
-    Fen sweat ""
+    Fen sweat "({i}Да... я действительно не могу себе представить, как можно получить что-то из этого, кроме еды, которая просто насквозь протухла.{/i})"
 
 # game/scripts/events.rpy:12748
 translate russian about_renegades_food_issue_288e7e9f:
 
     # Fen "Well, uh...You've all certainly given me a lot to think about, for sure."
-    Fen ""
+    Fen "Что ж, ээ... Вы все, безусловно, дали мне много для размышлений."
 
 # game/scripts/events.rpy:12750
 translate russian about_renegades_food_issue_e087df8c:
 
     # Fen "I'll definitely go have a talk with my boss about it later and see what we can do."
-    Fen ""
+    Fen "Я обязательно поговорю об этом со своим боссом позже и посмотрю, что мы можем сделать."
 
 # game/scripts/events.rpy:12753
 translate russian about_renegades_food_issue_e005ed2e:
 
     # Trei "Sweet! I'll be looking forward to guzzling down a whole bucket of saffron tea next time."
-    Trei ""
+    Trei "Славно! В следующий раз я с нетерпением буду ждать возможности выпить целое ведро чая с шафраном."
 
 # game/scripts/events.rpy:12755
 translate russian about_renegades_food_issue_942edb29:
 
     # Fen "({i}Crud...{/i})"
-    Fen ""
+    Fen "({i}Мразь...{/i})"
 
 # game/scripts/events.rpy:12766
 translate russian about_renegades_troublemaking_4c501e58:
 
     # "The three of them noticeably tense up and pass around a few uncertain looks."
-    ""
+    "Все трое заметно напряглись и обменялись несколькими неуверенными взглядами."
 
 # game/scripts/events.rpy:12768
 translate russian about_renegades_troublemaking_d212efc6:
 
     # Arek angry "You askin' us that cuz you wanna gloat or cuz ya heard the rumours?"
-    Arek angry ""
+    Arek angry "Ты спрашиваешь нас об этом, потому что хочешь позлорадствовать, или потому что до тебя дошли слухи?"
 
 # game/scripts/events.rpy:12770
 translate russian about_renegades_troublemaking_e7efd695:
 
     # Fen "What? No, I'm asking to be serious. What rumours?"
-    Fen ""
+    Fen "Что? Нет, я прошу быть серьезным. Какие слухи?"
 
 # game/scripts/events.rpy:12772
 translate russian about_renegades_troublemaking_a9f03870:
 
     # Khaleb stern "It's hard, kid. Growin' up with the types of backgrounds we all got in common's hard."
-    Khaleb stern ""
+    Khaleb stern "Это тяжело, малыш. Тяжело расти в окружении, которое у нас у все общее."
 
 # game/scripts/events.rpy:12774
 translate russian about_renegades_troublemaking_9575693b:
 
     # Khaleb normal "I mean, don't get me wrong, I wouldn't know what to trade in my lived experience for, if I could."
-    Khaleb normal ""
+    Khaleb normal "Я имею в виду, не пойми меня неправильно, я бы не знал, на что обменять свой жизненный опыт, даже если бы мог."
 
 # game/scripts/events.rpy:12776
 translate russian about_renegades_troublemaking_c8db65c8:
 
     # Khaleb "But it's hard. Cuz of what some people'll think of us the first time they get a good whiff."
-    Khaleb ""
+    Khaleb "Но это сложно. Из-за того, что некоторые подумают о нас, когда впервые услышат о нас."
 
 # game/scripts/events.rpy:12778
 translate russian about_renegades_troublemaking_53fd160e:
 
     # Fen "Oh..."
-    Fen ""
+    Fen "Ох..."
 
 # game/scripts/events.rpy:12780
 translate russian about_renegades_troublemaking_a6d903d1:
 
     # Fen "Well, I'm sorry if you three being who you are gets you looked down at by others."
-    Fen ""
+    Fen "Что ж, мне жаль, если из-за того, кто вы есть, на вас троих другие смотрят свысока."
 
 # game/scripts/events.rpy:12782
 translate russian about_renegades_troublemaking_8b4f723d:
 
     # Fen "That must be terrible, but there has to be some way you could get everybody to relate."
-    Fen ""
+    Fen "Это, должно быть, ужасно, но должен же быть какой-то способ заставить всех общаться."
 
 # game/scripts/events.rpy:12785
 translate russian about_renegades_troublemaking_ede528b0:
 
     # "He laughs at that, sharply and cruel."
-    ""
+    "Он смеется над этим, резко и жестоко."
 
 # game/scripts/events.rpy:12787
 translate russian about_renegades_troublemaking_95e0a477:
 
     # Khaleb grin "So you're tellin' me you think you can ever know what it's like being me? Or any of us?"
-    Khaleb grin ""
+    Khaleb grin "Так ты хочешь сказать, что, по-твоему, ты когда-нибудь сможешь узнать, каково это - быть мной? Или кем-то из нас?"
 
 # game/scripts/events.rpy:12789
 translate russian about_renegades_troublemaking_22cc883c:
 
     # Khaleb "Kid, we're terrors in this world, and do you know what the word 'terror' means?"
-    Khaleb ""
+    Khaleb "Малыш, мы все наводим ужас на этот мир, и знаешь ли ты, что означает слово 'террор'?"
 
 # game/scripts/events.rpy:12791
 translate russian about_renegades_troublemaking_451e8c73:
 
     # Khaleb "Cuz it ain't just what you think of feeling when you snuff out the lights before bed."
-    Khaleb ""
+    Khaleb "Потому что это не просто то, что ты думаешь о чувствах, когда гасишь свет перед сном."
 
 # game/scripts/events.rpy:12793
 translate russian about_renegades_troublemaking_093f8def:
 
     # Khaleb "It's the way that all things fall apart after takin' so long to get built; it's the things you and I don't know, but wanna ourselves otherwise."
-    Khaleb ""
+    Khaleb "Вот так все разваливается после того, как мы так долго выстраивались; это то, чего мы с тобой не знаем, но хотим, чтобы у нас было иначе."
 
 # game/scripts/events.rpy:12795
 translate russian about_renegades_troublemaking_8f9d882c:
 
     # Khaleb stern "You can see it in a guy who's got an idea in his head that's just too scary brillant to pass on for anything. And I mean {i} anything {/i}."
-    Khaleb stern ""
+    Khaleb stern "Это видно по парню, у которого в голове засела идея, которая просто пугающе гениальна, чтобы от нее отказаться. И я имею в виду что {i}угодно{/i}."
 
 # game/scripts/events.rpy:12797
 translate russian about_renegades_troublemaking_3c3f4678:
 
     # Khaleb stern "Or, ya can see it in a bad memory that doesn't wanna leave the earth: the pain and regrets of somebody or something that got lost way too soon."
-    Khaleb stern ""
+    Khaleb stern "Или ты можешь увидеть это в плохих воспоминаниях, которые не хотят покидать землю: боль и сожаления о ком-то или о чем-то, что было потеряно слишком рано."
 
 # game/scripts/events.rpy:12799
 translate russian about_renegades_troublemaking_b028c4fe:
 
     # Khaleb "Imagine now, that you've got a piece of somethin' like that baked into ya when you're still young, like a cake made a' shit."
-    Khaleb ""
+    Khaleb "А теперь представь, что в тебя вложили частичку чего-то подобного, когда ты был еще молод, как в говенный пирог."
 
 # game/scripts/events.rpy:12801
 translate russian about_renegades_troublemaking_8b7e6ee9:
 
     # Khaleb "Every day of your life's bound to be a struggle, pushing back against the one question that always comes poppin' inta your head: 'What if? What if...?'"
-    Khaleb ""
+    Khaleb "Каждый день твоей жизни - это борьба с одним вопросом, который постоянно возникает в твоей голове: 'Что если? Что если...?'"
 
 # game/scripts/events.rpy:12803
 translate russian about_renegades_troublemaking_ae9dc7ac:
 
     # Khaleb "That much mayhem and doubt find its way inta your blood, if not your very soul."
-    Khaleb ""
+    Khaleb "Столько хаоса и сомнений проникает в твою кровь, если не в саму твою душу."
 
 # game/scripts/events.rpy:12805
 translate russian about_renegades_troublemaking_51f49bf3:
 
     # Khaleb "But society, bein' what it is, still expects ya to try and act all 'normal' for it. Best you can, at least, up 'til it decides it's tired."
-    Khaleb ""
+    Khaleb "Но общество, каким бы оно ни было, все равно ожидает, что ты будешь стараться вести себя 'нормально'. По крайней мере, до тех пор, пока оно не решит, что устало."
 
 # game/scripts/events.rpy:12807
 translate russian about_renegades_troublemaking_d2fa49cd:
 
     # Khaleb normal "So, that's just what me an' the boys here do. And I like to think we've been doin' pretty alright with it so far."
-    Khaleb normal ""
+    Khaleb normal "Так что это именно то, чем мы с ребятами занимаемся. И мне нравится думать, что до сих пор у нас все было в порядке."
 
 # game/scripts/events.rpy:12809
 translate russian about_renegades_troublemaking_2e7d83c9:
 
     # Khaleb "Still sound like the kinda thing you'd wanna host a meet-and-greet about, though?"
-    Khaleb ""
+    Khaleb "Тем не менее, это все еще звучит как то, по поводу чего ты хотел бы устроить встречу?"
 
 # game/scripts/events.rpy:12811
 translate russian about_renegades_troublemaking_fb9d3487:
 
     # Fen "Oh, wow...I-I had no idea."
-    Fen ""
+    Fen "О, ничего себе...Я-я понятия не имел."
 
 # game/scripts/events.rpy:12813
 translate russian about_renegades_troublemaking_5c77357d:
 
     # Fen "Do you really have to live with so much bitterness over it, though?"
-    Fen ""
+    Fen "Но неужели вам действительно приходится жить с такой горечью из-за этого?"
 
 # game/scripts/events.rpy:12815
 translate russian about_renegades_troublemaking_38d9a57c:
 
     # Arek "..."
-    Arek ""
+    Arek "..."
 
 # game/scripts/events.rpy:12817
 translate russian about_renegades_troublemaking_44bec001:
 
     # Trei "..."
-    Trei ""
+    Trei "..."
 
 # game/scripts/events.rpy:12819
 translate russian about_renegades_troublemaking_e1365fab:
 
     # Trei angry "You don't know what I'd think to do to ya right now, if it wasn't for this room fulla people here to judge me."
-    Trei angry ""
+    Trei angry "Ты не представляешь, что бы я подумал сделать с тобой прямо сейчас, если бы не эта комната, полная людей, которые осуждают меня."
 
 # game/scripts/events.rpy:12821
 translate russian about_renegades_troublemaking_0c272f68:
 
     # Trei "Count your fuckin' blessings for it, pretty boy..."
-    Trei ""
+    Trei "Считай, что тебе за это чертовски повезло, красавчик..."
 
 # game/scripts/events.rpy:12826
 translate russian about_renegades_troublemaking_40eb8051:
 
     # "Khaleb elbows Trei in the stomach, which is enough to get him to stop leering at you."
-    ""
+    "Халеб толкает Трея локтем в живот, и этого достаточно, чтобы он перестал пялиться на тебя."
 
 # game/scripts/events.rpy:12831
 translate russian about_renegades_troublemaking_ab79b0bc:
 
     # Khaleb "But, yeah. Anyways, we've all gotta learn to cope with our pasts in our own ways. Some being more convincin' at it than others."
-    Khaleb ""
+    Khaleb "Но, да. В любом случае, мы все должны научиться справляться со своим прошлым по-своему. Некоторые из нас более убедительны в этом, чем другие."
 
 # game/scripts/events.rpy:12833
 translate russian about_renegades_troublemaking_cf899449:
 
     # Khaleb grin "Take that big boss man a' yours. I can tell he's been scarred by something real nasty before, plain as day."
-    Khaleb grin ""
+    Khaleb grin "Возьми этого большого босса к себе. Я могу сказать, что он и раньше сталкивался с чем-то по-настоящему неприятным, это ясно как божий день."
 
 # game/scripts/events.rpy:12835
 translate russian about_renegades_troublemaking_5dafcce3:
 
     # Fen "Wait...What!? Gunther!?"
-    Fen ""
+    Fen "Подожди... Что?? Гюнтер!?"
 
 # game/scripts/events.rpy:12837
 translate russian about_renegades_troublemaking_a93fb747:
 
     # Fen "No way! He's the one of the kindest, most humble and supportive people."
-    Fen ""
+    Fen "Ни за что! Он один из самых добрых, скромных и отзывчивых людей."
 
 # game/scripts/events.rpy:12839
 translate russian about_renegades_troublemaking_5ce77cc7:
 
     # Fen "There's no way he'd have something so dark in common with you. You've gotta be wrong."
-    Fen ""
+    Fen "Не может быть, чтобы у него было что-то общее с вами настолько мрачное. Ты, должно быть, ошибаешься."
 
 # game/scripts/events.rpy:12841
 translate russian about_renegades_troublemaking_c953ce3a:
 
     # Khaleb smile "Hey, believe whatever it is you want, kid. It's your right."
-    Khaleb smile ""
+    Khaleb smile "Эй, парень, верь во что хочешь. Это твое право."
 
 # game/scripts/events.rpy:12843
 translate russian about_renegades_troublemaking_936006e0:
 
     # Khaleb normal "But just remember, despair ain't something you can just learn to get rid of or ignore once you got it."
-    Khaleb normal ""
+    Khaleb normal "Но просто помни, отчаяние - это не то, от чего можно просто научиться избавляться или игнорировать, как только оно у тебя появилось."
 
 # game/scripts/events.rpy:12845
 translate russian about_renegades_troublemaking_78bead2e:
 
     # Khaleb "It stays with you, rattlin' about, as it grows and grows..."
-    Khaleb ""
+    Khaleb "Оно остается с тобой, гремит повсюду, пока растет и крепнет..."
 
 # game/scripts/events.rpy:12847
 translate russian about_renegades_troublemaking_0b3f8dcc:
 
     # Khaleb "Until the day comes when you just can't stop it all from coming out in some big, beautifully ugly sorta way..."
-    Khaleb ""
+    Khaleb "Пока не настанет день, когда ты просто не сможешь помешать всему этому проявиться каким-нибудь грандиозным, красиво-уродливым образом..."
 
 # game/scripts/events.rpy:12849
 translate russian about_renegades_troublemaking_b33adb6d:
 
     # Fen "..."
-    Fen ""
+    Fen "..."
 
 # game/scripts/events.rpy:12851
 translate russian about_renegades_troublemaking_38d9a57c_1:
 
     # Arek "..."
-    Arek ""
+    Arek "..."
 
 # game/scripts/events.rpy:12853
 translate russian about_renegades_troublemaking_44bec001_1:
 
     # Trei "..."
-    Trei ""
+    Trei "..."
 
 # game/scripts/events.rpy:12855
 translate russian about_renegades_troublemaking_6039d5b8:
 
     # Khaleb smile "I take it we're all done talkin' about this, then."
-    Khaleb smile ""
+    Khaleb smile "Тогда, я так понимаю, мы все закончили говорить об этом."
 
 # game/scripts/events.rpy:14546
 translate russian bathhouse_private_menu_6385039e:
 
     # Marcus grin "Here for a massage, aren't you? I've been looking forward to serving you."
-    Marcus grin ""
+    Marcus grin "Ты пришел на массаж, не так ли? Я с нетерпением ждал возможности обслужить тебя."
 
 # game/scripts/events.rpy:14548
 translate russian bathhouse_private_menu_634a4dff:
 
     # Marcus normal "So, would you like to blend some oil to your preference?"
-    Marcus normal ""
+    Marcus normal "Итак, не хочешь ли ты смешать немного масла по своему вкусу?"
 
 # game/scripts/events.rpy:14557
 translate russian bathhouse_private_menu_e43f864c:
 
     # Marcus smile "Can't wait any longer, huh? Well then, follow me."
-    Marcus smile ""
+    Marcus smile "Не можешь больше ждать, да? Что ж, тогда следуй за мной."
 
 # game/scripts/events.rpy:14562
 translate russian bathhouse_private_menu_7e255130:
 
     # "You follow Marcus to his private room."
-    ""
+    "Ты следуешь за Маркусом в его личную комнату."
 
 # game/scripts/events.rpy:14565
 translate russian bathhouse_private_menu_1cb071ff:
 
     # "In addition to the pool and massage table, the room is decorated with various large leaves and potted flowers."
-    ""
+    "В дополнение к бассейну и массажному столу, комната украшена различными крупными листьями и цветами в горшках."
 
 # game/scripts/events.rpy:14605
 translate russian bathhouse_private_massage_bb171d25:
 
     # Marcus grin "You know the rules."
-    Marcus grin ""
+    Marcus grin "Ты знаешь правила."
 
 # game/scripts/events.rpy:14609
 translate russian bathhouse_private_massage_b0078d3f:
 
     # Fen "Of course."
-    Fen ""
+    Fen "Конечно."
 
 # game/scripts/events.rpy:14613
 translate russian bathhouse_private_massage_d393d425:
 
     # "You strip naked."
-    ""
+    "Ты раздеваешься догола."
 
 # game/scripts/events.rpy:14615
 translate russian bathhouse_private_massage_d4f6a23e:
 
     # Marcus normal "Come here and lay down."
-    Marcus normal ""
+    Marcus normal "Иди сюда и ложись."
 
 # game/scripts/events.rpy:14618
 translate russian bathhouse_private_massage_06654f1e:
 
     # Fen "Hey, don't the rules apply to you as well?"
-    Fen ""
+    Fen "Эй, а разве эти правила не распространяются и на тебя?"
 
 # game/scripts/events.rpy:14620
 translate russian bathhouse_private_massage_0a2544d4:
 
     # Marcus grin "Heh, well let me just slip into something more comfortable."
-    Marcus grin ""
+    Marcus grin "Хех, ну что ж, позволь мне просто переодеться во что-нибудь более удобное."
 
 # game/scripts/events.rpy:14629
 translate russian bathhouse_private_massage_6a21d856:
 
     # "He slides his thumb beneath the sling of his toga."
-    ""
+    "Он просовывает большой палец под перевязь своей тоги."
 
 # game/scripts/events.rpy:14633
 translate russian bathhouse_private_massage_34665b53:
 
     # "He gently tugs it off his bulging shoulder and lets it slide off his muscular bicep."
-    ""
+    "Он осторожно стягивает ее со своего выпуклого плеча и позволяет ей соскользнуть с мускулистого бицепса."
 
 # game/scripts/events.rpy:14637
 translate russian bathhouse_private_massage_e2307b87:
 
     # "He spins around and shakes his rump to kick off the white cloth."
-    ""
+    "Он разворачивается и трясет задом, чтобы сбросить белую ткань."
 
 # game/scripts/events.rpy:14639
 translate russian bathhouse_private_massage_4758aec2:
 
     # "His ample ass cheeks jiggle as he swings his hips left and right like a pendulum."
-    ""
+    "Его пышные ягодицы покачиваются, когда он раскачивает бедрами влево-вправо, как маятник."
 
 # game/scripts/events.rpy:14641
 translate russian bathhouse_private_massage_822894f2:
 
     # "Teasing your eyes with a few more shakes of his hips, Marcus slides his underwear off."
-    ""
+    "Дразня твой взгляд еще несколькими движениями бедер, Маркус снимает с себя нижнее белье."
 
 # game/scripts/events.rpy:14645
 translate russian bathhouse_private_massage_f05eecfb:
 
     # "The proprietor reveals his smooth purple hide in its entirety."
-    ""
+    "Владелец полностью обнажает свою гладкую фиолетовую шкуру."
 
 # game/scripts/events.rpy:14647
 translate russian bathhouse_private_massage_3ab118e1:
 
     # "He continues to sway side to side, letting his impressive meat slap the sides of his thighs each time."
-    ""
+    "Он продолжает раскачиваться из стороны в сторону, позволяя своей внушительной плоти каждый раз хлопать по бедрам."
 
 # game/scripts/events.rpy:14649
 translate russian bathhouse_private_massage_6dec1e58:
 
     # "Your eyes follow his cock as it smacks left and right with each sway of his hips."
-    ""
+    "Твои глаза следят за его членом, который двигается влево и вправо при каждом покачивании его бедер."
 
 # game/scripts/events.rpy:14656
 translate russian bathhouse_private_massage_dab5c8b1:
 
     # "The hypnotic display is broken when he pats the table and licks his lips."
-    ""
+    "Гипнотическое зрелище рассеивается, когда он похлопывает по столу и облизывает губы."
 
 # game/scripts/events.rpy:14662
 translate russian bathhouse_private_massage_3bdda96b:
 
     # Marcus "Better?"
-    Marcus ""
+    Marcus "Лучше?"
 
 # game/scripts/events.rpy:14665
 translate russian bathhouse_private_massage_b54595d7:
 
     # Fen naked hot2 "Yeah!"
-    Fen naked hot2 ""
+    Fen naked hot2 "Да!"
 
 # game/scripts/events.rpy:14673
 translate russian bathhouse_private_massage_dd863a07:
 
     # "You hop onto the table and lay on your belly. There's a groove for your head to fit comfortably in."
-    ""
+    "Ты запрыгиваешь на стол и ложитесь на живот. Там есть углубление, в которое удобно помещается твоя голова."
 
 # game/scripts/events.rpy:14675
 translate russian bathhouse_private_massage_efd30cd3:
 
     # "You feel the larger man's hands start to roam along your back."
-    ""
+    "Ты чувствуешь, как руки более крупного мужчины начинают блуждать по твоей спине."
 
 # game/scripts/events.rpy:14677
 translate russian bathhouse_private_massage_d7d6d8e0:
 
     # "Your tail wags as his fingers squeeze and knead your muscles gently while stroking your fur."
-    ""
+    "Твой хвост виляет, когда его пальцы нежно сжимают и разминают твои мышцы, одновременно поглаживая твою шерсть."
 
 # game/scripts/events.rpy:14681
 translate russian bathhouse_private_massage_694eb07e:
 
     # "You feel Marcus apply the oil mixture on you, starting with your back and then moving to your limbs."
-    ""
+    "Ты чувствуешь, как Маркус наносит на тебя масляную смесь, начиная со спины и затем переходя к конечностям."
 
 # game/scripts/events.rpy:14683
 translate russian bathhouse_private_massage_fb28ffde:
 
     # "The warm oil provides a gentle sensation on your fur and skin, and the scent grows stronger as it evaporates into the air."
-    ""
+    "Теплое масло мягко воздействует на твой мех и кожу, а аромат становится сильнее по мере того, как оно испаряется в воздухе."
 
 # game/scripts/events.rpy:14687
 translate russian bathhouse_private_massage_0d471444:
 
     # Marcus "Oh this has a pleasant tingle. It kind of reminds me of Gunther."
-    Marcus ""
+    Marcus "О, это приятное покалывание. Это напоминает мне о Гюнтере."
 
 # game/scripts/events.rpy:14691
 translate russian bathhouse_private_massage_2dbea96c:
 
     # Marcus "Oh this is cool to the touch with a little bit of sweetness. I love the colours on this."
-    Marcus ""
+    Marcus "О, он приятный на ощупь и немного сладковатый. Мне нравятся его цвета."
 
 # game/scripts/events.rpy:14695
 translate russian bathhouse_private_massage_e2f5236b:
 
     # Marcus "This has a lovely smell and color, I can see this being popular with couples."
-    Marcus ""
+    Marcus "У него приятный запах и цвет, я вижу, что он пользуется популярностью у семейных пар."
 
 # game/scripts/events.rpy:14697
 translate russian bathhouse_private_massage_e5714267:
 
     # Marcus "This would also go great in a soap."
-    Marcus ""
+    Marcus "Это также отлично подошло бы для мыла."
 
 # game/scripts/events.rpy:14701
 translate russian bathhouse_private_massage_fa405254:
 
     # Marcus "Wow, just look at how this sparkles in the light. I think it will be a hit at the Narcissus pool."
-    Marcus ""
+    Marcus "Ого, только посмотри, как это сверкает на свету. Я думаю, это будет хитом в бассейне нарцисса."
 
 # game/scripts/events.rpy:14705
 translate russian bathhouse_private_massage_9038964f:
 
     # Marcus "This is a really soothing mix. It reminds me of a green field of flowers."
-    Marcus ""
+    Marcus "Это действительно успокаивающее сочетание. Оно напоминает мне зеленое поле с цветами."
 
 # game/scripts/events.rpy:14707
 translate russian bathhouse_private_massage_b1df7db5:
 
     # Marcus "It's a very sweet and calming aroma, much like you."
-    Marcus ""
+    Marcus "Это очень сладкий и успокаивающий аромат, очень похожий на твой."
 
 # game/scripts/events.rpy:14712
 translate russian bathhouse_private_massage_9202b1ff:
 
     # "Aside from the pleasant aroma, the oil does not appear to have any other effects."
-    ""
+    "Помимо приятного аромата, масло, по-видимому, не оказывает никакого другого воздействия."
 
 # game/scripts/events.rpy:14720
 translate russian bathhouse_private_massage_2f993b69:
 
     # Marcus "Heh, someone's feeling good."
-    Marcus ""
+    Marcus "Хех, кое-кто чувствует себя хорошо."
 
 # game/scripts/events.rpy:14722
 translate russian bathhouse_private_massage_1ed73999:
 
     # Fen "Y-yeah."
-    Fen ""
+    Fen "Д-да."
 
 # game/scripts/events.rpy:14724
 translate russian bathhouse_private_massage_dd00113e:
 
     # "You let Marcus dig his strong hands into your back."
-    ""
+    "Ты позволяешь Маркусу обхватить себя за спину своими сильными руками."
 
 # game/scripts/events.rpy:14726
 translate russian bathhouse_private_massage_c8bb6781:
 
     # "All the tension from working melts away from the pressure of a man four times your size digging along your shoulder blades and down your spine."
-    ""
+    "Все напряжение от работы тает под давлением мужчины в четыре раза больше тебя, который проводит пальцами по твоим лопаткам и вдоль позвоночника."
 
 # game/scripts/events.rpy:14728
 translate russian bathhouse_private_massage_11af488d:
 
     # "He pushes up and down along your lower back, melting away the knots in your muscles."
-    ""
+    "Он двигает вверх и вниз вдоль вашей поясницы, разглаживая узлы в мышцах."
 
 # game/scripts/events.rpy:14730
 translate russian bathhouse_private_massage_f6d86c93:
 
     # "You feel his massive paws smack upon your fuzzy rump."
-    ""
+    "Ты чувствуешь, как его массивные лапы шлепают по твоему пушистому заду."
 
 # game/scripts/events.rpy:14733
 translate russian bathhouse_private_massage_7c390867:
 
     # Fen "Ah-aahhh~"
-    Fen ""
+    Fen "Ах-аааах~"
 
 # game/scripts/events.rpy:14735
 translate russian bathhouse_private_massage_aba6e841:
 
     # "Marcus kneads each globe of your asscheek, kneading and squeezing along your glutes and thighs."
-    ""
+    "Маркус разминает каждую клеточку твоей попки, разминая и сжимая ягодицы и бедра."
 
 # game/scripts/events.rpy:14737
 translate russian bathhouse_private_massage_f91c9f36:
 
     # "He then flips you over onto your back with ease."
-    ""
+    "Затем он с легкостью переворачивает тебя на спину."
 
 # game/scripts/events.rpy:14739
 translate russian bathhouse_private_massage_74106a25:
 
     # Fen "Eep."
-    Fen ""
+    Fen "Ип."
 
 # game/scripts/events.rpy:14741
 translate russian bathhouse_private_massage_afa49b91:
 
     # "Marcus digs his fingers into the sides of your neck."
-    ""
+    "Маркус впивается пальцами в твою шею по бокам."
 
 # game/scripts/events.rpy:14743
 translate russian bathhouse_private_massage_4c7b7bb9:
 
     # "The firm pressure almost hurts but as he moves shoulders and upper arm"
-    ""
+    "Сильное давление почти причиняет боль, но когда он двигает плечами и предплечьем."
 
 # game/scripts/events.rpy:14745
 translate russian bathhouse_private_massage_8cabfebf:
 
     # "His massive hands squeeze your arms until they feel like putty."
-    ""
+    "Его массивные ладони сжимают твои руки до тех пор, пока они не становятся похожими на замазку."
 
 # game/scripts/events.rpy:14747
 translate russian bathhouse_private_massage_bf9d631e:
 
     # "The masseur slides his hands upon your chest, give your pecs a good grope."
-    ""
+    "Массажист скользит руками по твоей груди, хорошенько ощупывая грудные мышцы."
 
 # game/scripts/events.rpy:14749
 translate russian bathhouse_private_massage_3820d004:
 
     # Fen "Mrr~"
-    Fen ""
+    Fen "Мрр~"
 
 # game/scripts/events.rpy:14751
 translate russian bathhouse_private_massage_6a39f1cf:
 
     # Marcus "Heh."
-    Marcus ""
+    Marcus "Хех."
 
 # game/scripts/events.rpy:14753
 translate russian bathhouse_private_massage_60e75f5b:
 
     # "He continues to work down to your thighs and legs."
-    ""
+    "Он продолжает спускаться к твоим бедрам и голеням."
 
 # game/scripts/events.rpy:14755
 translate russian bathhouse_private_massage_6d4ba0f6:
 
     # "You feel his fingers trace along your cock, but he appears to keep everything professional."
-    ""
+    "Ты чувствуешь, как его пальцы скользят по твоему члену, но, похоже, он делает все профессионально."
 
 # game/scripts/events.rpy:14761
 translate russian bathhouse_private_massage_20577435:
 
     # "Time melts away with your stress as Marcus works his magic on your sore bones."
-    ""
+    "Время тает вместе с твоим стрессом, пока Маркус творит свое волшебство с твоими больными костями."
 
 # game/scripts/events.rpy:14764
 translate russian bathhouse_private_massage_84b9680d:
 
     # "As you feel like about to pass out by the end of it until a light smack on your cheek brings you back to the waking world."
-    ""
+    "К концу этому тебе кажется, что ты вот-вот потеряешь сознание, пока легкий шлепок по щеке не вернет тебя в реальный мир."
 
 # game/scripts/events.rpy:14769
 translate russian bathhouse_private_massage_973fc259:
 
     # Marcus "Alright, I can't be gone too long. I hope you enjoyed your massage."
-    Marcus ""
+    Marcus "Хорошо, я не могу отсутствовать слишком долго. Надеюсь, тебе понравился массаж."
 
 # game/scripts/events.rpy:14773
 translate russian bathhouse_private_massage_85ee38d7:
 
     # Fen "Hnggg..."
-    Fen ""
+    Fen "Хнггг..."
 
 # game/scripts/events.rpy:14777
 translate russian bathhouse_private_massage_44378543:
 
     # Marcus naked smile "I'll take that as a yes."
-    Marcus naked smile ""
+    Marcus naked smile "Я расцениваю это как да."
 
 # game/scripts/events.rpy:14785
 translate russian bathhouse_private_massage_62bf4b91:
 
     # "After spending more time in the warm pool, You stumble out from the bathhouse feeling radiant and stress free."
-    ""
+    "Проведя больше времени в теплом бассейне, ты выходишь из бани, чувствуя себя сияющим и избавленным от стресса."
 
 # game/scripts/events.rpy:14790
 translate russian bathhouse_private_massage_a426ce44:
 
     # "Your charm increases as a result of the massage!"
-    ""
+    "Твое очарование усилится в результате массажа!"
 
 # game/scripts/events.rpy:14793
 translate russian bathhouse_private_massage_a1bb67d3:
 
     # "It seems like you can't gain any more charm from massage."
-    ""
+    "Кажется, что большего очарования от массажа не добьешься."
 
 translate russian strings:
 
     # game/scripts/events.rpy:3943
     old "Check to see how Niall's doing"
-    new ""
+    new "Узнать, как дела у Найла"
 
     # game/scripts/events.rpy:4019
     old "It was just something to cheer up a friend."
-    new ""
+    new "Это было просто для того, чтобы подбодрить друга."
 
     # game/scripts/events.rpy:4019
     old "I think you might really be my type!"
-    new ""
+    new "Я думаю, ты действительно в моем вкусе!"
 
     # game/scripts/events.rpy:4019
     old "Well, I'm not sure myself, honestly..."
-    new ""
+    new "Ну, честно говоря, я и сам не уверен..."
 
     # game/scripts/events.rpy:5027
     old "How does he know that he can trust you?"
-    new ""
+    new "Откуда он знает, что может тебе доверять?"
 
     # game/scripts/events.rpy:5027
     old "Give him an encouraging pat on the head"
-    new ""
+    new "Ободряюще погладить его по голове"
 
     # game/scripts/events.rpy:5027
     old "Bring him in for a tender hug"
-    new ""
+    new "Притяни его к себе, чтобы нежно обнять"
 
     # game/scripts/events.rpy:7184
     old "The bull gives you a wide smile and holds out a hand. Do you..."
-    new ""
+    new "Бык широко улыбается тебе и протягивает руку. Ты..."
 
     # game/scripts/events.rpy:7184
     old "Ignore his nudity completely, it's the polite thing to do right?"
-    new ""
+    new "Полностью игнорируй его наготу, это ведь вежливый поступок, не так ли?"
 
     # game/scripts/events.rpy:7184
     old "Discreetly check Mjolnik out, I mean it doesn't hurt to check him out?"
-    new ""
+    new "Незаметно проверить Мьельника, я имею в виду, что проверить его не помешает?"
 
     # game/scripts/events.rpy:7184
     old "Look at this hunk o beef!"
-    new ""
+    new "Посмотри на этот кусок говядины!"
 
     # game/scripts/events.rpy:8034
     old "Decline."
-    new ""
+    new "Уменьшение."
 
     # game/scripts/events.rpy:8034
     old "Accept."
-    new ""
+    new "Взять."
 
     # game/scripts/events.rpy:8534
     old "Maybe another time..."
-    new ""
+    new "Может быть, в другой раз..."
 
     # game/scripts/events.rpy:8534
     old "Tell me more."
-    new ""
+    new "Расскажи мне больше."
 
     # game/scripts/events.rpy:8773
     old "Let him be."
-    new ""
+    new "Оставить его в покое."
 
     # game/scripts/events.rpy:8773
     old "Indulge him."
-    new ""
+    new "Побаловать его."
 
     # game/scripts/events.rpy:10537
     old "Could you use any help today?"
-    new ""
+    new "Тебе не нужна помощь?"
 
     # game/scripts/events.rpy:11113
     old "Each oil has its own unique aroma, what combinations will you try mixing together?"
-    new ""
+    new "Каждое масло обладает своим неповторимым ароматом, какие сочетания ты попробуешь смешать вместе?"
 
     # game/scripts/events.rpy:11113
     old "Check out red oil."
-    new ""
+    new "Посмотреть на красное масло."
 
     # game/scripts/events.rpy:11113
     old "Check out yellow oil."
-    new ""
+    new "Посмотреть на желтое масло."
 
     # game/scripts/events.rpy:11113
     old "Check out blue oil."
-    new ""
+    new "Посмотреть на голубое масло."
 
     # game/scripts/events.rpy:11113
     old "Check out white oil."
-    new ""
+    new "Посмотреть на белое масло."
 
     # game/scripts/events.rpy:11141
     old "Use this oil?"
-    new ""
+    new "Использовать это масло?"
 
     # game/scripts/events.rpy:11141
     old "Use this one."
-    new ""
+    new "Использовать вот это."
 
     # game/scripts/events.rpy:11141
     old "Pick another."
-    new ""
+    new "Выберать другого."
 
     # game/scripts/events.rpy:12622
     old "Why are the three of you always together?"
-    new ""
+    new "Почему вы трое всегда вместе?"
 
     # game/scripts/events.rpy:12622
     old "Why do you always seem to have issues with the food?"
-    new ""
+    new "Почему у тебя всегда возникают проблемы с едой?"
 
     # game/scripts/events.rpy:12622
     old "What's it like always causing so much trouble?"
-    new ""
+    new "Каково это - вечно доставлять столько хлопот?"
 
     # game/scripts/events.rpy:14550
     old "Yes, I'd like that."
-    new ""
+    new "Да, мне бы этого хотелось."
 
     # game/scripts/events.rpy:14550
     old "No, let's get started."
-    new ""
+    new "Нет, давайте начнем."
 

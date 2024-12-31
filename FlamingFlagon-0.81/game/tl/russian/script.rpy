@@ -232,7 +232,7 @@ translate russian start_3d5ef5c6:
 translate russian start_75c8ae42:
 
     # "Tiger" "Yer at the one and only, Flaming Flagon. The finest tavern in the town of Felda."
-    "Тигр" "Ты в единственном в своем роде, Flaming Flagon. В лучшей таверне деревни Фельда."
+    "Тигр" "Ты в единственном в своем роде, Пылающий Кувшин. В лучшей таверне деревни Фельда."
 
 # game/script.rpy:1200
 translate russian start_72c7f7da:
@@ -856,7 +856,7 @@ translate russian start_0c2df83e:
 translate russian start_c08a9562:
 
     # Gunther normal "The patrons don't really come to the Flaming Flagon for my food, but it keeps them satisfied."
-    Gunther normal "Посетители обычно не приходят в Flaming Flagon за моей едой, но всё равно ею довольны."
+    Gunther normal "Посетители обычно не приходят в Пылающего Кувшина за моей едой, но всё равно ею довольны."
 
 # game/script.rpy:1498
 translate russian start_ae55e50d:
@@ -2548,7 +2548,7 @@ translate russian about_bars_603a71b4:
 translate russian about_bars_822009cd:
 
     # Gunther smile2 "But rest assured, the Flaming Flagon has the best drinks at the best prices in all the town!"
-    Gunther smile2 "Но будь уверен, в Flaming Flagon есть лучшие напитки по самым выгодным ценам во всей деревни!"
+    Gunther smile2 "Но будь уверен, в Пылающем Кувшине есть лучшие напитки по самым выгодным ценам во всей деревни!"
 
 # game/script.rpy:2322
 translate russian about_bars_7e92d3a1:
@@ -2578,7 +2578,7 @@ translate russian about_bars_932b45b9:
 translate russian about_bars_87422b2d:
 
     # Fen smile2 "I mean, Flaming Flagon isn't exactly on fire either."
-    Fen smile2 "Я имею в виду, что Flaming Flagon тоже не совсем горит."
+    Fen smile2 "Я имею в виду, что Пылающий Кувшин тоже не совсем горит."
 
 # game/script.rpy:2332
 translate russian about_bars_cd90ce4d:
@@ -3130,7 +3130,7 @@ translate russian complete_clothes_purchase_7c0db078:
 translate russian complete_clothes_purchase_a2898158:
 
     # "You return to The Flaming Flagon."
-    "Ты возвращаешься в Flaming Flagon."
+    "Ты возвращаешься в Пылающий Кувшин."
 
 # game/script.rpy:2647
 translate russian complete_clothes_purchase_cf144377:
@@ -3232,39 +3232,39 @@ translate russian strings:
 
     # game/script.rpy:18
     old "Gunther"
-    new "Gunther"
+    new "Гюнтер"
 
     # game/script.rpy:22
     old "Terrance"
-    new "Terrance"
+    new "Терренс"
 
     # game/script.rpy:24
     old "Murry"
-    new "Murry"
+    new "Мурри"
 
     # game/script.rpy:26
     old "Odachi"
-    new "Odachi"
+    new "Одачи"
 
     # game/script.rpy:28
     old "Niall"
-    new "Niall"
+    new "Найл"
 
     # game/script.rpy:40
     old "Patron A"
-    new "Patron A"
+    new "Посетитель A"
 
     # game/script.rpy:42
     old "Patron B"
-    new "Patron B"
+    new "Посетитель B"
 
     # game/script.rpy:44
     old "Patron C"
-    new "Patron C"
+    new "Посетитель C"
 
     # game/script.rpy:46
     old "Patron D"
-    new "Patron D"
+    new "Посетитель D"
 
     # game/script.rpy:1206
     old "Umm, I..I think my name is... ?"
@@ -3316,7 +3316,7 @@ translate russian strings:
 
     # game/script.rpy:30
     old "Marcus"
-    new "Marcus"
+    new "Маркус"
 
 # TODO: Translation updated at 2024-08-08 17:30
 
@@ -3324,15 +3324,15 @@ translate russian strings:
 
     # game/script.rpy:32
     old "Khaleb"
-    new "Khaleb"
+    new "Халеб"
 
     # game/script.rpy:34
     old "Trei"
-    new "Trei"
+    new "Трей"
 
     # game/script.rpy:36
     old "Arek"
-    new "Arek"
+    new "Арек"
 
 # TODO: Translation updated at 2024-09-08 17:27
 
@@ -3340,7 +3340,7 @@ translate russian strings:
 
     # game/script.rpy:38
     old "Guard"
-    new "Guard"
+    new "Охраник"
 
 # TODO: Translation updated at 2024-11-26 13:14
 
@@ -3348,5 +3348,5 @@ translate russian strings:
 
     # game/script.rpy:38
     old "Mjolnik"
-    new "Mjolnik"
+    new "Мьельник"
 
