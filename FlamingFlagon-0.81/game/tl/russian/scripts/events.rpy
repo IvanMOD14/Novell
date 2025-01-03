@@ -15632,7 +15632,7 @@ translate russian khaleb_serve_01_b11ecb5e:
 translate russian khaleb_serve_01_aa28844b:
 
     # "At least they pay for what they don't send back, otherwise, you're getting Gunther involved."
-    "По крайней мере, они платят за то, что не отправляют обратно, иначе ты вовлек в это дело Gunther."
+    "По крайней мере, они платят за то, что не отправляют обратно, иначе ты вовлек в это дело Гюнтера."
 
 # game/scripts/events.rpy:6900
 translate russian khaleb_talk_01_2b2d2856:
@@ -15790,13 +15790,13 @@ translate russian fen_tailservice_fussyguard_263243ac:
 translate russian fen_tailservice_fussyguard_19589819:
 
     # "With each article, you try to make it look like you're almost peeling it off your body with how slow your hands are moving."
-    "С каждым пунктом ты стараешься создать впечатление, что ты почти снимаешь его со своего тела, так медленно двигаете руками."
+    "С каждым пунктом ты стараешься создать впечатление, что ты почти снимаешь его со своего тела, так медленно двигаешь руками."
 
 # game/scripts/events.rpy:513
 translate russian fen_tailservice_fussyguard_6263d5ae:
 
     # "You smile a bit sheepishly and try to keep eye contact with the guard as much as possible while doing it."
-    "Ты улыбаешься немного смущенно и пытаешься поддерживать зрительный контакт с охранником как можно больше, пока это делается."
+    "Ты улыбаешься немного смущенно и стараетесь как можно дольше поддерживать зрительный контакт с охранником."
 
 # game/scripts/events.rpy:515
 translate russian fen_tailservice_fussyguard_08efa283:
@@ -15808,7 +15808,7 @@ translate russian fen_tailservice_fussyguard_08efa283:
 translate russian fen_tailservice_fussyguard_f97a5b31:
 
     # "The guard's jaw unhinges, and his tongue rolls out of his muzzle as he starts panting and groping himself through his uniform while he eats you with his eyes."
-    "Челюсть охранника раскалывается, и его язык выскакивает из своей губы, когда он начинает задыхаться и пощупать себя через свою форму, пока он ест тебя глазами."
+    "Челюсть охранника разжимается, язык вываливается из морды, он начинает пыхтеть и ощупывать себя через форму, пожирая тебя глазами."
 
 # game/scripts/events.rpy:525
 translate russian fen_tailservice_fussyguard_89af3720:
@@ -15820,7 +15820,7 @@ translate russian fen_tailservice_fussyguard_89af3720:
 translate russian fen_tailservice_fussyguard_67c83bff:
 
     # "It's for your abs, after you took your time revealing them bit-by-bit while tugging off your shirt."
-    "Это для твоего пресса, после того как ты потратил время, чтобы раскрыть их по частям, пока ты стягиваешь рубашку."
+    "Это твой пресс, после того как ты медленно показал их, снимая рубашку."
 
 # game/scripts/events.rpy:536
 translate russian fen_tailservice_fussyguard_5ad6e69f:
@@ -15844,19 +15844,19 @@ translate russian fen_tailservice_fussyguard_a0254f89:
 translate russian fen_tailservice_fussyguard_34baca67:
 
     # "Once you're standing bare naked in front of him, the guard goes over to the side and pulls out a clean, white handkerchief from his side satchel."
-    "Как только ты стоишь голый перед ним, охранник переходит на бок и достает чистый белый носовой платок из его бокового рюкзака."
+    "Как только ты стоишь голый перед ним, охранник отходит в сторону и достанет из своей сумки чистый белый носовой платок."
 
 # game/scripts/events.rpy:555
 translate russian fen_tailservice_fussyguard_78436c54:
 
     # "He lays it down on top of a sturdy-looking crate, and ushers you to come sit on it."
-    "Он положил его на надёжную коробку и позвал тебя сесть."
+    "Он кладет его на крышку крепкого на вид ящика и приглашает тебя сесть на него."
 
 # game/scripts/events.rpy:557
 translate russian fen_tailservice_fussyguard_f712276e:
 
     # "When you do, you realise he must have done it as a precaution against the spread of dust and grime more than anything."
-    "Когда ты это делаешь, ты понимаешь, что он сделал это в качестве предосторожности против распространения пыли и грязи больше всего."
+    "Когда ты это сделаешь, то понимаешь, что он, должно быть, сделал это скорее в качестве меры предосторожности против распространения пыли и грязи."
 
 # game/scripts/events.rpy:563
 translate russian fen_tailservice_fussyguard_f33beee8:
@@ -15868,25 +15868,25 @@ translate russian fen_tailservice_fussyguard_f33beee8:
 translate russian fen_tailservice_fussyguard_88a893cf:
 
     # "You're not able to pay it that much mind, though, before a more interesting piece of hard 'wood' captures your attention..."
-    "Ты не в состоянии уделить ему столько внимания, хотя, прежде чем более интересный кусок твердой 'древесины' захватывает твое внимание..."
+    "Однако ты не успеваешь обратить на это особого внимания, как твое внимание привлекает более интересный кусок твердого 'дерева'..."
 
 # game/scripts/events.rpy:572
 translate russian fen_tailservice_fussyguard_2ada75b2:
 
     # "The guard closes in on you with the front drape of his tunic held clenched in his mouth and his underwear pulled down just enough for his dick to come poking out."
-    "Охранник прикрывает тебя, скрепляя его мантию с укусами во рту и опуская нижнее белье, чтобы его член вылезал."
+    "Охранник приближается к тебе, держа во рту переднюю часть своей туники, а нижнее белье спущено ровно настолько, чтобы его член мог высунуться наружу."
 
 # game/scripts/events.rpy:574
 translate russian fen_tailservice_fussyguard_98a5c2f3:
 
     # "He spreads your legs out wide, forcing you to lean back against the alley's brick wall, as he brings it level with your exposed pucker."
-    "Он широко размахивает твои ноги, заставляя тебя наклониться к кирпичной стене в переулке, как он приносит его на уровне с твоей открытой щетиной."
+    "Он широко раздвигает твои ноги, заставляя тебя прислониться спиной к кирпичной стене переулка, когда она оказывается на одном уровне с твоей обнаженной грудью."
 
 # game/scripts/events.rpy:580
 translate russian fen_tailservice_fussyguard_2c4c7360:
 
     # FGuard "Hehe...You prepped it good for me, huh? Gonna have to toss in a little bit extra for such fine service."
-    FGuard "Хехе... Ты хорошо подготовил его для меня, да? Придется добавить немного больше для такого хорошего обслуживания."
+    FGuard "Хехе... Ты хорошо все приготовил для меня, да? Придется добавить еще немного за такое прекрасное обслуживание."
 
 # game/scripts/events.rpy:582
 translate russian fen_tailservice_fussyguard_c96d129c:
@@ -15910,7 +15910,7 @@ translate russian fen_tailservice_fussyguard_2703bfa9:
 translate russian fen_tailservice_fussyguard_686bca2e:
 
     # "It's more as a way to let out the built-up anxiety you were feeling over this new partner than over any actual pain you were experiencing."
-    "Это больше как способ выпустить накопленное беспокойство, которое ты чувствовал по поводу этого нового партнера, чем по поводу любой настоящей боли, которую ты испытывал."
+    "Это скорее способ выплеснуть накопившуюся тревогу, которую ты испытывал из-за этого нового партнера, чем из-за какой-либо реальной боли, которую ты испытывал."
 
 # game/scripts/events.rpy:599
 translate russian fen_tailservice_fussyguard_593d4ba2:
@@ -15976,7 +15976,7 @@ translate russian fen_tailservice_fussyguard_40957567:
 translate russian fen_tailservice_fussyguard_980e6281:
 
     # Fen "Hahhhh, you're doing such great work, sir! You're a good boy!"
-    Fen "Хаххх, ты делаешь такую отличную работу, сэр! Ты хороший мальчик!"
+    Fen "Аххх, ты отлично справляешься! Ты хороший мальчик!"
 
 # game/scripts/events.rpy:628
 translate russian fen_tailservice_fussyguard_2244a7bd:
@@ -15994,55 +15994,55 @@ translate russian fen_tailservice_fussyguard_5b8c484b:
 translate russian fen_tailservice_fussyguard_b847b3a7:
 
     # "Pressed up like this into a corner by the guard's skillful yet greedy love-making, your baser instincts start to make you get lost in the moment with him."
-    "Зажато в угол умелыми, но жадными любовными действиями охранника, твои низшие инстинкты начинают тебя терять в момент с ним."
+    "Загнанный в угол умелыми, но жадными ласками охранника, твои низменные инстинкты начинают заставлять тебя теряться в этом моменте с ним."
 
 # game/scripts/events.rpy:637
 translate russian fen_tailservice_fussyguard_d120490d:
 
     # "With no hesitation, you grab hold of your own cock, which has been bobbing freely in front of him until now, and beat it off eagerly to the rhythm he's going."
-    "Без колебаний, ты хватаешь свой собственный член, который до сих пор свободно качался перед ним, и с нетерпением отбиваешься от его ритма."
+    "Без колебаний ты хватаешься за свой собственный член, который до сих пор свободно покачивался перед ним, и нетерпеливо двигаешься в том же ритме, что и он."
 
 # game/scripts/events.rpy:639
 translate russian fen_tailservice_fussyguard_67c83595:
 
     # "Your show of acceptance is rewarded when he leans in even closer and whispers words of encouragement back right in your ear."
-    "Твое проявление признания вознаграждается, когда он наклоняется еще ближе и шепчет слова поддержки прямо в ухо."
+    "Твое проявление признания вознаграждается, когда он наклоняется еще ближе и шепчет слова одобрения прямо в ухо."
 
 # game/scripts/events.rpy:641
 translate russian fen_tailservice_fussyguard_e6ec4d1b:
 
     # "The hot dampness of his breath mixed with thoughts of approval and safety drive you over the edge."
-    "Горячая влажность его дыхания, смешанная с мыслями о одобрении и безопасности, подтолкнут тебя к краю."
+    "Горячая влажность его дыхания, смешанная с мыслями о одобрении и безопасности, что доводит тебя до предела."
 
 # game/scripts/events.rpy:646
 translate russian fen_tailservice_fussyguard_e700311b:
 
     # "In mere moments after touching yourself, you feel your dick erupt with cum in the middle of him still giving you hushed praises."
-    "Всего за несколько мгновений после прикосновения ты чувствуешь, как твой член взрывается с спермой в середине его все еще давая тебе тихие одобрения."
+    "Через несколько мгновений после прикосновения к себе ты чувствуешь, как твой член извергается спермой в тот момент, когда он все еще хрипло хвалит тебя."
 
 # game/scripts/events.rpy:648
 translate russian fen_tailservice_fussyguard_0bea2c7b:
 
     # "It seems to take the guard a moment to register that it happened, and he pulls back into an upright position to make sure."
-    "Похоже, охраннику нужно время, чтобы зафиксировать это, и он встаёт в вертикальное положение, чтобы убедиться."
+    "Кажется, охраннику требуется некоторое время, чтобы осознать, что это произошло, и он возвращается в вертикальное положение, чтобы убедиться в этом."
 
 # game/scripts/events.rpy:654
 translate russian fen_tailservice_fussyguard_218c250c:
 
     # "You open your eyes to see that copious amounts of it landed all across your stomach."
-    "Ты открываешь глаза, чтобы увидеть, что обильное количества из него приземлились по всему твоему желудку."
+    "Ты открываешь глаза и видишь, что его огромное количество приземлилось по всему твоему желудоку"
 
 # game/scripts/events.rpy:656
 translate russian fen_tailservice_fussyguard_5ef7f9f7:
 
     # "Some of it even sprays all the way up to the lower parts of your chest below the nipples."
-    "Некоторые из них даже распыляется до нижней части груди под сосками."
+    "Некоторые из них даже разбрызгиваются по всей нижней части вашей груди, ниже сосков."
 
 # game/scripts/events.rpy:658
 translate russian fen_tailservice_fussyguard_00ea457b:
 
     # "As impressive of a load it must've been, you probably looked like quite a mess right now..."
-    "Как бы впечатляюще ни было это, ты, наверное, выглядишь как полный бардак..."
+    "Как бы впечатляюще ни было это, ты, наверное, выглядишь неважно..."
 
 # game/scripts/events.rpy:667
 translate russian fen_tailservice_fussyguard_9fd1e8e4:
@@ -16066,7 +16066,7 @@ translate russian fen_tailservice_fussyguard_7ec2e7f5:
 translate russian fen_tailservice_fussyguard_565ccccb:
 
     # "As he says that, he gets out of you and moves up to straddle over top of your torso, placing a hand at the base of your neck for leverage."
-    "Произнося это, он выходит из тебя и приподнимается, чтобы оседлать тебя сверху, положив руку у основания твоей шеи в качестве рычага."
+    "Когда он это говорит, он выходит из тебя и поднимается, чтобы встать верхом на твой торс, положив руку на основание вашей шеи для опоры."
 
 # game/scripts/events.rpy:678
 translate russian fen_tailservice_fussyguard_5c7230b1:
@@ -16084,7 +16084,7 @@ translate russian fen_tailservice_fussyguard_a3132f02:
 translate russian fen_tailservice_fussyguard_a23b5c1f:
 
     # "His gets up a bit further along your chest than yours did, and there's now enough batter shared between the two of you for it to run dribbling down off the side of your stomach."
-    "Он поднимается чуть выше по твоей груди, чем ты, и теперь теста, разделенного между вами, достаточно, чтобы оно стекало по твоему животу."
+    "Он поднимается немного выше по твоей груди, и теперь жидкости, разделенного между вами, достаточно, чтобы она стекала по твоему животу."
 
 # game/scripts/events.rpy:699
 translate russian fen_tailservice_fussyguard_d5898779:
@@ -16150,7 +16150,7 @@ translate russian fen_tailservice_fussyguard_12f489e6:
 translate russian fen_tailservice_fussyguard_1eb39878:
 
     # "Wow! If only all your customers could be this nice, whether they were the ones who expected to bonk with you or not..."
-    "Ух ты! Если бы только все твои клиенты могли быть такими же милыми, независимо от того, были ли они теми, кто ожидал, что ты им понравишься, или нет..."
+    "Ух ты! Если бы только все твои клиенты могли быть такими же милыми, независимо от того, ожидали ли они переспать с тобой ли нет..."
 
 # game/scripts/events.rpy:750
 translate russian fen_tailservice_fussyguard_11d4b816:
@@ -16240,7 +16240,7 @@ translate russian fen_tailservice_carefreeguard_48d9ed3f:
 translate russian fen_tailservice_carefreeguard_a711be9a:
 
     # CGuard "I know, right? I get them from this little bakery on River Street that makes them fresh every morning."
-    CGuard "Знаю, да? Я их беру в маленькой пекарне на River Street, которая делает их свежими каждое утро."
+    CGuard "Знаю, да? Я их беру в маленькой пекарне на улице Ривер, которая делает их свежими каждое утро."
 
 # game/scripts/events.rpy:821
 translate russian fen_tailservice_carefreeguard_671516c6:
@@ -16324,7 +16324,7 @@ translate russian fen_tailservice_carefreeguard_ef90b9d0:
 translate russian fen_tailservice_carefreeguard_ea172908:
 
     # "He gives the underside of his rod an absent-minded stroke, and it makes him shiver as a dollop of pre leaks out from the tip."
-    "Он рассеянно поглаживает нижнюю часть своего стержня, и это заставляет его вздрогнуть, когда с кончика вытекает немного пре."
+    "Он рассеянно поглаживает нижнюю часть своего стержня, и это заставляет его вздрогнуть, когда с кончика вытекает немного смазки."
 
 # game/scripts/events.rpy:877
 translate russian fen_tailservice_carefreeguard_872b9a9a:
@@ -16420,7 +16420,7 @@ translate russian fen_tailservice_carefreeguard_faf47dd6:
 translate russian fen_tailservice_carefreeguard_5ec0066d:
 
     # "The milky sweetness of the cream and mild, salty drops of the wolfman's pre mingling together on your tongue creates such an exotically addicting flavour."
-    "Молочная сладость сливок и мягкие солоноватые капли пре, смешиваясь на языке, создают экзотический, притягательный вкус."
+    "Молочная сладость сливок и мягкие солоноватые капли волчьей смазки, смешиваясь на языке, создают экзотический, притягательный вкус."
 
 # game/scripts/events.rpy:921
 translate russian fen_tailservice_carefreeguard_aedaa81a:
@@ -16750,7 +16750,8 @@ translate russian fen_tailservice_energeticguard_c4a1875a:
 translate russian fen_tailservice_energeticguard_7fac3760:
 
     # EGuard energetic grin "Make no mistake, guys who just listen to the advice of any ol' schmoe with two cents to give often end up working against their own natural potential."
-    EGuard energetic grin "Не сомневайся, парни, которые просто прислушиваются к советам любого старого знакомого, готового пожертвовать двумя центами, часто в конечном итоге работают против своего природного потенциала."
+    EGuard energetic grin "Не сомневайся, парни, которые просто прислушиваются к советам любого старого знакомого." 
+    EGuard energetic grin "Готового пожертвовать двумя центами, часто в конечном итоге работают против своего природного потенциала."
 
 # game/scripts/events.rpy:1094
 translate russian fen_tailservice_energeticguard_ec0a2fcf:
@@ -16948,7 +16949,8 @@ translate russian fen_tailservice_energeticguard_8d3d6550:
 translate russian fen_tailservice_energeticguard_ae16277f:
 
     # "It kind of amazes you how good the feeling of both your sensitive parts stimulating each other is getting, and you can't help but just pant and moan over it."
-    "Тебя просто поражает, насколько приятным становится ощущение, когда обе твои чувствительные части стимулируют друг друга, и ты ничего не можешь с собой поделать, кроме как тяжело дышать и постанывать от этого."
+    "Тебя просто поражает, насколько приятным становится ощущение, когда обе твои чувствительные части стимулируют друг друга," 
+    "и ты ничего не можешь с собой поделать, кроме как тяжело дышать и постанывать от этого."
 
 # game/scripts/events.rpy:1238
 translate russian fen_tailservice_energeticguard_f17d54d5:
@@ -17434,7 +17436,7 @@ translate russian fen_tailservice_stoicguard_8fd5065d:
 translate russian fen_tailservice_stoicguard_3f4f3f10:
 
     # "You're not even sure exactly what the guard is doing to stop your orgasm, but it's simultaneously frustrating and arousing."
-    "Ты даже не уверены, что именно делает охранник, чтобы остановить твоц оргазм, но это одновременно расстраивает и возбуждает."
+    "Ты даже не уверен, что именно делает охранник, чтобы остановить твой оргазм, но это одновременно расстраивает и возбуждает."
 
 # game/scripts/events.rpy:1533
 translate russian fen_tailservice_stoicguard_2f6475ea:
@@ -26752,7 +26754,7 @@ translate russian khaleb_bond_01_672d2dfb:
 translate russian khaleb_bond_01_b1bd5dcb:
 
     # Arek normal "But thing is, the big bozo who owned the joint would'a charged us an arm and a leg for everything. So we had to make due with just the board."
-    Arek normal "Но дело в том, что большой шишка, владелец заведения, взял бы с нас за все деньги. Так что нам пришлось довольствоваться только платой за питание."
+    Arek normal "Но дело в том, что большая шишка, владелец заведения, взял бы с нас за все деньги. Так что нам пришлось довольствоваться только платой за питание."
 
 # game/scripts/events.rpy:12426
 translate russian khaleb_bond_01_ad3f181f:
@@ -26764,7 +26766,7 @@ translate russian khaleb_bond_01_ad3f181f:
 translate russian khaleb_bond_01_638c14d6:
 
     # Khaleb smile "Anyway, kid, ya wanna try a round out with us sometime. Test the muscles in that peabrain you got?"
-    Khaleb smile "В общем, парень, не хочешь ли как-нибудь побыть с нами? Проверь, какие у тебя мускулы на голове?"
+    Khaleb smile "В общем, парень, хочешь как-нибудь с нами побаловаться? Проверить, как работают мышцы в твоем мозгу?"
 
 # game/scripts/events.rpy:12438
 translate russian khaleb_bond_01_376ad11d:
@@ -26800,7 +26802,7 @@ translate russian khaleb_bond_01_18f6feb8:
 translate russian khaleb_bond_01_02f71d3e:
 
     # Arek "Like, how am I suppos'ta know which of mine are the knights and which are the queens?"
-    Arek "Например, откуда мне знать, кто из моих рыцарей, а кто из королев?"
+    Arek "Например, как я узнаю, кто из них рыцарь, а кто фезрь?"
 
 # game/scripts/events.rpy:12460
 translate russian khaleb_bond_01_dc2ef5ce:
@@ -26896,7 +26898,7 @@ translate russian khaleb_bond_01_36cd0e5d:
 translate russian khaleb_bond_01_15ab3c22:
 
     # Khaleb grin "Tch, figures you'd say that..."
-    Khaleb grin "Тк, я так и думал, что ты это скажешь..."
+    Khaleb grin "Тц, я так и думал, что ты это скажешь..."
 
 # game/scripts/events.rpy:12505
 translate russian khaleb_bond_01_93d987fc:
@@ -26932,13 +26934,13 @@ translate russian khaleb_bond_01_e7279d86:
 translate russian khaleb_bond_01_a0bff2c3:
 
     # Khaleb normal "Alrighty, Busy Boy, looks like we're all wrapped up with our game now."
-    Khaleb normal "Отличный, занятой парень, похоже, мы все сейчас увлечены нашей игрой."
+    Khaleb normal "Ладно, занятой парень, похоже, мы все сейчас увлечены нашей игрой."
 
 # game/scripts/events.rpy:12519
 translate russian khaleb_bond_01_58ff7eb0:
 
     # Fen stern "So, what? That means you're done with the shakers, then, right?"
-    Fen stern "Итак, что? Это значит, что ты покончил с шейкерами, верно?"
+    Fen stern "Итак, что? Это значит, что ты закончил с шейкерами, верно?"
 
 # game/scripts/events.rpy:12521
 translate russian khaleb_bond_01_d7038919:
@@ -27232,7 +27234,7 @@ translate russian about_renegades_food_issue_cdf51049:
 translate russian about_renegades_food_issue_09419ff0:
 
     # Khaleb "Tch. It's not our faults if your kitchen makes mistakes."
-    Khaleb "Тч. Мы не виноваты, что на твоей кухне случаются ошибки."
+    Khaleb "Тс. Мы не виноваты, что на твоей кухне случаются ошибки."
 
 # game/scripts/events.rpy:12696
 translate russian about_renegades_food_issue_39e0b609:
@@ -27268,13 +27270,13 @@ translate russian about_renegades_food_issue_14b0cf2a:
 translate russian about_renegades_food_issue_380a5dae:
 
     # "({i} Anything to keep them from calling me over so much, honestly... {/i})"
-    "({i}Все, что угодно, только бы они не говорили мне так часто, честное слово...{/i})"
+    "({i}Все, что угодно, чтобы они не звали меня так часто, честное слово...{/i})"
 
 # game/scripts/events.rpy:12709
 translate russian about_renegades_food_issue_b5042e0d:
 
     # Trei smile "Neat! I wanna see something that's real special and wows-all-around, ya know?"
-    Trei smile "Классно! Я хочу увидеть что-то по-настоящему особенное и потрясающее всех, понимаешь?"
+    Trei smile "Здорово! Я хочу увидеть что-то особенное и потрясающее, понимаешь?"
 
 # game/scripts/events.rpy:12711
 translate russian about_renegades_food_issue_ad5581cb:
