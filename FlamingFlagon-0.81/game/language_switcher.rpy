@@ -24,10 +24,12 @@ init python:
         renpy.change_language(new_lang_code)
         renpy.notify(f"Language switched to: {languages[new_index][1]}")
 
-# Горячие клавиши для смены языка
-define config.keymap["switch_language_next"] = [ "shift+L" ]  # Следующий язык
-define config.keymap["switch_language_prev"] = [ "shift+K" ]  # Предыдущий язык
+# Добавление горячих клавиш
+define keymap["switch_language_next"] = [ "shift+L" ]  # Переключить язык вперёд
+define keymap["switch_language_prev"] = [ "shift+K" ]  # Переключить язык назад
 
-# Действия при нажатии клавиш
-define config.keymap_action["switch_language_next"] = [ Function(switch_language, 1) ]  # Вперёд
-define config.keymap_action["switch_language_prev"] = [ Function(switch_language, -1) ]  # Назад
+# Реализация действий для горячих клавиш
+label main_menu:
+    $ renpy.input.bind("switch_language_next", lambda: switch_language(1))
+    $ renpy.input.bind("switch_language_prev", lambda: switch_language(-1))
+    return
