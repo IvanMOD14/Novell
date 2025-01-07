@@ -3350,3 +3350,99 @@ translate russian strings:
     old "Mjolnik"
     new "Мьельник"
 
+# TODO: Translation updated at 2025-01-07 21:30
+
+translate russian strings:
+
+    # game/script.rpy:2128
+    old "Gunther Bond unlock!"
+    new "Узы Гюнтера разблокировались!"
+
+# TODO: Translation updated at 2025-01-07 21:49
+
+translate russian strings:
+
+    # game/script.rpy:1382
+    old "Gunther Bond UP!"
+    new "Повышение Уз Гюнтера!"
+
+    # game/script.rpy:1387
+    old "Gunther Bond DOWN!"
+    new "Понижение Уз Гюнтера!"
+
+    # game/script.rpy:1393
+    old "Terrance Bond UP!"
+    new "Повышение Уз Терренса!"
+
+    # game/script.rpy:1398
+    old "Terrance Bond DOWN!"
+    new "Понижение Уз Терренса!"
+
+    # game/script.rpy:1404
+    old "Odachi Bond UP!"
+    new "Повышение Уз Одачи!"
+
+    # game/script.rpy:1409
+    old "Odachi Bond DOWN!"
+    new "Понижение Уз Одачи!"
+
+    # game/script.rpy:1415
+    old "Niall Bond UP!"
+    new "Повышение Уз Найла!"
+
+    # game/script.rpy:1420
+    old "Niall Bond DOWN!"
+    new "Понижение Уз Найла!"
+
+    # game/script.rpy:1426
+    old "Murry Bond UP!"
+    new "Повышение Уз Мурри!"
+
+    # game/script.rpy:1431
+    old "Murry Bond DOWN!"
+    new "Понижение Уз Мурри!"
+
+    # game/script.rpy:1437
+    old "Marcus Bond UP!"
+    new "Повышение Уз Маркуса!"
+
+    # game/script.rpy:1442
+    old "Marcus Bond DOWN!"
+    new "Понижение Уз Маркуса!"
+
+    # game/script.rpy:1447
+    old "Khaleb Bond UP!"
+    new "Повышение Уз Халеба!"
+
+    # game/script.rpy:1452
+    old "Khaleb Bond DOWN!"
+    new "Понижение Уз Халеба!"
+
+    # game/script.rpy:1457
+    old "Guards Bond UP!"
+    new "Повышение Уз Охранника!"
+
+    # game/script.rpy:1462
+    old "Guards Bond DOWN!"
+    new "Понижение Уз Охранника!"
+
+    # game/script.rpy:1467
+    old "XXX Bond UP!"
+    new "Повышение Уз XXX!"
+
+    # game/script.rpy:1472
+    old "Mjolnik Bond UP!"
+    new "Повышение Уз Мьельника!"
+
+    # game/script.rpy:1477
+    old "Mjolnik Bond DOWN!"
+    new "Понижение Уз Мьельника!"
+
+# TODO: Translation updated at 2025-01-07 22:02
+
+translate russian strings:
+
+    # game/script.rpy:373
+    old "{size=80}BOND UNLOCK{/size}"
+    new "{size=80}РАЗБЛОКИРОВАНИЕ УЗ{/size}"
+

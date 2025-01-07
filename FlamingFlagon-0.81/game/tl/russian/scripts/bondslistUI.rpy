@@ -246,3 +246,11 @@ translate russian strings:
     old "{size=40}{font=GlowSans-Bold.otf}Young Farmer{/font}{/size}"
     new "{size=40}{font=GlowSans-Bold.otf}Молодой фермер{/font}{/size}"
 
+# TODO: Translation updated at 2025-01-07 21:11
+
+translate russian strings:
+
+    # game/scripts/bondslistUI.rpy:24
+    old "{color=#262626}{size=220}{font=GlowSans-Bold.otf}BONDS{/font}{/size}{/color}"
+    new "{color=#262626}{size=220}{font=GlowSans-Bold.otf}УЗЫ{/font}{/size}{/color}"
+

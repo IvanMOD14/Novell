@@ -20,7 +20,7 @@ translate russian strings:
 
     # game/scripts/itemUI.rpy:105
     old "{size=40}{font=GlowSans-Regular.otf}The currency circulating in Felda. Coins of various value.\n\nThis money is not familiar to you. Where exactly did you come from...?{/font}{/size}"
-    new "{size=40}{font=GlowSans-Regular.otf}Валюта, имеющая хождение в Felda. Монеты различного достоинства.\n\nЭти деньги тебе незнакомы. Откуда именно ты взялся...?{/font}{/size}"
+    new "{size=40}{font=GlowSans-Regular.otf}Валюта, имеющая хождение в Фельде. Монеты различного достоинства.\n\nЭти деньги тебе незнакомы. Откуда именно ты взялся...?{/font}{/size}"
 
     # game/scripts/itemUI.rpy:122
     old "{size=40}{font=GlowSans-Regular.otf}A special variety that exclusively grows in dungeons,\ndistinguished by their unique metallic sheen on the surface.\n\nLegend has it that consuming one will enhance your beauty.{/font}{/size}"

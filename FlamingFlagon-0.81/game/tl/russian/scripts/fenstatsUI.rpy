@@ -28,7 +28,7 @@ translate russian strings:
 
     # game/scripts/fenstatsUI.rpy:108
     old "{size=40}{font=GlowSans-Bold.otf}SXP{/font} [FenSXP]{/size}"
-    new "{size=40}{font=GlowSans-Bold.otf}Сексуальность{/font} [FenSXP]{/size}"
+    new "{size=40}{font=GlowSans-Bold.otf}Сексуал.{/font} [FenSXP]{/size}"
 
     # game/scripts/fenstatsUI.rpy:110
     old "{size=40}{font=GlowSans-Bold.otf}CON{/font} [FenCON]{/size}"

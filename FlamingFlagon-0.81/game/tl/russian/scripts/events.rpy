@@ -766,7 +766,8 @@ translate russian niall_intro_2e73b4f3:
 translate russian niall_intro_14b66c46:
 
     # Niall smile "Uncovering long-lost treasures, fighting monsters, becoming instantly famous enough to have every guy either want to be you, or just plain want you..."
-    Niall smile "Находишь давно потерянные сокровища, сражаешься с монстрами, мгновенно становишься настолько знаменитым, что каждый парень либо хочет быть на твоем месте, либо просто хочет тебя..."
+    Niall smile "Находишь давно потерянные сокровища, сражаешься с монстрами, мгновенно становишься настолько знаменитым-" 
+    Niall smile "что каждый парень либо хочет быть на твоем месте, либо просто хочет тебя..."
 
 # game/scripts/events.rpy:508
 translate russian niall_intro_01c930bb:
@@ -9484,7 +9485,7 @@ translate russian bathhouse_odachi_end_a7a6ad28:
 translate russian bathhouse_odachi_end_dff36ef0:
 
     # "you spot Niall shadowboxing some of the mist alone by the poolside."
-    "Ты замечаешь Найл, который в одиночестве сражается с тенью в тумане у бассейна."
+    "Ты замечаешь Найла, который в одиночестве сражается с тенью в тумане у бассейна."
 
 # game/scripts/events.rpy:5053
 translate russian bathhouse_odachi_end_c2c351fd:
@@ -9556,7 +9557,7 @@ translate russian about_niall_bathhouse_0cc4138e:
 translate russian about_niall_bathhouse_a38f1e10:
 
     # Fen "Huh? O-Oh, yeah. I'm fine. Just wondering about what else Marcus does, is all."
-    Fen "А? О-Ох, да. Я в порядке. Просто интересно, чем еще занимается Marcus, вот и все."
+    Fen "А? О-Ох, да. Я в порядке. Просто интересно, чем еще занимается Маркус, вот и все."
 
 # game/scripts/events.rpy:5090
 translate russian about_niall_bathhouse_97cd26f2:
@@ -10668,7 +10669,7 @@ translate russian gunther_sex1_334bef7f:
 translate russian gunther_nsfw_01_66c02716:
 
     # "You can feel the heat coming off Gunther as he reaches out with his paws."
-    "Ты можешь почувствовать тепло, исходящее от Gunther, когда он протягивает к тебе свои лапы."
+    "Ты можешь почувствовать тепло, исходящее от Гюнтера, когда он протягивает к тебе свои лапы."
 
 # game/scripts/events.rpy:404
 translate russian gunther_nsfw_01_3d5da4f2:
@@ -12702,7 +12703,7 @@ translate russian strings:
 
     # game/scripts/events.rpy:416
     old "What position do you want Gunter in?"
-    new "Какаря роль у Gunter?"
+    new "Какая роль у Гюнтера?"
 
     # game/scripts/events.rpy:416
     old "Push him on to the bed (STR 8)"
@@ -15614,7 +15615,7 @@ translate russian khaleb_bond_01_2b2d2856:
 translate russian khaleb_serve_01_78a144c1:
 
     # "You bring out The Renegade's meals after struggling to listen to them talk over each other while giving you their orders."
-    "Ты приносишь еду Renegade после того, как с трудом слушаешь, как они переговариваются друг с другом, отдавая тебе свои приказы."
+    "Ты приносишь еду Ренегатам после того, как с трудом слушаешь, как они переговариваются друг с другом, отдавая тебе свои приказы."
 
 # game/scripts/events.rpy:6886
 translate russian khaleb_serve_01_f09ea0db:
@@ -18966,7 +18967,7 @@ translate russian unlock_personal_service_096a1b21:
 translate russian unlock_personal_service_bce5c6a8:
 
     # "The red tiger pats you on the head and smiles."
-    "Красный тиг гладит тебя по голове и улыбается."
+    "Красный тигр гладит тебя по голове и улыбается."
 
 # game/scripts/events.rpy:63
 translate russian unlock_personal_service_8d01e28f:
@@ -21276,13 +21277,13 @@ translate russian terrance_bond_03pre_59a1a1d8:
 translate russian terrance_bond_03pre_f6279f35:
 
     # "You return the smile and pause while Terrance begins to eat his food. Your mind wanders to what he said, his farm."
-    "Ты улыбаешься и останавливаешься, пока Терренс начинает есть его еду. Ваш разум бродит к тому, что он сказал, его ферме."
+    "Ты улыбаешься в ответ и замираешь, пока Терренс приступает к еде. Твои мысли возвращаются к тому, что он сказал, о соей ферме."
 
 # game/scripts/events.rpy:6876
 translate russian terrance_bond_03pre_4cb18afe:
 
     # "You realise you don't actually know where he lives or anything his home life and your curiosity is aroused."
-    "Ты понимаешь, что на самом деле не знаешь, где он живёт или что-то в его домашней жизни и твое любопытство пробуждается."
+    "Ты понимаешь, что на самом деле не знаешь, где он живет, и вообще ничего не знаешь о его семейной жизни, и это возбуждает твое любопытство."
 
 # game/scripts/events.rpy:6878
 translate russian terrance_bond_03pre_879d1483:
@@ -21312,13 +21313,13 @@ translate russian terrance_bond_03pre_af532224:
 translate russian terrance_bond_03pre_f1ff926f:
 
     # "You pause, running your hand through your mane. Giving the horse a slightly sheepish smile you continue."
-    "Ты останавливаешься, проводя рукой по гриве. Слегка смущенно улыбнувшись лошади, ты продолжаешь."
+    "Ты делаешь паузу, проводя рукой по своей гриве. Одарив лошадь слегка смущенной улыбкой, ты продолжаешь."
 
 # game/scripts/events.rpy:6889
 translate russian terrance_bond_03pre_843cdf6f:
 
     # Fen "I kinda want to see what's out there you know? But I don't need to get lost wandering around the countryside."
-    Fen "Я вроде как хочу посмотреть, что там, снаружи, понимаешь? Но я не нужно заблудиться, блуждая по сельской местности."
+    Fen "Я вроде как хочу посмотреть, что там, снаружи, понимаешь? Но я не хочу заблудиться, бродя по сельской местности."
 
 # game/scripts/events.rpy:6891
 translate russian terrance_bond_03pre_6ca089fe:
@@ -21336,7 +21337,7 @@ translate russian terrance_bond_03pre_119f370e:
 translate russian terrance_bond_03pre_451fc4ac:
 
     # Terrance grin "Give ya a chance to see at least the country I go through. I wouldnae mind the company to be honest."
-    Terrance grin "Дам тебе шанс увидеть хотя бы ту страну, по которой я путешествую. Честно говоря, я бы не возражал против компании."
+    Terrance grin "Дам тебе шанс увидеть хотя бы ту местность, по которой я проезжаю. Я бы не отказался от компании, если честно."
 
 # game/scripts/events.rpy:6897
 translate russian terrance_bond_03pre_175f5ab7:
@@ -21372,7 +21373,7 @@ translate russian terrance_bond_03pre_49a741a8:
 translate russian terrance_bond_03pre_1e5e9472:
 
     # Terrance smile "Lemme know when yer next off and I'll come get ya before I head back to me farm. Does that sound good [name]?"
-    Terrance smile "Дай мне знать, когда в следующий раз соберешься, и я зайду за тобой, прежде чем вернусь на свою ферму. Хорошо звучит [name]?"
+    Terrance smile "Дай мне знать, когда в следующий раз соберешься уходить, и я заеду за тобой, прежде чем вернусь на свою ферму. Звучит заманчиво [name]?"
 
 # game/scripts/events.rpy:6913
 translate russian terrance_bond_03pre_5bf2782e:
@@ -21396,7 +21397,7 @@ translate russian terrance_bond_03pre_6a758d2a:
 translate russian terrance_bond_03_650dc2df:
 
     # "You sprint down a crumbling pathway, following after a figure that's just barely within sight."
-    "Ты бежишь по осыпающейся тропинке, следуя за фигурой, которая едва видна из виду."
+    "Ты бежишь по разваливающейся тропинке, следуя за фигурой, которая едва виднеется вдали."
 
 # game/scripts/events.rpy:6939
 translate russian terrance_bond_03_17c4c8de:
@@ -21432,13 +21433,13 @@ translate russian terrance_bond_03_3c419d02:
 translate russian terrance_bond_03_440c9e4b:
 
     # "Just as you're about to reach them, you suddenly collide with what feels like an invisible barrier." with hpunch
-    "Как раз в тот момент, когда ты уже почти добрался до него, ты внезапно столкнулся на что-то похожее на невидимый барьер." with hpunch
+    "Когда ты уже почти добрался до него, ты внезапно столкнулся с невидимым барьером." with hpunch
 
 # game/scripts/events.rpy:6960
 translate russian terrance_bond_03_be1504a9:
 
     # "You feel yourself shaking as the figure again walks out of view."
-    "Ты чувствуешь свой дрожь, когда фигура снова исчезает из виду."
+    "Ты чувствуешь свою дрожь, когда фигура снова исчезает из виду."
 
 # game/scripts/events.rpy:6965
 translate russian terrance_bond_03_9efbaffc:
@@ -21450,7 +21451,7 @@ translate russian terrance_bond_03_9efbaffc:
 translate russian terrance_bond_03_a29a885b:
 
     # "With a start you awake, seeing the massive form of Terrance standing over you. The horse is looking at you with some concern."
-    "Вздрогнув, ты просыпаешься и видишь массивную фигуру Терренса, стоящего над тобой. Лошадь смотрит на тебя с некоторым беспокойством."
+    "Вздрогнув, ты просыпаешься и видишь массивную фигуру Терренса, стоящего перед тобой. Лошадь смотрит на тебя с некоторым беспокойством."
 
 # game/scripts/events.rpy:6983
 translate russian terrance_bond_03_e0aa19a8:
@@ -21474,13 +21475,13 @@ translate russian terrance_bond_03_ce8204c3:
 translate russian terrance_bond_03_abfb8f5b:
 
     # Terrance "Sorry to wake ya, but you asked me to get ya on yer day off so you could come to me farm. I'm heading out soon so I thought I should get you."
-    Terrance "Извини, что разбудил, но ты просил меня забрать тебя в твой выходной, чтобы ты мог прийти ко мне на ферму. Я скоро иду, поэтому подумал, что должен зайти за тобой."
+    Terrance "Извини, что разбудил, но ты просил меня забрать тебя в твой выходной, чтобы ты мог пойти ко мне на ферму. Я скоро пойду, поэтому подумал, что должен зайти за тобой."
 
 # game/scripts/events.rpy:7013
 translate russian terrance_bond_03_a6f072c0:
 
     # Fen "Damn, I kinda forgot... well not really forgot just you know, just waking up."
-    Fen "Черт, я вроде как забыл... ну, на самом деле не забыл, просто знаешь, проснулся."
+    Fen "Черт, я как-то забыл... ну, не совсем забыл, просто, знаешь, только проснулся."
 
 # game/scripts/events.rpy:7015
 translate russian terrance_bond_03_de0e13b1:
@@ -21498,13 +21499,13 @@ translate russian terrance_bond_03_d94f0c01:
 translate russian terrance_bond_03_328438fd:
 
     # "You lay back in bed and pull the covers over your head."
-    "Ты ложишься на спину в постель и натягиваешь одеяло на голову."
+    "Ты ложишься на спину обратно в постель и натягиваешь одеяло на голову."
 
 # game/scripts/events.rpy:7026
 translate russian terrance_bond_03_067d73b5:
 
     # "Suddenly you feel the covers being pulled off you and you see the horse grinning at you, holding your blankets." with hpunch
-    "Внезапно ты чувствушь, как с тебя стаскивают одеяло, и видишь, как лошадь улыбается тебе, держа в руках твое одеяла." with hpunch
+    "Внезапно ты чувствушь, как с тебя стаскивают одеяло, и видишь, как лошадь улыбается тебе, держа в руках твое одеяло." with hpunch
 
 # game/scripts/events.rpy:7033
 translate russian terrance_bond_03_accc8279:
@@ -21516,7 +21517,7 @@ translate russian terrance_bond_03_accc8279:
 translate russian terrance_bond_03_8440f95f:
 
     # "Complaining all the while, you roll out of bed and pull on your clothes."
-    "Продолжая жаловаться, ты вылезаешь из постели и натягиваешь одежду."
+    "Продолжая жаловаться, ты вылезаешь из постели и надеваешь одежду."
 
 # game/scripts/events.rpy:7043
 translate russian terrance_bond_03_1353d1b4:
@@ -21534,7 +21535,7 @@ translate russian terrance_bond_03_4cae6cf3:
 translate russian terrance_bond_03_de1eba98:
 
     # Fen "Gunther has enough sense to stay in bed until after sunrise."
-    Fen "У Гюнтера хватает здравого смысла оставаться в постели до рассвета."
+    Fen "Вот Гюнтер может остаться в постели до рассвета."
 
 # game/scripts/events.rpy:7054
 translate russian terrance_bond_03_46d43ef9:
@@ -25380,7 +25381,7 @@ translate russian marcus_bond_02_51e9a991:
 translate russian marcus_bond_02_cf39b934:
 
     # Marcus "Exactly! You catch on quick. There are many properties to different plants, minerals, and even animals like some snail shells can be used to manufacture potent poisons."
-    Marcus "Точно! Ты быстро схватываешь суть. У различных растений, минералов и даже животных, таких как раковины некоторых улиток, есть множество свойств, которые можно использовать для изготовления сильнодействующих ядов."
+    Marcus "Точно! Ты быстро соображаешь. Различные растения, минералы и даже животные, например, раковины улиток, могут быть использованы для изготовления сильнодействующих ядов."
 
 # game/scripts/events.rpy:10963
 translate russian marcus_bond_02_cb7f9c99:
@@ -25530,7 +25531,7 @@ translate russian marcus_bond_02_06bd4733:
 translate russian marcus_bond_02_28a3c0b8:
 
     # Marcus smile "Who knows, maybe you'll come up with the next fragrance that will take Felda by storm."
-    Marcus smile "Кто знает, может быть, ты придумаешь следующий аромат, который покорит Фкльду."
+    Marcus smile "Кто знает, может быть, ты придумаешь следующий аромат, который покорит Фельду."
 
 # game/scripts/events.rpy:11042
 translate russian marcus_bond_02_ae16c457:
@@ -27282,13 +27283,13 @@ translate russian about_renegades_food_issue_b5042e0d:
 translate russian about_renegades_food_issue_ad5581cb:
 
     # Trei normal "Stuff that got, eh...sliced truffles in it, the good stuff. Or what about some of those fish eggs ya hear about? The tiny black ones."
-    Trei normal "То, в чем есть, э... нарезанные трюфели, вкусное блюдо. Или как насчет тех рыбьих икринок, о которых вы слышали? Маленьких черных икринок."
+    Trei normal "В нем есть... нарезанные трюфели, все самое лучшее. А как насчет рыбьих икринок, о которых вы слышали? Крошечные черные."
 
 # game/scripts/events.rpy:12714
 translate russian about_renegades_food_issue_9bc86311:
 
     # Trei "Oh, oh! Or how about some real gold that you just take and shred all over the food 'til it sparkles?"
-    Trei "О, о! Или как насчет настоящего золота, которое можно просто взять и посыпать на блюдо, пока оно не заискрится?"
+    Trei "О, о! Или как насчет настоящего золота, которое просто берешь и рассыпаешь по блюду, пока оно не заблестит?"
 
 # game/scripts/events.rpy:12716
 translate russian about_renegades_food_issue_6fc2f212:
@@ -27300,13 +27301,13 @@ translate russian about_renegades_food_issue_6fc2f212:
 translate russian about_renegades_food_issue_1bc347f7:
 
     # Arek smile3 "Well, I dunno about the rest of yous, but lately I've been itchin' ta try a live animal like I hear some folks will eat on a dare."
-    Arek smile3 "Ну, не знаю, как у вас, а у меня в последнее время руки чешутся попробовать живого зверя, которого, как я слышал, некоторые едят на спор."
+    Arek smile3 "Ну, не знаю, как у вас, а у меня в последнее время руки чешутся что бы попробовать животного, которого, как я слышал, некоторые едят на спор."
 
 # game/scripts/events.rpy:12720
 translate russian about_renegades_food_issue_282f2571:
 
     # Arek "It's usually something like small tentacles, so I guess I'd be down."
-    Arek "Обычно это что-то вроде маленьких щупалец, так что, думаю, я был бы подавлен."
+    Arek "Обычно это что-то вроде маленьких щупалец, так что, думаю, я бы не отказался."
 
 # game/scripts/events.rpy:12722
 translate russian about_renegades_food_issue_4494928b:
@@ -27324,7 +27325,7 @@ translate russian about_renegades_food_issue_702e41d3:
 translate russian about_renegades_food_issue_251a4a5b:
 
     # Khaleb smile "Damn. You boys got some good answers."
-    Khaleb smile "Черт. У вас, ребята, есть несколько хороших ответов."
+    Khaleb smile "Черт. Ребята, у вас хорошие ответы."
 
 # game/scripts/events.rpy:12728
 translate russian about_renegades_food_issue_ed350877:
@@ -27336,13 +27337,13 @@ translate russian about_renegades_food_issue_ed350877:
 translate russian about_renegades_food_issue_14becb7e:
 
     # Khaleb "Okay, kid, listen up good. After mullin' it over, I think what I'm famished about the most here is the lack of any real bite to the menu."
-    Khaleb "Ладно, малышь, послушай внимательно. После того как я обдумал это, думаю, что меня больше всего оголодал отсутствие настоящего кусачего в меню."
+    Khaleb "Ладно, малыш, послушай внимательно. После того как я обдумал это, думаю, что меня больше всего оголодал отсутствие настоящего кусачего в меню."
 
 # game/scripts/events.rpy:12732
 translate russian about_renegades_food_issue_faf576ab:
 
     # Fen "Bite?"
-    Fen "Кусвчего?"
+    Fen "Кусачего?"
 
 # game/scripts/events.rpy:12734
 translate russian about_renegades_food_issue_c3192fb0:
@@ -27360,31 +27361,31 @@ translate russian about_renegades_food_issue_b38761db:
 translate russian about_renegades_food_issue_479abc47:
 
     # Khaleb "Gettin' past that makes it all worth the experience."
-    Khaleb "Преодоление этого прошлого стоит того, чтобы испытать все это."
+    Khaleb "Пройдя через это, ты получаешь незабываемые впечатления."
 
 # game/scripts/events.rpy:12742
 translate russian about_renegades_food_issue_9a70a718:
 
     # Khaleb smile "And if you ask me, the best way to have that effect is by pickling or fermentin'. But I'm sure there's other ways, too."
-    Khaleb smile "И если хочешь знать мое мнение, лучший способ добиться этого эффекта - мариновать или ферментировать. Но я уверен, что есть и другие способы."
+    Khaleb smile "И, как по мне, лучший способ добиться такого эффекта - это маринование или ферментация. Но я уверен, что есть и другие способы."
 
 # game/scripts/events.rpy:12744
 translate russian about_renegades_food_issue_8f0edb4c:
 
     # Fen "({i}Ingredients that are pickled or fermented to the point that they—{/i})"
-    Fen "({i}Ингредиенты, которые маринованы или ферментированы до такой степени, что они—{/i})"
+    Fen "({i}Ингредиенты, которые маринуют или ферментируют до такой степени, что они...{/i})"
 
 # game/scripts/events.rpy:12746
 translate russian about_renegades_food_issue_aad78769:
 
     # Fen sweat "({i}Yeah...I can't really imagine how you'd get anything from that besides food that's just straight up rotten.{/i})"
-    Fen sweat "({i}Да... я действительно не могу себе представить, как можно получить что-то из этого, кроме еды, которая просто насквозь протухла.{/i})"
+    Fen sweat "({i}Да уж... не представляю, как можно получить от этого что-то, кроме откровенно тухлой еды{/i})."
 
 # game/scripts/events.rpy:12748
 translate russian about_renegades_food_issue_288e7e9f:
 
     # Fen "Well, uh...You've all certainly given me a lot to think about, for sure."
-    Fen "Что ж, ээ... Вы все, безусловно, дали мне много для размышлений."
+    Fen "Что ж, эээ... Вы все, безусловно, дали мне пищу для размышлений, это точно."
 
 # game/scripts/events.rpy:12750
 translate russian about_renegades_food_issue_e087df8c:
@@ -27396,13 +27397,13 @@ translate russian about_renegades_food_issue_e087df8c:
 translate russian about_renegades_food_issue_e005ed2e:
 
     # Trei "Sweet! I'll be looking forward to guzzling down a whole bucket of saffron tea next time."
-    Trei "Славно! В следующий раз я с нетерпением буду ждать возможности выпить целое ведро чая с шафраном."
+    Trei "Мило! В следующий раз я с нетерпением жду возможности выпить целое ведро шафранового чая."
 
 # game/scripts/events.rpy:12755
 translate russian about_renegades_food_issue_942edb29:
 
     # Fen "({i}Crud...{/i})"
-    Fen "({i}Мразь...{/i})"
+    Fen "({i}Бред...{/i})"
 
 # game/scripts/events.rpy:12766
 translate russian about_renegades_troublemaking_4c501e58:
@@ -27420,13 +27421,13 @@ translate russian about_renegades_troublemaking_d212efc6:
 translate russian about_renegades_troublemaking_e7efd695:
 
     # Fen "What? No, I'm asking to be serious. What rumours?"
-    Fen "Что? Нет, я прошу быть серьезным. Какие слухи?"
+    Fen "Что? Нет, я спрашиваю серьезно. Какие слухи?"
 
 # game/scripts/events.rpy:12772
 translate russian about_renegades_troublemaking_a9f03870:
 
     # Khaleb stern "It's hard, kid. Growin' up with the types of backgrounds we all got in common's hard."
-    Khaleb stern "Это тяжело, малыш. Тяжело расти в окружении, которое у нас у все общее."
+    Khaleb stern "Это тяжело, малыш. Тяжело расти в окружении, которое у всех нас общее."
 
 # game/scripts/events.rpy:12774
 translate russian about_renegades_troublemaking_9575693b:
@@ -27450,7 +27451,7 @@ translate russian about_renegades_troublemaking_53fd160e:
 translate russian about_renegades_troublemaking_a6d903d1:
 
     # Fen "Well, I'm sorry if you three being who you are gets you looked down at by others."
-    Fen "Что ж, мне жаль, если из-за того, кто вы есть, на вас троих другие смотрят свысока."
+    Fen "Ну, мне жаль, если из-за того, кто вы есть, на вас троих смотрят свысока."
 
 # game/scripts/events.rpy:12782
 translate russian about_renegades_troublemaking_8b4f723d:
@@ -27462,7 +27463,7 @@ translate russian about_renegades_troublemaking_8b4f723d:
 translate russian about_renegades_troublemaking_ede528b0:
 
     # "He laughs at that, sharply and cruel."
-    "Он смеется над этим, резко и жестоко."
+    "Он смеется над этим, резко и беззлобно."
 
 # game/scripts/events.rpy:12787
 translate russian about_renegades_troublemaking_95e0a477:
@@ -27486,13 +27487,13 @@ translate russian about_renegades_troublemaking_451e8c73:
 translate russian about_renegades_troublemaking_093f8def:
 
     # Khaleb "It's the way that all things fall apart after takin' so long to get built; it's the things you and I don't know, but wanna ourselves otherwise."
-    Khaleb "Вот так все разваливается после того, как мы так долго выстраивались; это то, чего мы с тобой не знаем, но хотим, чтобы у нас было иначе."
+    Khaleb "Это то, как все рушится после долгого выстраивание; это то чего мы не знаем, но пытаемся верить."
 
 # game/scripts/events.rpy:12795
 translate russian about_renegades_troublemaking_8f9d882c:
 
     # Khaleb stern "You can see it in a guy who's got an idea in his head that's just too scary brillant to pass on for anything. And I mean {i} anything {/i}."
-    Khaleb stern "Это видно по парню, у которого в голове засела идея, которая просто пугающе гениальна, чтобы от нее отказаться. И я имею в виду что {i}угодно{/i}."
+    Khaleb stern "Это можно увидеть в парне, у которого в голове идея слишком пугающе гениальная, чтобы передать ее кому-либо. И я имею в виду что {i}угодно{/i}."
 
 # game/scripts/events.rpy:12797
 translate russian about_renegades_troublemaking_3c3f4678:
@@ -27504,7 +27505,7 @@ translate russian about_renegades_troublemaking_3c3f4678:
 translate russian about_renegades_troublemaking_b028c4fe:
 
     # Khaleb "Imagine now, that you've got a piece of somethin' like that baked into ya when you're still young, like a cake made a' shit."
-    Khaleb "А теперь представь, что в тебя вложили частичку чего-то подобного, когда ты был еще молод, как в говенный пирог."
+    Khaleb "Представь, что в молодости в тебя запекся кусочек чего-то подобного, как торт из дерьма."
 
 # game/scripts/events.rpy:12801
 translate russian about_renegades_troublemaking_8b7e6ee9:
@@ -27534,7 +27535,7 @@ translate russian about_renegades_troublemaking_d2fa49cd:
 translate russian about_renegades_troublemaking_2e7d83c9:
 
     # Khaleb "Still sound like the kinda thing you'd wanna host a meet-and-greet about, though?"
-    Khaleb "Тем не менее, это все еще звучит как то, по поводу чего ты хотел бы устроить встречу?"
+    Khaleb "И все же это звучит так, будто ты хочешь устроить встречу?"
 
 # game/scripts/events.rpy:12811
 translate russian about_renegades_troublemaking_fb9d3487:
@@ -27606,7 +27607,7 @@ translate russian about_renegades_troublemaking_a93fb747:
 translate russian about_renegades_troublemaking_5ce77cc7:
 
     # Fen "There's no way he'd have something so dark in common with you. You've gotta be wrong."
-    Fen "Не может быть, чтобы у него было что-то общее с вами настолько мрачное. Ты, должно быть, ошибаешься."
+    Fen "Не может быть, чтобы у него было что-то общее с вами. Ты, должно быть, ошибаешься."
 
 # game/scripts/events.rpy:12841
 translate russian about_renegades_troublemaking_c953ce3a:

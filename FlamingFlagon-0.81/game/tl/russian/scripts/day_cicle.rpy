@@ -884,7 +884,7 @@ translate russian strings:
 
     # game/scripts/day_cicle.rpy:874
     old "Belladonna Pool - 30 coins (CHA 10)"
-    new "Бассейн белладонны - 30 монет (10 США)"
+    new "Бассейн белладонны - 30 монет (10 Харизмы)"
 
 # TODO: Translation updated at 2024-07-10 12:15
 
