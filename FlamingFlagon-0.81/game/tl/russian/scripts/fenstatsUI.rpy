@@ -16,25 +16,25 @@ translate russian strings:
 
     # game/scripts/fenstatsUI.rpy:102
     old "{size=40}{font=GlowSans-Bold.otf}CHA{/font} [FenCHA]{/size}"
-    new "{size=40}{font=GlowSans-Bold.otf}Харизма{/font} [FenCHA]{/size}"
+    new "{size=40}{font=GlowSans-Bold.otf}ХАРИЗМА{/font} [FenCHA]{/size}"
 
     # game/scripts/fenstatsUI.rpy:104
     old "{size=40}{font=GlowSans-Bold.otf}INT{/font} [FenINT]{/size}"
-    new "{size=40}{font=GlowSans-Bold.otf}Интелект{/font} [FenINT]{/size}"
+    new "{size=40}{font=GlowSans-Bold.otf}ИНТЕЛЕКТ{/font} [FenINT]{/size}"
 
     # game/scripts/fenstatsUI.rpy:106
     old "{size=40}{font=GlowSans-Bold.otf}STR{/font} [FenSTR]{/size}"
-    new "{size=40}{font=GlowSans-Bold.otf}Сила{/font} [FenSTR]{/size}"
+    new "{size=40}{font=GlowSans-Bold.otf}СИЛА{/font} [FenSTR]{/size}"
 
     # game/scripts/fenstatsUI.rpy:108
     old "{size=40}{font=GlowSans-Bold.otf}SXP{/font} [FenSXP]{/size}"
-    new "{size=40}{font=GlowSans-Bold.otf}Сексуал.{/font} [FenSXP]{/size}"
+    new "{size=40}{font=GlowSans-Bold.otf}СЕКСУАЛ.{/font} [FenSXP]{/size}"
 
     # game/scripts/fenstatsUI.rpy:110
     old "{size=40}{font=GlowSans-Bold.otf}CON{/font} [FenCON]{/size}"
-    new "{size=40}{font=GlowSans-Bold.otf}Теллосложение{/font} [FenCON]{/size}"
+    new "{size=40}{font=GlowSans-Bold.otf}ТЕЛОСЛОЖЕНИЕ{/font} [FenCON]{/size}"
 
     # game/scripts/fenstatsUI.rpy:112
     old "{size=40}{font=GlowSans-Bold.otf}DEX{/font} [FenDEX]{/size}"
-    new "{size=40}{font=GlowSans-Bold.otf}Ловкость{/font} [FenDEX]{/size}"
+    new "{size=40}{font=GlowSans-Bold.otf}ЛОВКОСТЬ{/font} [FenDEX]{/size}"
 

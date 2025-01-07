@@ -3446,3 +3446,51 @@ translate russian strings:
     old "{size=80}BOND UNLOCK{/size}"
     new "{size=80}РАЗБЛОКИРОВАНИЕ УЗ{/size}"
 
+# TODO: Translation updated at 2025-01-07 22:28
+
+translate russian strings:
+
+    # game/script.rpy:270
+    old "{size=80}BOND LEVEL 0 → {size=80}1{/size}{/size}"
+    new "{size=80}ПОВЫШЕНИЕ УЗ 0 → {size=80}1{/size}{/size}"
+
+# TODO: Translation updated at 2025-01-07 22:30
+
+translate russian strings:
+
+    # game/script.rpy:323
+    old "{size=80}BOND LEVEL 1 → {size=80}2{/size}{/size}"
+    new "{size=80}ПОВЫШЕНИЕ УЗ 1 → {size=80}2{/size}{/size}"
+
+    # game/script.rpy:535
+    old "{size=80}BOND LEVEL 2 → {size=80}3{/size}{/size}"
+    new "{size=80}ПОВЫШЕНИЕ УЗ 2 → {size=80}3{/size}{/size}"
+
+# TODO: Translation updated at 2025-01-07 22:35
+
+translate russian strings:
+
+    # game/script.rpy:93
+    old "CHA UP!"
+    new "ПОВЫШЕНИЕ ХАРИЗМЫ!"
+
+    # game/script.rpy:99
+    old "CON UP!"
+    new "ПОВЫШЕНИЕ ТЕЛОСЛОЖЕНИЯ!"
+
+    # game/script.rpy:105
+    old "STR UP!"
+    new "ПОВЫШЕНИЕ СИЛЫ!"
+
+    # game/script.rpy:111
+    old "INT UP!"
+    new "ПОВЫШЕНИЕ ИНТЕЛЕКТА!"
+
+    # game/script.rpy:117
+    old "DEX UP!"
+    new "ПОВЫШЕНИЕ ЛОВКОСТИ!"
+
+    # game/script.rpy:123
+    old "SXP UP!"
+    new "ПОВЫШЕНИЕ СЕКСУАЛЬНОСТИ!"
+
