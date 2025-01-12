@@ -196,7 +196,7 @@ translate russian strings:
 
     # game/scripts/bondslistUI.rpy:246
     old "{color=#bcbcbc}{size=60}{font=GlowSans-Bold.otf}Guards{/font}{/size}{/color}\n{size=40}{font=GlowSans-Bold.otf}Bond Level{/font}{/size}   [bond08]"
-    new "{color=#bcbcbc}{size=60}{font=GlowSans-Bold.otf}Охранники{/font}{/size}{/color}\n{size=40}{font=GlowSans-Bold.otf}Ур. связи{/font}{/size}   [bond08]"
+    new "{color=#bcbcbc}{size=60}{font=GlowSans-Bold.otf}Охранник{/font}{/size}{/color}\n{size=40}{font=GlowSans-Bold.otf}Ур. связи{/font}{/size}   [bond08]"
 
     # game/scripts/bondslistUI.rpy:560
     old "{color=#bcbcbc}{size=110}{font=GlowSans-Bold.otf}Khaleb{/font}{/size}{size=50}{font=GlowSans-Bold.otf} & Co{/font}{/size}{/color}"
@@ -212,7 +212,7 @@ translate russian strings:
 
     # game/scripts/bondslistUI.rpy:608
     old "{color=#bcbcbc}{size=110}{font=GlowSans-Bold.otf}Guards{/font}{/size}{/color}"
-    new "{color=#bcbcbc}{size=110}{font=GlowSans-Bold.otf}Охранники{/font}{/size}{/color}"
+    new "{color=#bcbcbc}{size=110}{font=GlowSans-Bold.otf}Охранник{/font}{/size}{/color}"
 
     # game/scripts/bondslistUI.rpy:610
     old "{size=40}{font=GlowSans-Bold.otf}Town Guards{/font}{/size}"
@@ -252,5 +252,5 @@ translate russian strings:
 
     # game/scripts/bondslistUI.rpy:24
     old "{color=#262626}{size=220}{font=GlowSans-Bold.otf}BONDS{/font}{/size}{/color}"
-    new "{color=#262626}{size=220}{font=GlowSans-Bold.otf}УЗЫ{/font}{/size}{/color}"
+    new "{color=#262626}{size=200}{font=GlowSans-Bold.otf}УЗЫ{/font}{/size}{/color}"
 

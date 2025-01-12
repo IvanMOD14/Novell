@@ -3348,7 +3348,7 @@ translate russian strings:
 
     # game/script.rpy:38
     old "Mjolnik"
-    new "Мьельник"
+    new "Мельник"
 
 # TODO: Translation updated at 2025-01-07 21:30
 
@@ -3432,11 +3432,11 @@ translate russian strings:
 
     # game/script.rpy:1472
     old "Mjolnik Bond UP!"
-    new "Повышение Уз Мьельника!"
+    new "Повышение Уз Мельника!"
 
     # game/script.rpy:1477
     old "Mjolnik Bond DOWN!"
-    new "Понижение Уз Мьельника!"
+    new "Понижение Уз Мельника!"
 
 # TODO: Translation updated at 2025-01-07 22:02
 
@@ -3444,7 +3444,7 @@ translate russian strings:
 
     # game/script.rpy:373
     old "{size=80}BOND UNLOCK{/size}"
-    new "{size=80}РАЗБЛОКИРОВАНИЕ УЗ{/size}"
+    new "{size=60}РАЗБЛОКИРОВАНИЕ УЗ{/size}"
 
 # TODO: Translation updated at 2025-01-07 22:28
 

@@ -90,37 +90,37 @@ default cha_from_privatepool = 0
 label cha_up:
     play sound "audio/bondexpup.wav" volume 2.0
     $ FenCHA += 1
-    $ renpy.notify ("CHA UP!")
+    $ renpy.notify (_("CHA UP!"))
     return
 
 label con_up:
     play sound "audio/bondexpup.wav" volume 2.0
     $ FenCON += 1
-    $ renpy.notify ("CON UP!")
+    $ renpy.notify (_("CON UP!"))
     return
 
 label str_up:
     play sound "audio/bondexpup.wav" volume 2.0
     $ FenSTR += 1
-    $ renpy.notify ("STR UP!")
+    $ renpy.notify (_("STR UP!"))
     return
 
 label int_up:
     play sound "audio/bondexpup.wav" volume 2.0
     $ FenINT += 1
-    $ renpy.notify ("INT UP!")
+    $ renpy.notify (_("INT UP!"))
     return
 
 label dex_up:
     play sound "audio/bondexpup.wav" volume 2.0
     $ FenDEX += 1
-    $ renpy.notify ("DEX UP!")
+    $ renpy.notify (_("DEX UP!"))
     return
 
 label sxp_up:
     play sound "audio/bondexpup.wav" volume 2.0
     $ FenSXP += 1
-    $ renpy.notify ("SXP UP!")
+    $ renpy.notify (_("SXP UP!"))
     return
 
 

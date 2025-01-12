@@ -21559,7 +21559,7 @@ translate russian terrance_bond_03_390b36d8:
 translate russian terrance_bond_03_aa8a89a0:
 
     # "You also notice, even in your tired state, that the cart is clean and a fresh layer of hay is covering the inside of the cart with a few empty burlap sacks rolled up."
-    "Ты также замечаешь, даже несмотря на свою усталость, что телега чистая, а внутри нее лежит свежий слой сена и несколько свернутых в рулон пустых мешков."
+    "Даже в усталом состоянии ты замечаешь, что телега чистая, внутри лежит свежий слой сена и несколько пустых мешков из рогожи, свернутых в рулон."
 
 # game/scripts/events.rpy:7072
 translate russian terrance_bond_03_4095b7a0:
@@ -21595,7 +21595,7 @@ translate russian terrance_bond_03_acf4c351:
 translate russian terrance_bond_03_2b0c17e0:
 
     # Terrance smile "So I thought ye could have a nap in me cart as I haul it to Mjolnik's. So get in and get comfy."
-    Terrance smile "Вот я и подумал, что ты мог бы вздремнуть в моей тележке, пока я везу ее к Мьельнику. Так что залезай и устраивайся поудобнее."
+    Terrance smile "Вот я и подумал, что ты мог бы вздремнуть в моей тележке, пока я везу ее к Мельнику. Так что залезай и устраивайся поудобнее."
 
 # game/scripts/events.rpy:7091
 translate russian terrance_bond_03_27a514af:
@@ -21619,7 +21619,7 @@ translate russian terrance_bond_03_018b1623:
 translate russian terrance_bond_03_e9d1f6ce:
 
     # Fen "So... Who's Mjolnik?"
-    Fen "Так... Кто такой Мьельник?"
+    Fen "Так... Кто такой Мельник?"
 
 # game/scripts/events.rpy:7100
 translate russian terrance_bond_03_f478ccdd:
@@ -21637,13 +21637,13 @@ translate russian terrance_bond_03_7bb47dda:
 translate russian terrance_bond_03_d7d5accd:
 
     # "Between the gentle movement of the cart, the smell of the fresh hay and the warmth of the blanket your eyes grow even heavier."
-    "От мягкого покачивания тележки, запаха свежего сена и тепла одеяла твои веки становятся еще тяжелее."
+    "От плавного движения тележки, запаха свежего сена и тепла одеяла твои глаза становятся еще тяжелее."
 
 # game/scripts/events.rpy:7116
 translate russian terrance_bond_03_7a10bbbe:
 
     # "You hear Terrance begin to sing a song, his voice low and rumbling, like an avalanche going down a mountainside."
-    "Ты слышишь, как Терренс начинает петь песню, его голос низкий и рокочущий, как лавина, спускающаяся по склону горы."
+    "Ты слышишь, как Терранс начинает петь песню, его голос низкий и грохочущий, как лавина, сходящая со склона горы."
 
 # game/scripts/events.rpy:7121
 translate russian terrance_bond_03_41a9c5b2:
@@ -21661,13 +21661,13 @@ translate russian terrance_bond_03_40a044d3:
 translate russian terrance_bond_03_8d6dad58:
 
     # "Stepping out of the cart, you feel the cool, fresh breeze gently brush against your face."
-    "Вылазя из тележки, ты чувствуешь, как прохладный, свежий ветерок нежно овевает твое лицо."
+    "Выходя из тележки, ты чувствуешь, как прохладный свежий ветерок ласково касается твоего лица."
 
 # game/scripts/events.rpy:7145
 translate russian terrance_bond_03_1a171ef5:
 
     # "You've arrived at a vast farm field. The weather is pleasant, and the wheat gleams beneath the sunlight."
-    "Вы прибыли на обширное фермерское поле. Погода стоит приятная, и пшеница блестит на солнце."
+    "Ты попал на огромное фермерское поле. Погода приятная, и пшеница блестит под лучами солнца."
 
 # game/scripts/events.rpy:7147
 translate russian terrance_bond_03_ec7a5163:
@@ -21703,19 +21703,19 @@ translate russian terrance_bond_03_6b84cb44:
 translate russian terrance_bond_03_2c123748:
 
     # Terrance "[name], this is Mjolnik, he's that farmer I told you about."
-    Terrance "[name], это Мьельник, тот самый фермер, о котором я тебе рассказывал."
+    Terrance "[name], это Мельник, тот самый фермер, о котором я тебе рассказывал."
 
 # game/scripts/events.rpy:7182
 translate russian terrance_bond_03_16e65364:
 
     # Terrance "Mjolnik, this is [name]. I told you about him last time we chatted."
-    Terrance "Мьельник, это [name]. Я рассказывал тебе о нем, когда мы общались в прошлый раз."
+    Terrance "Мельник, это [name]. Я рассказывал тебе о нем, когда мы общались в прошлый раз."
 
 # game/scripts/events.rpy:7193
 translate russian terrance_bond_03_41703b4b:
 
     # "Making sure to look Mjolnik straight in the eye, you shake his hand."
-    "Стараясь смотреть Мьельнику прямо в глаза, ты жмешь ему руку."
+    "Стараясь смотреть Мельнику прямо в глаза, ты жмешь ему руку."
 
 # game/scripts/events.rpy:7195
 translate russian terrance_bond_03_5a55cf2a:
@@ -21727,19 +21727,19 @@ translate russian terrance_bond_03_5a55cf2a:
 translate russian terrance_bond_03_063d7540:
 
     # Mjolnik normal "Well, I be right glad to meetcha there [name]! Any friend of Terrance must be a good egg."
-    Mjolnik normal "Что ж, я был бы очень рад познакомиться с тобой [name]! Любой друг Терренса, должно быть, хороший парень."
+    Mjolnik normal "Что ж, я был бы очень рад познакомиться с тобой, [name]! Любой друг Терренса должен быть хорошим парнем."
 
 # game/scripts/events.rpy:7199
 translate russian terrance_bond_03_b471d395:
 
     # Mjolnik grin "Welcome to my farm, hope y'all can stay for lunch?"
-    Mjolnik grin "Добро пожаловать на мою ферму, надеюсь, ты все сможешь остаться на обед?"
+    Mjolnik grin "Добро пожаловать на мою ферму, надеюсь, вы все сможете остаться на обед?"
 
 # game/scripts/events.rpy:7202
 translate russian terrance_bond_03_43d4bcbe:
 
     # "Letting your hand go, he looks at you with wide expectant eyes and you nod at him."
-    "Отпустив твою руку, он смотрит на тебя широко раскрытыми выжидающими глазами, и ты киваешь ему."
+    "Отпустив твою руку, он смотрит на тебя широкими ожидающими глазами, и ты киваешь ему."
 
 # game/scripts/events.rpy:7204
 translate russian terrance_bond_03_bf0150cf:
@@ -21757,7 +21757,7 @@ translate russian terrance_bond_03_3d329235:
 translate russian terrance_bond_03_3729d66f:
 
     # "As you and Terrance follow him into the house, you can't help but notice that Mjolnik has a very plump, but obviously muscular rump."
-    "Когда вы с Терренсом идете за ним в дом, ты не можешь не заметить, что у Мьельника очень пухлый, но явно мускулистый зад."
+    "Когда вы с Терренсом идете за ним в дом, ты не можешь не заметить, что у Мельника очень пухлый, но явно мускулистый зад."
 
 # game/scripts/events.rpy:7223
 translate russian terrance_bond_03_ec1eecbc:
@@ -21769,7 +21769,7 @@ translate russian terrance_bond_03_ec1eecbc:
 translate russian terrance_bond_03_063d7540_1:
 
     # Mjolnik normal "Well, I be right glad to meetcha there [name]! Any friend of Terrance must be a good egg."
-    Mjolnik normal "Что ж, я был бы очень рад познакомиться с тобой [name]! Любой друг Терренса, должно быть, хороший парень."
+    Mjolnik normal "Что ж, я был бы очень рад познакомиться с тобой, [name]! Любой друг Терренса должен быть хорошим парнем."
 
 # game/scripts/events.rpy:7227
 translate russian terrance_bond_03_ed416493:
@@ -21781,7 +21781,7 @@ translate russian terrance_bond_03_ed416493:
 translate russian terrance_bond_03_0a86575e:
 
     # "As he's talking and inadvertently trying to tear your arm out of its socket, you can easily sneak a look at Mjolnik's body."
-    "Пока он говорит и непреднамеренно пытается вырвать твою руку из сустава, ты легко можешь украдкой взглянуть на тело Мьельника."
+    "Пока он говорит и непреднамеренно пытается вырвать твою руку из сустава, ты легко можешь украдкой взглянуть на тело Мельника."
 
 # game/scripts/events.rpy:7242
 translate russian terrance_bond_03_937d68fe:
@@ -21805,7 +21805,7 @@ translate russian terrance_bond_03_34cf2d1c:
 translate russian terrance_bond_03_1cede343:
 
     # "Suddenly the shaking stops and you quickly look back up into Mjolnik's earnest face. Not knowing what he just said, you simply nod."
-    "Внезапно дрожь прекращается, и ты быстро поднимаешь взгляд на серьезное лицо Мьельника. Не понимая, что он только что сказал, ты просто киваешь."
+    "Внезапно дрожь прекращается, и ты быстро поднимаешь взгляд на серьезное лицо Мельника. Не понимая, что он только что сказал, ты просто киваешь."
 
 # game/scripts/events.rpy:7253
 translate russian terrance_bond_03_0dbe5933:
@@ -21823,13 +21823,13 @@ translate russian terrance_bond_03_c81ab914:
 translate russian terrance_bond_03_1d66481c:
 
     # "Turning to face him, you see he has a slight smile and he winks at you, and then gestures towards Mjolnik."
-    "Повернувшись к нему лицом, ты видишь, что на его лице легкая улыбка, и он подмигивает тебе, а затем указывает на Мьельника."
+    "Повернувшись к нему лицом, ты видишь, что на его лице легкая улыбка, и он подмигивает тебе, а затем указывает на Мельника."
 
 # game/scripts/events.rpy:7264
 translate russian terrance_bond_03_17ce59ab:
 
     # "Turning to face the bull, you can't help but notice that Mjolnik has a very plump, but obviously muscular rump."
-    "Повернувшись лицом к быку, ты не можешь не заметить, что у Мьельника очень пухлый, но явно мускулистый зад."
+    "Повернувшись лицом к быку, ты не можешь не заметить, что у Мельника очень пухлый, но явно мускулистый зад."
 
 # game/scripts/events.rpy:7278
 translate russian terrance_bond_03_c800af18:
@@ -21841,19 +21841,19 @@ translate russian terrance_bond_03_c800af18:
 translate russian terrance_bond_03_a70627db:
 
     # "You feel yourself begin to get a bit hard yourself and you manage to at least put your hand out, which Mjolnik takes, shaking it with enthusiasm."
-    "Ты чувствуешь, что и сам начинаешь немного напрягаться, и тебе удается, по крайней мере, протянуть руку, которую Мьельник берет и с энтузиазмом пожимает."
+    "Ты чувствуешь, что и сам начинаешь немного напрягаться, и тебе удается, по крайней мере, протянуть руку, которую Мельник берет и с энтузиазмом пожимает."
 
 # game/scripts/events.rpy:7282
 translate russian terrance_bond_03_f5ea6070:
 
     # Mjolnik "Well, I be right glad to meetcha there [name]! Any friend of Terrance must be a good egg."
-    Mjolnik "Что ж, я был бы очень рад познакомиться с тобой [name]! Любой друг Терренса, должно быть, хороший парень."
+    Mjolnik "Что ж, я был бы очень рад познакомиться с тобой, [name]! Любой друг Терренса должен быть хорошим парнем."
 
 # game/scripts/events.rpy:7284
 translate russian terrance_bond_03_f8f9ff4b:
 
     # Mjolnik smile "Welcome to my farm, hope y'all can stay for lunch?"
-    Mjolnik smile "Добро пожаловать на мою ферму, надеюсь, ты все сможешь остаться на обед?"
+    Mjolnik smile "Добро пожаловать на мою ферму, надеюсь, вы все сможете остаться на обед?"
 
 # game/scripts/events.rpy:7286
 translate russian terrance_bond_03_f2f4b0ec:
@@ -21877,7 +21877,7 @@ translate russian terrance_bond_03_b4afcb18:
 translate russian terrance_bond_03_43d4bcbe_1:
 
     # "Letting your hand go, he looks at you with wide expectant eyes and you nod at him."
-    "Отпустив твою руку, он смотрит на тебя широко раскрытыми выжидающими глазами, и ты киваешь ему."
+    "Отпустив твою руку, он смотрит на тебя широкими ожидающими глазами, и ты киваешь ему."
 
 # game/scripts/events.rpy:7303
 translate russian terrance_bond_03_bf0150cf_1:
@@ -21919,7 +21919,7 @@ translate russian terrance_bond_03_c790b8fb:
 translate russian terrance_bond_03_420590cd:
 
     # Terrance smile "Mjolnik's a nice lad, but he's clueless about things regarding anything sexual."
-    Terrance smile "Мьельник - славный парень, но он ничего не смыслит в том, что касается секса."
+    Terrance smile "Мельник - славный парень, но он ничего не смыслит в том, что касается секса."
 
 # game/scripts/events.rpy:7329
 translate russian terrance_bond_03_ad5b8ce9:
@@ -21961,13 +21961,13 @@ translate russian terrance_bond_03_916be258:
 translate russian terrance_bond_03_1fdb9d49:
 
     # "Following Mjolnik into the farmhouse, you stop and look around."
-    "Следуя за Мьельником в фермерский дом, ты останавливашься и оглядываешься по сторонам."
+    "Следуя за Мельником в фермерский дом, ты останавливашься и оглядываешься по сторонам."
 
 # game/scripts/events.rpy:7352
 translate russian terrance_bond_03_4dd1bcbb:
 
     # "The house is very tidy and homely. There's a soft rug covering a lot of the wood floor and some old tapestries on the walls."
-    "В доме очень чисто и по-домашнему уютно. Деревянный пол устлан мягким ковром, а на стенах висят старинные ковры."
+    "Дом очень опрятный и уютный. На деревянном полу лежит мягкий ковер, а на стенах висят старинные гобелены."
 
 # game/scripts/events.rpy:7354
 translate russian terrance_bond_03_2b286992:
@@ -21991,7 +21991,7 @@ translate russian terrance_bond_03_c3d0cbae:
 translate russian terrance_bond_03_5e315139:
 
     # "Looking for the source of the smell, you see a rack containing dozens of bottles of various sizes."
-    "Ища источник запаха, ты видишь стеллаж с десятками флаконов разного размера."
+    "В поисках источника запаха ты видишь стеллаж, на котором стоят десятки бутылок разного размера."
 
 # game/scripts/events.rpy:7367
 translate russian terrance_bond_03_f5f56494:
@@ -22045,7 +22045,7 @@ translate russian terrance_bond_03_e443918b:
 translate russian terrance_bond_03_b8d627fd:
 
     # "You can taste that Mjolnik has tried to add some herbs and spices but at best adds one per dish."
-    "Ты замечаешь, что Мьельник пытался добавить немного трав и специй, но в лучшем случае добавлял по одной на блюдо."
+    "Ты можешь почувствовать, что Мельник пытался добавить немного трав и специй, но в лучшем случае добавлял по одной на блюдо."
 
 # game/scripts/events.rpy:7393
 translate russian terrance_bond_03_9934098d:
@@ -22057,7 +22057,7 @@ translate russian terrance_bond_03_9934098d:
 translate russian terrance_bond_03_5f12ebdd:
 
     # "After eating, Mjolnik and Terrance get into an intense discussion about the various crops and farming methods and oh god, it's boring..."
-    "После еды Мьельник и Терренс вступают в оживленную дискуссию о различных культурах и методах ведения сельского хозяйства, и, о боже, это так скучно..."
+    "После еды Мельник и Терренс вступают в оживленную дискуссию о различных культурах и методах ведения сельского хозяйства, и, о боже, это так скучно..."
 
 # game/scripts/events.rpy:7403
 translate russian terrance_bond_03_15244cf7:
@@ -22093,7 +22093,7 @@ translate russian terrance_bond_03_f74669bf:
 translate russian terrance_bond_03_a09a282a:
 
     # "You call out to Mjolnik."
-    "Ты зовешь Мьельника."
+    "Ты зовешь Мельника."
 
 # game/scripts/events.rpy:7420
 translate russian terrance_bond_03_74cd470b:
@@ -22123,13 +22123,13 @@ translate russian terrance_bond_03_cf22384d:
 translate russian terrance_bond_03_8bc58128:
 
     # "While Mjolnik is a pretty basic cook, you're sure with these spices, you could really up your own cooking game. You make a note to find out more about this herbalist as well."
-    "Несмотря на то, что Мьельник готовит довольно просто, ты уверен, что с помощью этих специй ты сможешь создать свою собственную кулинарную игру. Ты также делаешь пометку, чтобы узнать больше об этом травнике."
+    "Хотя Мельник умеет готовить довольно сносно, вы уверены, что с этими специями вы сможете поднять свой кулинарный уровень. Запишите, что нужно узнать побольше об этом травнике."
 
 # game/scripts/events.rpy:7435
 translate russian terrance_bond_03_724d351e:
 
     # "Suddenly you feel someone standing behind you and looking over your shoulder you see Mjolnik's smiling face."
-    "Внезапно ты чувствуешь, что кто-то стоит у тебя за спиной и, оглянувшись через плечо, видишь улыбающееся лицо Мьельника."
+    "Внезапно ты чувствуешь, что кто-то стоит у тебя за спиной, и оглянувшись через плечо, видишь улыбающееся лицо Мельника."
 
 # game/scripts/events.rpy:7443
 translate russian terrance_bond_03_7ffba884:
@@ -22165,7 +22165,7 @@ translate russian terrance_bond_03_8291fb63:
 translate russian terrance_bond_03_b431c780:
 
     # "Holding it out in front of Mjolnik's head, you feel him get even closer to you and he samples it."
-    "Держа его перед головой Мьельника, ты чувствуешь, как он приближается к тебе еще ближе и пробует его на вкус."
+    "Держа его перед головой Мельника, ты чувствуешь, как он приближается к тебе еще ближе и пробует его на вкус."
 
 # game/scripts/events.rpy:7466
 translate russian terrance_bond_03_90579e7a:
@@ -22195,7 +22195,7 @@ translate russian terrance_bond_03_8077bfd9:
 translate russian terrance_bond_03_0a184f6e:
 
     # Terrance "Let him go Mjolnik, ye gonnae crush the poor lad."
-    Terrance "Отпусти его Мьельник, ты раздавишь бедного парня."
+    Terrance "Отпусти его Мельник, ты раздавишь бедного парня."
 
 # game/scripts/events.rpy:7482
 translate russian terrance_bond_03_31c7eba9:
@@ -22219,7 +22219,7 @@ translate russian terrance_bond_03_a8863be3:
 translate russian terrance_bond_03_13105180:
 
     # Terrance normal "But we've been here long enough. Should let Mjolnik get back to work and we need to get to my house before too long."
-    Terrance normal "Но мы пробыли здесь достаточно долго. Я должен позволить Мьельнику вернуться к работе, и нам нужно поскорее добраться до моего дома."
+    Terrance normal "Но мы пробыли здесь достаточно долго. Я должен позволить Мельнику вернуться к работе, и нам нужно поскорее добраться до моего дома."
 
 # game/scripts/events.rpy:7493
 translate russian terrance_bond_03_125e4ca9:
@@ -22231,7 +22231,7 @@ translate russian terrance_bond_03_125e4ca9:
 translate russian terrance_bond_03_8a27a139:
 
     # "You see Terrance give you a slight wink before he gives Mjolnik a quick hug and exits."
-    "Ты видишь, как Терренс слегка подмигивает тебе, прежде чем быстро обнять Мьельника и уйти."
+    "Ты видишь, как Терренс слегка подмигивает тебе, прежде чем быстро обнять Мельника и уйти."
 
 # game/scripts/events.rpy:7499
 translate russian terrance_bond_03_da9b98ab:
@@ -22243,7 +22243,7 @@ translate russian terrance_bond_03_da9b98ab:
 translate russian terrance_bond_03_71d0c4c0:
 
     # "Mjolnik, still with that sheepish grin, holds out his hand."
-    "Мьельник, все с той же застенчивой улыбкой, протягивает руку."
+    "Мельник, все с той же застенчивой улыбкой, протягивает руку."
 
 # game/scripts/events.rpy:7511
 translate russian terrance_bond_03_940abafd:
@@ -22279,13 +22279,13 @@ translate russian terrance_bond_03_68cd107f:
 translate russian terrance_bond_03_07c11b1d:
 
     # "Seems Mjolnik is the type to wear his heart on his sleeve."
-    "Похоже, Мьельник из тех, кто не скрывает своих чувств."
+    "Похоже, Мельник из тех, кто не скрывает своих чувств."
 
 # game/scripts/events.rpy:7530
 translate russian terrance_bond_03_71d0c4c0_1:
 
     # "Mjolnik, still with that sheepish grin, holds out his hand."
-    "Мьельник, все с той же застенчивой улыбкой, протягивает руку."
+    "Мельник, все с той же застенчивой улыбкой, протягивает руку."
 
 # game/scripts/events.rpy:7537
 translate russian terrance_bond_03_940abafd_1:
@@ -22321,7 +22321,7 @@ translate russian terrance_bond_03_68cd107f_1:
 translate russian terrance_bond_03_07c11b1d_1:
 
     # "Seems Mjolnik is the type to wear his heart on his sleeve."
-    "Похоже, Мьельник из тех, кто не скрывает своих чувств."
+    "Похоже, Мельник из тех, кто не скрывает своих чувств."
 
 # game/scripts/events.rpy:7553
 translate russian terrance_bond_03_fb1f78b7:
@@ -22333,7 +22333,7 @@ translate russian terrance_bond_03_fb1f78b7:
 translate russian terrance_bond_03_71d0c4c0_2:
 
     # "Mjolnik, still with that sheepish grin, holds out his hand."
-    "Мьельник, все с той же застенчивой улыбкой, протягивает руку."
+    "Мельник, все с той же застенчивой улыбкой, протягивает руку."
 
 # game/scripts/events.rpy:7565
 translate russian terrance_bond_03_940abafd_2:
@@ -22363,7 +22363,7 @@ translate russian terrance_bond_03_d6b3eff6:
 translate russian terrance_bond_03_1cb6b6b2:
 
     # "You can't help but get hard and you feel your erection pressing against Mjolnik's dick and you feel him starting to get hard himself."
-    "Ты не можешь не возбудиться и чувствуешь, как твоя эрекция прижимается к члену Мьельника, и ты чувствуешь, как он сам начинает возбуждаться."
+    "Ты не можешь не возбудиться и чувствуешь, как твоя эрекция прижимается к члену Мельника, и ты чувствуешь, как он сам начинает возбуждаться."
 
 # game/scripts/events.rpy:7585
 translate russian terrance_bond_03_fd7581de:
@@ -22411,7 +22411,7 @@ translate russian terrance_bond_03_68cd107f_2:
 translate russian terrance_bond_03_07c11b1d_2:
 
     # "Seems Mjolnik is the type to wear his heart on his sleeve."
-    "Похоже, Мьельник из тех, кто не скрывает своих чувств."
+    "Похоже, Мельник из тех, кто не скрывает своих чувств."
 
 # game/scripts/events.rpy:7605
 translate russian terrance_bond_03_22255e8f:
@@ -22429,13 +22429,13 @@ translate russian terrance_bond_03_ce8e65d1:
 translate russian terrance_bond_03_f8100c69:
 
     # "The two of you walk down the road from Mjolnik's, your blanket and pillow being carried by Terrance."
-    "Вы вдвоем идете по дороге от Мьельника, Терренс несет твое одеяло и подушку."
+    "Вы вдвоем идете по дороге от Мельника, Терренс несет твое одеяло и подушку."
 
 # game/scripts/events.rpy:7622
 translate russian terrance_bond_03_3293da00:
 
     # "He informed you that he was leaving his cart at Mjolnik's, so the bull could load it with produce."
-    "Он сказал тебе, что оставил свою тележку у Мьельника, чтобы бык мог нагрузить ее продуктами."
+    "Он сказал тебе, что оставил свою тележку у Мельника, чтобы бык мог нагрузить ее продуктами."
 
 # game/scripts/events.rpy:7624
 translate russian terrance_bond_03_7076cc60:
@@ -22525,7 +22525,7 @@ translate russian terrance_bond_03_03d6e8b8:
 translate russian terrance_bond_03_4733f34a:
 
     # Terrance "Welcome to me home lad!"
-    Terrance "Добро пожаловать ко мне домой парень!"
+    Terrance "Добро пожаловать ко мне домой, парень!"
 
 # game/scripts/events.rpy:7668
 translate russian terrance_bond_03_e0c2cc0a:
@@ -22549,19 +22549,19 @@ translate russian terrance_bond_03_a62f5b43:
 translate russian terrance_bond_03_04deb432:
 
     # "You do see a large tangle of various wild berries and a few fruit trees off to the side but none of the leafy veggies or grains you saw at Mjolnik's."
-    "Ты действительно видишь большие заросли различных лесных ягод и несколько фруктовых деревьев в стороне, но ни листовых овощей, ни злаков, которые ты видел у Мьельника."
+    "Ты действительно видишь большие заросли различных лесных ягод и несколько фруктовых деревьев в стороне, но ни листовых овощей, ни злаков, которые ты видел у Мельника."
 
 # game/scripts/events.rpy:7682
 translate russian terrance_bond_03_6c9c28a3:
 
     # "You watch as Terrance unlatches the front door and hauls it open."
-    "Ты наблюдаешь, как Терренс отпирает входную дверь и распахивает ее настежь."
+    "Ты наблюдаешь, как Терренс отпирает входную дверь и распахивает ее."
 
 # game/scripts/events.rpy:7687
 translate russian terrance_bond_03_9a193b25:
 
     # "The house is just one room. There's a kitchen and dining area off to one side and there's a large table and some wooden chairs next to it."
-    "В доме всего одна комната. С одной стороны расположены кухня и столовая, а рядом с ними большой стол и несколько деревянных стульев."
+    "В доме всего одна комната. С одной стороны расположена кухня и столовая, а рядом с ними большой стол и несколько деревянных стульев."
 
 # game/scripts/events.rpy:7693
 translate russian terrance_bond_03_da8120d8:
@@ -22831,7 +22831,7 @@ translate russian terrance_bond_03_7784916a:
 translate russian terrance_bond_03_84b8ee87:
 
     # Terrance "I dunnae have the selection like Mjolnik, but I do have a few spices. Are ye up for making dinner lad? I cannae do half as good a job as ye."
-    Terrance "У меня нет такого ассортимента, как у Мьельника, но кое-какие специи у меня есть. Ты готов приготовить ужин, парень? У меня и вполовину не получится так хорошо, как у тебя."
+    Terrance "У меня нет такого ассортимента, как у Мельника, но кое-какие специи у меня есть. Ты готов приготовить ужин, парень? У меня и вполовину не получится так хорошо, как у тебя."
 
 # game/scripts/events.rpy:7822
 translate russian terrance_bond_03_785ebfd6:
@@ -22963,7 +22963,7 @@ translate russian terrance_bond_03_15bf1652:
 translate russian terrance_bond_03_a7bd4689:
 
     # "You idly wonder if Mjolnik might have picked up the habit from Terrance."
-    "Ты лениво задаешься вопросом, не мог ли Мьельник перенять эту привычку у Терренса."
+    "Ты лениво задаешься вопросом, не мог ли Мельник перенять эту привычку у Терренса."
 
 # game/scripts/events.rpy:7900
 translate russian terrance_bond_03_01e2c328:
@@ -23347,7 +23347,7 @@ translate russian terrance_bond_03_f7222ac2:
 translate russian terrance_bond_03_c3732372:
 
     # Terrance naked normal "If ye want to talk about them on the way back to Mjolnik's, feel free. Once there you can ride in the cart back to town."
-    Terrance naked normal "Если ты захочешь поговорить о них на обратном пути к Мьельник, не стесняйся. Оказавшись там, ты можешь вернуться в город на тележке."
+    Terrance naked normal "Если ты захочешь поговорить о них на обратном пути к Мельник, не стесняйся. Оказавшись там, ты можешь вернуться в город на тележке."
 
 # game/scripts/events.rpy:8134
 translate russian terrance_bond_03_3d9c0ab7:
@@ -24103,7 +24103,7 @@ translate russian terrance_bond_03_sex_f7222ac2:
 translate russian terrance_bond_03_sex_c3732372:
 
     # Terrance naked normal "If ye want to talk about them on the way back to Mjolnik's, feel free. Once there you can ride in the cart back to town."
-    Terrance naked normal "Если ты захочешь поговорить о них на обратном пути к Мьельнику, не стесняйся. Оказавшись там, ты можешь вернуться в город на тележке."
+    Terrance naked normal "Если ты захочешь поговорить о них на обратном пути к Мельнику, не стесняйся. Оказавшись там, ты можешь вернуться в город на тележке."
 
 # game/scripts/events.rpy:8594
 translate russian terrance_bond_03_sex_49f3375b:
@@ -24511,7 +24511,7 @@ translate russian terrance_bond_03_sex_9148ea13:
 translate russian terrance_bond_03_sex_63cbbf4f:
 
     # Terrance naked smile "If ye want to talk about them on the way back to Mjolnik's, I'd love too. Once there you can ride in the cart back to town."
-    Terrance naked smile "Если ты захочешь поговорить о них на обратном пути к Мьельнику, я тоже с удовольствием. После этого ты сможешь вернуться в город на тележке."
+    Terrance naked smile "Если ты захочешь поговорить о них на обратном пути к Мельнику, я тоже с удовольствием. После этого ты сможешь вернуться в город на тележке."
 
 # game/scripts/events.rpy:8809
 translate russian terrance_bond_03_sex_3d9c0ab7:
@@ -24697,7 +24697,7 @@ translate russian terrance_bond_03_sex_06f05fe6:
 translate russian terrance_bond_03_sex_37fa101d:
 
     # Terrance "Damn yer hide lad, now we both messy. Guess before we get going to Mjolnik's, we'll have to get a bath in the stream."
-    Terrance "Черт бы побрал твою шкуру, парень, теперь мы оба в грязи. Думаю, прежде чем отправиться к Мьельнику, нам нужно искупаться в ручье."
+    Terrance "Черт бы побрал твою шкуру, парень, теперь мы оба в грязи. Думаю, прежде чем отправиться к Мельнику, нам нужно искупаться в ручье."
 
 # game/scripts/events.rpy:8900
 translate russian terrance_bond_03_sex_faff8426:
@@ -28063,7 +28063,7 @@ translate russian strings:
 
     # game/scripts/events.rpy:7184
     old "Discreetly check Mjolnik out, I mean it doesn't hurt to check him out?"
-    new "Незаметно проверить Мьельника, я имею в виду, что проверить его не помешает?"
+    new "Незаметно проверить Мельника, я имею в виду, что проверить его не помешает?"
 
     # game/scripts/events.rpy:7184
     old "Look at this hunk o beef!"
