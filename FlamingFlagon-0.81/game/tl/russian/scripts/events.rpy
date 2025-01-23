@@ -17641,7 +17641,7 @@ translate russian bathhouse_niall_end_84636a5b:
 translate russian bathhouse_niall_end_633ad9e7:
 
     # "Those two black furred dogs are being rowdy, wrestling each other in the pool and causing big splashes whenever one of them falls down in the water."
-    "Эти две собаки с черной шерстью ведут себя буйно, борются друг с другом в бассейне и поднимают большие брызги всякий раз, когда одна из них падает в воду."
+    "Эти двое черных псов ведут себя шумно, борясь друг с другом в бассейне и создавая большие брызги, когда один из них падает в воду."
 
 # game/scripts/events.rpy:8838
 translate russian bathhouse_niall_end_0f0e36a8:
@@ -17671,13 +17671,13 @@ translate russian bathhouse_niall_end_e274d9cc:
 translate russian bathhouse_niall_end_4aa2bb29:
 
     # "But then, Arek sucks in a bit of water through his mouth and turns up to spray it right into the hound's eyes, making him jump back, blinded." with vpunch
-    "Но затем Арек набирает ртом немного воды и, повернувшись, брызгает ей прямо в глаза псу, заставляя его отскочить назад." with vpunch
+    "Но затем Арек набирает ртом немного воды, и, развернувшись, брызгает ею прямо в глаза псу, заставляя его отпрыгнуть назад." with vpunch
 
 # game/scripts/events.rpy:8859
 translate russian bathhouse_niall_end_7ea33fe7:
 
     # "As Trei rubs his eyes to get the mixture of scented bath oil and spit out, he blinks a couple of times before realising he's looking right over at you."
-    "Трей трет глаза, чтобы намазать их ароматическим маслом для ванны и выплюнуть, и пару раз моргает, прежде чем осознает, что смотрит прямо на тебя."
+    "Когда Трей трет глаза, чтобы вытереть смесь ароматического масла для ванны и слюни, он пару раз моргает, прежде чем понять, что смотрит прямо на тебя."
 
 # game/scripts/events.rpy:8861
 translate russian bathhouse_niall_end_966c3277:
@@ -17725,13 +17725,13 @@ translate russian bathhouse_niall_end_1b0d345e:
 translate russian bathhouse_niall_end_b35e6f8c:
 
     # Khaleb naked normal "We ain't strangers or nothin' to ya, right?"
-    Khaleb naked normal "Мы ведь тебе не чужие и вообще никто, верно?"
+    Khaleb naked normal "Мы ведь тебе не чужие, верно?"
 
 # game/scripts/events.rpy:8893
 translate russian bathhouse_niall_end_0892dbf4:
 
     # Fen "N-No. It's...It's that I saw some other people leave just now, so I figured that might mean you guys want to be left alone."
-    Fen "Н-нет. Это...это дело в том, что я только что видел, как уходили другие люди, и решил, что это может означать, что вы ребята, хотите, чтобы вас оставили в покое."
+    Fen "Н-нет. Просто... Просто я видел, как уходили другие люди, и подумал, что это значит, что вы хотите, чтобы вас оставили в покое."
 
 # game/scripts/events.rpy:8896
 translate russian bathhouse_niall_end_18867e13:
@@ -17761,13 +17761,13 @@ translate russian bathhouse_niall_end_fe7d740d:
 translate russian bathhouse_niall_end_a54708dc:
 
     # Khaleb "Yeah, that wasn't nothing. Only my bros livening up the joint with a bit a' good ol' fashion wet brawling."
-    Khaleb "Да, это было не просто так. Просто мои братаны оживили заведение, устроив небольшую драку в стиле 'старого доброго'."
+    Khaleb "Да, ничего такого не было. Просто мои братья оживили заведение, устроив немного старой доброй драки."
 
 # game/scripts/events.rpy:8907
 translate russian bathhouse_niall_end_49971214:
 
     # Arek "And winner gets a special 'surprise treat' from big bro!"
-    Arek "А победитель получит специальный 'сюрприз-угощение' от большего бро!"
+    Arek "А победитель получит специальный 'сюрприз' от большего бро!"
 
 # game/scripts/events.rpy:8909
 translate russian bathhouse_niall_end_f2140622:
@@ -17797,7 +17797,7 @@ translate russian khaleb_bathmenu_01_aeea575c:
 translate russian about_trei_wrestle_3ad863a2:
 
     # Fen "Alright then, you're on!"
-    Fen "Хорошо, тогда ты в деле!"
+    Fen "Хорошо, тогда ты начинаешь!"
 
 # game/scripts/events.rpy:8941
 translate russian about_trei_wrestle_37cabf40:
@@ -17845,7 +17845,7 @@ translate russian about_trei_wrestle_8e94635e:
 translate russian about_trei_wrestle_825711d9:
 
     # Khaleb "'{i}When{/i} I win', kid. That's the kinda mentality you gotta have."
-    Khaleb "'{i}Когда{/i} выигрываю', малыш. Вот такой у тебя должен быть склад ума."
+    Khaleb "'{i}Когда{/i} я выигрываю', малыш. Вот такой у тебя должен быть склад ума."
 
 # game/scripts/events.rpy:8958
 translate russian about_trei_wrestle_3ea48cd6:
@@ -17857,7 +17857,7 @@ translate russian about_trei_wrestle_3ea48cd6:
 translate russian about_trei_wrestle_0aada1af:
 
     # Khaleb "Could be a free dinner this time, could be a swanky new accessory that'll bring out the shine in your eyes..."
-    Khaleb "На этот раз это может быть бесплатный ужин, а может быть новый шикарный аксессуар, который подчеркнет блеск тових глаз..."
+    Khaleb "На этот раз это может быть бесплатный ужин, а может быть новый шикарный аксессуар, который подчеркнет блеск твоих глаз..."
 
 # game/scripts/events.rpy:8964
 translate russian about_trei_wrestle_a096f557:
@@ -18085,7 +18085,7 @@ translate russian about_trei_wrestle_2_a8b1d18f:
 translate russian about_trei_wrestle_2_f5562b1a:
 
     # Fen naked smile2 "Ahahaha! Thanks. But it was nothing, really."
-    Fen naked smile2 "Ахахаха! Спасибо. Но на самом деле это ничего не значило."
+    Fen naked smile2 "Ахахаха! Спасибо. Но это была ерунда, правда."
 
 # game/scripts/events.rpy:9167
 translate russian about_trei_wrestle_2_2aba7c0e:
@@ -18115,7 +18115,7 @@ translate russian bathhouse_khaleb_kiss_you_64ca6884:
 translate russian bathhouse_khaleb_kiss_you_794bb230:
 
     # "You blush hard, so surprised that you try to push him away on instinct. But his big, brutish arms are wrapped around you, holding you in place tight."
-    "Ты сильно краснеешь, настолько удивленн, что инстинктивно пытаешься оттолкнуть его. Но его большие, грубые руки обхватывают тебя, крепко удерживая на месте."
+    "Ты сильно краснеешь, настолько удивлен, что инстинктивно пытаешься оттолкнуть его. Но его большие, грубые руки обхватывают тебя, крепко удерживая на месте."
 
 # game/scripts/events.rpy:9198
 translate russian bathhouse_khaleb_kiss_you_a859a4fd:
@@ -18133,7 +18133,7 @@ translate russian bathhouse_khaleb_kiss_you_a74c842a:
 translate russian bathhouse_khaleb_kiss_you_9aac3ee9:
 
     # "Tears well up in your eyes, and you realise you're choking. But Khaleb only watches you convulse with a hungry gleam."
-    "На глаза наворачиваются слезы, и ты понимаешь, что задыхаешься. Но Халеб только наблюдает за твоими конвульсиями с голодным блеском в глазах."
+    "На глазах наворачиваются слезы, и ты понимаешь, что задыхаешься. Но Халеб только наблюдает за твоими конвульсиями с голодным блеском в глазах."
 
 # game/scripts/events.rpy:9204
 translate russian bathhouse_khaleb_kiss_you_17e49133:
@@ -18205,7 +18205,7 @@ translate russian bathhouse_khaleb_kiss_you_a74c842a_1:
 translate russian bathhouse_khaleb_kiss_you_9aac3ee9_1:
 
     # "Tears well up in your eyes, and you realise you're choking. But Khaleb only watches you convulse with a hungry gleam."
-    "На глаза наворачиваются слезы, и ты понимаешь, что задыхаешься. Но Халеб только наблюдает за твоими конвульсиями с голодным блеском в глазах."
+    "На глазах наворачиваются слезы, и ты понимаешь, что задыхаешься. Но Халеб только наблюдает за твоими конвульсиями с голодным блеском в глазах."
 
 # game/scripts/events.rpy:9251
 translate russian bathhouse_khaleb_kiss_you_17e49133_1:
@@ -18565,7 +18565,7 @@ translate russian about_arek_wrestle_2_a8b1d18f:
 translate russian about_arek_wrestle_2_c1064d6d:
 
     # Fen "Ahahaha! Thanks. But it was nothing, really."
-    Fen "Ахахаха! Спасибо. Но на самом деле это ничего не значило."
+    Fen "Ахахаха! Спасибо. Но это была ерунда, правда."
 
 # game/scripts/events.rpy:9507
 translate russian about_no_one_wrestle_684b8416:
@@ -18927,15 +18927,15 @@ translate russian strings:
 
     # game/scripts/events.rpy:8922
     old "Say you'll agree to wrestle Trei"
-    new "Сражаюсь с Треем"
+    new "Скажи, что согласишься сразиться с Треем"
 
     # game/scripts/events.rpy:8922
     old "Say you want to wrestle Arek instead"
-    new "Сражаюсь с Ареком"
+    new "Скажи, что хочешь сразиться с Ареком вместо него"
 
     # game/scripts/events.rpy:8922
     old "Refuse and walk out"
-    new "Откажусь и уйду"
+    new "Откажись и уходи"
 
     # game/scripts/events.rpy:9618
     old "No, just keep to yourself"
@@ -23263,25 +23263,25 @@ translate russian terrance_bond_03_a123678a:
 translate russian terrance_bond_03_a712bd3e:
 
     # "You're barely aware as Terrance pulls a blanket over you and as you drift off to sleep you hear him sing once more."
-    "Ты едва замечаешь, как Терренс натягивает на тебя одеяло и, засыпая, слышишь, как он снова поет."
+    "Ты едва замечаешь, как Терренс натягивает на тебя одеяло, и, засыпая, слышишь, как он снова поет."
 
 # game/scripts/events.rpy:8072
 translate russian terrance_bond_03_a54b3bbd:
 
     # Terrance "🎶Hush ye, my bairnie, Bonny wee dearie.🎶"
-    Terrance "🎶Успокойся, моя малышка, Милый крошечный парнишка🎶"
+    Terrance "🎶Успокойся, мой малыш, Милый крошечный парнишка.🎶"
 
 # game/scripts/events.rpy:8074
 translate russian terrance_bond_03_d77e2cb1:
 
     # Terrance "{size=28}🎶Sleep! Come and close the eyes, heavy and wearie.🎶{/size}"
-    Terrance "{size=28}🎶Спи! Иди и закрой окно, тяжелый и утомляющий🎶{/size}"
+    Terrance "{size=28}🎶Спи! Закрой глаза, тяжелые и уставшие.🎶{/size}"
 
 # game/scripts/events.rpy:8076
 translate russian terrance_bond_03_de038a18:
 
     # Terrance "{size=24}🎶Closed are the wearie eyes,rest ye are takin'🎶{/size}"
-    Terrance "{size=24}🎶Закрыты те, кто устал, ты отдыхаешь, пока отдыхаешь🎶{/size}"
+    Terrance "{size=24}🎶Закрыты усталые глаза, отдыхай.🎶{/size}"
 
 # game/scripts/events.rpy:8078
 translate russian terrance_bond_03_d47d7257:
@@ -23305,13 +23305,13 @@ translate russian terrance_bond_03_06195c47:
 translate russian terrance_bond_03_eb7c907b:
 
     # "You make a final effort to catch the figure, and break free from the treeline. You see a set of ruins and the figure moving towards them."
-    "Ты делаешь последнее усилие, чтобы поймать фигуру и вырваться из-за деревьев. Ты видишь руины и фигуру, движущуюся к ним."
+    "Ты делаешь последнюю попытку поймать фигуру и вырваться из леса. Ты видишь руины и движущуюся к ним фигуру."
 
 # game/scripts/events.rpy:8098
 translate russian terrance_bond_03_f205b014:
 
     # "You step out of the treeline, but get entangled in spider webs and fall to ground, helpless."
-    "Ты выходиШЬ из-за деревьев, но запутываешься в паутине и беспомощно падаете на землю."
+    "Ты выходишь из-за деревьев, но запутываешься в паутине и беспомощно падаете на землю."
 
 # game/scripts/events.rpy:8103
 translate russian terrance_bond_03_e617e011:
@@ -23347,7 +23347,7 @@ translate russian terrance_bond_03_f7222ac2:
 translate russian terrance_bond_03_c3732372:
 
     # Terrance naked normal "If ye want to talk about them on the way back to Mjolnik's, feel free. Once there you can ride in the cart back to town."
-    Terrance naked normal "Если ты захочешь поговорить о них на обратном пути к Мельник, не стесняйся. Оказавшись там, ты можешь вернуться в город на тележке."
+    Terrance naked normal "Если ты захочешь поговорить о них на обратном пути к Мельнику, не стесняйся. Оказавшись там, ты можешь вернуться в город на тележке."
 
 # game/scripts/events.rpy:8134
 translate russian terrance_bond_03_3d9c0ab7:
@@ -23485,7 +23485,7 @@ translate russian terrance_bond_03_sex_f8e5fb4e:
 translate russian terrance_bond_03_sex_6c96b8b2:
 
     # "As you continue to kiss Terrance, you feel his hands running up and down your back, before sliding under your shirt."
-    "Продолжая целовать Терренса, ты чувствуешь, как его руки скользят вверх и вниз по твоей спине, прежде чем забраться тебе под рубашку."
+    "Продолжая целовать Теренса, ты чувствуешь, как его руки бегают по твоей спине, а затем проникают под рубашку."
 
 # game/scripts/events.rpy:8219
 translate russian terrance_bond_03_sex_f08c37f2:
@@ -23497,7 +23497,8 @@ translate russian terrance_bond_03_sex_f08c37f2:
 translate russian terrance_bond_03_sex_9f66ceb5:
 
     # "You shudder as his tongue washes over you, pausing to flick gently over each of your nipples in turn before he turns his attention to your neck."
-    "Ты вздрагиваешь, когда его язык скользит по тебе, останавливаясь, чтобы нежно провести по каждому из твоих сосков по очереди, прежде чем он переключит свое внимание на твою шею."
+    "Ты вздрагиваешь, когда его язык скользит по тебе, делая паузы, чтобы нежно погладить каждый из твоих сосков по очереди." 
+    "Прежде чем он переключит свое внимание на твою шею."
 
 # game/scripts/events.rpy:8223
 translate russian terrance_bond_03_sex_0913a6aa:
@@ -23551,7 +23552,7 @@ translate russian terrance_bond_03_sex_4af9e887:
 translate russian terrance_bond_03_sex_1df91a06:
 
     # "You reply by carefully tipping a line of the sauce down the length of his cock."
-    "Ты отвечаешь, аккуратно нанося полоску соуса по всей длине его члена."
+    "В ответ ты осторожно наносишь полоску соуса по всей длине его члена."
 
 # game/scripts/events.rpy:8255
 translate russian terrance_bond_03_sex_69620c77:
@@ -23593,7 +23594,7 @@ translate russian terrance_bond_03_sex_84d44955:
 translate russian terrance_bond_03_sex_5e5e58dd:
 
     # "When you get to the very top, you open your mouth wide and manage to engulf the very tip of his dick in your mouth."
-    "Когда ты добираешься до самой вершины, ты широко открываешь рот и умудряешься взять в рот самый кончик его члена."
+    "Когда ты добираешься до вершины, ты широко открываешь рот и умудряешься взять в рот самый кончик его члена."
 
 # game/scripts/events.rpy:8276
 translate russian terrance_bond_03_sex_d4ddc020:
@@ -24877,7 +24878,7 @@ translate russian bath_work_start_ba53d6b1:
 translate russian bath_work_start_f0a2bf1d:
 
     # "You see Marcus stumbling with his arm full of towels while also balancing a stack of buckets on his tail."
-    "Ты видишь, как Маркус спотыкается с охапкой полотенец в руках, одновременно балансируя стопкой ведер на хвосте."
+    "Ты видишь, как Маркус спотыкается, держа в руке кучу полотенец и одновременно удерживая на хвосте стопку ведер."
 
 # game/scripts/events.rpy:10697
 translate russian bath_work_start_e399cff0:
@@ -24907,7 +24908,7 @@ translate russian bath_work_start_a6f55417:
 translate russian bath_work_start_1ed389eb:
 
     # Fen "I can come back later if you're busy."
-    Fen "Я могу зайти позже, если ты будешь занят."
+    Fen "Я могу зайти позже, если ты занят."
 
 # game/scripts/events.rpy:10718
 translate russian bath_work_start_5983c805:
@@ -25291,7 +25292,7 @@ translate russian marcus_bond_02_b01fd0d8:
 translate russian marcus_bond_02_bc26d221:
 
     # "The spacious area allows the adequate ventilation for the various substances the former poisons specialists work with."
-    "Просторное помещение обеспечивает достаточную вентиляцию для различных веществ, с которыми работают бывшие специалисты по ядам."
+    "Просторное помещение обеспечивает достаточную вентиляцию для различных веществ, с которыми работали бывшие специалисты по ядам."
 
 # game/scripts/events.rpy:10927
 translate russian marcus_bond_02_de7128f1:
@@ -25333,19 +25334,19 @@ translate russian marcus_bond_02_86676d7a:
 translate russian marcus_bond_02_52fd262a:
 
     # Marcus "Just like working with toxins and poisons such as these, their chemical compounds that trigger different reactions."
-    Marcus "Точно так же, как работать с подобными токсинами и ядами, их химическими соединениями, которые вызывают различные реакции."
+    Marcus "Как и при работе с токсинами и ядами - их химические соединения вызывают различные реакции."
 
 # game/scripts/events.rpy:10946
 translate russian marcus_bond_02_e07fc027:
 
     # Marcus grin "Too much and it can kill you, just enough and it can tingle or numb pain."
-    Marcus grin "Слишком много - и это может убить тебя, совсем немного - и это может вызвать покалывание или заглушить боль."
+    Marcus grin "Слишком много — и ты можешь умереть, а если совсем немного — и это может вызвать покалывание или онемение. "
 
 # game/scripts/events.rpy:10948
 translate russian marcus_bond_02_94eff772:
 
     # Marcus normal "A delicate equilibrium must be struck and we use our senses to navigate and balance everything out."
-    Marcus normal "Необходимо установить хрупкое равновесие, и мы используем наши чувства, чтобы ориентироваться и уравновешивать все происходящее."
+    Marcus normal "Необходимо установить хрупкий баланс, и мы используем наши органы чувств, чтобы сориентироваться и сбалансировать все."
 
 # game/scripts/events.rpy:10950
 translate russian marcus_bond_02_8e4e1485:
@@ -25417,13 +25418,13 @@ translate russian marcus_bond_02_9544dfa4:
 translate russian marcus_bond_02_62fedc32:
 
     # Marcus "Yep, this contains a compound that helps open up your sinuses and helps with breathing issues as well as nausea."
-    Marcus "Да, в нем содержится соединение, которое помогает раскрыть твои носовые пазухи и помогает при проблемах с дыханием, а также при тошноте."
+    Marcus "Да, в нем содержится соединение, которое помогает раскрыть твои носовые пазухи и помогает при проблемах с дыханием, а так же при тошноте."
 
 # game/scripts/events.rpy:10991
 translate russian marcus_bond_02_eb138dcc:
 
     # Marcus smile "Combined with a soap base, it makes a wonderful scrub that leaves a tingly feeling."
-    Marcus smile "В сочетании с мыльной основой из него получается замечательный скраб, который оставляет приятное покалывание."
+    Marcus smile "В сочетании с мыльной основой из него получается замечательный скраб, который оставляет покалывание."
 
 # game/scripts/events.rpy:10993
 translate russian marcus_bond_02_d4c07c5f:
@@ -25537,7 +25538,7 @@ translate russian marcus_bond_02_28a3c0b8:
 translate russian marcus_bond_02_ae16c457:
 
     # "You can't help but notice his ample belly jiggling when he laughs."
-    "Ты не можешь не заметить, как колышется его внушительный живот, когда он смеется."
+    "Ты не можешь не заметить, как покачивается его внутренний живот, когда он смеется."
 
 # game/scripts/events.rpy:11049
 translate russian marcus_bond_02_d56ca010:
@@ -25783,7 +25784,7 @@ translate russian combo6_67440236:
 translate russian combo6_efcbaa3a:
 
     # "A rich and fresh scent reminds you of a beautiful spring day, flowers and grass covered in dew."
-    "Насыщенный и свежий аромат напоминает теюе о прекрасном весеннем дне, цветах и траве, покрытых росой."
+    "Насыщенный и свежий аромат напоминает тебе о прекрасном весеннем дне, цветах и траве, покрытых росой."
 
 # game/scripts/events.rpy:11380
 translate russian combo6_8ccce47c:
@@ -26011,7 +26012,7 @@ translate russian private_bath1_dbf4fca3:
 translate russian private_bath1_7c5de29f:
 
     # "You sink into the bigger man and let his burly arms envelop you."
-    "Ты погружаешься в ytuj и позволяешь его крепким рукам обнять тебя."
+    "Ты погружаешься в этого крупного мужчину и позволяешь его крепким рукам обнять тебя."
 
 # game/scripts/events.rpy:11520
 translate russian private_bath1_ecaee7a0:
@@ -26107,7 +26108,7 @@ translate russian private_bath1_42a7a1ac:
 translate russian private_bath1_93c07241:
 
     # Marcus "You have a fine cock here, full of youthful vigor and energy."
-    Marcus "У тебя прекрасный член, полэн юношеской бодрости и энергии."
+    Marcus "У тебя прекрасный член, полан юношеской бодрости и энергии."
 
 # game/scripts/events.rpy:11574
 translate russian private_bath1_f83fec1b:
@@ -26341,7 +26342,7 @@ translate russian private_bath1_f27aceea:
 translate russian private_bath1_c24a9587:
 
     # Marcus "Such a sexy body, you feel like you're ready to blow."
-    Marcus "Такое сексуальное тело, что кажется, будто ты готова взорваться."
+    Marcus "Такое сексуальное тело, что кажется, будто ты готов взорваться."
 
 # game/scripts/events.rpy:11682
 translate russian private_bath1_019e3526:
@@ -26353,7 +26354,7 @@ translate russian private_bath1_019e3526:
 translate russian private_bath1_3a397283:
 
     # Marcus "That's it, let it out."
-    Marcus "Вот и все, выпусти это наружу."
+    Marcus "Вот и все, выплесни это наружу."
 
 # game/scripts/events.rpy:11693
 translate russian private_bath1_d0c2bdd6:
@@ -28071,11 +28072,11 @@ translate russian strings:
 
     # game/scripts/events.rpy:8034
     old "Decline."
-    new "Уменьшение."
+    new "Отказаться."
 
     # game/scripts/events.rpy:8034
     old "Accept."
-    new "Взять."
+    new "Согласиться."
 
     # game/scripts/events.rpy:8534
     old "Maybe another time..."
