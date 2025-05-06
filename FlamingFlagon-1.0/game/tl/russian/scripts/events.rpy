@@ -172,7 +172,7 @@ translate russian gunther_talk_topic3_82f23759:
 translate russian gunther_talk_topic3_ec84f0b4:
 
     # Gunther uw stern "Fun? Well I guess the little time I'm not working or working out, I like to walk along the countryside."
-    Gunther uw stern "В свободное? Ну, думаю, в те короткие промежутки времени, когда я не работаю, мне нравится гулять за деревней."
+    Gunther uw stern "В свободное? Ну, думаю, в те короткие промежутки времени, когда я не работаю, мне нравится гулять за городом."
 
 # game/scripts/events.rpy:98
 translate russian gunther_talk_topic3_6a71f39b:
@@ -640,7 +640,7 @@ translate russian niall_intro_58974caf:
 translate russian niall_intro_d2455f1f:
 
     # Fen smile "Ah, so it's your first time in town, huh? Well, I hope you enjoy your stay."
-    Fen smile "А, так ты в первый раз в деревне, да? Что ж, я надеюсь, тебе здесь понравится."
+    Fen smile "А, так ты в первый раз в городе, да? Что ж, я надеюсь, тебе здесь понравится."
 
 # game/scripts/events.rpy:438
 translate russian niall_intro_b6da0049:
@@ -754,7 +754,7 @@ translate russian niall_intro_48865381:
 translate russian niall_intro_8c493466:
 
     # Niall "Well, duh. That's only the big reason why everyone's coming to this town in droves, you know."
-    Niall "Ну, да. Это, знаешь ли, единственная причина, по которой все толпами приезжают в эту деревню."
+    Niall "Ну, да. Это, знаешь ли, единственная причина, по которой все толпами приезжают в этот город."
 
 # game/scripts/events.rpy:504
 translate russian niall_intro_2e73b4f3:
@@ -8015,7 +8015,7 @@ translate russian terrance_bond_01_yes4_dfb147e3:
 translate russian odachi_bond_02_90474c64:
 
     # "You follow out into the town at a hurried pace."
-    "Ты спешным шагом направляешься в деревню."
+    "Ты спешным шагом направляешься в город."
 
 # game/scripts/events.rpy:3832
 translate russian odachi_bond_02_7f3b4a62:
@@ -19393,7 +19393,7 @@ translate russian about_Niall_check_in_83d669af:
 translate russian about_Niall_check_in_d03ff0dc:
 
     # Niall "Hey, [name]..."
-    Niall "Привет, [name]..."
+    Niall "Хей, [name]..."
 
 # game/scripts/events.rpy:4009
 translate russian about_Niall_check_in_5c607b6c:
@@ -20887,7 +20887,7 @@ translate russian about_Niall_pat_41ca5c22:
 translate russian about_Niall_pat_e5b21e82:
 
     # Niall "Well, damn. Maybe, eventually, I'll make it to the point where even Guther can't ignore me."
-    Niall "Что ж, черт возьми. Может быть, со временем я дойду до того, что даже Гюнтер не сможет меня игнорировать."
+    Niall "Черт. Может, в конце концов, я доживу до того момента, когда даже Гюнтер не сможет меня игнорировать."
 
 # game/scripts/events.rpy:5060
 translate russian about_Niall_pat_c98c6589:
@@ -20905,7 +20905,7 @@ translate russian about_Niall_pat_5f475751:
 translate russian about_Niall_pat_a3237f5c:
 
     # Niall "Thanks, [name]. It was stupid of me to think that I was all alone just because of this."
-    Niall "Спасибо, [name]. С моей стороны было глупо думать, что я остался совсем один только из-за этого."
+    Niall "Спасибо, [name]. Глупо было думать, что я был совсем один только из-за этого."
 
 # game/scripts/events.rpy:5066
 translate russian about_Niall_pat_86f46228:
@@ -21115,13 +21115,13 @@ translate russian about_Niall_hug_0505dd05:
 translate russian about_Niall_hug_0c3a81c5:
 
     # Fen "Don't ask me quite how, but I know you're destined to do great things some day."
-    Fen "Не спрашивай меня как, но я знаю, что тебе суждено сделать великие вещи в один прекрасный день."
+    Fen "Я верю, Найл. Не спрашивай меня, как именно, но я знаю, что однажды тебе суждено совершить великие дела."
 
 # game/scripts/events.rpy:5137
 translate russian about_Niall_hug_27fdd72e:
 
     # Fen "Maybe even great enough to give those heroes of legend a run for their money! Who knows?"
-    Fen "Может быть, даже достаточно великое, чтобы дать этим героям легенд бега за их деньги! Кто знает?"
+    Fen "Может быть, даже достаточно велик, чтобы дать возможность этим легендарным героям побегать за свои деньги! Кто знает?"
 
 # game/scripts/events.rpy:5139
 translate russian about_Niall_hug_154b0980:
@@ -21139,7 +21139,7 @@ translate russian about_Niall_hug_33cb16f8:
 translate russian about_Niall_hug_41ca5c22:
 
     # Niall "Hahaha! Gee, you really think?"
-    Niall "Хахаха! Ну, ты правда так думаешь?"
+    Niall "Хахаха! Боже, ты действительно так думаешь?"
 
 # game/scripts/events.rpy:5145
 translate russian about_Niall_hug_e5b21e82:
@@ -21181,13 +21181,13 @@ translate russian about_Niall_hug_fbeabb58:
 translate russian about_Niall_hug_a33bda1e:
 
     # Fen "Yeah, he can be a bit harsh with his words sometimes. Today seems to be one of those days."
-    Fen "Да, он иногда бывает немного грубым. Сегодня похоже на один из таких дней."
+    Fen "Да, иногда он бывает резковат в выражениях. Похоже, сегодня один из таких дней."
 
 # game/scripts/events.rpy:5159
 translate russian about_Niall_hug_949822c8:
 
     # Niall "I should've known—it's in all the stories."
-    Niall "Должен был догадаться, об этом пишут во всех историях."
+    Niall "Я должен был догадаться — об этом пишут во всех историях."
 
 # game/scripts/events.rpy:5161
 translate russian about_Niall_hug_7bc13a6d:
@@ -21643,7 +21643,7 @@ translate russian terrance_bond_03_d7d5accd:
 translate russian terrance_bond_03_7a10bbbe:
 
     # "You hear Terrance begin to sing a song, his voice low and rumbling, like an avalanche going down a mountainside."
-    "Ты слышишь, как Терранс начинает петь песню, его голос низкий и грохочущий, как лавина, сходящая со склона горы."
+    "Ты слышишь, как Терренс начинает петь песню, его голос низкий и грохочущий, как лавина, сходящая со склона горы."
 
 # game/scripts/events.rpy:7121
 translate russian terrance_bond_03_41a9c5b2:
@@ -22111,7 +22111,7 @@ translate russian terrance_bond_03_1e335b98:
 translate russian terrance_bond_03_afbf3bac:
 
     # Mjolnik "I grow em meself or get em from the old goat in the village. He's a herbalist. Real sharp one."
-    Mjolnik "Я выращиваю их сам или покупаю у старого козла в деревне. Он травник. Очень сообразительный."
+    Mjolnik "Я выращиваю их сам или покупаю у старого козла в городе. Он травник. Очень сообразительный."
 
 # game/scripts/events.rpy:7431
 translate russian terrance_bond_03_cf22384d:
@@ -28155,6499 +28155,6499 @@ translate russian strings:
 translate russian raise_01_54e7e40b:
 
     # "Another day of work comes to an end, and you're starting to feel more at home with your new life here."
-    ""
+    "Очередной рабочий день подходит к концу, и ты начинаешь чувствовать себя как дома в своей новой жизни."
 
 # game/scripts/events.rpy:150
 translate russian raise_01_50a6733c:
 
     # "Though you still don't know much about the drinks, cooking and serving food feels second nature. You must have done this kind of work before you ended up here."
-    ""
+    "Хотя ты все еще не очень хорошо разбираешься в напитках, приготовление и подача еды кажется тебе второй натурой. Ты наверняка занимался подобной работой до того, как оказался здесь."
 
 # game/scripts/events.rpy:153
 translate russian raise_01_1eb085a1:
 
     # "The tavern has also seen an uptick in guests since you started, no doubt thanks to the new items on the menu."
-    ""
+    "С тех пор как ты начал работать, в таверне также увеличилось количество гостей, несомненно, благодаря новым блюдам в меню."
 
 # game/scripts/events.rpy:159
 translate russian raise_01_2161cc7f:
 
     # Gunther "Great work today, [name]."
-    Gunther ""
+    Gunther "тлично поработал сегодня, [name]."
 
 # game/scripts/events.rpy:161
 translate russian raise_01_0f7029be:
 
     # Gunther "Your food is as tasty as ever."
-    Gunther ""
+    Gunther "Твоя еда как всегда вкусная."
 
 # game/scripts/events.rpy:165
 translate russian raise_01_9c4d0963:
 
     # Fen "Just doing my job. I've actually been enjoying coming up with new dishes."
-    Fen ""
+    Fen "Просто делаю свою работу. Мне очень нравится придумывать новые блюда."
 
 # game/scripts/events.rpy:167
 translate russian raise_01_593f7bcc:
 
     # Gunther smile "Yeah, your idea of adding new items really paid off."
-    Gunther smile ""
+    Gunther smile "Да, твоя идея добавить новые элементы действительно оправдалась."
 
 # game/scripts/events.rpy:169
 translate russian raise_01_3307b8d7:
 
     # Gunther stern "And your cooking skill... I have to admit, I'm always looking forward to the next dish you come up with."
-    Gunther stern ""
+    Gunther stern "А твое кулинарное мастерство... Должен признаться, я всегда с нетерпением жду следующего блюда, которое ты придумаешь."
 
 # game/scripts/events.rpy:171
 translate russian raise_01_d8e7ec3a:
 
     # Gunther normal "Thanks to you, the numbers are looking better too."
-    Gunther normal ""
+    Gunther normal "Благодаря тебе, результаты тоже стали лучше."
 
 # game/scripts/events.rpy:178
 translate russian raise_01_ae59b3f7:
 
     # "Gunther hands over a small but noticeably heavier bag of coins."
-    ""
+    "Гюнтер передает небольшой, но заметно тяжелый мешочек с монетами."
 
 # game/scripts/events.rpy:182
 translate russian raise_01_2ee68d04:
 
     # Gunther "A raise for ya, pup—20 coins. Here you go!"
-    Gunther ""
+    Gunther "Прибавка к зарплате, 20 монет. Держи!"
 
 # game/scripts/events.rpy:184
 translate russian raise_01_e6474637:
 
     # Fen stern "Oh wow, does that mean..."
-    Fen stern ""
+    Fen stern "Ого, это значит..."
 
 # game/scripts/events.rpy:186
 translate russian raise_01_00ed0090:
 
     # Gunther smile "Yep, just like I promised—the more we earn, the more you'll get too."
-    Gunther smile ""
+    Gunther smile "Да, как я и обещал: чем больше мы заработаем, тем больше получишь и ты."
 
 # game/scripts/events.rpy:188
 translate russian raise_01_e0644477:
 
     # Fen normal "I'll keep that in mind. More new dishes on the way!"
-    Fen normal ""
+    Fen normal "Я буду иметь это в виду. Больше новых блюд на подходе!"
 
 # game/scripts/events.rpy:190
 translate russian raise_01_79edef2d:
 
     # Gunther smile "That's the spirit!"
-    Gunther smile ""
+    Gunther smile "Вот это настрой!"
 
 # game/scripts/events.rpy:192
 translate russian raise_01_f177add0:
 
     # Gunther normal "Now, get some rest, and enjoy your day off tomorrow."
-    Gunther normal ""
+    Gunther normal "А теперь отдохни и наслаждайся завтрашним выходным днем."
 
 # game/scripts/events.rpy:198
 translate russian raise_01_d07e392c:
 
     # "Getting ready for bed, you're in a good mood."
-    ""
+    "Готовясь ко сну, ты в хорошем настроении."
 
 # game/scripts/events.rpy:200
 translate russian raise_01_cccc4c06:
 
     # "The usual bed feels extra soft and inviting."
-    ""
+    "Обычная кровать кажется очень мягкой и манящей."
 
 # game/scripts/events.rpy:204
 translate russian raise_01_23a928ee:
 
     # "As you lie down, thoughts of new dishes drift through your mind, lulling you into a peaceful sleep..."
-    ""
+    "Когда ты ложишься, мысли о новых блюдах проносятся в твоей голове, убаюкивая тебя и погружая в мирный сон..."
 
 # game/scripts/events.rpy:209
 translate russian raise_01_8a554310:
 
     # "You find yourself in a different kitchen, though unfamiliar, you instinctively know your way around."
-    ""
+    "Ты оказываешься на другой кухне, хотя и незнакомой, но инстинктивно чувствуешь, что знаешь, как ее обойти."
 
 # game/scripts/events.rpy:215
 translate russian raise_01_2e053c5b:
 
     # "The table is crowded with ingredients, and once again, you're creating new dishes."
-    ""
+    "Стол завален ингредиентами, и ты снова  создаешь новые блюда."
 
 # game/scripts/events.rpy:217
 translate russian raise_01_e4d541ae:
 
     # "You don't know exactly what you're making, but you keep adding more to the bubbling pot."
-    ""
+    "Ты не знаешь, что именно готовишь, но продолжаешь добавлять в бурлящую кастрюлю все новые и новые порции."
 
 # game/scripts/events.rpy:219
 translate russian raise_01_fc3a2d63:
 
     # Fen "Cheese... Mushroom... Carrot..."
-    Fen ""
+    Fen "Сыр... Гриб... Морковь..."
 
 # game/scripts/events.rpy:221
 translate russian raise_01_a9422c56:
 
     # Fen "Meat... Cheese... and more cheese."
-    Fen ""
+    Fen "Мясо... Сыр... и еще сыр."
 
 # game/scripts/events.rpy:223
 translate russian raise_01_7759bcfe:
 
     # "You stir the pot, and just then, an older canine walks in."
-    ""
+    "Ты помешиваешь в кастрюле, и в этот момент входит пожилой пес."
 
 # game/scripts/events.rpy:230
 translate russian raise_01_61aa5774:
 
     # "???" "That smells amazing! I could catch the scent two streets away!"
-    "???" ""
+    "???" "Пахнет потрясающе! Я уловил аромат за две улицы!"
 
 # game/scripts/events.rpy:232
 translate russian raise_01_fa620b26:
 
     # Fen "New dish for the menu. Want a taste?"
-    Fen ""
+    Fen "Новое блюдо в меню. Хочешь попробовать?"
 
 # game/scripts/events.rpy:235
 translate russian raise_01_906d7bdb:
 
     # "???" "How could I say no to that!"
-    "???" ""
+    "???" "Как я могу отказаться!"
 
 # game/scripts/events.rpy:240
 translate russian raise_01_a13a5346:
 
     # "With excitement, the old canine grabs a spoonful of whatever's in the pot and eagerly takes a bite."
-    ""
+    "С волнением старый пес хватает ложку с тем, что находится в кастрюле, и с жадностью откусывает кусочек."
 
 # game/scripts/events.rpy:242
 translate russian raise_01_3acbb4a4:
 
     # "???" "AH-H! HOT! HOT! HOT!!"
-    "???" ""
+    "???" "АХ-А! ГОРЯЧО! ГОРЯЧО! ГОРЯЧО!"
 
 # game/scripts/events.rpy:244
 translate russian raise_01_235f5422:
 
     # Fen "Haha, careful, don't burn your tongue."
-    Fen ""
+    Fen "Хаха, осторожно, не обожги язык."
 
 # game/scripts/events.rpy:250
 translate russian raise_01_a191ca0e:
 
     # Fen "Careful..."
-    Fen ""
+    Fen "Осторожно..."
 
 # game/scripts/events.rpy:254
 translate russian raise_01_f8e12584:
 
     # "And with that, you wake up."
-    ""
+    "И с этим ты просыпаешься."
 
 # game/scripts/events.rpy:256
 translate russian raise_01_93bc7ab2:
 
     # Fen "It's... that man again. Maybe I should tell Gunther..."
-    Fen ""
+    Fen "Это снова... тот мужчина. Может, мне стоит сказать Гюнтеру..."
 
 # game/scripts/events.rpy:258
 translate russian raise_01_5a962705:
 
     # "You pause and shake your head."
-    ""
+    "Ты делаешь паузу и качаешь головой."
 
 # game/scripts/events.rpy:260
 translate russian raise_01_5e0de08f:
 
     # Fen "No, that won't help. I need to remember more... at least a name, or some other clue."
-    Fen ""
+    Fen "Нет, это не поможет. Мне нужно вспомнить что-то еще... хотя бы имя или какую-то другую подсказку."
 
 # game/scripts/events.rpy:266
 translate russian raise_01_c7d336f9:
 
     # "After taking a moment to gather your thoughts, you stretch and prepare yourself for the day ahead."
-    ""
+    "Дав себе время собраться с мыслями, ты потягиваешься и готовишься к предстоящему дню."
 
 # game/scripts/events.rpy:741
 translate russian fen_tailservice_menu_5c47ace5:
 
     # Fen "I don't have extra coins for that..."
-    Fen ""
+    Fen "У меня нет лишних монет на это..."
 
 # game/scripts/events.rpy:1968
 translate russian fen_tailservice_look_af7ceb66:
 
     # "Feeling a bit adventurous and seeking some 'fun' on your own terms, you wander through the back alleys, keeping an eye out for anyone offering tail services."
-    ""
+    "Чувствуя себя немного приключенцем и желая 'развлечься' на свой страх и риск, ты бродишь по закоулкам, присматриваясь к тем, кто предлагает услуги хвоста."
 
 # game/scripts/events.rpy:1970
 translate russian fen_tailservice_look_a6cf8317:
 
     # "The atmosphere buzzes with quiet anticipation, and you're curious to see who might be available for a little excitement."
-    ""
+    "Атмосфера гудит от тихого предвкушения, и тебе любопытно посмотреть, кто может быть доступен для небольшого развлечения."
 
 # game/scripts/events.rpy:1994
 translate russian fen_tailservice_rabbit_72e0ae87:
 
     # "You catch sight of someone who piques your interest."
-    ""
+    "Ты замечаешь кого-то, кто вызывает у тебя интерес."
 
 # game/scripts/events.rpy:1996
 translate russian fen_tailservice_rabbit_de88a820:
 
     # "Or, in this case, a pair of someones."
-    ""
+    "Или, в данном случае, пара кого-то."
 
 # game/scripts/events.rpy:1998
 translate russian fen_tailservice_rabbit_9021fdf4:
 
     # "Chatting amongst themselves behind what looks like an old, abandoned tool shop are two rabbits with mostly cream coloured fur."
-    ""
+    "За старым, заброшенным магазином инструментов болтают между собой два кролика с мехом кремового цвета."
 
 # game/scripts/events.rpy:2000
 translate russian fen_tailservice_rabbit_c50569ca:
 
     # "One of them has red accents in places like his ears, cheeks, and tail, while the other has blue."
-    ""
+    "У одного из них красные пятна на ушах, щеках и хвосте, а у другого - синие."
 
 # game/scripts/events.rpy:2002
 translate russian fen_tailservice_rabbit_1c991c27:
 
     # "Both of them are dressed in little more than a matching pair of silky briefs and arm warmers, showcasing their skinny fit physiques."
-    ""
+    "Оба они одеты в одинаковые шелковистые трусы и майки, демонстрирующие их худощавое телосложение."
 
 # game/scripts/events.rpy:2004
 translate russian fen_tailservice_rabbit_ad00cf39:
 
     # "From the looks of it all, you're sure you know what it is they're waiting for..."
-    ""
+    "Судя по всему, ты уверен, что знаешь, чего они ждут..."
 
 # game/scripts/events.rpy:2006
 translate russian fen_tailservice_rabbit_8fbb475e:
 
     # Fen "Heya! Nice day, isn't it?"
-    Fen ""
+    Fen "Привет! Хороший день, не так ли?"
 
 # game/scripts/events.rpy:2008
 translate russian fen_tailservice_rabbit_99096b91:
 
     # "They both turn to acknowledge you from down the alley."
-    ""
+    "Они оба поворачиваются, чтобы посмотреть на тебя из переулка."
 
 # game/scripts/events.rpy:2010
 translate russian fen_tailservice_rabbit_6554ca4d:
 
     # "The coy smiles that creep onto their faces a moment later lets you know right away that they're interested in what they see."
-    ""
+    "Заискивающие улыбки, появляющиеся на их лицах мгновение спустя, сразу дают понять, что они заинтересованы в том, что видят."
 
 # game/scripts/events.rpy:2012
 translate russian fen_tailservice_rabbit_9b8a2503:
 
     # BlueBunny "Yeah, I guess it is a nice day, huh? Want us to make it a little nicer for you? ❤"
-    BlueBunny ""
+    BlueBunny "Да, похоже, сегодня хороший день, да? Хочешь, мы сделаем его еще приятнее для тебя? ❤"
 
 # game/scripts/events.rpy:2014
 translate russian fen_tailservice_rabbit_dd19370c:
 
     # RedBunny "Oh my gosh, big bro, stop it~! You didn't even say 'hello' first."
-    RedBunny ""
+    RedBunny "О боже, братик, прекрати! Ты даже не сказал 'привет' первым."
 
 # game/scripts/events.rpy:2016
 translate russian fen_tailservice_rabbit_3dccf1ba:
 
     # BlueBunny "Whoops, my bad. Sorry, little bro, guess I got ahead of myself."
-    BlueBunny ""
+    BlueBunny "Упс, виноват. Прости, братишка, наверное, я забежал вперед."
 
 # game/scripts/events.rpy:2018
 translate russian fen_tailservice_rabbit_a060eb9b:
 
     # BlueBunny "I'll fix that for you right now..."
-    BlueBunny ""
+    BlueBunny "Я сейчас все исправлю..."
 
 # game/scripts/events.rpy:2020
 translate russian fen_tailservice_rabbit_64a7295e:
 
     # "As you get close, the blue bunny runs up to your side."
-    ""
+    "Как только ты приблизишься, синий кролик подходит к тебе."
 
 # game/scripts/events.rpy:2022
 translate russian fen_tailservice_rabbit_dfd1980e:
 
     # "Neither one of them stands taller than your chest in height, but he makes up for it by hopping in the air to plant you a kiss on the cheek."
-    ""
+    "Ни один из них не выше твоей груди в высоту, но он компенсирует это, подпрыгивая в воздухе, чтобы поцеловать тебя в щеку."
 
 # game/scripts/events.rpy:2025
 translate russian fen_tailservice_rabbit_1e8f4902:
 
     # "The moment his lips make contact, you feel a faint electric jolt travel across your face."
-    ""
+    " тот момент, когда его губы касаются губ, ты чувствуешь, как по твоему лицу пробегает слабый электрический разряд."
 
 # game/scripts/events.rpy:2027
 translate russian fen_tailservice_rabbit_d6ede5bb:
 
     # "His brother, all the while, watches your surprised reaction, licking his lips."
-    ""
+    "Его брат все это время наблюдает за твоей удивленной реакцией, облизывая губы."
 
 # game/scripts/events.rpy:2029
 translate russian fen_tailservice_rabbit_799421f3:
 
     # RedBunny "Mmm, now that's more like it. My turn next!"
-    RedBunny ""
+    RedBunny "Ммм, вот это уже больше похоже на это. Моя очередь!"
 
 # game/scripts/events.rpy:2031
 translate russian fen_tailservice_rabbit_b317b4ce:
 
     # "The red bunny dashes over to you, too, before suddenly dropping to his knees."
-    ""
+    "Красный кролик тоже бросается к тебе, а затем внезапно падает на колени."
 
 # game/scripts/events.rpy:2033
 translate russian fen_tailservice_rabbit_63fcb560:
 
     # "You barely register what's going on before he goes and traces his tongue against the bulge of your pants!"
-    ""
+    "Ты едва успеваешь понять, что происходит, как он уже проводит языком по выпуклости твоих брюк!"
 
 # game/scripts/events.rpy:2035
 translate russian fen_tailservice_rabbit_7c6ef46f:
 
     # Fen "What the—Ah! Ahhh~!"
-    Fen ""
+    Fen "Что за-Ах! Ахх~!"
 
 # game/scripts/events.rpy:2038
 translate russian fen_tailservice_rabbit_92bdb9eb:
 
     # "That same weak electric shock passes through your junk this time."
-    ""
+    "Тот же слабый электрический разряд проходит через твои брюки и в этот раз."
 
 # game/scripts/events.rpy:2040
 translate russian fen_tailservice_rabbit_df000fe4:
 
     # "You can't help but instantly go hard from the stimulation."
-    ""
+    "Ты не сможешь удержаться от мгновенного возбуждения."
 
 # game/scripts/events.rpy:2042
 translate russian fen_tailservice_rabbit_f0600ba1:
 
     # RedBunny "Aww, how cute! He's excited already!"
-    RedBunny ""
+    RedBunny "О, как мило! Он уже в восторге!"
 
 # game/scripts/events.rpy:2044
 translate russian fen_tailservice_rabbit_83e405f5:
 
     # BlueBunny "Hard not to be with you around, little bro."
-    BlueBunny ""
+    BlueBunny "Трудно не быть рядом с тобой, братишка."
 
 # game/scripts/events.rpy:2046
 translate russian fen_tailservice_rabbit_48ac7514:
 
     # "The blue one then reaches around and gropes you from behind."
-    ""
+    "Затем синий протягивает руку и лапает тебя сзади."
 
 # game/scripts/events.rpy:2048
 translate russian fen_tailservice_rabbit_f2fd15b8:
 
     # "He keeps the sensation going with his staticky touch spreading all across and in between your asscheeks."
-    ""
+    "Он не дает угаснуть ощущениям, его нежные прикосновения распространяются по всей поверхности и между твоей попки."
 
 # game/scripts/events.rpy:2050
 translate russian fen_tailservice_rabbit_acc1ee6d:
 
     # BlueBunny "How's about it, big pup? You interested in what we got to offer?"
-    BlueBunny ""
+    BlueBunny "Как тебе это, большой щенок? Тебе интересно, что мы можем предложить?"
 
 # game/scripts/events.rpy:2052
 translate russian fen_tailservice_rabbit_8d69aaeb:
 
     # Fen "M-Mmph! Y-Yes! Yes, yes, I am!"
-    Fen ""
+    Fen "М-Ммф! Д-Да! Да, да, я!"
 
 # game/scripts/events.rpy:2061
 translate russian fen_tailservice_rabbit_a08a823e:
 
     # "You catch sight of those bunnies again."
-    ""
+    "Ты снова видишь этих кроликов."
 
 # game/scripts/events.rpy:2063
 translate russian fen_tailservice_rabbit_9714dfe5:
 
     # "Before you can say a word, they approach you eagerly, nuzzling against your side with playful attitude."
-    ""
+    "Не успеешь и слова сказать, как они с нетерпением подходят к тебе и игриво прижимаются к твоему боку."
 
 # game/scripts/events.rpy:2065
 translate russian fen_tailservice_rabbit_b76a3cbb:
 
     # BlueBunny "Hello, bro! Back for some fun again?"
-    BlueBunny ""
+    BlueBunny "Привет, братишка! Снова вернулся к веселью?"
 
 # game/scripts/events.rpy:2067
 translate russian fen_tailservice_rabbit_eeac58ff:
 
     # Fen "Yes, yes!"
-    Fen ""
+    Fen "Да, да!"
 
 # game/scripts/events.rpy:2069
 translate russian fen_tailservice_rabbit_8dd3ee20:
 
     # RedBunny "Neat! So, do you want us to take the lead on this, or do you wanna?"
-    RedBunny ""
+    RedBunny "Здорово! Так ты хочешь, чтобы мы взяли на себя инициативу, или ты сам?"
 
 # game/scripts/events.rpy:2072
 translate russian fen_tailservice_rabbit_a133cebf:
 
     # Fen "U-U-Uhh..." nointeract
-    Fen "" nointeract
+    Fen "У-У-Ухх..." nointeract
 
 # game/scripts/events.rpy:2081
 translate russian about_service_bunnies_top_ae33e855:
 
     # "They both nod and giggle at your answer in unison before guiding you over to a sturdy crate next to the old tool shop's window."
-    ""
+    "Они в знак согласия кивают и хихикают над твоим ответом, а затем направляют тебя к прочному ящику рядом с витриной старого магазина инструментов."
 
 # game/scripts/events.rpy:2083
 translate russian about_service_bunnies_top_b80d9234:
 
     # "With a playful little shimmy, the red bunny strips down out of his underwear and then goes over to help his brother do the same."
-    ""
+    "Игриво покачиваясь, красный кролик раздевается до трусов, а затем подходит к брату, чтобы помочь ему сделать то же самое."
 
 # game/scripts/events.rpy:2085
 translate russian about_service_bunnies_top_7789b102:
 
     # "Even though they're still flaccid currently, their cocks look really long and snake-like, with their plump ballsacks complimenting them nicely."
-    ""
+    "Несмотря на то, что в данный момент они еще вялые, их члены выглядят очень длинными и змееподобными, а их пухлые яйца прекрасно дополняют их."
 
 # game/scripts/events.rpy:2087
 translate russian about_service_bunnies_top_0d66511f:
 
     # "You love how spoiled you are for bigger things..."
-    ""
+    "Тебе нравится, что ты избалован большими вещами..."
 
 # game/scripts/events.rpy:2089
 translate russian about_service_bunnies_top_0409cbd7:
 
     # "The blue bunny then sits down on the crate, lounging with his head resting on his hands, while his brother gets down on his hands and knees."
-    ""
+    "Голубой кролик садится на ящик, опираясь головой на руки, а его брат встает на колени."
 
 # game/scripts/events.rpy:2091
 translate russian about_service_bunnies_top_5fc87626:
 
     # "The red one presses his cheek against his brother's splayed inner thigh and starts to nuzzle it, and you get to watch his exposed ass shake in front of you."
-    ""
+    "Красный прижимается щекой к раздвинутому внутреннему бедру брата и начинает его теребить, а ты наблюдаешь, как трясется перед тобой его оголенный зад."
 
 # game/scripts/events.rpy:2093
 translate russian about_service_bunnies_top_9092eb6d:
 
     # "They both moan and get more erect as this goes on, occasionally throwing demure glances your way."
-    ""
+    "Они оба стонут и становятся все более возбужденными, время от времени бросая в твою сторону скромные взгляды."
 
 # game/scripts/events.rpy:2095
 translate russian about_service_bunnies_top_2f3ac5fd:
 
     # "Fuck, they just look so...so cute and vulnerable like that. And at the same time, so very tender and loving."
-    ""
+    "Черт, они выглядят такими... такими милыми и уязвимыми. И в то же время такими нежными и любящими."
 
 # game/scripts/events.rpy:2097
 translate russian about_service_bunnies_top_dc47b3e6:
 
     # BlueBunny "What's the matter, handsome? Aren't you going to help take care of my brother from behind?"
-    BlueBunny ""
+    BlueBunny "В чем дело, красавчик? Разве ты не поможешь позаботиться о моем брате сзади?"
 
 # game/scripts/events.rpy:2099
 translate russian about_service_bunnies_top_9870fbbb:
 
     # RedBunny "Mmm, I treat all of my brothers with this much love. I want you to be my brother, too!"
-    RedBunny ""
+    RedBunny "Ммм, я отношусь ко всем своим братьям с такой любовью. Я хочу, чтобы ты тоже стал моим братом!"
 
 # game/scripts/events.rpy:2102
 translate russian about_service_bunnies_top_5f0ed1f8:
 
     # "You don't need to hear anything more."
-    ""
+    "Тебе больше ничего не нужно слышать."
 
 # game/scripts/events.rpy:2106
 translate russian about_service_bunnies_top_bf042ba8:
 
     # "Letting out a hungry snarl by accident, you shuck down your pants and ram your achingly hard cock right into the red bunny's waiting pucker."
-    ""
+    "Непроизвольно издав голодное рычание, ты стягиваешь штаны и упираешься своим твердым членом прямо в красную дырочку кролика."
 
 # game/scripts/events.rpy:2109
 translate russian about_service_bunnies_top_e8661c80:
 
     # "The instant you do, you start to feel that familiar electric current swelling all around your dick as you thrust it in and out."
-    ""
+    "Как только ты это делаешь, ты начинаешь ощущать знакомый электрический ток по всему члену, когда ты вставляешь и вынимаешь его."
 
 # game/scripts/events.rpy:2111
 translate russian about_service_bunnies_top_fbbeb8f5:
 
     # "He's loose like he's done this so, so many times before, but the lack of tightness is made up for with the constant, gentle massage of that energy."
-    ""
+    "Он свободен, словно делал это уже много раз, но отсутствие зажатости компенсируется постоянным, мягким массажем этой энергии."
 
 # game/scripts/events.rpy:2113
 translate russian about_service_bunnies_top_f8af3a03:
 
     # "It feels like nothing you've ever felt before with people of their affinity."
-    ""
+    "Ощущения не похожи ни на что, что ты когда-либо испытывал с людьми их родства."
 
 # game/scripts/events.rpy:2115
 translate russian about_service_bunnies_top_2f029073:
 
     # "It's so much more steady and controlled, though you're not sure if that's just because they're not very strong with it."
-    ""
+    "Он гораздо более устойчивый и контролируемый, хотя ты не уверен, что это просто потому, что они не очень сильны с ним."
 
 # game/scripts/events.rpy:2117
 translate russian about_service_bunnies_top_205d33e5:
 
     # BlueBunny "Okay, little bro, that's enough keeping me waiting. Show me how much you really need my love."
-    BlueBunny ""
+    BlueBunny "Ладно, братишка, хватит заставлять меня ждать. Покажи мне, как сильно ты нуждаешься в моей любви."
 
 # game/scripts/events.rpy:2119
 translate russian about_service_bunnies_top_a9022a38:
 
     # "Just as you have that thought, though, the red bunny takes his brother's dick into his mouth and starts slurping it like his favourite candy."
-    ""
+    "Но как только эта мысль пришла тебе в голову, красный кролик берет член своего брата в рот и начинает с наслаждением посасывать его, как свою любимую конфету."
 
 # game/scripts/events.rpy:2122
 translate russian about_service_bunnies_top_7062235a:
 
     # "When that happens, another wave of electric shock passes through you, stronger than before."
-    ""
+    "Когда это происходит, через тебя проходит еще одна волна электрического удара, еще более сильная, чем раньше."
 
 # game/scripts/events.rpy:2125
 translate russian about_service_bunnies_top_b864b685:
 
     # "And then another, even stronger..."
-    ""
+    "А потом еще один, еще сильнее..."
 
 # game/scripts/events.rpy:2128
 translate russian about_service_bunnies_top_6f51a868:
 
     # "And then another...much stronger."
-    ""
+    "А потом еще один... гораздо сильнее."
 
 # game/scripts/events.rpy:2132
 translate russian about_service_bunnies_top_51734462:
 
     # Fen "Yeow! Z-Z-Z-Zzzt!" with hpunch
-    Fen "" with hpunch
+    Fen "Вау! З-З-З-з-ззт!" with hpunch
 
 # game/scripts/events.rpy:2134
 translate russian about_service_bunnies_top_8f3a5ecb:
 
     # "Pleasure quickly gives way to and blends in with pain, as the earth now looks like it's quaking violently around you."
-    ""
+    "Удовольствие быстро сменяется болью, и теперь кажется, что земля вокруг тебя сильно дрожит."
 
 # game/scripts/events.rpy:2136
 translate russian about_service_bunnies_top_124708df:
 
     # "Yet, even still, you for some reason don't want to stop thrusting."
-    ""
+    "И все же, несмотря на это, ты почему-то не хочешь прекращать движения."
 
 # game/scripts/events.rpy:2138
 translate russian about_service_bunnies_top_9d5df7b1:
 
     # "Like, it hurts and that's obvious, sure. But strangely, there's still a great deal of excitement coursing through your system beneath it."
-    ""
+    "Больно, и это очевидно, конечно. Но, как ни странно, под ней все еще чувствуется сильное возбуждение."
 
 # game/scripts/events.rpy:2140
 translate russian about_service_bunnies_top_5914b6b4:
 
     # BlueBunny "Aww, look little bro. I don't think he can handle us together yet."
-    BlueBunny ""
+    BlueBunny "О, смотри, братишка. Я не думаю, что он сможет выдержать нас вместе."
 
 # game/scripts/events.rpy:2142
 translate russian about_service_bunnies_top_3455c7a5:
 
     # RedBunny "Better—Mmph!—Better give him some help with that before he passes out on us, huh—Ugh!?"
-    RedBunny ""
+    RedBunny "Лучше-Ммф! Лучше помоги ему с этим, пока он не потерял сознание, а-Ух!?"
 
 # game/scripts/events.rpy:2144
 translate russian about_service_bunnies_top_687f24dd:
 
     # "You've lost track of how many minutes it's been now since your fur started to smell burnt."
-    ""
+    "Ты уже не помнишь, сколько минут прошло с тех пор, как твоя шерсть начала пахнуть горелым."
 
 # game/scripts/events.rpy:2146
 translate russian about_service_bunnies_top_755fd8bd:
 
     # "But at some point, in the midst of your wild fucking, the blue bunny pulls you in by the shoulder and forces you into a kiss."
-    ""
+    "Но в какой-то момент, в самый разгар твоего дикого траха, голубой кролик притягивает тебя за плечо и насильно целует."
 
 # game/scripts/events.rpy:2149
 translate russian about_service_bunnies_top_483baade:
 
     # "When he does, you notice the strength of the electric current begin to even out drastically."
-    ""
+    "Когда он это делает, ты замечаешь, что сила электрического тока начинает резко выравниваться."
 
 # game/scripts/events.rpy:2151
 translate russian about_service_bunnies_top_8cc65bd9:
 
     # "It's still definitely there and pretty strong, but it's no longer quite so intense and irregular as before."
-    ""
+    "Он все еще есть и довольно сильный, но уже не такой интенсивный и нерегулярный, как раньше."
 
 # game/scripts/events.rpy:2153
 translate russian about_service_bunnies_top_74ebe07c:
 
     # "It's as if the three of you now being linked together in an almost triangle formation has created a closed circuit for the electricity!"
-    ""
+    "Как будто вы трое, соединенные почти в треугольник, создали замкнутую цепь для электричества!"
 
 # game/scripts/events.rpy:2155
 translate russian about_service_bunnies_top_6dbebac8:
 
     # "You can't really stop to marvel at it, though, because now that the sensation's become steadier, you realise just how close you are to release..."
-    ""
+    "Однако ты не можешь остановиться, чтобы полюбоваться на это, потому что теперь, когда ощущения стали более устойчивыми, ты понимаешь, насколько близок к этому..."
 
 # game/scripts/events.rpy:2160
 translate russian about_service_bunnies_top_3ebcd9b2:
 
     # "You let out a long and desperate moan right into the blue bunny's mouth and manage to thrust a few more times into his brother before you cum."
-    ""
+    "Ты издаешь долгий и отчаянный стон прямо в рот голубому кролику и успеваешь еще несколько раз толкнуться в его брата, прежде чем кончить."
 
 # game/scripts/events.rpy:2162
 translate russian about_service_bunnies_top_8ca375de:
 
     # "As your seed floods his juicy little rear to the point of overflow, the brothers break their connection first."
-    ""
+    "Когда твоя сперма поподает его сочную заднюю часть до отказа, братья первыми разрывают свою связь."
 
 # game/scripts/events.rpy:2164
 translate russian about_service_bunnies_top_afc0b5fb:
 
     # "That lets you down off the charge slowly, as you're left to bask in the gentle stimulation for a bit as you finish up your orgasm."
-    ""
+    "Это позволяет тебе медленно снять напряжение и немного понежиться в нежной стимуляции, пока ты доводишь себя до оргазма."
 
 # game/scripts/events.rpy:2166
 translate russian about_service_bunnies_top_26281555:
 
     # Fen "Holy...Huff. Holy shit..."
-    Fen ""
+    Fen "Боже... Хуфф. Срань господня..."
 
 # game/scripts/events.rpy:2168
 translate russian about_service_bunnies_top_63c7fa17:
 
     # RedBunny "Had a good time with us, new bro?"
-    RedBunny ""
+    RedBunny "Хорошо провел время с нами, братишка?"
 
 # game/scripts/events.rpy:2177
 translate russian about_service_bunnies_top_839e1e10:
 
     # Fen "Huff...You bet."
-    Fen ""
+    Fen "Хуфф... Еще бы."
 
 # game/scripts/events.rpy:2179
 translate russian about_service_bunnies_top_588322d0:
 
     # BlueBunny "Good! That'll be 20 coins, please!"
-    BlueBunny ""
+    BlueBunny "Хорошо! С тебя 20 монет, пожалуйста!"
 
 # game/scripts/events.rpy:2183
 translate russian about_service_bunnies_top_4eab9d75:
 
     # "You pays 20 coins for the service."
-    ""
+    "С тебя 20 монет за услугу."
 
 # game/scripts/events.rpy:2186
 translate russian about_service_bunnies_top_a41f8977:
 
     # "You've got to admit, you weren't expecting their service to be quite so expensive."
-    ""
+    "Признаться, ты не ожидал, что их услуги окажутся настолько дорогими."
 
 # game/scripts/events.rpy:2188
 translate russian about_service_bunnies_top_12670828:
 
     # "Although, it probably makes sense considering there are two of them and their talents must be considered quite special by someone."
-    ""
+    "Хотя, наверное, в этом есть смысл, если учесть, что их двое и их таланты кто-то считает особенными."
 
 # game/scripts/events.rpy:2190
 translate russian about_service_bunnies_top_47a5a5c0:
 
     # "Maybe they're worth revisiting someday when you know you definitely have the extra money to spare."
-    ""
+    "Может быть, к ним стоит вернуться когда-нибудь, когда ты будешь знать, что у тебя точно есть лишние деньги."
 
 # game/scripts/events.rpy:2193
 translate russian about_service_bunnies_top_15c5742e:
 
     # RedBunny "Thank you! Hope you come back again, big pup!"
-    RedBunny ""
+    RedBunny "Спасибо! Надеюсь, ты еще вернешься, большой щенок!"
 
 # game/scripts/events.rpy:2198
 translate russian about_service_bunnies_bottom_9aeaecd9:
 
     # "They both nod and giggle at your answer in unison before guiding you over to a spot in front of the old tool shop's window."
-    ""
+    "Они в одно лицо кивают и хихикают над твоим ответом, а затем направляют тебя к месту перед витриной старого магазина инструментов."
 
 # game/scripts/events.rpy:2200
 translate russian about_service_bunnies_bottom_b80d9234:
 
     # "With a playful little shimmy, the red bunny strips down out of his underwear and then goes over to help his brother do the same."
-    ""
+    "Игриво покачиваясь, красный кролик раздевается до трусов, а затем подходит к брату, чтобы помочь ему сделать то же самое."
 
 # game/scripts/events.rpy:2202
 translate russian about_service_bunnies_bottom_7789b102:
 
     # "Even though they're still flaccid currently, their cocks look really long and snake-like, with their plump ballsacks complimenting them nicely."
-    ""
+    "Несмотря на то, что в данный момент они еще вялые, их члены выглядят очень длинными и змееподобными, а их пухлые яйца прекрасно дополняют их."
 
 # game/scripts/events.rpy:2204
 translate russian about_service_bunnies_bottom_0d66511f:
 
     # "You love how spoiled you are for bigger things..."
-    ""
+    "Тебе нравится, что ты избалован большими вещами..."
 
 # game/scripts/events.rpy:2206
 translate russian about_service_bunnies_bottom_78780782:
 
     # "They tell you to take all your clothes off as well and get down on your hands and knees."
-    ""
+    "Они говорят тебе снять всю одежду и встать на руки и колени."
 
 # game/scripts/events.rpy:2208
 translate russian about_service_bunnies_bottom_bf80b24f:
 
     # "For a minute, it sounds like they're just teasing you for being naked out in the open as they poke and prod you from in front and behind."
-    ""
+    "На минуту может показаться, что они просто дразнят тебя за то, что ты голый в открытую, тыкая и тыкая тебя спереди и сзади."
 
 # game/scripts/events.rpy:2211
 translate russian about_service_bunnies_bottom_1ed86f47:
 
     # "But then, you notice that they're both getting more erect over time, and their touches are slowly becoming rougher and more sensual."
-    ""
+    "Но потом ты замечаешь, что с течением времени они оба становятся все более эрегированными, а их касания постепенно становятся все более грубыми и чувственными."
 
 # game/scripts/events.rpy:2213
 translate russian about_service_bunnies_bottom_059c9c1f:
 
     # RedBunny "O–Kay! Let's dig in!"
-    RedBunny ""
+    RedBunny "О-Кей! Давай попробуем!"
 
 # game/scripts/events.rpy:2215
 translate russian about_service_bunnies_bottom_6b9f42df:
 
     # BlueBunny "One, two...!"
-    BlueBunny ""
+    BlueBunny "Один, два...!"
 
 # game/scripts/events.rpy:2219
 translate russian about_service_bunnies_bottom_cb57c6cb:
 
     # "They coordinate to force you to take both of them at the same time."
-    ""
+    "Они координируют свои действия, чтобы заставить тебя принять оба одновременно."
 
 # game/scripts/events.rpy:2221
 translate russian about_service_bunnies_bottom_ba04f264:
 
     # "You're made to suckle on the red bunny's slender carrot-sized dick, while the blue one inserts his into your rear all in one motion."
-    ""
+    "Ты сосешь тонкий член красного кролика размером с морковку, а синий одним движением входит свой в твою заднюю часть."
 
 # game/scripts/events.rpy:2223
 translate russian about_service_bunnies_bottom_68b02463:
 
     # "At first, it really isn't anything all that impressive..."
-    ""
+    "Поначалу это действительно не впечатляет..."
 
 # game/scripts/events.rpy:2226
 translate russian about_service_bunnies_bottom_05af0998:
 
     # "Until you start feeling that electric surge pass through you again."
-    ""
+    "Пока ты снова не почувствуешь, как тебя пронзает электрический разряд."
 
 # game/scripts/events.rpy:2228
 translate russian about_service_bunnies_bottom_81edd594:
 
     # "The elating series of jolts bounces back and forth all throughout your body, swelling up enough to get to just before the point where it really hurts you."
-    ""
+    "Волнующая серия толчков отскакивает назад и вперед по всему телу, разгоняясь настолько, что доходит до того момента, когда тебе становится по-настоящему больно."
 
 # game/scripts/events.rpy:2231
 translate russian about_service_bunnies_bottom_fcddcfac:
 
     # "Pretty soon, your whole body is vibrating and just feels so activated all over. Your dick's rock hard and you feel energised enough to run a marathon!"
-    ""
+    "Очень скоро все тело вибрирует, и ты чувствуешь, как все вокруг оживает. Твой член стал твердым, и ты чувствуешь себя достаточно энергичным, чтобы пробежать марафон!"
 
 # game/scripts/events.rpy:2233
 translate russian about_service_bunnies_bottom_f8af3a03:
 
     # "It feels like nothing you've ever felt before with people of their affinity."
-    ""
+    "Ощущения не похожи ни на что, что ты когда-либо испытывал с людьми их родства."
 
 # game/scripts/events.rpy:2236
 translate russian about_service_bunnies_bottom_2f029073:
 
     # "It's so much more steady and controlled, though you're not sure if that's just because they're not very strong with it."
-    ""
+    "Он гораздо более устойчивый и контролируемый, хотя ты не уверен, что это просто потому, что они не очень сильны с ним."
 
 # game/scripts/events.rpy:2238
 translate russian about_service_bunnies_bottom_c1f8a690:
 
     # BlueBunny "Like our shock therapy, big guy?"
-    BlueBunny ""
+    BlueBunny "Нравится наша шоковая терапия, здоровяк?"
 
 # game/scripts/events.rpy:2240
 translate russian about_service_bunnies_bottom_5df4b0b4:
 
     # RedBunny "Because of us indirectly touching, the voltage is just right enough not to be painful."
-    RedBunny ""
+    RedBunny "Благодаря тому, что мы косвенно соприкасаемся, напряжение достаточно велико, чтобы не было больно."
 
 # game/scripts/events.rpy:2242
 translate russian about_service_bunnies_bottom_36c0aa75:
 
     # BlueBunny "And it feels {i}so{/i} good for us too this way!"
-    BlueBunny ""
+    BlueBunny "И нам тоже {i}так{/i} хорошо!"
 
 # game/scripts/events.rpy:2244
 translate russian about_service_bunnies_bottom_c16870f6:
 
     # RedBunny "So, thanks so much for agreeing to be our cocksleeve. Hehe!"
-    RedBunny ""
+    RedBunny "Так что большое спасибо за то, что согласился стать нашим. Хехе!"
 
 # game/scripts/events.rpy:2246
 translate russian about_service_bunnies_bottom_9e99d28f:
 
     # BlueBunny "Here comes more of our service ❤"
-    BlueBunny ""
+    BlueBunny "А вот и другие наши услуги ❤"
 
 # game/scripts/events.rpy:2249
 translate russian about_service_bunnies_bottom_e9f42607:
 
     # "Their thrusts inside you are shallow, but each one seems to ping another wave of that current through you."
-    ""
+    "Их толчки внутри тебя неглубоки, но каждый из них словно пронзает тебя новой волной этого тока."
 
 # game/scripts/events.rpy:2252
 translate russian about_service_bunnies_bottom_43927cf2:
 
     # "It's like you can tell whenever they're timed just right to hit each other, because your abs and spine briefly tingle in a way that's oh-so-good!"
-    ""
+    "Ты словно чувствуешь, когда они попадают друг в друга, потому что твои мышцы пресса и позвоночник слегка подрагивают от удовольствия!"
 
 # game/scripts/events.rpy:2254
 translate russian about_service_bunnies_bottom_8217e3e6:
 
     # "It feels so good, in fact, that your body just craves more!"
-    ""
+    "Это настолько приятно, что тело просто жаждет большего!"
 
 # game/scripts/events.rpy:2256
 translate russian about_service_bunnies_bottom_de640e95:
 
     # "Soon enough, you learn how to clench your cheeks and your jowls at just the right time to make sure they're in sync every time..."
-    ""
+    "Вскоре ты научился поджимать свои щеки в нужный момент, чтобы они всегда были синхронны..."
 
 # game/scripts/events.rpy:2258
 translate russian about_service_bunnies_bottom_e3ac7f36:
 
     # "And fuck, are you rewarded with maximum pleasure!"
-    ""
+    "И, черт возьми, ты получаешь максимум удовольствия!"
 
 # game/scripts/events.rpy:2260
 translate russian about_service_bunnies_bottom_07bc31b5:
 
     # RedBunny "Ahhh~!"
-    RedBunny ""
+    RedBunny "Ахх~!"
 
 # game/scripts/events.rpy:2262
 translate russian about_service_bunnies_bottom_d9d29776:
 
     # BlueBunny "The feedback's hitting so intense!"
-    BlueBunny ""
+    BlueBunny "Удары такие сильные!"
 
 # game/scripts/events.rpy:2264
 translate russian about_service_bunnies_bottom_b58e4806:
 
     # RedBunny "B-Bro! I'm already gonna—!"
-    RedBunny ""
+    RedBunny "Б-братишка! Я уже собираюсь...!"
 
 # game/scripts/events.rpy:2266
 translate russian about_service_bunnies_bottom_bbc07e3d:
 
     # BlueBunny "No! Come on, this pup's making me feel so great, I wan—Ah! A-Ahh!"
-    BlueBunny ""
+    BlueBunny "Нет! Ну же, с этим щенком мне так хорошо, я хочу-Ах! А-Ахх!"
 
 # game/scripts/events.rpy:2268
 translate russian about_service_bunnies_bottom_18737f15:
 
     # "Uncontrollably, you make them both orgasm into you at the same time."
-    ""
+    "Не контролируя себя, ты доводишь их обоих до оргазма одновременно."
 
 # game/scripts/events.rpy:2270
 translate russian about_service_bunnies_bottom_7ca5b4bd:
 
     # "Their long dicks fill you with a pretty large amount of rabbit seed, but that's not too surprising considering how worked up you got them."
-    ""
+    "Их длинные члены наполняют тебя довольно большим количеством кроличьей спермы, но это не слишком удивительно, учитывая, как сильно ты их возбудил."
 
 # game/scripts/events.rpy:2272
 translate russian about_service_bunnies_bottom_a95cc159:
 
     # "The moment that they pull away and cut the current is when you finally decide it's time to join them in release."
-    ""
+    "В тот момент, когда они отплывают в сторону и рассекают течение, ты, наконец, решаешь, что пора присоединиться к ним в процессе."
 
 # game/scripts/events.rpy:2277
 translate russian about_service_bunnies_bottom_0327bbc1:
 
     # "You let out a half-howling moan as soon as the bunny pops out of your mouth like a pacifier, and you spooge all over the alley cobblestone, handsfree."
-    ""
+    "Ты издаешь полузадушенный стон, как только кролик выскакивает у тебя изо рта, словно пустышка, и, освободив руки, ты размазываешь по булыжникам аллеи слюну."
 
 # game/scripts/events.rpy:2279
 translate russian about_service_bunnies_bottom_26281555:
 
     # Fen "Holy...Huff. Holy shit..."
-    Fen ""
+    Fen "Боже... Хуфф. Срань господня..."
 
 # game/scripts/events.rpy:2281
 translate russian about_service_bunnies_bottom_63c7fa17:
 
     # RedBunny "Had a good time with us, new bro?"
-    RedBunny ""
+    RedBunny "Хорошо провел время с нами, братишка?"
 
 # game/scripts/events.rpy:2290
 translate russian about_service_bunnies_bottom_839e1e10:
 
     # Fen "Huff...You bet."
-    Fen ""
+    Fen "Хуфф... Еще бы."
 
 # game/scripts/events.rpy:2292
 translate russian about_service_bunnies_bottom_588322d0:
 
     # BlueBunny "Good! That'll be 20 coins, please!"
-    BlueBunny ""
+    BlueBunny "Хорошо! С тебя 20 монет, пожалуйста!"
 
 # game/scripts/events.rpy:2296
 translate russian about_service_bunnies_bottom_4eab9d75:
 
     # "You pays 20 coins for the service."
-    ""
+    "С тебя 20 монет за услугу."
 
 # game/scripts/events.rpy:2299
 translate russian about_service_bunnies_bottom_a41f8977:
 
     # "You've got to admit, you weren't expecting their service to be quite so expensive."
-    ""
+    "Признаться, ты не ожидал, что их услуги окажутся настолько дорогими."
 
 # game/scripts/events.rpy:2301
 translate russian about_service_bunnies_bottom_12670828:
 
     # "Although, it probably makes sense considering there are two of them and their talents must be considered quite special by someone."
-    ""
+    "Хотя, наверное, в этом есть смысл, если учесть, что их двое и их таланты кто-то считает особенными."
 
 # game/scripts/events.rpy:2303
 translate russian about_service_bunnies_bottom_47a5a5c0:
 
     # "Maybe they're worth revisiting someday when you know you definitely have the extra money to spare."
-    ""
+    "Может быть, к ним стоит вернуться когда-нибудь, когда ты будешь знать, что у тебя точно есть лишние деньги."
 
 # game/scripts/events.rpy:2306
 translate russian about_service_bunnies_bottom_15c5742e:
 
     # RedBunny "Thank you! Hope you come back again, big pup!"
-    RedBunny ""
+    RedBunny "Спасибо! Надеюсь, ты еще вернешься, большой щенок!"
 
 # game/scripts/events.rpy:2313
 translate russian fen_tailservice_bear_78b29ca2:
 
     # Fen "So far, so quiet..."
-    Fen ""
+    Fen "Пока все тихо..."
 
 # game/scripts/events.rpy:2315
 translate russian fen_tailservice_bear_9b89037a:
 
     # "Then, someone walked out from the nearby inn unexpectedly."
-    ""
+    "В этот момент кто-то неожиданно вышел из соседнего здания."
 
 # game/scripts/events.rpy:2317
 translate russian fen_tailservice_bear_a155d6fd:
 
     # Fen "ACK!"
-    Fen ""
+    Fen "АК!"
 
 # game/scripts/events.rpy:2323
 translate russian fen_tailservice_bear_e5f19bd5:
 
     # "You are suddenly bombarded with the sight of a white-furred bear strolling out of the back of the nearby inn..."
-    ""
+    "Вдруг ты видишь медведя с белой шерстью, выходящего из задней части близлежащего дома..."
 
 # game/scripts/events.rpy:2325
 translate russian fen_tailservice_bear_9773d8e8:
 
     # "...and right away your eyes fixated on their lack of undergarments."
-    ""
+    "...и сразу же твой взгляд фиксируется на отсутствии у него нижнего белья."
 
 # game/scripts/events.rpy:2327
 translate russian fen_tailservice_bear_8b3cfdfc:
 
     # "White Bear" "Ahhh..."
-    "White Bear" ""
+    "Белый Медведь" "Ахх..."
 
 # game/scripts/events.rpy:2329
 translate russian fen_tailservice_bear_1d32af69:
 
     # "This bear seemed straight out of a snow-capped forest, as their beard was more icy than just being blue-haired..."
-    ""
+    "Этот медведь, казалось, вышел прямо из заснеженного леса, ведь его борода была более ледяной, чем просто голубая..."
 
 # game/scripts/events.rpy:2331
 translate russian fen_tailservice_bear_a4789c4c:
 
     # "No wait, those were not ice-colored regular beard, those were icicles! Who would have thought?"
-    ""
+    "Нет подожди, это была не обычная борода цвета льда, это были сосульки! Кто бы мог подумать?"
 
 # game/scripts/events.rpy:2333
 translate russian fen_tailservice_bear_5eff1aed:
 
     # "White Bear" "Well howdy, traveler. You here for some tail service?"
-    "White Bear" ""
+    "Белый Медведь" "Привет, путешественник. Ты пришел за услугами хвоста?"
 
 # game/scripts/events.rpy:2335
 translate russian fen_tailservice_bear_fd94b353:
 
     # Fen "Erm..."
-    Fen ""
+    Fen "Эм..."
 
 # game/scripts/events.rpy:2337
 translate russian fen_tailservice_bear_2c3c0ae0:
 
     # "White Bear" "You there? C'mon, it'll be fun! You a top or a bottom?"
-    "White Bear" ""
+    "Белый Медведь" "Ты там? Давай, будет весело! Ты акт или пас?"
 
 # game/scripts/events.rpy:2339
 translate russian fen_tailservice_bear_0cbc00d9:
 
     # "The bear was persistent, leaning onto a nearby box as if so confident of your choice in joining them for a morning romp."
-    ""
+    "Медведь был настойчив, облокотившись на стоящий рядом ящик, как будто был уверен, что ты решишь присоединиться к нему для утренней возни."
 
 # game/scripts/events.rpy:2344
 translate russian fen_tailservice_bear_bd019454:
 
     # Fen "I think I would prefer... topping."
-    Fen ""
+    Fen "Думаю, я бы предпочел... акт."
 
 # game/scripts/events.rpy:2350
 translate russian fen_tailservice_bear_9c8f063d:
 
     # Fen "I think I would prefer... being bottom."
-    Fen ""
+    Fen "Думаю, я бы предпочел... пас."
 
 # game/scripts/events.rpy:2356
 translate russian tailservice_bear_start_2d90c246:
 
     # "White Bear" "Works for me. Let's do this!"
-    "White Bear" ""
+    "Белый Медведь" "Мне подходит. Давай сделаем это!"
 
 # game/scripts/events.rpy:2358
 translate russian tailservice_bear_start_8644b38f:
 
     # Fen "WHOA!" with vpunch
-    Fen "" with vpunch
+    Fen "ВАУ!" with vpunch
 
 # game/scripts/events.rpy:2362
 translate russian tailservice_bear_start_c2ae401f:
 
     # "Without skipping a beat, your consent got yourself hauled into the inn with the bear taking point."
-    ""
+    "Не проронив ни слова, ты по обоюдному согласию притащился в дом с медведем."
 
 # game/scripts/events.rpy:2364
 translate russian tailservice_bear_start_461cfc00:
 
     # "Inside, your nose is immediately being assaulted with the various smells of people who have also had tail service, presumably last night."
-    ""
+    "Внутри на твой нос сразу же набрасываются различные запахи людей, которые также обслуживали хвост, предположительно вчера вечером."
 
 # game/scripts/events.rpy:2366
 translate russian tailservice_bear_start_ca374e97:
 
     # "It makes you a bit dizzy."
-    ""
+    "От этого немного кружится голова."
 
 # game/scripts/events.rpy:2368
 translate russian tailservice_bear_start_cb82ba9a:
 
     # Fen "H-hold on!"
-    Fen ""
+    Fen "П-подожди!"
 
 # game/scripts/events.rpy:2370
 translate russian tailservice_bear_start_7b70f00e:
 
     # "You started getting dragged along when hesitating, however."
-    ""
+    "Однако тебя начало затягивать, когда ты замешкался."
 
 # game/scripts/events.rpy:2374
 translate russian tailservice_bear_start_4e59b3a1:
 
     # "By the time you are given a break, you are standing within a simple bedroom."
-    ""
+    "К тому времени, когда тебе дадут передохнуть, ты уже стоишь в простой спальне."
 
 # game/scripts/events.rpy:2380
 translate russian tailservice_bear_start_375e792b:
 
     # "There is not much inside but a bed that is ruffled enough to look recently used."
-    ""
+    "Внутри мало что есть, кроме кровати, которая достаточно взъерошена, чтобы выглядеть недавно использованной."
 
 # game/scripts/events.rpy:2382
 translate russian tailservice_bear_start_6d42384c:
 
     # "White Bear" "C'mon, boy, you want this, don'tcha?"
-    "White Bear" ""
+    "Белый Медведь" "Давай, парень, ты ведь хочешь этого, не так ли?"
 
 # game/scripts/events.rpy:2384
 translate russian tailservice_bear_start_4bd8e518:
 
     # "The icy bear sounded impatient, but they were at least caring enough to consider your feelings."
-    ""
+    "В голосе ледяного медведя звучало нетерпение, но, по крайней мере, он был достаточно заботлив, чтобы принять во внимание твои чувства."
 
 # game/scripts/events.rpy:2386
 translate russian tailservice_bear_start_c08f250a:
 
     # Fen "I just...th-this is a little fast and I..."
-    Fen ""
+    Fen "Я просто... это немного быстро, и я..."
 
 # game/scripts/events.rpy:2388
 translate russian tailservice_bear_start_b9800abe:
 
     # "White Bear" "Relax. It's too early for some of that backalley action. Indoors is more cozy."
-    "White Bear" ""
+    "Белый Медведь" "Расслабься. Еще слишком рано для такого экшена в подворотне. В помещении уютнее."
 
 # game/scripts/events.rpy:2390
 translate russian tailservice_bear_start_661ff27b:
 
     # "You rub the back of your head, still processing this happening as it was all going on so quickly."
-    ""
+    "Ты потираешь затылок, все еще переваривая происходящее, ведь все случилось так быстро."
 
 # game/scripts/events.rpy:2392
 translate russian tailservice_bear_start_4ec8ee06:
 
     # "Your eyes dart to the bear's cock, but you catch yourself before you stare too blatantly."
-    ""
+    "Твой взгляд устремляется к члену медведя, но ты ловишь себя на том, что не успеваешь слишком откровенно уставиться на него."
 
 # game/scripts/events.rpy:2394
 translate russian tailservice_bear_start_b48a11f9:
 
     # Fen "I was j-just exploring is all...! I heard about this place and...well..."
-    Fen ""
+    Fen "Я просто исследовал, вот и все...! Я слышал об этом месте и... ну..."
 
 # game/scripts/events.rpy:2396
 translate russian tailservice_bear_start_310503c4:
 
     # "White Bear" "...oh, you're a virgin!"
-    "White Bear" ""
+    "Белый Медведь" "...о, ты девственник!"
 
 # game/scripts/events.rpy:2398
 translate russian tailservice_bear_start_f11d98c0:
 
     # "That is not at all what you were implying."
-    ""
+    "Это совсем не то, на что ты намекал."
 
 # game/scripts/events.rpy:2400
 translate russian tailservice_bear_start_a7f540d4:
 
     # "White Bear" "Hahahahah! That's adorable! Wanted your first time with a quick lay with a real man! Get the experience under your belt for your friends!"
-    "White Bear" ""
+    "Белый Медведь" "Хахахахах! Это восхитительно! Хотел первый раз быстро переспать с настоящим мужчиной! Получи опыт для своих друзей!"
 
 # game/scripts/events.rpy:2402
 translate russian tailservice_bear_start_0c0c2797:
 
     # Oran "It's alright, boy, Oran's gonna treat you right. Consider that much free of charge!"
-    Oran ""
+    Oran "Все в порядке, парень, Оран будет обращаться с тобой как следует. Считай, что это бесплатно!"
 
 # game/scripts/events.rpy:2405
 translate russian tailservice_bear_start_c59556dd:
 
     # "Oran steps up to your face and pulls your shirt up, slowly working your body to nudity while he remains bottomless."
-    ""
+    "Оран подходит к твоему лицу и задирает рубашку, медленно доводя твое тело до наготы, пока сам остается без дна."
 
 # game/scripts/events.rpy:2407
 translate russian tailservice_bear_start_0fe4743e:
 
     # "Despite being around Terrance and Gunther, you feel oddly anxious about standing there in no clothes with this guy, covering yourself as best you can."
-    ""
+    "Несмотря на то, что рядом с тобой находятся Терренс и Гюнтер, ты чувствуешь странную тревогу из-за того, что стоишь без одежды рядом с этим парнем и прикрываешь себя как можно лучше."
 
 # game/scripts/events.rpy:2409
 translate russian tailservice_bear_start_3cd8a787:
 
     # Oran "Still a li'l scared, huh? Don't worry, I got something that'll help ya ease up."
-    Oran ""
+    Oran "Все еще немного боишься, да? Не волнуйся, у меня есть кое-что, что поможет тебе успокоиться."
 
 # game/scripts/events.rpy:2411
 translate russian tailservice_bear_start_dc5e5caf:
 
     # Oran "I like to think of it as a therapy thing. It's my best asset after all~."
-    Oran ""
+    Oran "Мне нравится думать об этом как о терапии. В конце концов, это мой лучший инструмент~."
 
 # game/scripts/events.rpy:2413
 translate russian tailservice_bear_start_4fd25599:
 
     # "Oran comes in closer, reaching in to grab your hand and guides it to his butt."
-    ""
+    "Оран подходит ближе, берет твою руку и проводит ею по своей попе."
 
 # game/scripts/events.rpy:2415
 translate russian tailservice_bear_start_f648181a:
 
     # Fen "Woah..."
-    Fen ""
+    Fen "Вау..."
 
 # game/scripts/events.rpy:2417
 translate russian tailservice_bear_start_092432b1:
 
     # "Your heart races as your warm fingers touch cool white fur. The coat brushes against your palm with a cathartic softness that draws you in to grip more firmly."
-    ""
+    "Сердце бешено колотится, когда твои теплые пальцы касаются прохладного белого меха. Шерсть прижимается к твоей ладони с мучительной мягкостью, которая притягивает тебя и заставляет крепче сжать его."
 
 # game/scripts/events.rpy:2419
 translate russian tailservice_bear_start_aca3d130:
 
     # "The plush fur surrounding Oran's butt does little to cushion out the malleable squishiness below the fluffy surface. You would sink your fingers into it as well."
-    ""
+    "Пушистый мех, окружающий попу Орана, мало чем смягчает податливую мягкость под пушистой поверхностью. В нее можно погрузить и пальцы."
 
 # game/scripts/events.rpy:2421
 translate russian tailservice_bear_start_ffe3f3a9:
 
     # Fen "{i}'Goodness...!'{/i}"
-    Fen ""
+    Fen "{i}'Боже...!'{/i}"
 
 # game/scripts/events.rpy:2423
 translate russian tailservice_bear_start_91826a23:
 
     # "You were feeling up a stranger's butt, within minutes of you two having just met!"
-    ""
+    "Ты чувствовала себя в заднице у незнакомца через несколько минут после того, как вы только что познакомились!"
 
 # game/scripts/events.rpy:2425
 translate russian tailservice_bear_start_6f9ed3ef:
 
     # "With each passing second, your arousal grew more obvious, but your hesitation makes you stop."
-    ""
+    "С каждой секундой твое возбуждение становилось все более очевидным, но нерешительность заставляет тебя остановиться."
 
 # game/scripts/events.rpy:2427
 translate russian tailservice_bear_start_67829b81:
 
     # Fen "Uhm..."
-    Fen ""
+    Fen "Ух..."
 
 # game/scripts/events.rpy:2429
 translate russian tailservice_bear_start_d7b04ae0:
 
     # "Oran catches onto your tentativeness and asserts a tone of reassurance."
-    ""
+    "Оран улавливает твою неуверенность и делает уверенный тон."
 
 # game/scripts/events.rpy:2431
 translate russian tailservice_bear_start_3229be3d:
 
     # Oran "Don't be ashamed now, boy. We're here to get busy, not show off."
-    Oran ""
+    Oran "Не стыдись, парень. Мы здесь, чтобы заниматься делом, а не красоваться."
 
 # game/scripts/events.rpy:2433
 translate russian tailservice_bear_start_94135988:
 
     # Fen "R-r-right..."
-    Fen ""
+    Fen "В-в-верно..."
 
 # game/scripts/events.rpy:2435
 translate russian tailservice_bear_start_9c9a6b26:
 
     # Oran "Do you want me on top-"
-    Oran ""
+    Oran "Хочешь, чтобы я был актом-"
 
 # game/scripts/events.rpy:2437
 translate russian tailservice_bear_start_81ad8c84:
 
     # "Oran proceeded to flex, showing off their bulky muscles that accentuated their thick limbs but also made their gut stand out considerably."
-    ""
+    "Оран продолжил сгибаться, демонстрируя свои громоздкие мышцы, которые подчеркивали толстые конечности, но при этом заметно выделяли его живот."
 
 # game/scripts/events.rpy:2439
 translate russian tailservice_bear_start_b47d4491:
 
     # "Their cock twitched while on display, drawing your eye to it again."
-    ""
+    "Его член подергивался, когда он был выставлен на всеобщее обозрение, снова привлекая твой взгляд к нему."
 
 # game/scripts/events.rpy:2441
 translate russian tailservice_bear_start_0e313e3b:
 
     # "You had to force yourself to look up from it after nearly tracing along the veins throbbing along its side and sucked in some saliva that tried to ooze out."
-    ""
+    "Ты заставил себя поднять на него глаза, едва не проследив за венами, пульсирующими на его боку, и втянул слюну, которая пыталась вытечь наружу."
 
 # game/scripts/events.rpy:2443
 translate russian tailservice_bear_start_75d7d72e:
 
     # "Being a bear, their chest looked pillowy, like you could sink your face in there and fall asleep right away."
-    ""
+    "У них, как у медведей, грудь была подушечной, как будто можно было сунуть туда морду и сразу же заснуть."
 
 # game/scripts/events.rpy:2445
 translate russian tailservice_bear_start_b76f3ec7:
 
     # "Their belly is pressed beneath their pectorals, round and prominently defined."
-    ""
+    "Живот у него поджат под грудью, круглый и четко очерченный."
 
 # game/scripts/events.rpy:2447
 translate russian tailservice_bear_start_174938f2:
 
     # Oran "-or...do you want me under you?"
-    Oran ""
+    Oran "-или... ты хочешь, чтобы я пасом?"
 
 # game/scripts/events.rpy:2449
 translate russian tailservice_bear_start_3a813ba2:
 
     # "Oran turns away and bends over, showing off his sizable butt in more clear detail."
-    ""
+    "Оран отворачивается и наклоняется, демонстрируя свой внушительный зад в более наглядных подробностях."
 
 # game/scripts/events.rpy:2451
 translate russian tailservice_bear_start_a233c718:
 
     # "You can see that the fur did not tuck away the curvature, and it was easy to track where one may find his taint."
-    ""
+    "Видно, что мех не скрывает изгибов, и легко проследить, где можно найти его пятно."
 
 # game/scripts/events.rpy:2453
 translate russian tailservice_bear_start_da1807e2:
 
     # "Oran took the view one step further and spread his cheeks apart for you to see his hole - taut but not exactly unused."
-    ""
+    "Оран сделал еще один шаг вперед и раздвинул щеки, чтобы ты мог увидеть его дырочку - упругую, но не совсем неиспользованную."
 
 # game/scripts/events.rpy:2455
 translate russian tailservice_bear_start_369d4aae:
 
     # "The air is filled with a promising musk that tickles your nose as he stands there, ready."
-    ""
+    "Воздух наполнен многообещающим мускусом, который щекочет тебе нос, пока он стоит наготове."
 
 # game/scripts/events.rpy:2458
 translate russian tailservice_bear_start_489d2246:
 
     # "You spot the white bear at his usual spot."
-    ""
+    "Ты замечаешь белого медведя на его обычном месте."
 
 # game/scripts/events.rpy:2460
 translate russian tailservice_bear_start_54e50927:
 
     # "Naked, of course."
-    ""
+    "Конечно же, голый."
 
 # game/scripts/events.rpy:2462
 translate russian tailservice_bear_start_e812dbe5:
 
     # Oran "Howdy, [name]. Here for more tail service?"
-    Oran ""
+    Oran "Привет, [name]. Хочешь получить еще больше услуг хвоста?"
 
 # game/scripts/events.rpy:2464
 translate russian tailservice_bear_start_1ed73999:
 
     # Fen "Y-yeah."
-    Fen ""
+    Fen "А-ага."
 
 # game/scripts/events.rpy:2466
 translate russian tailservice_bear_start_e3eb83e0:
 
     # Oran "God boi~ Let's do this!"
-    Oran ""
+    Oran "Боже мой~ Давай сделаем это!"
 
 # game/scripts/events.rpy:2468
 translate russian tailservice_bear_start_d6b62f84:
 
     # Fen "WHOA!"
-    Fen ""
+    Fen "ВАУ!"
 
 # game/scripts/events.rpy:2470
 translate russian tailservice_bear_start_c2ae401f_1:
 
     # "Without skipping a beat, your consent got yourself hauled into the inn with the bear taking point."
-    ""
+    "Не проронив ни слова, ты по обоюдному согласию притащился в дом с медведем."
 
 # game/scripts/events.rpy:2474
 translate russian tailservice_bear_start_bda21ffd:
 
     # "Inside, the air is thick with lingering scents of tail service, alcohol, smoke, and other dizzying aromas."
-    ""
+    "Внутри воздух густой от стойких запахов хвостового сервиса, алкоголя, дыма и других головокружительных ароматов."
 
 # game/scripts/events.rpy:2476
 translate russian tailservice_bear_start_8872450f:
 
     # "Before you know it, you're back in the same bedroom as last time."
-    ""
+    "Не успеешь оглянуться, как снова оказываешься в той же спальне, что и в прошлый раз."
 
 # game/scripts/events.rpy:2478
 translate russian tailservice_bear_start_db0da742:
 
     # "Oran comes in closer, reaching in to grab your hand and guides it to his thick bear meat."
-    ""
+    "Оран подходит ближе, берет вашу руку и проводит ею по своему толстому медвежьему телу."
 
 # game/scripts/events.rpy:2480
 translate russian tailservice_bear_start_5afc05b1:
 
     # Oran "Do you want me on top today-"
-    Oran ""
+    Oran "Хочешь, чтобы я сегодня был актом-"
 
 # game/scripts/events.rpy:2482
 translate russian tailservice_bear_start_81ad8c84_1:
 
     # "Oran proceeded to flex, showing off their bulky muscles that accentuated their thick limbs but also made their gut stand out considerably."
-    ""
+    "Оран продолжил сгибаться, демонстрируя свои громоздкие мышцы, которые подчеркивали толстые конечности, но при этом заметно выделяли его живот."
 
 # game/scripts/events.rpy:2484
 translate russian tailservice_bear_start_b47d4491_1:
 
     # "Their cock twitched while on display, drawing your eye to it again."
-    ""
+    "Его член подергивался, когда он был выставлен на всеобщее обозрение, снова привлекая твой взгляд к нему."
 
 # game/scripts/events.rpy:2486
 translate russian tailservice_bear_start_0e313e3b_1:
 
     # "You had to force yourself to look up from it after nearly tracing along the veins throbbing along its side and sucked in some saliva that tried to ooze out."
-    ""
+    "Ты заставил себя поднять на него глаза, едва не проследив за венами, пульсирующими на его боку, и втянул слюну, которая пыталась вытечь наружу."
 
 # game/scripts/events.rpy:2488
 translate russian tailservice_bear_start_75d7d72e_1:
 
     # "Being a bear, their chest looked pillowy, like you could sink your face in there and fall asleep right away."
-    ""
+    "У них, как у медведей, грудь была подушечной, как будто можно было сунуть туда морду и сразу же заснуть."
 
 # game/scripts/events.rpy:2490
 translate russian tailservice_bear_start_b76f3ec7_1:
 
     # "Their belly is pressed beneath their pectorals, round and prominently defined."
-    ""
+    "Живот у него поджат под грудью, круглый и четко очерченный."
 
 # game/scripts/events.rpy:2492
 translate russian tailservice_bear_start_5b1dcff6:
 
     # Oran "-or... under you?"
-    Oran ""
+    Oran "-или... пасом?"
 
 # game/scripts/events.rpy:2494
 translate russian tailservice_bear_start_3a813ba2_1:
 
     # "Oran turns away and bends over, showing off his sizable butt in more clear detail."
-    ""
+    "Оран отворачивается и наклоняется, демонстрируя свой внушительный зад в более наглядных подробностях."
 
 # game/scripts/events.rpy:2496
 translate russian tailservice_bear_start_a233c718_1:
 
     # "You can see that the fur did not tuck away the curvature, and it was easy to track where one may find his taint."
-    ""
+    "Видно, что мех не скрывает изгибов, и легко проследить, где можно найти его пятно."
 
 # game/scripts/events.rpy:2498
 translate russian tailservice_bear_start_da1807e2_1:
 
     # "Oran took the view one step further and spread his cheeks apart for you to see his hole - taut but not exactly unused."
-    ""
+    "Оран сделал еще один шаг вперед и раздвинул щеки, чтобы ты мог увидеть его дырочку - упругую, но не совсем неиспользованную."
 
 # game/scripts/events.rpy:2500
 translate russian tailservice_bear_start_369d4aae_1:
 
     # "The air is filled with a promising musk that tickles your nose as he stands there, ready."
-    ""
+    "Воздух наполнен многообещающим мускусом, который щекочет тебе нос, пока он стоит наготове."
 
 # game/scripts/events.rpy:2510
 translate russian tailservice_bear_top_48a2f0dc:
 
     # "As you weigh your thoughts on each option, you find yourself much more easily gravitating to Oran being under you."
-    ""
+    "По мере того как ты взвешиваешь каждый вариант, ты все больше склоняешься к тому, что Оран будет пасом."
 
 # game/scripts/events.rpy:2512
 translate russian tailservice_bear_top_ef55323e:
 
     # "Both the thought of laying on someone to top them and the sight of them bent over swaying your choice."
-    ""
+    "И мысль о том, чтобы лечь на кого-нибудь сверху, и вид того, как он нагибается, поколебали твой выбор."
 
 # game/scripts/events.rpy:2514
 translate russian tailservice_bear_top_ef250be7:
 
     # Fen "Under! U-uh, yeah, under."
-    Fen ""
+    Fen "Пас! Ээ, да, пас."
 
 # game/scripts/events.rpy:2516
 translate russian tailservice_bear_top_7eb444a2:
 
     # "Oran snickered at your outburst before wiggling their buttcheeks towards you."
-    ""
+    "Оран хихикнул, глядя на твою вспышку, и пошевелил ягодицами в твою сторону."
 
 # game/scripts/events.rpy:2518
 translate russian tailservice_bear_top_66e8b089:
 
     # "Your drool comes back with a vengeance, seeping past your lips before you can lick them dry."
-    ""
+    "Твоя слюна возвращается с новой силой, просачиваясь сквозь губы, прежде чем ты успеваешь их облизать."
 
 # game/scripts/events.rpy:2520
 translate russian tailservice_bear_top_e0f2bedc:
 
     # Oran "Well how 'bout you show me why I should be under you, boy~"
-    Oran ""
+    Oran "Как насчет того, чтобы показать мне, почему я должен быть пасом, парень~"
 
 # game/scripts/events.rpy:2522
 translate russian tailservice_bear_top_b33adb6d:
 
     # Fen "..."
-    Fen ""
+    Fen "..."
 
 # game/scripts/events.rpy:2524
 translate russian tailservice_bear_top_2e6a63c7:
 
     # "With as much heft yet some thought put into it, you walk up and shove Oran onto the bed in front of them-"
-    ""
+    "С такой же тяжестью и в то же время продуманностью ты подходишь и пихаешь Орана на кровать перед ним-"
 
 # game/scripts/events.rpy:2526
 translate russian tailservice_bear_top_0e253246:
 
     # "Being mindful not to make them hit the headboard but otherwise asserting yourself all the same."
-    ""
+    "Заботясь о том, чтобы он не ударился об изголовье кровати, но в остальном утверждаясь в своем положении."
 
 # game/scripts/events.rpy:2528
 translate russian tailservice_bear_top_6d63f214:
 
     # "He lands perfectly onto his stomach, which keeps his ass hiked up in the air for you to ogle."
-    ""
+    "Он идеально приземляется на живот, благодаря чему его задница оказывается приподнятой в воздух, чтобы ты мог ею любоваться."
 
 # game/scripts/events.rpy:2530
 translate russian tailservice_bear_top_4a4c5fb6:
 
     # "You can see it wobbling in place for a few moments before coming to a stop, so entrancingly fat..."
-    ""
+    "Ты видишь, как он покачивается на месте несколько мгновений, прежде чем остановиться, такой завораживающе толстый..."
 
 # game/scripts/events.rpy:2532
 translate russian tailservice_bear_top_33f5b67f:
 
     # Fen "Sheesh...How do you get it to be that big...?"
-    Fen ""
+    Fen "Ну и ну... Как тебе удалось сделать его таким большим...?"
 
 # game/scripts/events.rpy:2534
 translate russian tailservice_bear_top_6e6c9f0f:
 
     # "Oran gives you a wink."
-    ""
+    "Оран подмигивает."
 
 # game/scripts/events.rpy:2536
 translate russian tailservice_bear_top_4b45fc23:
 
     # Oran "A bear's got some secrets...But I bet you got an eruption tucked in there~"
-    Oran ""
+    Oran "У медведя есть свои секреты... Но я уверен, что у тебя там есть сюрприз~"
 
 # game/scripts/events.rpy:2538
 translate russian tailservice_bear_top_0d5731e4:
 
     # "Such subtle vulgarity has you heated up, cock so hard that it hardly moved an inch as it throbbed in the open air."
-    ""
+    "От такой утонченной вульгарности ты возбудился, член стал таким твердым, что едва ли сдвинулся на дюйм, пока пульсировал на открытом воздухе."
 
 # game/scripts/events.rpy:2540
 translate russian tailservice_bear_top_8a6b2dbf:
 
     # Fen "Wouldn't you like to know...?"
-    Fen ""
+    Fen "Разве ты не хотел бы узнать...?"
 
 # game/scripts/events.rpy:2542
 translate russian tailservice_bear_top_9e1ef811:
 
     # Oran "Oh now I'm dying to know for sure, boy~"
-    Oran ""
+    Oran "О, теперь я хочу знать наверняка, парень~"
 
 # game/scripts/events.rpy:2544
 translate russian tailservice_bear_top_cadaa96a:
 
     # "Feeling less tentative, you relax yourself and breathe in the somewhat rank air within the bedroom."
-    ""
+    "Чувствуя себя менее уверенно, ты расслабляешься и вдыхаешь немного спертый воздух спальни."
 
 # game/scripts/events.rpy:2546
 translate russian tailservice_bear_top_cc15d333:
 
     # "You climb onto the bed and position yourself somewhat over Oran's back."
-    ""
+    "Ты забираешься на кровать и располагаешься немного выше спины Орана."
 
 # game/scripts/events.rpy:2548
 translate russian tailservice_bear_top_f4a78a25:
 
     # "You grab his butt and spread them apart to make room for your cock. A faint shininess shows the bear was already lubed up."
-    ""
+    "Ты хватаешь его за задницу и раздвигаешь их, чтобы освободить место для своего члена. Слабый блеск показывает, что медведь уже был смазан."
 
 # game/scripts/events.rpy:2550
 translate russian tailservice_bear_top_6a9e153c:
 
     # "Oran's face shows a mix of amusement and not-so-hidden glee at how you cupped his ass."
-    ""
+    "На лице Орана отразилась смесь веселья и не очень скрываемого ликования от того, как ты обхватил его задницу."
 
 # game/scripts/events.rpy:2552
 translate russian tailservice_bear_top_541253fe:
 
     # Oran "You ready, boy?"
-    Oran ""
+    Oran "Ты готов, парень?"
 
 # game/scripts/events.rpy:2554
 translate russian tailservice_bear_top_8692e9f9:
 
     # "Your heart is loud in your ears, your cock slowly wedging into Oran's asscrack."
-    ""
+    "Сердце громко стучит в ушах, а член медленно входит в задницу Орана."
 
 # game/scripts/events.rpy:2556
 translate russian tailservice_bear_top_b74efe34:
 
     # "Your body twitched with anticipation, but you were in fact ready. This is it. You were about to fuck the bear with all you got!"
-    ""
+    "Твое тело подергивалось от предвкушения, но на самом деле ты был готов. Вот оно. Ты собирался трахнуть медведя со всей силы!"
 
 # game/scripts/events.rpy:2558
 translate russian tailservice_bear_top_55a316ed:
 
     # Fen "Yep..."
-    Fen ""
+    Fen "Ага..."
 
 # game/scripts/events.rpy:2561
 translate russian tailservice_bear_top_52ab5609:
 
     # "Your cock pushes in, prompting a grunt out of Oran that sounded too pleased to be discomforted from your size."
-    ""
+    "Твой член проталкивается внутрь, вызывая у Орана хрюканье, которое звучит слишком приятно, чтобы испытывать дискомфорт от твоих размеров."
 
 # game/scripts/events.rpy:2563
 translate russian tailservice_bear_top_89e7843a:
 
     # "He keeps up his grin and gives you another wink."
-    ""
+    "Он продолжает ухмыляться и подмигивает тебе."
 
 # game/scripts/events.rpy:2565
 translate russian tailservice_bear_top_026e9fa7:
 
     # Fen "Unnnnmmph..."
-    Fen ""
+    Fen "Уннммф..."
 
 # game/scripts/events.rpy:2567
 translate russian tailservice_bear_top_e5e5f39e:
 
     # Oran "Nice and meaty, I like it~"
-    Oran ""
+    Oran "Красивый и мясистый, мне нравится~"
 
 # game/scripts/events.rpy:2569
 translate russian tailservice_bear_top_59872700:
 
     # "Oran lets out a baritone moan as you press deeper, a sign you have gotten far enough to brush their sensitive spots. - a lesson from Odachi - "
-    ""
+    "Оран издает стон, когда ты проникаешь глубже, знак того, что ты уже достаточно далеко проник, чтобы задеть его чувствительные места. - Урок от Одачи -"
 
 # game/scripts/events.rpy:2571
 translate russian tailservice_bear_top_17f1448c:
 
     # "You idle there for only a moment to ride out the sudden clench before proceeding on."
-    ""
+    "Ты замираешь на мгновение, чтобы переждать внезапное сжатие, прежде чем продолжить движение."
 
 # game/scripts/events.rpy:2573
 translate russian tailservice_bear_top_909a3281:
 
     # "You soon reach the point where no more can fit on the first go, surprised at how easily you slid right through."
-    ""
+    "Вскоре ты доходишь до точки, где с первого раза уже ничего не помещается, и удивляешься тому, как легко ты проскользнул."
 
 # game/scripts/events.rpy:2575
 translate russian tailservice_bear_top_f6f1ad24:
 
     # "Oran must be a very frequent bottom."
-    ""
+    "Оран, должно быть, очень часто бывает пасом."
 
 # game/scripts/events.rpy:2577
 translate russian tailservice_bear_top_1b25547b:
 
     # Fen "Mm-mmmh..."
-    Fen ""
+    Fen "Мм-ммф..."
 
 # game/scripts/events.rpy:2579
 translate russian tailservice_bear_top_96de3b5a:
 
     # Fen "{i}'Feels so good...'{/i}"
-    Fen ""
+    Fen "{i}'Так хорошо...'{/i}"
 
 # game/scripts/events.rpy:2581
 translate russian tailservice_bear_top_1f6e0cbe:
 
     # "The cool interior was very enrapturing, complimenting the heat radiating off of your fully erect cock."
-    ""
+    "Прохладная внутренняя отделка очень завораживала, дополняя тепло, исходящее от твоего полностью возбужденного члена."
 
 # game/scripts/events.rpy:2583
 translate russian tailservice_bear_top_2dbd71d7:
 
     # "The smooth insertion jolts your hips into moving back out of reflex from the pleasure encapsulating your shaft."
-    ""
+    "Плавное введение заставляет твои бедра рефлекторно податься назад от удовольствия, охватившего твой ствол."
 
 # game/scripts/events.rpy:2585
 translate russian tailservice_bear_top_48e219ba:
 
     # Oran "Hoooo, yeah~"
-    Oran ""
+    Oran "Хуу, да~"
 
 # game/scripts/events.rpy:2587
 translate russian tailservice_bear_top_951e81f6:
 
     # "Oran's face fills your topside view, goading you on with his moxie shining on his face with every inch of you buried in."
-    ""
+    "Лицо Орана заполняет весь твой обзор сверху, подстегивая тебя, его лихость сияет на лице с каждым дюймом, в который ты погружаешься."
 
 # game/scripts/events.rpy:2590
 translate russian tailservice_bear_top_2c83bf8c:
 
     # "Once you have your fill, you pull back far enough for your liking, and you begin to fuck the bear."
-    ""
+    "Насытившись, ты отступаешь на достаточное расстояние и начинаешь трахать медведя."
 
 # game/scripts/events.rpy:2592
 translate russian tailservice_bear_top_4a72efa1:
 
     # "{i}PLAP PLAP PLAP{/i}"
-    ""
+    "{i}ПЛАП ПЛАП ПЛАП{/i}"
 
 # game/scripts/events.rpy:2594
 translate russian tailservice_bear_top_bee71227:
 
     # "{i}PLAP PLAP PLAP PLAP{/i}"
-    ""
+    "{i}ПЛАП ПЛАП ПЛАП ПЛАП{/i}"
 
 # game/scripts/events.rpy:2596
 translate russian tailservice_bear_top_dca0085c:
 
     # Fen "Unnnngh..."
-    Fen ""
+    Fen "Нннгх..."
 
 # game/scripts/events.rpy:2598
 translate russian tailservice_bear_top_248e490f:
 
     # Oran "Hrrrrgh, yeah...give it to me good, boy..."
-    Oran ""
+    Oran "Хррррр, да... дай мне это, пацан..."
 
 # game/scripts/events.rpy:2600
 translate russian tailservice_bear_top_bee71227_1:
 
     # "{i}PLAP PLAP PLAP PLAP{/i}"
-    ""
+    "{i}ПЛАП ПЛАП ПЛАП ПЛАП{/i}"
 
 # game/scripts/events.rpy:2602
 translate russian tailservice_bear_top_0b453064:
 
     # "{i}PLAP PLAP PLAP PLAP PLAP{/i}"
-    ""
+    "{i}ПЛАП ПЛАП ПЛАП ПЛАП ПЛАП{/i}"
 
 # game/scripts/events.rpy:2604
 translate russian tailservice_bear_top_d5cef0e3:
 
     # Oran "Fuck...just like that..."
-    Oran ""
+    Oran "Черт... вот так..."
 
 # game/scripts/events.rpy:2606
 translate russian tailservice_bear_top_f00baf9c:
 
     # Fen "Mmmmnn-nnnh..."
-    Fen ""
+    Fen "Ммммн-ннф..."
 
 # game/scripts/events.rpy:2608
 translate russian tailservice_bear_top_c233921d:
 
     # "The pleasure is phenomenal. Every time you push in or pull back, it is like Oran's ass puts you in a chokehold, urging you to work hard."
-    ""
+    "Удовольствие просто потрясающее. Каждый раз, когда ты вводишь или отводишь, задница Орана словно затягивает тебя в удушающий захват, побуждая напрячься."
 
 # game/scripts/events.rpy:2610
 translate russian tailservice_bear_top_9aee9174:
 
     # "Your face is dotted with sweat already, but it was more from the humid air of the situation as you indulge in the bear's ass."
-    ""
+    "Твое лицо уже покрылось потом, но это было скорее от влажного воздуха ситуации, когда ты ласкал медвежью задницу."
 
 # game/scripts/events.rpy:2612
 translate russian tailservice_bear_top_f4098444:
 
     # "Your motions naturally speed up, the pace growing more heated by the second."
-    ""
+    "Твои движения естественным образом ускоряются, темп с каждой секундой становится все более жарким."
 
 # game/scripts/events.rpy:2614
 translate russian tailservice_bear_top_65359165:
 
     # "You can feel Oran's butt bouncing and jiggling against your hips with each thrust."
-    ""
+    "Ты чувствуешь, как задница Орана подпрыгивает и покачивается на твоих бедрах с каждым толчком."
 
 # game/scripts/events.rpy:2616
 translate russian tailservice_bear_top_1550a683:
 
     # "You begin breathing heavier. The effort was getting to you already. Faintly visible puffs of hot air erupt from your mouth."
-    ""
+    "Ты начинаешь дышать тяжелее. Усилия уже дают о себе знать. Из твоего рта вырываются едва заметные струйки горячего воздуха."
 
 # game/scripts/events.rpy:2618
 translate russian tailservice_bear_top_99f31891:
 
     # Fen "Hrrrrgh...GRRRRRFH!"
-    Fen ""
+    Fen "Грррх...ГРРРРРФ!"
 
 # game/scripts/events.rpy:2620
 translate russian tailservice_bear_top_7a53b2ac:
 
     # "Oran was not loosening up, remaining snug around your cock as you got into a good momentum."
-    ""
+    "Оран не ослабевал, продолжая плотно обхватывать твой член, пока ты набирал хороший темп."
 
 # game/scripts/events.rpy:2622
 translate russian tailservice_bear_top_c98047bd:
 
     # "Your hands shift from keeping him spread open to just holding onto something."
-    ""
+    "Твои руки переходят от удерживания его в раскрытом состоянии к простому удержанию чего-либо."
 
 # game/scripts/events.rpy:2626
 translate russian tailservice_bear_top_0cd8cfc9:
 
     # "Your indulgence compels you to go harder, making Oran moan more frequently while your grip on him grows more possessive."
-    ""
+    "Потакание заставляет тебя двигаться сильнее, заставляя Орана стонать все чаще, а твою хватку на нем все крепче."
 
 # game/scripts/events.rpy:2628
 translate russian tailservice_bear_top_a0c0149a:
 
     # "{i}PLAP PLAP PLAP PLAP PLAP PLAP{/i}"
-    ""
+    "{i}ПЛАП ПЛАП ПЛАП ПЛАП ПЛАП ПЛАП{/i}"
 
 # game/scripts/events.rpy:2630
 translate russian tailservice_bear_top_8231c6fd:
 
     # Oran "Ooouuugh...hnnnf~"
-    Oran ""
+    Oran "Уууух...ннф~"
 
 # game/scripts/events.rpy:2632
 translate russian tailservice_bear_top_02c05e92:
 
     # "The bear's moaning pushes you to go all-out, instincts giving you the necessary guide towards a pleasurable pace."
-    ""
+    "Стоны медведя подталкивают тебя к тому, чтобы выкладываться по полной, инстинкты подсказывают тебе, как сделать так, чтобы темп был приятным."
 
 # game/scripts/events.rpy:2634
 translate russian tailservice_bear_top_0cc3390d:
 
     # "Your cock hardly leaves Oran's hole. Making it nice and hot inside, the air grows thick with the stench of your actions."
-    ""
+    "Твой член почти не покидает отверстие Орана. Внутри становится приятно и жарко, а воздух густеет от зловония твоих действий."
 
 # game/scripts/events.rpy:2636
 translate russian tailservice_bear_top_6515a08a:
 
     # Oran "Don't be 'fraid now, youngin'. I can handle a little roughin' up..."
-    Oran ""
+    Oran "Не бойся, парень. Я справлюсь с небольшими трудностями..."
 
 # game/scripts/events.rpy:2638
 translate russian tailservice_bear_top_8355dfd5:
 
     # Oran "Once you start, you better not stop until we're finished, ya hear?"
-    Oran ""
+    Oran "Если ты начнешь, тебе лучше не останавливаться, пока мы не закончим, понял?"
 
 # game/scripts/events.rpy:2640
 translate russian tailservice_bear_top_0415987b:
 
     # "Oran's encouragement was all you needed to release the tentative power behind your thrusts."
-    ""
+    "Поощрение Орана было все, что тебе нужно, чтобы выпустить неуверенную силу своих толчков."
 
 # game/scripts/events.rpy:2642
 translate russian tailservice_bear_top_b54b9126:
 
     # "No need to be gentle? That was fine with you."
-    ""
+    "Не нужно быть нежным? Это было нормально для тебя."
 
 # game/scripts/events.rpy:2644
 translate russian tailservice_bear_top_5183fdf0:
 
     # "Your hips get straight to work, gyrating so fluidly that you can hardly tell what it felt like to not be inside Oran's hole."
-    ""
+    "Твои бедра сразу же приступают к работе, извиваясь так плавно, что ты с трудом можешь сказать, каково это - не быть внутри дырки Орана."
 
 # game/scripts/events.rpy:2646
 translate russian tailservice_bear_top_89baa87a:
 
     # "Your fingers sink into the fat of his ass, providing the leverage to slip into a much more assertive pace."
-    ""
+    "Твои пальцы погружаются в тело его задницы, обеспечивая рычаг для перехода в более напористый темп."
 
 # game/scripts/events.rpy:2648
 translate russian tailservice_bear_top_dbe881d7:
 
     # Fen "Hhhhhfff...hhfff...hnf...ghhhuh..."
-    Fen ""
+    Fen "Хххфф...хффф...нф...гхах..."
 
 # game/scripts/events.rpy:2650
 translate russian tailservice_bear_top_415a9316:
 
     # "You puff out small plumes of fire, and your body moves involuntarily until you are bear-hugging Oran until you slowly press down on his back."
-    ""
+    "Из тебя вырываются небольшие струйки огня, а твое тело непроизвольно двигается, пока ты не обнимаешь Орана, медленно прижимаясь к его спине."
 
 # game/scripts/events.rpy:2652
 translate russian tailservice_bear_top_a83fcf05:
 
     # "Within seconds, you mount Oran's body and your thrusts shift straight forward instead of at an angle."
-    ""
+    "Через несколько секунд ты упираешься в тело Орана, и твои толчки смещаются не под углом, а прямо вперед."
 
 # game/scripts/events.rpy:2654
 translate russian tailservice_bear_top_a485a2c0:
 
     # Oran "Hnnng...C'mon...b-boy..."
-    Oran ""
+    Oran "Хнннг... Давай... п-пацан..."
 
 # game/scripts/events.rpy:2656
 translate russian tailservice_bear_top_b68773d7:
 
     # "Oran was getting impatient."
-    ""
+    "Оран начал терять терпение."
 
 # game/scripts/events.rpy:2658
 translate russian tailservice_bear_top_6d57493f:
 
     # "At this rate, his ass was cushioning a genuine onslaught from your hips, and his experience really shined in being able to handle your vigor."
-    ""
+    "В таком темпе его задница смягчала настоящий штурм бедер, а опыт позволял справляться с энергией."
 
 # game/scripts/events.rpy:2660
 translate russian tailservice_bear_top_8c8d898e:
 
     # "His buttcheeks ripple at every impact, so deliciously hypnotic that you almost wish you could see for yourself but otherwise riding out the 'wavy' sensation against your thighs."
-    ""
+    "Его ягодицы пульсируют при каждом ударе, это так восхитительно гипнотизирует, что ты почти жалеешь, что не можешь увидеть это своими глазами, но в остальном ты просто наслаждаешься волнистыми ощущениями на своих бедрах."
 
 # game/scripts/events.rpy:2662
 translate russian tailservice_bear_top_e9d9963c:
 
     # "Oran's face begins to scrunch up with repressed intention, and his hole quivers against your cock."
-    ""
+    "Лицо Орана начинает искажаться от подавляемого желания, а его дырочка трепещет от твоего члена."
 
 # game/scripts/events.rpy:2664
 translate russian tailservice_bear_top_a7cf7d61:
 
     # "He's close, but he can put it on hold for someone on a whim."
-    ""
+    "Он близок к цели, но по прихоти может отложить ее для кого-то."
 
 # game/scripts/events.rpy:2666
 translate russian tailservice_bear_top_6a8d7cdb:
 
     # Oran "I know you got a lot in ya...! L-let's...hrrrfh, have it!"
-    Oran ""
+    Oran "Я знаю, что в тебе есть многое...! Давай... хрррфх, сделай это!"
 
 # game/scripts/events.rpy:2668
 translate russian tailservice_bear_top_41f9457d:
 
     # "He was right, you had the will to truly give it your all and no reason not to."
-    ""
+    "Он был прав, у тебя было желание выложиться по полной и не было причин отказываться."
 
 # game/scripts/events.rpy:2670
 translate russian tailservice_bear_top_5596039b:
 
     # "So you finally allow the instincts to take over, making your hips barely visible and your vision haze over."
-    ""
+    "И вот ты наконец позволяешь инстинктам взять верх, в результате чего твои бедра становятся едва заметными, а зрение затуманивается."
 
 # game/scripts/events.rpy:2672
 translate russian tailservice_bear_top_2ad7fb3e:
 
     # "You can feel the pressure of an orgasm rising up within you, a sign that this would soon end."
-    ""
+    "Ты чувствуешь, как внутри тебя нарастает напряжение оргазма, знак того, что это скоро закончится."
 
 # game/scripts/events.rpy:2674
 translate russian tailservice_bear_top_9982590f:
 
     # "Your cock begins to spray hot precum inside of Oran, eliciting another pleased groan out of the bear."
-    ""
+    "Твой член начинает брызгать горячей спермой внутрь Орана, вызывая у медведя еще один довольный стон."
 
 # game/scripts/events.rpy:2676
 translate russian tailservice_bear_top_328dca65:
 
     # "Your thrusts have reached their true potential, the fastest you can go and the hardest you can manage."
-    ""
+    "Твои толчки достигли своего максимального предела, самого быстрого и самого жесткого, на который ты способен."
 
 # game/scripts/events.rpy:2678
 translate russian tailservice_bear_top_0c9587dc:
 
     # "Oran shows no sign of being in pain, feeding into your desire to bed him with no mercy."
-    ""
+    "Оран не выказывает ни малейшего признака боли, что способствует твоему желанию уложить его в постель без всякой пощады."
 
 # game/scripts/events.rpy:2680
 translate russian tailservice_bear_top_3416099f:
 
     # "The room echoes with the sound of your lust, drowning out everything else around you and deafening meaningless ambience."
-    ""
+    "Комната отдается эхом твоей похоти, заглушая все вокруг и оглушая бессмысленной атмосферой."
 
 # game/scripts/events.rpy:2682
 translate russian tailservice_bear_top_9268b356:
 
     # "PAP-PAP-PAP-PAP-PAP-PAP-PAP"
-    ""
+    "ПАП-ПАП-ПАП-ПАП-ПАП-ПАП-ПАП"
 
 # game/scripts/events.rpy:2684
 translate russian tailservice_bear_top_9a89245f:
 
     # Oran "Fuck...fff-huck, I'm gonna..."
-    Oran ""
+    Oran "Бл...дь, я сейчас..."
 
 # game/scripts/events.rpy:2686
 translate russian tailservice_bear_top_0fcbaf35:
 
     # Oran "GHHHAAAHH...!"
-    Oran ""
+    Oran "ГХХАААХ...!"
 
 # game/scripts/events.rpy:2688
 translate russian tailservice_bear_top_a2bec06a:
 
     # "Before you could regard Oran's words, the bear's hole suddenly clamped shut around you, nearly slowing you down but not tight enough to hinder the might behind your pace."
-    ""
+    "Не успел ты подумать о словах Орана, как медвежья лапа внезапно сомкнулась вокруг тебя, почти замедлив твой темп, но не настолько сильно, чтобы помешать твоей мощи."
 
 # game/scripts/events.rpy:2690
 translate russian tailservice_bear_top_f2e0c24b:
 
     # "The faint smell of salt wafts into your flared nostrils and a growing dampness spreads towards your toes."
-    ""
+    "Слабый запах соли проникает в твои ноздри, а растущая сырость распространяется по пальцам ног."
 
 # game/scripts/events.rpy:2692
 translate russian tailservice_bear_top_732d5b82:
 
     # "His ass clenches rhythmically and hypnotically, as you can follow it up with a thrust each time."
-    ""
+    "Его попка ритмично и гипнотически сжимается, а ты каждый раз сопровождаешь это толчком."
 
 # game/scripts/events.rpy:2694
 translate russian tailservice_bear_top_f1695428:
 
     # "Soon his cum would become visible beyond the snow white fur of his nude bottom half, showing off just how much he himself had to offer from a hands-free load."
-    ""
+    "Вскоре его сперма стала видна за белоснежным мехом обнаженной нижней половины тела, демонстрируя, как много он сам может предложить, не прикладывая рук."
 
 # game/scripts/events.rpy:2696
 translate russian tailservice_bear_top_3b9b9c8e:
 
     # "As this occurs, the tightened softness of Oran's hole begins to tempt you towards the edge, driving you towards your orgasm, abandoning your rhythm in the search for release."
-    ""
+    "По мере того как это происходит, стянутая мягкость дырочки Орана начинает искушать тебя, подталкивая к оргазму, и ты сбиваешься с ритма в стремлении к этому."
 
 # game/scripts/events.rpy:2698
 translate russian tailservice_bear_top_dea090c7:
 
     # Oran "Auuuugh..."
-    Oran ""
+    Oran "Уууух..."
 
 # game/scripts/events.rpy:2700
 translate russian tailservice_bear_top_55a69878:
 
     # "One last cry from Oran, and his hole slowly relaxed, allowing you to fuck him back at relatively normal speed, giving you that final push while your body curls inward."
-    ""
+    "Последний крик Орана, и его дырочка медленно расслабляется, позволяя тебе трахать его с относительно нормальной скоростью, давая тебе последний толчок, пока твое тело выгибается внутрь."
 
 # game/scripts/events.rpy:2702
 translate russian tailservice_bear_top_8e02ffec:
 
     # Fen "Yes...Hng...gonna...blow..."
-    Fen ""
+    Fen "Да... Хнг... собираюсь... сделать..."
 
 # game/scripts/events.rpy:2704
 translate russian tailservice_bear_top_a69f9818:
 
     # "You can feel it deep within your being."
-    ""
+    "Ты можешь почувствовать это глубоко внутри себя."
 
 # game/scripts/events.rpy:2706
 translate russian tailservice_bear_top_7d10ed00:
 
     # "Everything that has happened thus far has led to this inevitability."
-    ""
+    "Все, что происходило до сих пор, вело к этой неизбежности."
 
 # game/scripts/events.rpy:2708
 translate russian tailservice_bear_top_eb2831dd:
 
     # "Your balls were churning, revving up the load that would send things off with a bang."
-    ""
+    "Твои яйца пульсировали, набирая обороты, которые должны были привести к взрыву."
 
 # game/scripts/events.rpy:2710
 translate russian tailservice_bear_top_2a72e444:
 
     # "Once you are back to your true speed, you feel the compelling urge to bite down on Oran's neck, more impulsive than a need."
-    ""
+    "Как только ты вернулся к своей скорости, ты почувствовал непреодолимое желание укусить Орана за шею, скорее импульсивное, чем необходимое."
 
 # game/scripts/events.rpy:2712
 translate russian tailservice_bear_top_e994ad72:
 
     # "Oran falls into a slump and exposes it as well, practically giving you the opportunity."
-    ""
+    "Оран впадает в ступор и тоже обнажает его, практически давая тебе возможность."
 
 # game/scripts/events.rpy:2714
 translate russian tailservice_bear_top_7f22946a:
 
     # "{i}HOMF{/i}"
-    ""
+    "{i}ХОМФ{/i}"
 
 # game/scripts/events.rpy:2716
 translate russian tailservice_bear_top_4be7a555:
 
     # "Before you can waste any further time, your teeth sink into Oran's neck, embedded far enough to stay but not to draw blood."
-    ""
+    "Не успеешь ты потерять время, как твои зубы вонзаются в шею Орана, впиваясь достаточно глубоко, чтобы остаться, но не пустить кровь."
 
 # game/scripts/events.rpy:2718
 translate russian tailservice_bear_top_7b24f262:
 
     # Oran "GUH!"
-    Oran ""
+    Oran "ГАХ!"
 
 # game/scripts/events.rpy:2720
 translate russian tailservice_bear_top_c564a1fc:
 
     # Oran "Y-you're a...beast..."
-    Oran ""
+    Oran "Т-ты... зверь..."
 
 # game/scripts/events.rpy:2722
 translate russian tailservice_bear_top_093402be:
 
     # "Oran's compliments are distant in spite of his proximity to your ears."
-    ""
+    "Комплименты Орана звучат отстраненно, несмотря на его близость к твоим ушам."
 
 # game/scripts/events.rpy:2724
 translate russian tailservice_bear_top_bfde7cc8:
 
     # "Your mind was honed in on one thing - finishing the task at hand."
-    ""
+    "Твои мысли были сосредоточены на одном - завершить начатое дело."
 
 # game/scripts/events.rpy:2726
 translate russian tailservice_bear_top_15625014:
 
     # "Your hips are back at a blur, pummeling the bear's butt to the point where the noise drowned out the world around you."
-    ""
+    "Твои бедра снова затряслись, ударяя медведя по заднице так, что шум заглушил окружающий мир."
 
 # game/scripts/events.rpy:2728
 translate russian tailservice_bear_top_4e4eb94a:
 
     # "Your orgasm was gnawing at you, progressive in rising up but at least surely coming."
-    ""
+    "Твой оргазм грыз тебя, постепенно поднимаясь, но, по крайней мере, уверенно приближаясь."
 
 # game/scripts/events.rpy:2730
 translate russian tailservice_bear_top_61033f74:
 
     # "{i}PAPPAPPAPPAPPAPPAPPAPPAPPAPPAPPAP{/i}"
-    ""
+    "{i}ПАППАППАППАППАППАППАППАППАППАППАП{/i}"
 
 # game/scripts/events.rpy:2735
 translate russian tailservice_bear_top_9e9e5200:
 
     # Fen "UUNNNNNNNFH!" with hpunch
-    Fen "" with hpunch
+    Fen "УУННННФ!" with hpunch
 
 # game/scripts/events.rpy:2738
 translate russian tailservice_bear_top_91fd9827:
 
     # "Before you knew it, the explosive blast of a climax shot through you before you could register it."
-    ""
+    "Ты не успел опомниться, как взрывная волна кульминации пронзила тебя до того, как ты успел ее осознать."
 
 # game/scripts/events.rpy:2740
 translate russian tailservice_bear_top_115e8be5:
 
     # "Your entire body tensing up from head to toe to the point of trembling like you were hit with a frigid wind."
-    ""
+    "Все твое тело напряглось с головы до ног и задрожало, словно тебя обдало ледяным ветром."
 
 # game/scripts/events.rpy:2742
 translate russian tailservice_bear_top_d524d0d8:
 
     # "The first shot lands deep inside, but you can hardly feel it."
-    ""
+    "Первый выстрел попадает глубоко внутрь, но ты его почти не чувствуешь."
 
 # game/scripts/events.rpy:2744
 translate russian tailservice_bear_top_9b5c6217:
 
     # "The rest are more rapid and runny, however, like massage oil and spread all over the place inside of Oran."
-    ""
+    "Остальные, однако, более быстрые и жидкие, как масло для массажа, и растекаются по Орану."
 
 # game/scripts/events.rpy:2746
 translate russian tailservice_bear_top_c231bbd6:
 
     # "Your balls are scrunching, able to sense the strength of the way they flex from how much white fills your eyes from each round of volleys that escape your cock into Oran's ass."
-    ""
+    "Твои яйца сжимаются, и чувствуешь, как они напрягаются, по тому, как сильно белеют твои глаза от каждого снаряда, который вылетает из твоего члена в задницу Орана."
 
 # game/scripts/events.rpy:2748
 translate russian tailservice_bear_top_ffa48ad9:
 
     # "The bliss coursing through your veins incite you to hump, leaving the follow-up that did not come through the initial stream to spread and smear around Oran's hole and taint instead."
-    ""
+    "Блаженство, разливающееся по твоим венам, побуждает тебя кончать, а остатки, которые не попали в первоначальный поток, размазываются по дырочке и промежности Орана."
 
 # game/scripts/events.rpy:2750
 translate russian tailservice_bear_top_ed8d45dc:
 
     # "{i}SPLRT SQULCH SPLOOSH{/i}"
-    ""
+    "{i}СПЛРТ КВЛЧ СПЛШ{/i}"
 
 # game/scripts/events.rpy:2752
 translate russian tailservice_bear_top_2ba59004:
 
     # "The harmony of cum oozing out of Oran, shooting through his ass, and pooling inside his body was pure music to you."
-    ""
+    "Гармония спермы, сочащейся из Орана, проникающей в его задницу и скапливающейся внутри его тела, была для тебя чистой музыкой."
 
 # game/scripts/events.rpy:2761
 translate russian tailservice_bear_top_b579bb4d:
 
     # "A sonata you wanted to hear all the time - at least, in your current state of mind."
-    ""
+    "Соната, которую ты хотел бы слышать постоянно, по крайней мере, в твоем нынешнем душевном состоянии."
 
 # game/scripts/events.rpy:2764
 translate russian tailservice_bear_top_0e57acd9:
 
     # "This sensation was very sudden, but came off as normal all the same, so you let it pass naturally."
-    ""
+    "Это ощущение было очень неожиданным, но все равно воспринималось как обычное, и ты позволил ему пройти естественным образом."
 
 # game/scripts/events.rpy:2766
 translate russian tailservice_bear_top_653589fa:
 
     # Oran "So h-hot..."
-    Oran ""
+    Oran "Так ж-жарко..."
 
 # game/scripts/events.rpy:2768
 translate russian tailservice_bear_top_2330e25f:
 
     # "Within time, the bear's breathing slowly comes into your perception of sound, and you too come to recover from such an overwhelming orgasm."
-    ""
+    "Через некоторое время дыхание медведя постепенно входит в твое восприятие звуков, и ты тоже приходишь в себя после такого ошеломляющего оргазма."
 
 # game/scripts/events.rpy:2770
 translate russian tailservice_bear_top_4c49abad:
 
     # "The bedroom fills your eyes and you steadily return to some form of rationale as your afterglow hits."
-    ""
+    "Спальня заполняет собой глаза, и по мере того, как наступает послесвечение, ты неуклонно возвращаешься к некоторой форме рациональности."
 
 # game/scripts/events.rpy:2772
 translate russian tailservice_bear_top_c90202f4:
 
     # "A tingle coursing through your mind from the residual pleasure hanging off your hypersensitive cock."
-    ""
+    "От остаточного удовольствия, которое испытывает твой сверхчувствительный член, по коже пробегают мурашки."
 
 # game/scripts/events.rpy:2774
 translate russian tailservice_bear_top_13d8e044:
 
     # Fen "Hooooh..."
-    Fen ""
+    Fen "Хуух..."
 
 # game/scripts/events.rpy:2776
 translate russian tailservice_bear_top_eaad7446:
 
     # "You were winded, not exactly tired. You can feel your cock still throbbing with alacrity, as if awaiting another round."
-    ""
+    "Ты был измотан, но не совсем устал. Ты чувствуешь, как твой член все еще пульсирует с готовностью, словно ожидая еще одного раунда."
 
 # game/scripts/events.rpy:2778
 translate russian tailservice_bear_top_e720c3dd:
 
     # Oran "Unnngh..."
-    Oran ""
+    Oran "Уннх..."
 
 # game/scripts/events.rpy:2780
 translate russian tailservice_bear_top_59fadd15:
 
     # "Oran stirs up before too long passes."
-    ""
+    "Оран приходит в себя раньше, чем проходит слишком много времени."
 
 # game/scripts/events.rpy:2782
 translate russian tailservice_bear_top_0e447144:
 
     # Oran "You got some spunk t'ya, boy..."
-    Oran ""
+    Oran "У тебя есть немного смелости, парень..."
 
 # game/scripts/events.rpy:2784
 translate russian tailservice_bear_top_6e5957e3:
 
     # Oran "I like that~"
-    Oran ""
+    Oran "Мне это нравится~"
 
 # game/scripts/events.rpy:2786
 translate russian tailservice_bear_top_33ab565d:
 
     # Fen "Thanks..."
-    Fen ""
+    Fen "Спасибо..."
 
 # game/scripts/events.rpy:2788
 translate russian tailservice_bear_top_146d0b84:
 
     # Fen "You have a...great butt..."
-    Fen ""
+    Fen "У тебя... отличная задница..."
 
 # game/scripts/events.rpy:2790
 translate russian tailservice_bear_top_92e98292:
 
     # "The faltering compliment was not lost on Oran as he began beaming with pride."
-    ""
+    "Оран не растерялся, услышав этот нескромный комплимент, и засиял от гордости."
 
 # game/scripts/events.rpy:2792
 translate russian tailservice_bear_top_b194da15:
 
     # Oran "Best ass in the alley, I'll tell you that."
-    Oran ""
+    Oran "Лучшая задница в переулке, скажу я тебе."
 
 # game/scripts/events.rpy:2794
 translate russian tailservice_bear_top_57f4d2d0:
 
     # Oran "I can get anyone into it, all this heft really gives me a good edge~"
-    Oran ""
+    Oran "Я могу затащить в него кого угодно, вся эта тяжесть дает мне хорошее преимущество~"
 
 # game/scripts/events.rpy:2802
 translate russian tailservice_bear_top_8c95f47f:
 
     # "You nod your head in agreement."
-    ""
+    "Ты киваешь головой в знак согласия."
 
 # game/scripts/events.rpy:2804
 translate russian tailservice_bear_top_18ec1873:
 
     # "You try to pull out, but are met with the resistance of Oran's butt muscles clenching down on you instantly."
-    ""
+    "Ты пытаешься вырваться, но наталкиваешься на сопротивление мышц задницы Орана, мгновенно сжимающих тебя."
 
 # game/scripts/events.rpy:2806
 translate russian tailservice_bear_top_32779cf6:
 
     # Oran "Hold on now, who said we were one-and-done?"
-    Oran ""
+    Oran "Погодите-ка, кто сказал, что мы одно целое?"
 
 # game/scripts/events.rpy:2808
 translate russian tailservice_bear_top_3969afe5:
 
     # Fen "Oh?"
-    Fen ""
+    Fen "А?"
 
 # game/scripts/events.rpy:2811
 translate russian tailservice_bear_top_f3d0a792:
 
     # Oran "You're payin' to top after all. Gotta treat your first time just right, y'know?"
-    Oran ""
+    Oran "В конце концов, ты платишь за акта. Первый раз должен быть правильным, понимаешь?"
 
 # game/scripts/events.rpy:2814
 translate russian tailservice_bear_top_49ad2408:
 
     # Oran "You're payin' to top after all. Gotta treat you just right, y'know?"
-    Oran ""
+    Oran "В конце концов, ты же платишь за акта. Я должен обращаться с тобой как следует, понимаешь?"
 
 # game/scripts/events.rpy:2816
 translate russian tailservice_bear_top_bf53d1f6:
 
     # "At the mention of pay, you look at your clothes."
-    ""
+    "При упоминании о зарплате ты смотришь на свою одежду."
 
 # game/scripts/events.rpy:2818
 translate russian tailservice_bear_top_eb8b71b1:
 
     # "Your allowance resides inside, some spare coins from all the hard work you have been doing up until today."
-    ""
+    "Внутри хранится твое пособие - несколько монет, полученных за тяжелую работу, которую ты выполнял до сегодняшнего дня."
 
 # game/scripts/events.rpy:2820
 translate russian tailservice_bear_top_4f3f2012:
 
     # Oran "Show me the coins and I'll show you a little secret I keep for those good boys I get in here~"
-    Oran ""
+    Oran "Покажи мне монеты, и я покажу тебе маленький секрет, который я храню для тех хороших мальчиков, которых я сюда привожу~"
 
 # game/scripts/events.rpy:2822
 translate russian tailservice_bear_top_af90d605:
 
     # "The playful tease oddly excites you to the point of your tail wagging and you bite back a reflexive bark."
-    ""
+    "Игривая дразнилка странно возбуждает тебя до такой степени, что ты виляешь хвостом и рефлекторно гавкаешь."
 
 # game/scripts/events.rpy:2824
 translate russian tailservice_bear_top_38cd07e0:
 
     # "You extract your cock from Oran before grabbing your pants, fishing out your sack of coins."
-    ""
+    "Ты извлекаешь свой член из Орана, а затем хватаешь свои штаны и достаешь мешочек с монетами."
 
 # game/scripts/events.rpy:2826
 translate russian tailservice_bear_top_b1178d53:
 
     # Oran "It's 10 by the way. Usually 20 coins, but I can't let a cute guy like you feeling drained in your purse for that."
-    Oran ""
+    Oran "Между прочим, это 10. Обычно 20 монет, но я не могу позволить такому симпатичному парню, как ты, чувствовать себя опустошенным в своем кошельке из-за этого."
 
 # game/scripts/events.rpy:2828
 translate russian tailservice_bear_top_30a23684:
 
     # Fen "Th-thanks..."
-    Fen ""
+    Fen "С-спасибо..."
 
 # game/scripts/events.rpy:2832
 translate russian tailservice_bear_top_e572ddc2:
 
     # "Blushing the whole while, you hand over the money without any objection."
-    ""
+    "Покраснев, ты без возражений отдаешь деньги."
 
 # game/scripts/events.rpy:2834
 translate russian tailservice_bear_top_02ac6de5:
 
     # Oran "Thank you, thank you."
-    Oran ""
+    Oran "Спасибо, спасибо."
 
 # game/scripts/events.rpy:2836
 translate russian tailservice_bear_top_b0078d3f:
 
     # Fen "Of course."
-    Fen ""
+    Fen "Конечно."
 
 # game/scripts/events.rpy:2838
 translate russian tailservice_bear_top_b77fd6dd:
 
     # Oran "Now about this surprise..."
-    Oran ""
+    Oran "Теперь об этом сюрпризе..."
 
 # game/scripts/events.rpy:2840
 translate russian tailservice_bear_top_80576e61:
 
     # "Oran reaches over to the right-hand corner of the bed, pulling the mattress up to show a faint glowing red residing there."
-    ""
+    "Оран дотягивается до правого угла кровати и приподнимает матрас, чтобы показать слабо светящееся красное пятно."
 
 # game/scripts/events.rpy:2846
 translate russian tailservice_bear_top_6566808e:
 
     # "He pulls out a strange object that makes you squint when he brings it into view, the light emanating from it drawing your attention."
-    ""
+    "Он достает странный предмет, который заставляет тебя прищуриться, когда он подносит его к глазам, и свет, исходящий от него, привлекает твое внимание."
 
 # game/scripts/events.rpy:2848
 translate russian tailservice_bear_top_1d0600c1:
 
     # "A heart-shaped, crystalline relic resides in Oran's hands when the light settles in your vision."
-    ""
+    "Кристаллическая реликвия в форме сердца оказывается в руках Орана, когда свет оседает в твоем зрении."
 
 # game/scripts/events.rpy:2850
 translate russian tailservice_bear_top_c886410d:
 
     # Fen "Is that a treasure from nearby dungeons?"
-    Fen ""
+    Fen "Это реликвия из соседних подземелий?"
 
 # game/scripts/events.rpy:2852
 translate russian tailservice_bear_top_0558be96:
 
     # Oran "Sure is, boy."
-    Oran ""
+    Oran "Конечно, парень."
 
 # game/scripts/events.rpy:2854
 translate russian tailservice_bear_top_7ed365e5:
 
     # Fen "Where'd you get that? It's so..."
-    Fen ""
+    Fen "Где ты это взял? Это так..."
 
 # game/scripts/events.rpy:2856
 translate russian tailservice_bear_top_8345a043:
 
     # "You stare at it in awe."
-    ""
+    "Ты смотришь на него с восхищением."
 
 # game/scripts/events.rpy:2858
 translate russian tailservice_bear_top_36e48a49:
 
     # "A treasure truly worthy of adventurers willing to risk their lives for its allure."
-    ""
+    "Сокровище, поистине достойное искателей приключений, готовых рискнуть жизнью ради его привлекательности."
 
 # game/scripts/events.rpy:2860
 translate russian tailservice_bear_top_2273972d:
 
     # "Your eyes filled with its visage the longer you looked."
-    ""
+    "Чем дольше ты смотрел на него, тем больше наполнялись твои глаза."
 
 # game/scripts/events.rpy:2862
 translate russian tailservice_bear_top_e2ed73e3:
 
     # Oran "An adventurer gave me this when they wanted to spend their last night in Felda getting laid."
-    Oran ""
+    Oran "Один авантюрист подарил мне это, когда хотел провести свою последнюю ночь в Фельде, чтобы потрахаться."
 
 # game/scripts/events.rpy:2864
 translate russian tailservice_bear_top_78a0d482:
 
     # Oran "Didn't tell me what it did, but I found out for myself when I had an off day to myself."
-    Oran ""
+    Oran "Он не сказал мне, что именно он делает, но я сам узнал об этом, когда у меня выдался свободный день."
 
 # game/scripts/events.rpy:2866
 translate russian tailservice_bear_top_bbcd897b:
 
     # Oran "Wanna see?"
-    Oran ""
+    Oran "Хочешь посмотреть?"
 
 # game/scripts/events.rpy:2877
 translate russian tailservice_bear_top_3ee988aa:
 
     # Fen "Maybe next time... I'm too spend..."
-    Fen ""
+    Fen "Может быть, в следующий раз... Я слишком много трачу..."
 
 # game/scripts/events.rpy:2879
 translate russian tailservice_bear_top_edf5c9b8:
 
     # Oran "Heh, no pressure. I'll be around whenever you get the urge."
-    Oran ""
+    Oran "Нет, никакого давления. Я буду рядом, когда у тебя появится желание."
 
 # game/scripts/events.rpy:2881
 translate russian tailservice_bear_top_6f113b96:
 
     # "The two of you cuddle for a while, basking in the afterglow."
-    ""
+    "Некоторое время вы вдвоем обнимаетесь, греясь в послевкусии."
 
 # game/scripts/events.rpy:2883
 translate russian tailservice_bear_top_b88b2d82:
 
     # "You spend a bit longer enjoying the feel of Oran's round belly before you're ready to head out."
-    ""
+    "Ты еще немного наслаждаешься ощущением круглого живота Орана, прежде чем отправиться в путь."
 
 # game/scripts/events.rpy:2885
 translate russian tailservice_bear_top_70455bf9:
 
     # "Once you've cleaned up as best as you can, you put on your clothes and prepare to leave."
-    ""
+    "Приведя себя в порядок, ты одеваешься и готовишься к выходу."
 
 # game/scripts/events.rpy:2887
 translate russian tailservice_bear_top_2af781f6:
 
     # Oran "See you around, boy~"
-    Oran ""
+    Oran "Увидимся, парень~"
 
 # game/scripts/events.rpy:2893
 translate russian tailservice_bear_hyper_a590e1ce:
 
     # Fen "Yes!"
-    Fen ""
+    Fen "Да!"
 
 # game/scripts/events.rpy:2895
 translate russian tailservice_bear_hyper_932f9f9d:
 
     # "The thought of an relic having an applicable power that had room to be applied to this scene gave you all the excitement."
-    ""
+    "Мысль о том, что реликвия обладает силой, которую можно применить в этой сцене, приводила тебя в полный восторг."
 
 # game/scripts/events.rpy:2897
 translate russian tailservice_bear_hyper_d80ffe49:
 
     # Oran "I knew you'd like it. Now hold still boy."
-    Oran ""
+    Oran "Я знал, что тебе понравится. А теперь не дергайся, парень."
 
 # game/scripts/events.rpy:2902
 translate russian tailservice_bear_hyper_bd9e85c3:
 
     # "Oran turns around and lays your cock on his palm, the crystal slowly being lowered to touch your throbbing girth."
-    ""
+    "Оран поворачивается и кладет твой член на свою ладонь, кристалл медленно опускается, чтобы коснуться твоего пульсирующего члена."
 
 # game/scripts/events.rpy:2904
 translate russian tailservice_bear_hyper_13f488d3:
 
     # "The crystal, despite being in a warm room, is cold to the touch, but only gives a slight shiver to you when it makes contact."
-    ""
+    "Несмотря на то, что кристалл находится в теплой комнате, он холодный на ощупь, но при соприкосновении с ним тебя пробирает легкая дрожь."
 
 # game/scripts/events.rpy:2906
 translate russian tailservice_bear_hyper_01190b62:
 
     # Fen "HMM!?" with vpunch
-    Fen "" with vpunch
+    Fen "ХММ!?" with vpunch
 
 # game/scripts/events.rpy:2908
 translate russian tailservice_bear_hyper_223f2358:
 
     # "As soon as Oran presses it harder, your cock throbs with a hardness you never felt before, only to steadily swell up in size before your eyes." with vpunch
-    "" with vpunch
+    "Как только Оран нажимает на него сильнее, твой член начинает пульсировать с такой твердостью, какой ты еще никогда не чувствовал, и неуклонно увеличивается в размерах на глазах." with vpunch
 
 # game/scripts/events.rpy:2910
 translate russian tailservice_bear_hyper_9b50315b:
 
     # "Your length extended close to the likes of Terrance, before slowly coming to a stop."
-    ""
+    "Твоя длина приблизилась к Терренсу, а затем медленно остановилась."
 
 # game/scripts/events.rpy:2912
 translate russian tailservice_bear_hyper_5f71d357:
 
     # "Your girth reaches a thickness that was juicy enough to make one drool on sight with it, assuring you that there would be no shortage of peeks if you ever found something to cover up with."
-    ""
+    "Твой обхват достигает толщины, достаточно сочной для того, чтобы при виде ее у кого-нибудь потекли слюни, и ты уверен, что недостатка в взглядах не будет, если ты найдешь, чем прикрыться."
 
 # game/scripts/events.rpy:2914
 translate russian tailservice_bear_hyper_6d54b3c9:
 
     # "Your balls slowly crawled up to match to scale, refilling with the seed you spent and increasingly growing fatter by the second."
-    ""
+    "Твои яйца медленно поползли вверх, чтобы соответствовать масштабу, пополняясь семенем, которое ты потратил, и становясь все толще с каждой секундой."
 
 # game/scripts/events.rpy:2916
 translate russian tailservice_bear_hyper_75a849f9:
 
     # "The growing weight tugging against your extremities before settling just over your knees."
-    ""
+    "Растущий вес тянет тебя за конечности, а потом оседает чуть выше колен."
 
 # game/scripts/events.rpy:2918
 translate russian tailservice_bear_hyper_e48a3b5f:
 
     # Fen "{i}'This is...incredible!'{/i}"
-    Fen ""
+    Fen "{i}'Это... невероятно!'{/i}"
 
 # game/scripts/events.rpy:2920
 translate russian tailservice_bear_hyper_4d184830:
 
     # "A treasure capable of such power was certainly worth keeping a secret."
-    ""
+    "Сокровище, обладающее такой силой, несомненно, стоило держать в секрете."
 
 # game/scripts/events.rpy:2922
 translate russian tailservice_bear_hyper_b348351c:
 
     # "This only refuels your curiosity about being an adventurer."
-    ""
+    "Это только подогреет твое любопытство стать искателем приключений."
 
 # game/scripts/events.rpy:2924
 translate russian tailservice_bear_hyper_17ede479:
 
     # "Oran pulls the crystal away and your growth stops immediately."
-    ""
+    "Оран убирает кристалл, и рост мгновенно прекращается."
 
 # game/scripts/events.rpy:2926
 translate russian tailservice_bear_hyper_e52281ee:
 
     # "Your cock was more than likely bigger than most in Felda, both long enough to be a third leg and thick enough to boot."
-    ""
+    "Твой член, скорее всего, был больше, чем у многих в Фельде, и достаточно длинный, чтобы стать третьей ногой, и достаточно толстый, чтобы быть в придачу."
 
 # game/scripts/events.rpy:2928
 translate russian tailservice_bear_hyper_5121fe89:
 
     # "Your balls feel laden, full of unspent seed despite having emptied your reserves minutes ago."
-    ""
+    "Твои яйца полны семени, несмотря на то, что ты опустошил их несколько минут назад."
 
 # game/scripts/events.rpy:2930
 translate russian tailservice_bear_hyper_bd60b10e:
 
     # "The strength behind having such a size slowly hits you and you begin breathing harder as a result."
-    ""
+    "Постепенно ты начинаешь ощущать силу, которую дает тебе такой размер, и в результате начинаешь дышать тяжелее."
 
 # game/scripts/events.rpy:2932
 translate russian tailservice_bear_hyper_3e361489:
 
     # Fen "I feel...funny..."
-    Fen ""
+    Fen "Я чувствую себя... странно..."
 
 # game/scripts/events.rpy:2934
 translate russian tailservice_bear_hyper_265be9a9:
 
     # Oran "Hahahahahah."
-    Oran ""
+    Oran "Хахахахахах."
 
 # game/scripts/events.rpy:2936
 translate russian tailservice_bear_hyper_ddee4e83:
 
     # Oran "Well I wouldn't expect anyone to just be able to handle all that meat on the first try. It'd be a miracle, I'll tell you that."
-    Oran ""
+    Oran "Ну, я не ожидал, что кто-то сможет справиться с таким количеством мяса с первой попытки. Это было бы чудо, скажу я тебе."
 
 # game/scripts/events.rpy:2938
 translate russian tailservice_bear_hyper_79d8d030:
 
     # Oran "But don't worry, you're supposed to feel like that."
-    Oran ""
+    Oran "Но не волнуйся, ты должен чувствовать себя именно так."
 
 # game/scripts/events.rpy:2940
 translate russian tailservice_bear_hyper_de63404f:
 
     # Oran "Part of your body adjusting to having all that much meat 'tween your legs. You definitely came out of that looking like a prize yourself, boy."
-    Oran ""
+    Oran "Часть твоего тела приспосабливается к такому количеству мяса между ног. Ты определенно выглядишь как приз, парень."
 
 # game/scripts/events.rpy:2942
 translate russian tailservice_bear_hyper_8c63c184:
 
     # Fen "Phew..."
-    Fen ""
+    Fen "Фух..."
 
 # game/scripts/events.rpy:2944
 translate russian tailservice_bear_hyper_552e9cf2:
 
     # "You begin sweating profusely, the room suddenly feeling hotter."
-    ""
+    "Ты начинаешь обильно потеть, а в комнате внезапно становится жарко."
 
 # game/scripts/events.rpy:2946
 translate russian tailservice_bear_hyper_758a3377:
 
     # "You look between Oran and your own massive junk, visible clouds of its scent radiating off of the surface like it was fresh out of a cauldron of soup."
-    ""
+    "Ты смотришь между Ораном и своим собственным массивным барахлом, от поверхности которого расходятся облака его запаха, словно он только что из котла с супом."
 
 # game/scripts/events.rpy:2948
 translate russian tailservice_bear_hyper_2da13d99:
 
     # "The dizziness sets in more profoundly, making you fall onto your back."
-    ""
+    "Головокружение усиливается, и ты падаешь на спину."
 
 # game/scripts/events.rpy:2950
 translate russian tailservice_bear_hyper_f35f182f:
 
     # "Oran fills your view of the ceiling while standing over you, your cock pulsing as it stands tall between his thighs."
-    ""
+    "Оран закрывает тебе вид на потолок, стоя над тобой, и твой член пульсирует, возвышаясь между его бедер."
 
 # game/scripts/events.rpy:2952
 translate russian tailservice_bear_hyper_e6bc9079:
 
     # Oran "Looks like I'll be the one on top this time. Always wanted a big hung boy like yourself for my li'l treats~"
-    Oran ""
+    Oran "Похоже, на этот раз я буду сверху. Всегда хотел, чтобы для моих маленьких удовольствий был такой же большой мальчик, как ты~"
 
 # game/scripts/events.rpy:2954
 translate russian tailservice_bear_hyper_8fabf200:
 
     # "The bear climbs onto your body, straddling your waistline and knowingly wedging your new cock between his asscheeks."
-    ""
+    "Медведь забирается на твое тело, обхватывает тебя за талию и со знанием дела засовывает твой новый член между своими щеками."
 
 # game/scripts/events.rpy:2956
 translate russian tailservice_bear_hyper_3e006009:
 
     # "Every throb felt like a full-body cumshot."
-    ""
+    "Каждая пульсация ощущалась как кончание всего тела."
 
 # game/scripts/events.rpy:2958
 translate russian tailservice_bear_hyper_05075067:
 
     # "Euphoria rushes through your veins and you can feel the drizzle of precum running down your cock as sweat beads off of your face and back."
-    ""
+    "Эйфория разливается по твоим венам, и ты чувствуешь, как по твоему члену стекает струйка спермы, а на лице и спине выступают бисеринки пота."
 
 # game/scripts/events.rpy:2960
 translate russian tailservice_bear_hyper_47adab2b:
 
     # Oran "I'm gonna be enjoying this~"
-    Oran ""
+    Oran "Я буду наслаждаться этим~"
 
 # game/scripts/events.rpy:2962
 translate russian tailservice_bear_hyper_a868309b:
 
     # "You watch Oran rise up, bringing his hips away from your body while his ass steadily comes over your dick."
-    ""
+    "Ты наблюдаешь, как Оран приподнимается, отводя бедра от твоего тела, а его задница неуклонно надвигается на твой член."
 
 # game/scripts/events.rpy:2964
 translate russian tailservice_bear_hyper_1cab8206:
 
     # "By the time he makes it to the tip, you already miss the way the soft fur of his butt cradled your meat."
-    ""
+    "Когда он добирается до кончика, ты уже скучаешь по тому, как мягкий мех его попки обнимает твое мясо."
 
 # game/scripts/events.rpy:2966
 translate russian tailservice_bear_hyper_f6ea80e0:
 
     # Oran "Hup!"
-    Oran ""
+    Oran "Хап!"
 
 # game/scripts/events.rpy:2969
 translate russian tailservice_bear_hyper_e483d492:
 
     # "With a bit of a start, Oran drops his ass back down, engulfing your cock in the ruins of the mess you made earlier."
-    ""
+    "Немного придя в себя, Оран опускает свою задницу обратно вниз, погружая твой член в беспорядок, который ты устроил ранее."
 
 # game/scripts/events.rpy:2971
 translate russian tailservice_bear_hyper_01d0fd5e:
 
     # Fen "HNNNNPH!"
-    Fen ""
+    Fen "НННФ!"
 
 # game/scripts/events.rpy:2973
 translate russian tailservice_bear_hyper_939b53ef:
 
     # "Despite having already fucked, Oran's hole was back to having a vice grip on you - as a result of your enhanced girth."
-    ""
+    "Несмотря на то, что мы уже трахались, дырочка Орана снова была зажата - благодаря твоему увеличившемуся обхвату."
 
 # game/scripts/events.rpy:2975
 translate russian tailservice_bear_hyper_68c7bab3:
 
     # "But on top of that, you reach far deeper than your normal size achieved, as a new chill contrasts your heat."
-    ""
+    "Но помимо этого, ты проникаешь гораздо глубже, чем это было возможно при обычных размерах, поскольку новый холод контрастирует с твоим жаром."
 
 # game/scripts/events.rpy:2977
 translate russian tailservice_bear_hyper_8e244e71:
 
     # "A phallic bulge coincidentally makes itself known from Oran's belly."
-    ""
+    "На животе Орана случайно появляется выпуклость."
 
 # game/scripts/events.rpy:2979
 translate russian tailservice_bear_hyper_bc5b14b9:
 
     # Oran "Hooooh....hough-kay...Easy does it."
-    Oran ""
+    Oran "Хууух....хью-кей... Легко получилось."
 
 # game/scripts/events.rpy:2981
 translate russian tailservice_bear_hyper_d197458f:
 
     # "Oran's eagerness can barely hide inexperience from this."
-    ""
+    "Стремление Орана едва ли может скрыть его неопытность."
 
 # game/scripts/events.rpy:2983
 translate russian tailservice_bear_hyper_15deee83:
 
     # "You watch on, paralyzed to the bed, as he tries taking more of you inside, making the abdominal bulge bigger and more defined in tandem."
-    ""
+    "Ты наблюдаешь за тем, как он, парализованный, лежит на кровати, пытаясь принять в себя все больше и больше тебя, делая выпуклость живота все больше и больше."
 
 # game/scripts/events.rpy:2985
 translate russian tailservice_bear_hyper_74fe2a57:
 
     # "You realize that it is your cock doing that and whimper in increasing ecstasy."
-    ""
+    "Ты понимаешь, что это делает твой член, и хнычешь в нарастающем экстазе."
 
 # game/scripts/events.rpy:2987
 translate russian tailservice_bear_hyper_ca854243:
 
     # Fen "HNGH! RRRFH!"
-    Fen ""
+    Fen "НГХ! РРФ!"
 
 # game/scripts/events.rpy:2989
 translate russian tailservice_bear_hyper_f6b360c5:
 
     # "The more of your cock Oran gets inside of his body, the better it feels."
-    ""
+    "Чем больше твоего члена Оран получает внутри своего тела, тем лучше он себя чувствует."
 
 # game/scripts/events.rpy:2991
 translate russian tailservice_bear_hyper_b159bee0:
 
     # "You crave the idea of him being able to take it all, drooling onto the mattress involuntarily, and feel your hands make their way to his hips."
-    ""
+    "Ты жаждешь увидеть, что он может принять все, и невольно пускаешь слюни на матрас, а твои руки пробираются к его бедрам."
 
 # game/scripts/events.rpy:2993
 translate russian tailservice_bear_hyper_45073616:
 
     # "You pull down the second your hands make contact."
-    ""
+    "Ты потянул вниз, как только твои руки прикоснулись."
 
 # game/scripts/events.rpy:2995
 translate russian tailservice_bear_hyper_d7eadba7:
 
     # "{i}SHLRP{/i}"
-    ""
+    "{i}ШЛРП{/i}"
 
 # game/scripts/events.rpy:2997
 translate russian tailservice_bear_hyper_2bfbc8e5:
 
     # Oran "RRRRRNNNFH!"
-    Oran ""
+    Oran "РРРРНННХ!"
 
 # game/scripts/events.rpy:2999
 translate russian tailservice_bear_hyper_6c70e73b:
 
     # "Oran's face scrunches up, and a moment's reprieve makes you believe you hurt him."
-    ""
+    "Лицо Орана искажается, и на мгновение ты начинаешь думать, что причинил ему боль."
 
 # game/scripts/events.rpy:3001
 translate russian tailservice_bear_hyper_b2c99ebb:
 
     # "You panics, nearly enough to make you go flaccid while still being fully buried inside the bear."
-    ""
+    "Ты паникуешь, почти настолько, что становишься вялым, но при этом полностью погружаешься в медведя."
 
 # game/scripts/events.rpy:3003
 translate russian tailservice_bear_hyper_9427cdd4:
 
     # "Oran relaxes moments later and gives you a reassuring wink before gyrating his hips."
-    ""
+    "Спустя несколько мгновений Оран расслабляется и ободряюще подмигивает тебе, прежде чем пошевелить бедрами."
 
 # game/scripts/events.rpy:3005
 translate russian tailservice_bear_hyper_7bb61000:
 
     # Oran "I've been..t-training for this. Don't gotta worry 'bout hurtin' me none."
-    Oran ""
+    Oran "Я... тренировался для этого. Не беспокойся о том, что мне будет больно."
 
 # game/scripts/events.rpy:3007
 translate russian tailservice_bear_hyper_cae657a9:
 
     # Oran "But I think you need to get ready for the best ride of your life, boy. I don't slow down for big cocks."
-    Oran ""
+    Oran "Но я думаю, что тебе нужно приготовиться к лучшей поездке в твоей жизни, мальчик. Я не сбавляю темп ради больших членов."
 
 # game/scripts/events.rpy:3009
 translate russian tailservice_bear_hyper_6271e82b:
 
     # "That leaves an unnerving pit in your belly and you gulp down in response, staring wide-eyed as Oran slowly makes his way back up your cock."
-    ""
+    "В ответ на это в животе у тебя появляется неприятная пустота, и ты сглатываешь, глядя на то, как Оран медленно пробирается обратно к твоему члену."
 
 # game/scripts/events.rpy:3011
 translate russian tailservice_bear_hyper_68679c2e:
 
     # "An impatient feeling fills you watching more and more of your cock reappear in your peripheral vision."
-    ""
+    "Чувство нетерпения переполняет тебя, когда в периферийном зрении появляется все больший и больший член."
 
 # game/scripts/events.rpy:3013
 translate russian tailservice_bear_hyper_27904213:
 
     # "You want to see it all gone, deep inside of Oran again. A growl slips into the tone of your breathing."
-    ""
+    "Ты хочешь увидеть, как все это исчезнет, снова окажется глубоко внутри Орана. Рычание переходит в тон твоего дыхания."
 
 # game/scripts/events.rpy:3015
 translate russian tailservice_bear_hyper_9454859c:
 
     # "Your hands make their way back to Oran's hips, but he grabs your wrists."
-    ""
+    "Твои руки возвращаются к бедрам Орана, но он хватает тебя за запястья."
 
 # game/scripts/events.rpy:3017
 translate russian tailservice_bear_hyper_3d8390ff:
 
     # Oran "Ah ah ah. It's my turn, boy. Bad dogs gotta wait."
-    Oran ""
+    Oran "Ах ах ах. Моя очередь, мальчик. Плохие собаки должны ждать."
 
 # game/scripts/events.rpy:3019
 translate russian tailservice_bear_hyper_7d5c92d5:
 
     # "Your hands are yanked further up and placed onto Oran's butt, too far to influence his pace yet too alluring to pull away."
-    ""
+    "Твои руки дергают еще выше и кладут на попку Орана - слишком далеко, чтобы повлиять на его темп, но слишком маняще, чтобы отстраниться."
 
 # game/scripts/events.rpy:3021
 translate russian tailservice_bear_hyper_9e8d908f:
 
     # "The familiarity of his plush ass renders you content - for now."
-    ""
+    "Привычная плюшевая попка делает тебя довольным - пока."
 
 # game/scripts/events.rpy:3023
 translate russian tailservice_bear_hyper_add22b0e:
 
     # "Oran makes it halfway up your cock before slowly coming back down, re-enveloping your shaft with his guts."
-    ""
+    "Оран проделывает половину пути по твоему члену, а затем медленно спускается вниз, вновь наполняя твой ствол своими внутренностями."
 
 # game/scripts/events.rpy:3025
 translate russian tailservice_bear_hyper_910700c8:
 
     # "To think he can just swallow it all up his hole with growing ease..."
-    ""
+    "Подумать только, он может заглатывать все это в свою дырочку со всей легкостью..."
 
 # game/scripts/events.rpy:3027
 translate russian tailservice_bear_hyper_a014ac8d:
 
     # "Once more, the need to hump crosses your mind, but you are distracted when Oran plants his hands on your fluffy chest."
-    ""
+    "Вновь возникает желание прижаться к нему, но ты отвлекаешься, когда Оран кладет руки на твою пушистую грудь."
 
 # game/scripts/events.rpy:3030
 translate russian tailservice_bear_hyper_20fc08aa:
 
     # Oran "Time to milk me a dog like a cow~"
-    Oran ""
+    Oran "Пора доить собаку, как корову~"
 
 # game/scripts/events.rpy:3034
 translate russian tailservice_bear_hyper_af8dca14:
 
     # "Oran barely allows you to rest every inch of your cock inside of his ass before rising back up, only letting out a significant portion from his depths before you were slipping back in more firmly."
-    ""
+    "Оран едва позволил тебе погрузить каждый дюйм своего члена в его задницу, прежде чем подняться обратно, выпустив из своих глубин лишь значительную часть, прежде чем ты снова погрузился в него с большей силой."
 
 # game/scripts/events.rpy:3036
 translate russian tailservice_bear_hyper_aa38f5ec:
 
     # "{i}SH-PAP SHLLLK SH-PAP SHLLLK SH-PAP{/i}"
-    ""
+    "{i}Ш-ПАП Ш-ЛК Ш-ПАП Ш-ЛК Ш-ПАП Ш-ПАП{/i}"
 
 # game/scripts/events.rpy:3038
 translate russian tailservice_bear_hyper_5568553a:
 
     # "The methodical pace of Oran pushing his ass down on you and letting your cock pulse and spray inside of him before rising up slowly was a tantalizing endeavor."
-    ""
+    "Методичный темп, в котором Оран прижимался к тебе своей задницей и позволял твоему члену пульсировать и пульсировать внутри него, а затем медленно поднимался вверх, был манящим."
 
 # game/scripts/events.rpy:3040
 translate russian tailservice_bear_hyper_a7975315:
 
     # "You can practically feel the precum being siphoned out of you as he relentlessly plants his ass into your lap, smothering your cock with his massaging muscles keeping your tender flesh placated."
-    ""
+    "Ты практически чувствуешь, как из тебя вытекает сперма, когда он неустанно насаживается своей задницей на твои колени, упираясь в твой член своими массирующими мышцами, не давая твоей нежной плоти расслабиться."
 
 # game/scripts/events.rpy:3042
 translate russian tailservice_bear_hyper_0a18827a:
 
     # "With his hips gyrating, it was easy to follow along like watching a metronome in motion, bobbing your head with each drop that sent more lightning-fast bliss through your nerves."
-    ""
+    "Его бедра двигались так, что было легко следить за ними, как за метрономом, покачивая головой с каждой каплей, которая посылала еще больше молниеносного блаженства по твоим нервам."
 
 # game/scripts/events.rpy:3044
 translate russian tailservice_bear_hyper_b192762c:
 
     # Fen "Unfh...Guh...Hhhh...auhhh..."
-    Fen ""
+    Fen "Унф...Гфх...Нхх...аххх."
 
 # game/scripts/events.rpy:3046
 translate russian tailservice_bear_hyper_0ccdf790:
 
     # Oran "Feels good...don't it, boy?"
-    Oran ""
+    Oran "Приятные ощущения... не так ли, парень?"
 
 # game/scripts/events.rpy:3048
 translate russian tailservice_bear_hyper_95ec6939:
 
     # "Hearing you moan made Oran go a bit faster, no doubt trying to incite a much louder reaction from you."
-    ""
+    "Услышав твой стон, Оран ускорил шаг, несомненно, пытаясь вызвать у тебя более громкую реакцию."
 
 # game/scripts/events.rpy:3050
 translate russian tailservice_bear_hyper_e5929a76:
 
     # "And he succeeded thanks to your mind still adapting to being equipped nearly as big as Terrance."
-    ""
+    "И ему это удалось благодаря тому, что твой разум все еще приспосабливается к тому, что он почти такой же большой, как Терренс."
 
 # game/scripts/events.rpy:3052
 translate russian tailservice_bear_hyper_3eaaefdd:
 
     # Fen "UNGH!"
-    Fen ""
+    Fen "УХ!"
 
 # game/scripts/events.rpy:3054
 translate russian tailservice_bear_hyper_6f49efa9:
 
     # Oran "'Bout to make you a singer t'day, boy. Hope you don't mind screamin'~"
-    Oran ""
+    Oran "Я собираюсь сделать тебя певцом на этот день, парень. Надеюсь, ты не против попеть~"
 
 # game/scripts/events.rpy:3058
 translate russian tailservice_bear_hyper_21ffab7b:
 
     # "Oran's momentum slowly picked up speed, showing the progress of his capabilities of handling your enhanced cock from tip to base."
-    ""
+    "Оран постепенно набирает темп, демонстрируя свои возможности в обращении с твоим усовершенствованным членом от кончика до основания."
 
 # game/scripts/events.rpy:3060
 translate russian tailservice_bear_hyper_9f2f65fe:
 
     # "You grow obsessed over the way his hole clamps over the last inch."
-    ""
+    "Ты становишься одержимым тем, как его дырочка сжимает последний дюйм."
 
 # game/scripts/events.rpy:3062
 translate russian tailservice_bear_hyper_cd15c451:
 
     # "The constant slam of his soft ass landing on your thighs brings veins to your balls, pushing them to work overtime to provide the precum necessary to visually represent your sky-high arousal."
-    ""
+    "От постоянного шлепка его мягкой задницы по твоим бедрам на твоих яйцах вздуваются вены, заставляя их работать на пределе своих возможностей и выделять сперму, необходимую для наглядного представления твоего сильного возбуждения."
 
 # game/scripts/events.rpy:3064
 translate russian tailservice_bear_hyper_40bf8b7b:
 
     # "Oran squeezes your pecs every time you take longer than a millisecond to blink."
-    ""
+    "Оран сжимает твою грудь каждый раз, когда ты моргаешь дольше, чем на миллисекунду."
 
 # game/scripts/events.rpy:3066
 translate russian tailservice_bear_hyper_668cada9:
 
     # Oran "Lookin' cute down there boy...Don't be shy now...lemme hear how much ya like it~"
-    Oran ""
+    Oran "Выглядит симпатично, парень... Не стесняйся... дай мне послушать, как тебе это нравится~"
 
 # game/scripts/events.rpy:3068
 translate russian tailservice_bear_hyper_5177711f:
 
     # "You can barely form words with Oran riding you, getting to a point where the mattress was starting to make a constant {i}THUD{/i} every time he took all of you in."
-    ""
+    "Ты едва можешь произносить слова, когда Оран сидит на тебе верхом, дошло до того, что матрас начал издавать постоянный звук, когда он принимал тебя всего."
 
 # game/scripts/events.rpy:3070
 translate russian tailservice_bear_hyper_6531ade7:
 
     # "{i}SHLRP SHLRP SHLRP SHLRP SHLRP SHLRP SHLRP{/i}"
-    ""
+    "{i}ШЛРП ШЛРП ШЛРП ШЛРП ШЛРП ШЛРП ШЛРП{/i}"
 
 # game/scripts/events.rpy:3072
 translate russian tailservice_bear_hyper_a740df45:
 
     # "Oran was allowing more of you out of his ass, you felt more of the room's air against your red-hot cock."
-    ""
+    "Оран выпускал все больше тебя из своей задницы, ты чувствовал, как воздух комнаты сильнее прижимается к твоему раскаленному члену."
 
 # game/scripts/events.rpy:3074
 translate russian tailservice_bear_hyper_6a8ef444:
 
     # "But he was taking you right back inside as quickly as possible, trapping you inside their voracious depths."
-    ""
+    "Но он как можно быстрее возвращал тебя обратно, заманивая в свои прожорливые глубины."
 
 # game/scripts/events.rpy:3078
 translate russian tailservice_bear_hyper_952a1317:
 
     # "Your eyelids flutter as you dance between being conscious and passing out..."
-    ""
+    "Твои веки трепещут, когда ты танцуешь между сознанием и потерей сознания..."
 
 # game/scripts/events.rpy:3080
 translate russian tailservice_bear_hyper_787921d4:
 
     # "As time goes on and Oran continues delivering physical contact, you remain in a state of uplifted-ness - like you're flying."
-    ""
+    "Время идет, и Оран продолжает оказывать физическое воздействие, а ты остаешься в состоянии приподнятого настроения - как будто летишь."
 
 # game/scripts/events.rpy:3082
 translate russian tailservice_bear_hyper_3cba0e00:
 
     # "The white in your eyes from earlier seeps into your vision, promising you that you were going to have your orgasm soon, pulsing like a fireplace being given more wood to burn with."
-    ""
+    "Белизна в глазах просачивается в твое зрение, обещая, что ты скоро испытаешь оргазм, пульсируя, как камин, в который подбросили еще дров."
 
 # game/scripts/events.rpy:3084
 translate russian tailservice_bear_hyper_d956feb0:
 
     # "Oran vice grips your chest before somehow managing to go harder, knocking the air out of you and keeping your mouth wide open."
-    ""
+    "Оран тисками обхватывает твою грудь, а затем каким-то образом умудряется нанести еще более сильный удар, выбивая из тебя воздух и заставляя широко открыть рот."
 
 # game/scripts/events.rpy:3086
 translate russian tailservice_bear_hyper_4164e5b7:
 
     # "He leans in for a kiss."
-    ""
+    "Он наклоняется, чтобы поцеловать."
 
 # game/scripts/events.rpy:3088
 translate russian tailservice_bear_hyper_3e6152e0:
 
     # "Oran makes the plunge, descending upon your mouth and takes your lips for a smooch, returning it just in time to make sure he presses in more affirmatively."
-    ""
+    "Оран делает шаг навстречу, опускается к твоему рту и приникает губами к твоим губам, возвращая их как раз вовремя, чтобы прижаться к ним еще сильнее."
 
 # game/scripts/events.rpy:3090
 translate russian tailservice_bear_hyper_e473285f:
 
     # "He did not use tongue, just lips, which allowed you to breathe while he was slamming down onto your lap still, and also bring his cold beard to your chin."
-    ""
+    "Он не использовал язык, только губы, что позволило тебе дышать, пока он все еще опускался к тебе на колени, а также поднести его холодную бороду к твоему подбородку."
 
 # game/scripts/events.rpy:3092
 translate russian tailservice_bear_hyper_7cbe9b6b:
 
     # "The droplets running off such frosty facial hair has you shivering under him, but at no point does it take away any of the heat in the air, nor does your cock recoil from it."
-    ""
+    "Капельки, стекающие с таких морозных волос на лице, заставляют тебя дрожать под ним, но это нисколько не отнимает тепла в воздухе, и твой член не отталкивается от него."
 
 # game/scripts/events.rpy:3094
 translate russian tailservice_bear_hyper_258b0067:
 
     # "In fact, it just makes you throb in defiance."
-    ""
+    "На самом деле, это просто заставляет тебя пульсировать в знак неповиновения."
 
 # game/scripts/events.rpy:3096
 translate russian tailservice_bear_hyper_45b5961f:
 
     # "The moment's intimacy leaves saliva connecting your lips with his when Oran pulls back."
-    ""
+    "В момент близости слюна соединяет твои губы с его губами, когда Оран отстраняется."
 
 # game/scripts/events.rpy:3098
 translate russian tailservice_bear_hyper_846aae92:
 
     # "You watch him swab his mouth clean and smirk down at you, your reflection barely visible in the icicles under his chin."
-    ""
+    "Ты видишь, как он вытирает рот и ухмыляется, твое отражение едва заметно в сосульках под его подбородком."
 
 # game/scripts/events.rpy:3100
 translate russian tailservice_bear_hyper_8ef5c7e8:
 
     # Oran "You're lookin' to erupt, boy...I can feel it inside, right here~"
-    Oran ""
+    Oran "Ты готов к извержению, парень... Я чувствую это внутри, прямо здесь~"
 
 # game/scripts/events.rpy:3102
 translate russian tailservice_bear_hyper_418567f2:
 
     # "Vocalized descriptions of your own reach inside Oran's body brought a shudder to your spine."
-    ""
+    "От голосовых описаний того, как ты проникаешь в тело Орана, по позвоночнику пробегает дрожь."
 
 # game/scripts/events.rpy:3104
 translate russian tailservice_bear_hyper_0f3fde4b:
 
     # "You truly were this monstrous cock-bearing beast that he had toted you up to be earlier."
-    ""
+    "Ты действительно был тем чудовищным петушиным зверем, каким он тебя представлял раньше."
 
 # game/scripts/events.rpy:3106
 translate russian tailservice_bear_hyper_7edd07c4:
 
     # "And you loved it."
-    ""
+    "И тебе это понравилось."
 
 # game/scripts/events.rpy:3108
 translate russian tailservice_bear_hyper_45aad29e:
 
     # "With your new size, you can feel a hint of your inner glans spreading open, allowing more and more of your precum to stream into Oran's belly."
-    ""
+    "С новым размером ты чувствуешь, как твоя внутренняя головка раскрывается, позволяя все большему количеству твоей спермы стекать в живот Орана."
 
 # game/scripts/events.rpy:3110
 translate russian tailservice_bear_hyper_069da771:
 
     # "It is too much, most of it flushes out of his ass."
-    ""
+    "Ее слишком много, и большая ее часть вытекает из его задницы."
 
 # game/scripts/events.rpy:3112
 translate russian tailservice_bear_hyper_9549f2e2:
 
     # "And then it stopped. One pulse tells you that you are near and there is no going back to buildup from here."
-    ""
+    "А потом все прекратилось. Один импульс говорит о том, что ты уже рядом и назад пути нет."
 
 # game/scripts/events.rpy:3114
 translate russian tailservice_bear_hyper_9ee268fe:
 
     # Fen "Auugh...mnf...mmmh...MMMMMNPH!"
-    Fen ""
+    Fen "Уугх...мф...мммх..ММММФ!"
 
 # game/scripts/events.rpy:3116
 translate russian tailservice_bear_hyper_17912c3d:
 
     # Oran "That's it boy...don't even think about holding it back..."
-    Oran ""
+    Oran "Вот так, парень... даже не думай сдерживаться..."
 
 # game/scripts/events.rpy:3118
 translate russian tailservice_bear_hyper_baf7a488:
 
     # Oran "I want all that good stuff inside me...I better look as big as that rhino at the bathhouse when you're done~"
-    Oran ""
+    Oran "Я хочу, чтобы все это было внутри меня... Лучше бы я выглядел таким же большим, как тот носорог в бане, когда ты закончишь~"
 
 # game/scripts/events.rpy:3120
 translate russian tailservice_bear_hyper_061f0745:
 
     # "The mental image of Oran managing to stomach your load was all you needed to guarantee that he would make you cum."
-    ""
+    "Мысленный образ того, как Оран справляется с твоим грузом, это все, что тебе было нужно, чтобы гарантировать, что он заставит тебя кончить."
 
 # game/scripts/events.rpy:3122
 translate russian tailservice_bear_hyper_13af099e:
 
     # "No holding off, no trying to downplay it, the bear was milking you for everything you got."
-    ""
+    "Не сдерживаясь, не пытаясь преуменьшить, медведь выжимал из тебя все, что только можно."
 
 # game/scripts/events.rpy:3127
 translate russian tailservice_bear_hyper_f0f98838:
 
     # Fen "AHHHHH!" with vpunch
-    Fen "" with vpunch
+    Fen "ААХХХХ!" with vpunch
 
 # game/scripts/events.rpy:3132
 translate russian tailservice_bear_hyper_9f51df62:
 
     # "With a coincidental eruption, you feel your cum blast from your cock while it resides within Oran, the bear stopping to make sure they were completely wrapped around you."
-    ""
+    "Случайно извергнувшись, ты чувствуешь, как сперма вырывается из твоего члена, пока он находится в Оране, а медведь останавливается, чтобы убедиться, что он полностью обхватил тебя."
 
 # game/scripts/events.rpy:3134
 translate russian tailservice_bear_hyper_c4c38b1c:
 
     # "The first volley is visible, pushing out against Oran's belly like one pumping water into a barrel."
-    ""
+    "Первый залп заметен, он давит на живот Орана, словно вода, налитая в бочку."
 
 # game/scripts/events.rpy:3136
 translate russian tailservice_bear_hyper_04ca50bc:
 
     # "You can feel the viscosity and volume as your cock resides within the growing pull of semen."
-    ""
+    "Ты ощущаешь, как вязкость и объем твоего члена увеличиваются, когда сперма становится все более тягучей."
 
 # game/scripts/events.rpy:3138
 translate russian tailservice_bear_hyper_59259bc1:
 
     # "{i}SPLOOSH{/i}" with vpunch
-    "" with vpunch
+    "{i}СПЛШ{/i}" with vpunch
 
 # game/scripts/events.rpy:3140
 translate russian tailservice_bear_hyper_78f8985e:
 
     # Fen "Oooough..."
-    Fen ""
+    Fen "Ууух..."
 
 # game/scripts/events.rpy:3142
 translate russian tailservice_bear_hyper_af654dea:
 
     # "Each successful volley makes you gasp. The white in your eyes nearly blinds you from the nirvana coursing through your body."
-    ""
+    "Каждый удачный залп заставляет тебя задыхаться. Белизна в глазах почти ослепляет тебя от нирваны, разливающейся по телу."
 
 # game/scripts/events.rpy:3144
 translate russian tailservice_bear_hyper_59259bc1_1:
 
     # "{i}SPLOOSH{/i}" with vpunch
-    "" with vpunch
+    "{i}СПЛШ{/i}" with vpunch
 
 # game/scripts/events.rpy:3146
 translate russian tailservice_bear_hyper_6ced1733:
 
     # "Oran's belly slowly loses the phallic bulge and grows bigger instead, making more room as you remain inside to spray and erupt as a volcano would, slowly but surely weighing you down."
-    ""
+    "Живот Орана постепенно теряет фаллическую выпуклость и становится больше, освобождая место, пока ты остаешься внутри, чтобы распыляться и извергаться, как вулкан, медленно, но верно утяжеляя тебя."
 
 # game/scripts/events.rpy:3148
 translate russian tailservice_bear_hyper_700d03a8:
 
     # Oran "All this hot spunk...all for me~"
-    Oran ""
+    Oran "Вся эта горячая струя... все для меня~"
 
 # game/scripts/events.rpy:3150
 translate russian tailservice_bear_hyper_a295deda:
 
     # "{i}SPLRSH{/i}" with vpunch
-    "" with vpunch
+    "{i}СПЛШ{/i}" with vpunch
 
 # game/scripts/events.rpy:3152
 translate russian tailservice_bear_hyper_c7ec0422:
 
     # "The bear's moxie holds no bounds."
-    ""
+    "Смелость медведя не знает границ."
 
 # game/scripts/events.rpy:3154
 translate russian tailservice_bear_hyper_dc6d646e:
 
     # "You give him more, knowing that you cannot resist the influence of his ass. You throw your head back once your orgasm reaches the tipping point."
-    ""
+    "Ты даешь ему еще больше, зная, что не сможешь устоять перед влиянием его попки. Ты откидываешь голову назад, когда твой оргазм достигает переломного момента."
 
 # game/scripts/events.rpy:3156
 translate russian tailservice_bear_hyper_e3ad7cde:
 
     # "{i}GLORSH{/i}" with vpunch
-    "" with vpunch
+    "{i}ГЛОШ{/i}" with vpunch
 
 # game/scripts/events.rpy:3158
 translate russian tailservice_bear_hyper_5557e2f4:
 
     # Fen "AhhhhHHHH!"
-    Fen ""
+    Fen "АхххХХХ!"
 
 # game/scripts/events.rpy:3160
 translate russian tailservice_bear_hyper_50e70879:
 
     # "The pleasure is immeasurable."
-    ""
+    "Удовольствие неизмеримо."
 
 # game/scripts/events.rpy:3162
 translate russian tailservice_bear_hyper_a9af0b29:
 
     # "Your eyes almost succeed in rolling into the back of your head from your continued orgasm, trying to ride out the insurmountable euphoria making your balls pulse and send more cum into Oran."
-    ""
+    "Твои глаза почти успели закатиться на затылок от продолжающегося оргазма, ты пытаешься пережить непреодолимую эйфорию, заставляющую твои яйца пульсировать и посылать все больше спермы в Орана."
 
 # game/scripts/events.rpy:3164
 translate russian tailservice_bear_hyper_bc867deb:
 
     # "The bear's belly becomes a dome, growing more and more taut by the second as you continue to fill him and fill him and fill him beyond anything you could have ever imagined, slowly losing sight of him."
-    ""
+    "Живот медведя превращается в купол, с каждой секундой становясь все более упругим, а ты продолжаешь наполнять его, наполнять и наполнять до предела, постепенно теряя его из виду."
 
 # game/scripts/events.rpy:3166
 translate russian tailservice_bear_hyper_b725b8b6:
 
     # "{i}GLRSH...GLRSH...GLRSH...GLRSH...{/i}" with vpunch
-    "" with vpunch
+    "{i}ГЛШ...ГЛШ...ГЛШ...ГЛШ...{/i}" with vpunch
 
 # game/scripts/events.rpy:3169
 translate russian tailservice_bear_hyper_ad4fd4d1:
 
     # "The echoes of your bellowing climax slowly fade as you come to a calm, just barely in the nick of time from the contented look on Oran's face."
-    ""
+    "Отголоски твоей кульминации постепенно затихают, и ты приходишь в себя, едва успевая заметить довольное выражение лица Орана."
 
 # game/scripts/events.rpy:3175
 translate russian tailservice_bear_hyper_87fdf051:
 
     # Oran "Now that's a fill up~"
-    Oran ""
+    Oran "Вот это наполнение~"
 
 # game/scripts/events.rpy:3177
 translate russian tailservice_bear_hyper_225ff3d1:
 
     # Fen "Guuuhhh..."
-    Fen ""
+    Fen "Гаахх..."
 
 # game/scripts/events.rpy:3179
 translate russian tailservice_bear_hyper_c49d3a7c:
 
     # "Your brain is still recovering, mind racing with all sorts of imagery - whether recent experience or distant memory, you cannot tell through the blurriness."
-    ""
+    "Твой мозг все еще восстанавливается, в голове мелькают всевозможные образы - то ли недавний опыт, то ли далекое воспоминание, но ты не можешь определить это сквозь размытость."
 
 # game/scripts/events.rpy:3181
 translate russian tailservice_bear_hyper_86a6e9f7:
 
     # "You grunt when your cock throbs in the afterglow."
-    ""
+    "Ты хрюкаешь, когда твой член пульсирует в послевкусии."
 
 # game/scripts/events.rpy:3183
 translate russian tailservice_bear_hyper_4dd012b0:
 
     # Oran "You still up? Great, we're just getting started~"
-    Oran ""
+    Oran "Ты все еще не спишь? Отлично, мы только начинаем~"
 
 # game/scripts/events.rpy:3185
 translate russian tailservice_bear_hyper_59981e1a:
 
     # "More? You only paid ten coins for a round of topping, and not only were you given a second round for free, there was even more coming your way?"
-    ""
+    "Больше? Ты заплатил всего десять монет за раунд игры в топпинг, а тебе не только дали второй раунд бесплатно, но и еще больше?"
 
 # game/scripts/events.rpy:3187
 translate russian tailservice_bear_hyper_f9c74077:
 
     # "Oran's generosity is noted right before he sends you into another fit of paralysis from standing up suddenly, extracting your cum-coated cock from his ass."
-    ""
+    "Щедрость Орана была отмечена как раз перед тем, как он отправил тебя в очередной приступ паралича, внезапно встав и вытащив свой покрытый спермой член из его задницы."
 
 # game/scripts/events.rpy:3189
 translate russian tailservice_bear_hyper_9a7ad412:
 
     # "{i}SHPLRT{/i}"
-    ""
+    "{i}ШПЛТ{/i}"
 
 # game/scripts/events.rpy:3191
 translate russian tailservice_bear_hyper_4b46c016:
 
     # "Cum ejects from his hole, your cock having acted as a stopper for the excess that had not made its way into his stomach."
-    ""
+    "Из его дырочки вытекает сперма - твой член послужил пробкой для излишков, которые не успели попасть в желудок."
 
 # game/scripts/events.rpy:3193
 translate russian tailservice_bear_hyper_25829f1a:
 
     # "His ass was matted down, a full mess of creamy white that stained the edge of the bed and the floor."
-    ""
+    "Его задница была покрыта матовым налетом, и вся она была в сливочно-белых пятнах на краю кровати и на полу."
 
 # game/scripts/events.rpy:3195
 translate russian tailservice_bear_hyper_289213c0:
 
     # "Your cock was still hard and towering over your body while your cum oozed down towards your crotch."
-    ""
+    "Твой член все еще был твердым и возвышался над твоим телом, а сперма сочилась в промежность."
 
 # game/scripts/events.rpy:3197
 translate russian tailservice_bear_hyper_65489ccc:
 
     # Fen "Hnnnngh..."
-    Fen ""
+    Fen "Хнннгх..."
 
 # game/scripts/events.rpy:3199
 translate russian tailservice_bear_hyper_e5ea2615:
 
     # Oran "I think I earned my turn...What d'ya say?"
-    Oran ""
+    Oran "Думаю, я заслужил свою очередь... Что скажешь?"
 
 # game/scripts/events.rpy:3201
 translate russian tailservice_bear_hyper_73ef03d0:
 
     # Fen "Unnnnh..."
-    Fen ""
+    Fen "Уннх..."
 
 # game/scripts/events.rpy:3203
 translate russian tailservice_bear_hyper_f84da21b:
 
     # "To be frank, if Oran was doing all of this for you, why would it be a bad idea?"
-    ""
+    "Честно говоря, если Оран делает все это для тебя, почему это должно быть плохой идеей?"
 
 # game/scripts/events.rpy:3205
 translate russian tailservice_bear_hyper_e74b9507:
 
     # "You have the day off, and everyone else is busy with their thing. Plus, it may just be free, which means coins saved."
-    ""
+    "У тебя выходной, а все остальные заняты своими делами. Кроме того, это может быть бесплатно, а значит, можно сэкономить монеты."
 
 # game/scripts/events.rpy:3207
 translate russian tailservice_bear_hyper_4dc0d41a:
 
     # "You, unable to form words at the moment, nod your head in agreement."
-    ""
+    "Ты, не в силах вымолвить и слова, киваешь головой в знак согласия."
 
 # game/scripts/events.rpy:3209
 translate russian tailservice_bear_hyper_4b70f11e:
 
     # "Oran smiles and winks at you, grateful for your answer before he grabs your legs."
-    ""
+    "Оран улыбается и подмигивает тебе, благодарный за ответ, прежде чем схватить тебя за ноги."
 
 # game/scripts/events.rpy:3211
 translate russian tailservice_bear_hyper_2bb52607:
 
     # Oran "Always wanted to fuck someone with a bigger cock than me...Look at all this."
-    Oran ""
+    Oran "Всегда хотел трахнуть кого-нибудь, у кого член больше, чем у меня... Посмотри на все это."
 
 # game/scripts/events.rpy:3213
 translate russian tailservice_bear_hyper_833a66a7:
 
     # Oran "Can barely keep my mouth away from it~"
-    Oran ""
+    Oran "Я едва могу удержать свой рот от этого~"
 
 # game/scripts/events.rpy:3215
 translate russian tailservice_bear_hyper_e88d388f:
 
     # "Oran shows just how tantalizing it is to keep away from your mighty meat as he licks across its surface, prompting it to pulsate similarly to something in an earthquake - trembling with great power."
-    ""
+    "Оран показывает, насколько маняще держаться подальше от твоего могучего мяса, когда он облизывает его поверхность, заставляя ее пульсировать, как при землетрясении - дрожать с огромной силой."
 
 # game/scripts/events.rpy:3217
 translate russian tailservice_bear_hyper_5c330ae7:
 
     # Fen "Hnnnnfh...!"
-    Fen ""
+    Fen "Хнннф...!"
 
 # game/scripts/events.rpy:3219
 translate russian tailservice_bear_hyper_0eb95b08:
 
     # "Even though you just came and were not in the machinations of sex..."
-    ""
+    "Даже если ты только что пришел и не был занят сексом..."
 
 # game/scripts/events.rpy:3221
 translate russian tailservice_bear_hyper_1c338842:
 
     # "...it felt like every little touch upon your embiggened cock was bound to send tidal waves of pure ecstasy to your mind, threatening to make you pass out."
-    ""
+    "...казалось, что каждое легкое прикосновение к твоему разгоряченному члену вызывает приливные волны чистого экстаза, грозящие привести к потере сознания."
 
 # game/scripts/events.rpy:3223
 translate russian tailservice_bear_hyper_f45ec4c0:
 
     # "Oran's tongue, surprisingly cool but not cold enough to tarnish the mood, explores the numerous inches that made up your cock, steadily swabbing it clean of the mess that was not pooled in with the rest."
-    ""
+    "Язык Орана, удивительно прохладный, но не настолько, чтобы испортить настроение, исследует многочисленные сантиметры, составляющие твой член, уверенно очищая его от остатков, которые не успели скопиться вместе с остальными."
 
 # game/scripts/events.rpy:3225
 translate russian tailservice_bear_hyper_b791ec18:
 
     # "Slowly, your cock would be rid of any cum stains, simply shiny from all the leftover saliva."
-    ""
+    "Постепенно твой член избавился от пятен спермы и просто блестел от остатков слюны."
 
 # game/scripts/events.rpy:3227
 translate russian tailservice_bear_hyper_b7abdb07:
 
     # Oran "Good on ya keeping still. Felt like you were fixing to nut on mah face there."
-    Oran ""
+    Oran "Молодец, что сохранил спокойствие. Я чувствовал, что ты собираешься набить мне морду."
 
 # game/scripts/events.rpy:3229
 translate russian tailservice_bear_hyper_98c07b98:
 
     # "Oran snorts before hiking up your legs further, spreading them wide so that there was nothing that could tuck away the sight of your own butt."
-    ""
+    "Оран фыркнул, после чего поднял твои ноги еще выше, широко раздвинув их, чтобы ничто не могло скрыть вид твоей собственной задницы."
 
 # game/scripts/events.rpy:3231
 translate russian tailservice_bear_hyper_048868dc:
 
     # "You can feel sweat beads trailing down your taint and into your tail fur as he brings his head in and puffs air onto your asshole."
-    ""
+    "Ты чувствуешь, как бисеринки пота стекают по твоей попке и попадают в хвост, когда он подносит голову и надувает твою попку."
 
 # game/scripts/events.rpy:3233
 translate russian tailservice_bear_hyper_2801366c:
 
     # "It clenches in anticipation, not ready despite knowing it will have to be soon."
-    ""
+    "Он сжимает руки в предвкушении, но не готов, хотя и знает, что это должно произойти скоро."
 
 # game/scripts/events.rpy:3235
 translate russian tailservice_bear_hyper_3a77349a:
 
     # Oran "Gotta make sure you can handle me for now."
-    Oran ""
+    Oran "Нужно убедиться, что ты сможешь справиться со мной."
 
 # game/scripts/events.rpy:3237
 translate russian tailservice_bear_hyper_fa45556c:
 
     # Oran "Wouldn't wanna break ya, boy~"
-    Oran ""
+    Oran "Не хочу делать тебе больно, парень~"
 
 # game/scripts/events.rpy:3239
 translate russian tailservice_bear_hyper_3879dd82:
 
     # "Oran gives a quick reassuring wink, before a slimy cold intruder makes its way through your pucker with ease."
-    ""
+    "Оран быстро ободряюще подмигивает, прежде чем склизкий холодный незваный гость с легкостью прокладывает себе путь через твою дырочку."
 
 # game/scripts/events.rpy:3242
 translate russian tailservice_bear_hyper_bfde18e1:
 
     # Fen "Ah-ahhhnh!"
-    Fen ""
+    Fen "Ах-ахххх!"
 
 # game/scripts/events.rpy:3244
 translate russian tailservice_bear_hyper_3e285ad8:
 
     # "Once it wiggled, it was clear that the invasion was being done by Oran's tongue."
-    ""
+    "Когда он зашевелился, стало ясно, что вторжение осуществляется языком Орана."
 
 # game/scripts/events.rpy:3246
 translate russian tailservice_bear_hyper_952ded55:
 
     # "The recurring theme of cold was prevalent still as the bear traversed your anus, progressively easing your muscles down from within."
-    ""
+    "Постоянно повторяющаяся тема холода все еще преобладала, пока медведь обходил твой зад, постепенно расслабляя мышцы изнутри."
 
 # game/scripts/events.rpy:3248
 translate russian tailservice_bear_hyper_35c404c4:
 
     # "You feel that tension from having something in your butt fade, and you feel more and more of his tongue enter you before he was downright kissing your hole."
-    ""
+    "Ты чувствуешь, как исчезает напряжение от того, что в твоей попке что-то есть, и все больше и больше его языка проникает в тебя, пока он не стал прямо целовать твою дырочку."
 
 # game/scripts/events.rpy:3250
 translate russian tailservice_bear_hyper_df721d6a:
 
     # Oran "Mmmmhhhph~"
-    Oran ""
+    Oran "Мммф~"
 
 # game/scripts/events.rpy:3256
 translate russian tailservice_bear_hyper_00778e16:
 
     # "Things are shaping up to be magical once Oran found your sweet spot, prodding it firmly enough to make your cock shoot enough precum to hit the ceiling."
-    ""
+    "Все складывается просто волшебно, как только Оран нашел твое сладкое место, надавив на него достаточно сильно, чтобы твой член выпустил достаточно спермы, чтобы она ударила в потолок."
 
 # game/scripts/events.rpy:3259
 translate russian tailservice_bear_hyper_54395143:
 
     # "Oran's spelunking comes to an end soon enough, unfortunately, leaving you whining as the shift from topping to bottoming reawakened your inhibitions once more."
-    ""
+    "К сожалению, погружение Орана в подводное царство заканчивается довольно скоро, и ты не успеваешь опомниться, как переход от верха к низу вновь пробуждает твои чувства."
 
 # game/scripts/events.rpy:3261
 translate russian tailservice_bear_hyper_0db96236:
 
     # Fen "C-come on, I was close..."
-    Fen ""
+    Fen "Ну же, я был близок..."
 
 # game/scripts/events.rpy:3263
 translate russian tailservice_bear_hyper_735eaea8:
 
     # Oran "That's just what gettin' your prostate licked feels like."
-    Oran ""
+    Oran "Это как раз то, что нужно для вылизывания твоей попки."
 
 # game/scripts/events.rpy:3265
 translate russian tailservice_bear_hyper_21eae622:
 
     # Oran "You'll nut when I say you can~"
-    Oran ""
+    Oran "Ты будешь орехом, когда я скажу, что ты можешь~"
 
 # game/scripts/events.rpy:3267
 translate russian tailservice_bear_hyper_9997370f:
 
     # "Somehow, the idea of Oran controlling whether or not you would be allowed to embrace release was... oddly thrilling."
-    ""
+    "Мысль о том, что Оран будет контролировать, разрешат ли тебе принять освобождение, была... странно волнующей."
 
 # game/scripts/events.rpy:3269
 translate russian tailservice_bear_hyper_3cd40da6:
 
     # "To have so much cock to offer just to have it denied one of its basic functions..."
-    ""
+    "Иметь столько членов, чтобы лишить их одной из основных функций..."
 
 # game/scripts/events.rpy:3271
 translate russian tailservice_bear_hyper_3b9949db:
 
     # "You are pulled from your thoughts, however messy and hazed, when Oran's digit finds its way up your butt."
-    ""
+    "Ты отвлекаешься от своих мыслей, пусть даже беспорядочных и туманных, когда член Орана оказывается у тебя в заднице."
 
 # game/scripts/events.rpy:3274
 translate russian tailservice_bear_hyper_6650ab1c:
 
     # Fen "Unfh! Umfh! Guh!"
-    Fen ""
+    Fen "Унф! Умф! Гах!"
 
 # game/scripts/events.rpy:3276
 translate russian tailservice_bear_hyper_376007d3:
 
     # "For some reason, Oran was hooking his finger around inside your hole..."
-    ""
+    "По какой-то причине Оран засунул палец в твою дырочку..."
 
 # game/scripts/events.rpy:3278
 translate russian tailservice_bear_hyper_e5f88da1:
 
     # "...and feeling it curtly brush just a little bit of your prostate was like feeling your orgasm on the rise but being dragged aside from reaching your peak."
-    ""
+    "...и чувствовать, как он небрежно расчесывает лишь небольшую часть твоей простаты, было все равно что ощущать нарастающий оргазм, но быть оттянутым в сторону от достижения пика."
 
 # game/scripts/events.rpy:3280
 translate russian tailservice_bear_hyper_2da8d17a:
 
     # "So torturous. You whine some more, even going as far as showing begging eyes that could melt even the most stone-cold heart on sight."
-    ""
+    "Так мучительно. Ты еще немного поскуливаешь, даже показываешь умоляющие глаза, которые могут растопить даже самое каменное сердце."
 
 # game/scripts/events.rpy:3282
 translate russian tailservice_bear_hyper_485d5d2e:
 
     # "Oran merely grins with mischief."
-    ""
+    "Оран лишь озорно усмехается."
 
 # game/scripts/events.rpy:3284
 translate russian tailservice_bear_hyper_bbf41e3e:
 
     # Oran "Sorry boy, gotta keep you ready for me no matter what. I ain't exactly easy to take."
-    Oran ""
+    Oran "Прости, парень, но ты должен быть готов к тому, что я не уступлю. Меня не так-то просто взять."
 
 # game/scripts/events.rpy:3286
 translate russian tailservice_bear_hyper_aadee928:
 
     # "Those words almost made you clench your hole on his finger, but you were stopped when he added another, plowing through your ass as if he was already fucking you as-is."
-    ""
+    "Эти слова почти заставили тебя сжать свою дырочку на его пальце, но ты остановился, когда он добавил еще один, проникая в твою попку, как будто уже трахал тебя как есть."
 
 # game/scripts/events.rpy:3288
 translate russian tailservice_bear_hyper_4b6ba593:
 
     # Fen "Hhhh...! HHHHMPH!"
-    Fen ""
+    Fen "Ххх...! ХХХМФ!"
 
 # game/scripts/events.rpy:3290
 translate russian tailservice_bear_hyper_8fdd1c52:
 
     # "You can feel it. The agonizing delay."
-    ""
+    "Ты чувствуешь это. Мучительная задержка."
 
 # game/scripts/events.rpy:3292
 translate russian tailservice_bear_hyper_5938cc59:
 
     # "Oran did not even need to hold your bloated balls hostage in order to bring it about - it just felt like you were so close yet none of this was enough to make you blow."
-    ""
+    "Орану даже не нужно было держать в заложниках твои вздувшиеся яйца, чтобы добиться этого - просто было ощущение, что ты так близок, и все же этого было недостаточно, чтобы ты взорвался."
 
 # game/scripts/events.rpy:3294
 translate russian tailservice_bear_hyper_f40f076c:
 
     # Oran "Good boy...I think you're ready."
-    Oran ""
+    Oran "Хороший мальчик... Думаю, ты готов."
 
 # game/scripts/events.rpy:3296
 translate russian tailservice_bear_hyper_834287ac:
 
     # "Oran probably felt this, but as soon as he said that, your tail started going a mile a second on the spot."
-    ""
+    "Оран, вероятно, чувствовал это, но как только он это сказал, твой хвост начал разгоняться со скоростью мили в секунду на месте."
 
 # game/scripts/events.rpy:3299
 translate russian tailservice_bear_hyper_2626845f:
 
     # "Oran pulls out of your hole, leaving it shiny and convulsing against the open air as his spit covers both inside and out."
-    ""
+    "Оран выходит из твоей дырочки, оставляя ее блестящей и конвульсивно дергающейся на открытом воздухе, а его слюна покрывает ее изнутри и снаружи."
 
 # game/scripts/events.rpy:3301
 translate russian tailservice_bear_hyper_7a7629d5:
 
     # "Then he rises back up, putting your legs onto his shoulders and you feel his cock prod your butt."
-    ""
+    "Затем он поднимается, кладет твои ноги себе на плечи, и ты чувствуешь, как его член упирается тебе в попу."
 
 # game/scripts/events.rpy:3303
 translate russian tailservice_bear_hyper_a4d154a2:
 
     # "You gulp when it makes contact with your hole, and grit your teeth when it slips inside on the first try."
-    ""
+    "Ты глотаешь, когда он соприкасается с твоим отверстием, и скрипишь зубами, когда он проскальзывает внутрь с первой попытки."
 
 # game/scripts/events.rpy:3306
 translate russian tailservice_bear_hyper_4c1ce351:
 
     # Fen "MMMPH!"
-    Fen ""
+    Fen "ММФ!"
 
 # game/scripts/events.rpy:3308
 translate russian tailservice_bear_hyper_db2efb6c:
 
     # Oran "Auhhh...Love me some hot hole~"
-    Oran ""
+    Oran "Аах... Люблю горячие дырочки~"
 
 # game/scripts/events.rpy:3310
 translate russian tailservice_bear_hyper_c66d3444:
 
     # "Oran's cock was by no means cold, yet it felt like the coldest object Fen could ever bother using as a toy as it slid into you, aided and abetted by the prior stretching and lubrication."
-    ""
+    "Член Орана не был холодным, но при этом ощущался как самый холодный предмет, который [name] мог бы использовать в качестве игрушки, когда он скользил в тебя, чему способствовало предварительное растяжение и смазка."
 
 # game/scripts/events.rpy:3312
 translate russian tailservice_bear_hyper_96181f55:
 
     # "You feel him edge closer to your prostate and you unknowingly tense up in hopes that he would focus on that spot, even just a little, only to whine as he merely drags over it."
-    ""
+    "Ты чувствуешь, как он приближается к твоей простате, и неосознанно напрягаешься в надежде, что он сосредоточится на этом месте, хотя бы немного, и только скулишь, когда он просто тащится по нему."
 
 # game/scripts/events.rpy:3314
 translate russian tailservice_bear_hyper_94bad6da:
 
     # "A silent smirk comes down to you and you know he is doing that on purpose."
-    ""
+    "Ты молча ухмыляешься и понимаешь, что он делает это специально."
 
 # game/scripts/events.rpy:3316
 translate russian tailservice_bear_hyper_af4e9c23:
 
     # "Soon, you feel his hips meet your asscheeks, and it was like being given a revelation in that moment."
-    ""
+    "Вскоре ты чувствуешь, как его бедра встречаются с твоими щеками, и в этот момент ты словно получаешь откровение."
 
 # game/scripts/events.rpy:3318
 translate russian tailservice_bear_hyper_4c155b63:
 
     # "You took all of him, no pain, no discomfort."
-    ""
+    "Ты взял его всего, без боли, без дискомфорта."
 
 # game/scripts/events.rpy:3320
 translate russian tailservice_bear_hyper_d01192c3:
 
     # Oran "You fire affinity types always give me the best kinda lays. Hot nut and hot butts plenty...But let's see if you can handle a li'l 'chill'~"
-    Oran ""
+    Oran "Ты, огненный тип, всегда даришь мне самые лучшие постели. Горячие орешки и горячие попки... Но давай посмотрим, сможешь ли ты выдержать небольшую 'прохладу'~"
 
 # game/scripts/events.rpy:3322
 translate russian tailservice_bear_hyper_e1098880:
 
     # "Oran reinforces his grip on your ankles and you feel him pull back, making your hole tug against him as he was thick enough to touch down on your prostate the whole time."
-    ""
+    "Оран усиливает хватку на твоих лодыжках, и ты чувствуешь, как он отстраняется, заставляя твое отверстие напрягаться, поскольку он был достаточно толстым, чтобы все это время касаться твоей простаты."
 
 # game/scripts/events.rpy:3324
 translate russian tailservice_bear_hyper_012ea825:
 
     # "A moment's thought flashes through your mind and you feel compelled to bring it up."
-    ""
+    "В голове промелькнула мысль, и ты почувствовал себя обязанным ее озвучить."
 
 # game/scripts/events.rpy:3326
 translate russian tailservice_bear_hyper_fe119a8b:
 
     # Fen "G-gentle, please... I don't do this...like you do..."
-    Fen ""
+    Fen "Н-нежнее, пожалуйста... Я не делаю этого... как ты..."
 
 # game/scripts/events.rpy:3328
 translate russian tailservice_bear_hyper_b803b868:
 
     # Oran "Oh relax, boy. I know you're a virgin."
-    Oran ""
+    Oran "Расслабься, парень. Я знаю, что ты девственник."
 
 # game/scripts/events.rpy:3330
 translate russian tailservice_bear_hyper_7f0224d5:
 
     # "Again with this. But you had no room to argue when you had a bear's cock in your ass - or at least, half of one at this time, especially when he pushed back inside to silence your whining."
-    ""
+    "Опять это. Но у тебя не было возможности спорить, когда в твоей заднице находился член медведя - или, по крайней мере, половина члена, особенно когда он снова толкнулся внутрь, чтобы заглушить твое хныканье."
 
 # game/scripts/events.rpy:3333
 translate russian tailservice_bear_hyper_9cd650d6:
 
     # "{i}WHAP{/i}"
-    ""
+    "{i}ШЛЕП{/i}"
 
 # game/scripts/events.rpy:3335
 translate russian tailservice_bear_hyper_636c3f26:
 
     # Fen "Ooooough..."
-    Fen ""
+    Fen "Уууух..."
 
 # game/scripts/events.rpy:3337
 translate russian tailservice_bear_hyper_1a366085:
 
     # Oran "Tight and hot...best combo~"
-    Oran ""
+    Oran "Крепкий и горячий... лучшее сочетание~"
 
 # game/scripts/events.rpy:3339
 translate russian tailservice_bear_hyper_f3c7af34:
 
     # "Oran was not as fluffy as you, so your butt was a little bit more cushioned than his as he got started, at first thinking he was trying to go hard before realizing you simply had the fur to handle it better."
-    ""
+    "Оран был не таким пушистым, как ты, поэтому твоя задница была немного более мягкой, чем его, когда он начал, и сначала он подумал, что пытается действовать жестко, но потом понял, что у тебя просто больше шерсти, чтобы справиться с этим."
 
 # game/scripts/events.rpy:3341
 translate russian tailservice_bear_hyper_2edc676f:
 
     # "But, you prefer to ride things out as they are now, to ease yourself into this."
-    ""
+    "Но ты предпочтешь все сделать так, как есть сейчас, чтобы облегчить себе задачу."
 
 # game/scripts/events.rpy:3343
 translate russian tailservice_bear_hyper_b6bfc5c4:
 
     # "Oran stares you down from above, and you can see your face in his simple black pupils."
-    ""
+    "Оран смотрит на тебя сверху вниз, и в его простых черных зрачках можно разглядеть твое лицо."
 
 # game/scripts/events.rpy:3345
 translate russian tailservice_bear_hyper_c6146e7d:
 
     # "You see a needy dog hoping to cum, and it sends a shiver down your spine as your tail sways with more passion."
-    ""
+    "Понимаешь, как нуждающийся пес надеется кончить, и это вызывает дрожь по позвоночнику, а твой хвост подрагивает от страсти."
 
 # game/scripts/events.rpy:3347
 translate russian tailservice_bear_hyper_f2b62c59:
 
     # "{i}WHAP WHAP WHAP WHAP WHAP WHAP WHAP{/i}"
-    ""
+    "{i}ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП{/i}"
 
 # game/scripts/events.rpy:3349
 translate russian tailservice_bear_hyper_e720c3dd:
 
     # Oran "Unnngh..."
-    Oran ""
+    Oran "Нннгх..."
 
 # game/scripts/events.rpy:3351
 translate russian tailservice_bear_hyper_64b2c119:
 
     # Fen "Hooough..."
-    Fen ""
+    Fen "Хуух..."
 
 # game/scripts/events.rpy:3353
 translate russian tailservice_bear_hyper_3847ff77:
 
     # "You can already tell you were going to love tail service if this was going to be what it was like."
-    ""
+    "Ты уже можешь сказать, что тебе понравится хвостовой сервис, если он будет таким."
 
 # game/scripts/events.rpy:3355
 translate russian tailservice_bear_hyper_265a5a4b:
 
     # "Oran winks at you, probably already knowing you were interested in doing this way more often than not."
-    ""
+    "Оран подмигивает тебе, вероятно, уже зная, что ты заинтересован в том, чтобы это происходило чаще всего."
 
 # game/scripts/events.rpy:3357
 translate russian tailservice_bear_hyper_ceb31270:
 
     # "As your ass was repeatedly thrust into, you slowly lost that anxious feeling in your belly, the pit that made you worry about your experience receiving being tainted."
-    ""
+    "По мере того как в твою попку снова и снова вонзались, ты постепенно терял то тревожное чувство в животе, которое заставляло тебя беспокоиться о том, что твой опыт будет испорчен."
 
 # game/scripts/events.rpy:3359
 translate russian tailservice_bear_hyper_2f3e1f21:
 
     # "As a result, the repressed pleasure kicked in."
-    ""
+    "В результате подавленное наслаждение начало действовать."
 
 # game/scripts/events.rpy:3361
 translate russian tailservice_bear_hyper_6cb2c911:
 
     # Fen "Hmmmmrrrph..."
-    Fen ""
+    Fen "Хмммррф..."
 
 # game/scripts/events.rpy:3363
 translate russian tailservice_bear_hyper_8b021006:
 
     # Oran "What's that, boy...?"
-    Oran ""
+    Oran "Что это, парень...?"
 
 # game/scripts/events.rpy:3365
 translate russian tailservice_bear_hyper_a85c616e:
 
     # "You feel your face heat up to the point of being flustered."
-    ""
+    "Ты чувствуешь, как твое лицо накаляется до предела."
 
 # game/scripts/events.rpy:3367
 translate russian tailservice_bear_hyper_f9709717:
 
     # Fen "Mmrrrrph..."
-    Fen ""
+    Fen "Мрррф..."
 
 # game/scripts/events.rpy:3369
 translate russian tailservice_bear_hyper_cdaeef9c:
 
     # Oran "Can't hear you from up here. Gonna have to speak up~"
-    Oran ""
+    Oran "Отсюда тебя не слышно. Придется говорить громче~"
 
 # game/scripts/events.rpy:3371
 translate russian tailservice_bear_hyper_9bc9dc66:
 
     # Fen "M-more...!"
-    Fen ""
+    Fen "Б-больше...!"
 
 # game/scripts/events.rpy:3373
 translate russian tailservice_bear_hyper_593d4b9d:
 
     # "You finally managed to breathe it out, just to gasp when Oran immediately shifts from steady to rough in that instant."
-    ""
+    "Наконец тебе удалось выдохнуть, и ты задыхаешься, когда Оран мгновенно переходит от ровного состояния к грубому."
 
 # game/scripts/events.rpy:3375
 translate russian tailservice_bear_hyper_056aecd1:
 
     # Oran "Can do."
-    Oran ""
+    Oran "Можно."
 
 # game/scripts/events.rpy:3379
 translate russian tailservice_bear_hyper_af28de11:
 
     # "With that affirmative tone, you can only brace yourself against the mattress as Oran really gives it to you."
-    ""
+    "С этим утвердительным тоном ты только и можешь, что упираться в матрас, так как Оран действительно отдает его тебе."
 
 # game/scripts/events.rpy:3381
 translate russian tailservice_bear_hyper_8ce8f39f:
 
     # "You can feel the effort in his every move, knowing he wants to do you in like you had earlier."
-    ""
+    "Ты чувствуешь, как он старается, когда делает каждое движение, и понимаешь, что он хочет сделать это так же, как ты раньше."
 
 # game/scripts/events.rpy:3383
 translate russian tailservice_bear_hyper_b4acefe3:
 
     # "{i}WAP WAP WAP WAP WAP WAP WAP WAP{/i}"
-    ""
+    "{i}ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП{i}"
 
 # game/scripts/events.rpy:3385
 translate russian tailservice_bear_hyper_e5ad32fa:
 
     # Fen "Urrrrgh...!"
-    Fen ""
+    Fen "Урррх...!"
 
 # game/scripts/events.rpy:3387
 translate russian tailservice_bear_hyper_b2797596:
 
     # Oran "Mmh-hmmh...this'll really give you a good 'un~"
-    Oran ""
+    Oran "Ммх-хмх... это действительно доставит тебе удовольствие~"
 
 # game/scripts/events.rpy:3389
 translate russian tailservice_bear_hyper_db48f8ac:
 
     # "You quickly find out what Oran was insinuating when his thrusts shifted upward and you feel his cock DRAG across your prostate like one dragging a heavy log across the ground."
-    ""
+    "Ты быстро понимаешь, на что намекал Оран, когда его толчки смещаются вверх, и ты чувствуешь, как его член проносится по твоей простате, словно тяжелое бревно по земле."
 
 # game/scripts/events.rpy:3391
 translate russian tailservice_bear_hyper_8696df32:
 
     # "You see genuine stars in your eyes."
-    ""
+    "В твоих глазах появляются настоящие звезды."
 
 # game/scripts/events.rpy:3393
 translate russian tailservice_bear_hyper_bbf8b3b4:
 
     # Fen "AUUUUUUH!"
-    Fen ""
+    Fen "АУУУХ!"
 
 # game/scripts/events.rpy:3395
 translate russian tailservice_bear_hyper_fa0c8e0d:
 
     # "You swore you came, you thought the white was just your seed getting into them."
-    ""
+    "Ты поклялся, что кончил, ты думал, что белое - это просто твое семя попало в него."
 
 # game/scripts/events.rpy:3397
 translate russian tailservice_bear_hyper_c1de67de:
 
     # "But no, when you came to from that flash of euphoria, you realized that your cock was just pulsing between you and Oran still."
-    ""
+    "Но нет, когда ты пришел в себя после вспышки эйфории, то понял, что твой член все еще пульсирует между тобой и Ораном."
 
 # game/scripts/events.rpy:3399
 translate russian tailservice_bear_hyper_8e917c60:
 
     # "No cum. Not yet."
-    ""
+    "Не кончил. Пока нет."
 
 # game/scripts/events.rpy:3401
 translate russian tailservice_bear_hyper_6d6207c0:
 
     # Oran "Be on your toes, boy. You look like the adventurin' type, them monsters ain't no j-joke~"
-    Oran ""
+    Oran "Будь начеку, парень. Ты похож на любителя приключений, а эти монстры не ш-шутка!"
 
 # game/scripts/events.rpy:3403
 translate russian tailservice_bear_hyper_76568f5f:
 
     # "You throw your head back as Oran coyly pummels your ass."
-    ""
+    "Ты откидываешь голову назад, пока Оран сильно лупит тебя по заднице."
 
 # game/scripts/events.rpy:3405
 translate russian tailservice_bear_hyper_88f17250:
 
     # "He's not humping you, he's fucking you, and you're loving every second of it."
-    ""
+    "Он не бьет тебя, он трахает тебя, и тебе нравится каждая секунда."
 
 # game/scripts/events.rpy:3407
 translate russian tailservice_bear_hyper_6ef7318c:
 
     # "His pace was not as breakneck as yours, but the power in his hips was phenomenal."
-    ""
+    "Его темп не был таким бешеным, как у тебя, но сила в его бедрах была просто феноменальной."
 
 # game/scripts/events.rpy:3409
 translate russian tailservice_bear_hyper_018d4a86:
 
     # Fen "Puh...pl-PLEASH!"
-    Fen ""
+    Fen "Фух...по-ПОЖАЛУЙСТА!"
 
 # game/scripts/events.rpy:3411
 translate russian tailservice_bear_hyper_6d3b626c:
 
     # Oran "Not yet, boy...I need my turn~"
-    Oran ""
+    Oran "Еще нет, пацан... Мне нужна своя очередь~"
 
 # game/scripts/events.rpy:3413
 translate russian tailservice_bear_hyper_16c0a4a4:
 
     # "You whimper with depravity as you are left feeling the climb trickle away, the prostate beating coming to an abrupt halt and going back to riding out the sensation of Oran plowing your hole."
-    ""
+    "Ты хнычешь от разврата, чувствуя, как из тебя уходит подъем, а биение простаты резко прекращается, и ты снова погружаешься в ощущения, которые испытывает Оран."
 
 # game/scripts/events.rpy:3415
 translate russian tailservice_bear_hyper_a00b2e4b:
 
     # "But you love it."
-    ""
+    "Но тебе это нравится."
 
 # game/scripts/events.rpy:3417
 translate russian tailservice_bear_hyper_cab4e74d:
 
     # "You love the way Oran was making you melt like ice in his hands."
-    ""
+    "Тебе нравится, как Оран заставляет тебя таять в его руках, словно лед."
 
 # game/scripts/events.rpy:3419
 translate russian tailservice_bear_hyper_68e1c3dc:
 
     # "In time, you perceive the world past looking up at the ceiling where your precum resided and look down."
-    ""
+    "Со временем ты воспринимаешь окружающий мир, глядя на потолок, где находилась твоя сперма, и смотришь вниз."
 
 # game/scripts/events.rpy:3421
 translate russian tailservice_bear_hyper_a9ce7814:
 
     # "His cock is in your guts, and only disappearing every time he pulls back, just to confirm any suspicions you may have about it."
-    ""
+    "Его член находится в твоих кишках и исчезает каждый раз, когда он отстраняется, чтобы подтвердить все твои подозрения на этот счет."
 
 # game/scripts/events.rpy:3423
 translate russian tailservice_bear_hyper_c50e1960:
 
     # Fen "{i}'He's doing me in...and he hasn't even used the crystal on himself...!'{/i}"
-    Fen ""
+    Fen "{i}'Он меня заводит... а ведь он даже не использовал кристалл на себе...!'{/i}"
 
 # game/scripts/events.rpy:3425
 translate russian tailservice_bear_hyper_9ceb625c:
 
     # "Your foreshadowing was left to hang in the dank air as your tongue found its way out of your mouth..."
-    ""
+    "Твои предчувствия остались висеть в промозглом воздухе, пока твой язык вынимался изо рта..."
 
 # game/scripts/events.rpy:3427
 translate russian tailservice_bear_hyper_37f935b0:
 
     # "...eyes clamped shut as the loop of feeling unfathomable bliss just to feel it ebb away enough racked your nerves."
-    ""
+    "...глаза зажмурились, так как ощущение непостижимого блаженства, а затем его исчезновение достаточно сильно потрепали нервы."
 
 # game/scripts/events.rpy:3429
 translate russian tailservice_bear_hyper_9a6451ea:
 
     # Oran "Here it comes...!"
-    Oran ""
+    Oran "Вот оно...!"
 
 # game/scripts/events.rpy:3431
 translate russian tailservice_bear_hyper_ed976723:
 
     # "Oran's warning felt like such a dismissive gesture that you did not pay heed to it, so when he lurched up and had your back off the bed, it took you for a surprise."
-    ""
+    "Предупреждение Орана показалось тебе настолько небрежным жестом, что ты не обратил на него внимания, поэтому, когда он резко поднялся и оттолкнул тебя от кровати, это застало тебя врасплох."
 
 # game/scripts/events.rpy:3436
 translate russian tailservice_bear_hyper_fd24bd00:
 
     # Oran "URRRRRRNFH!"
-    Oran ""
+    Oran "УРРРРФ!"
 
 # game/scripts/events.rpy:3439
 translate russian tailservice_bear_hyper_67e3ee64:
 
     # "The bear unloads, and an avalanche of chilly seed pours into your body, making you sigh as if it was like taking a cold bath after being out in the heat all day."
-    ""
+    "Медведь разгружается, и лавина прохладного семени вливается в твое тело, заставляя тебя вздохнуть, как будто ты принимаешь холодную ванну после целого дня, проведенного на жаре."
 
 # game/scripts/events.rpy:3441
 translate russian tailservice_bear_hyper_54b8833f:
 
     # "All manner of tension fades from you as it spreads in your stomach, leaving you to watch the smallest sign of storage within your belly form before Oran doubled over and nearly fell on you."
-    ""
+    "Все напряжение исчезает по мере того, как оно распространяется в животе, и ты наблюдаешь за тем, как в животе образуется малейший признак накопления, прежде чем Оран перевернется на спину и едва не упадет на тебя."
 
 # game/scripts/events.rpy:3443
 translate russian tailservice_bear_hyper_8b1918e2:
 
     # Oran "Whew...! Been a while...since my last client...was a fire affinity..."
-    Oran ""
+    Oran "Фух...! Давненько... с тех пор, как моим последним клиентом... был огненный аффинити..."
 
 # game/scripts/events.rpy:3445
 translate russian tailservice_bear_hyper_51075667:
 
     # Oran "But hey...Looks like I got my turn~"
-    Oran ""
+    Oran "Но эй... Похоже, моя очередь подошла."
 
 # game/scripts/events.rpy:3450
 translate russian tailservice_bear_hyper_d2ee46ec:
 
     # "You only have half a second before Oran recovers on the spot, his hips right back to working in overdrive as his cock goes straight into the motions of fucking you once more."
-    ""
+    "У тебя есть всего полсекунды, прежде чем Оран восстановится на месте, и его бедра снова заработают в ускоренном режиме, а член снова начнет трахать тебя."
 
 # game/scripts/events.rpy:3453
 translate russian tailservice_bear_hyper_e5176f79:
 
     # Fen "AUUUUUGH!" with vpunch
-    Fen "" with vpunch
+    Fen "УУУУХ!" with vpunch
 
 # game/scripts/events.rpy:3455
 translate russian tailservice_bear_hyper_b4f06149:
 
     # "You were not ready for it, so you did not get to feel the cataclysmic way you came."
-    ""
+    "Ты не был готов к этому, поэтому не успел почувствовать, как наступил конец."
 
 # game/scripts/events.rpy:3459
 translate russian tailservice_bear_hyper_31680836:
 
     # "You shot your cum through your cock in a straight beeline for the ceiling, splattering it with your creamy white spunk."
-    ""
+    "Ты выстрелил спермой через свой член прямо в потолок, забрызгав его своей кремово-белой спермой."
 
 # game/scripts/events.rpy:3461
 translate russian tailservice_bear_hyper_25d665c5:
 
     # "It was like white-hot fire was streaming out of you with how Oran managed to fuck you through your orgasm, unyielding despite how much you clenched over him."
-    ""
+    "Из тебя словно вырывался раскаленный огонь, когда Оран трахал тебя до самого оргазма, не поддаваясь, несмотря на то, как сильно ты сжимал его."
 
 # game/scripts/events.rpy:3463
 translate russian tailservice_bear_hyper_abd63258:
 
     # "{i}SPLRTCH SPLRSH SPLRTCH{/i}" with vpunch
-    "" with vpunch
+    "{i}СПЛРТЧ СПЛШ СПЛРТЧ{/i}" with vpunch
 
 # game/scripts/events.rpy:3465
 translate russian tailservice_bear_hyper_0127c71d:
 
     # "Every other volley was sending more of your cum to the ceiling, leaving it to grow messy and rain down your own fluids onto the bed and your body."
-    ""
+    "Каждый следующий залп отправлял все больше твоей спермы к потолку, оставляя ее разрастаться и литься дождем на кровать и твое тело."
 
 # game/scripts/events.rpy:3467
 translate russian tailservice_bear_hyper_5b69e56c:
 
     # "Seeing a glob hit Oran on the head did not stop him from getting more out of you."
-    ""
+    "То, что Оран получил удар по голове, не помешало ему добиться от тебя большего."
 
 # game/scripts/events.rpy:3469
 translate russian tailservice_bear_hyper_8577237c:
 
     # Fen "Ahhh! O-o-oran! WAIT!" with vpunch
-    Fen "" with vpunch
+    Fen "Аххх! О-о-оран! СТОЙ!" with vpunch
 
 # game/scripts/events.rpy:3471
 translate russian tailservice_bear_hyper_2341e7bd:
 
     # "But he keeps going, and you feel the apex of your orgasm hit and silence EVERYTHING."
-    ""
+    "Но он продолжает, и ты чувствуешь, как апогей оргазма настигает тебя и заглушает ВСЕ."
 
 # game/scripts/events.rpy:3476
 translate russian tailservice_bear_hyper_e4794623:
 
     # "You cannot hear, see past the white, nor smell anything. All you can do is feel him fucking the cum out of you."
-    ""
+    "Ты не можешь ни слышать, ни видеть, ни чувствовать запахи. Все, что ты можешь, это чувствовать, как он трахает тебя до потери сознания."
 
 # game/scripts/events.rpy:3478
 translate russian tailservice_bear_hyper_5fb07de2:
 
     # "Pure nirvana at its finest."
-    ""
+    "Чистая нирвана в самом лучшем виде."
 
 # game/scripts/events.rpy:3484
 translate russian tailservice_bear_hyper_196ec0b7:
 
     # "By the time you come to, you are still cumming, most likely a result of having such massive junk, and you sink into a slump as Oran finally slows down, allowing you to actually ride out your orgasm."
-    ""
+    "К тому времени, когда ты приходишь в себя, ты все еще кончаешь - скорее всего, это результат того, что у тебя такой массивный член, и ты опускаешься в кресло, когда Оран наконец замедляется, позволяя тебе дождаться оргазма."
 
 # game/scripts/events.rpy:3486
 translate russian tailservice_bear_hyper_2caad92a:
 
     # "{i}SPLAT{/i}"
-    ""
+    "{i}ШПЛАТ{/i}"
 
 # game/scripts/events.rpy:3488
 translate russian tailservice_bear_hyper_c3e7e8f4:
 
     # "As you close your eyes, you are met with a cum glob to your face, much to Oran's amusement and your immediate recovery as your fatigue faded on the spot."
-    ""
+    "Как только ты закрываешь глаза, тебе на лицо выливается сгусток спермы, к большому удовольствию Орана и твоему немедленному улучшению, так как усталость исчезла на месте."
 
 # game/scripts/events.rpy:3490
 translate russian tailservice_bear_hyper_3a11b469:
 
     # Fen "Oh man...this is a lot..."
-    Fen ""
+    Fen "О боже... это много..."
 
 # game/scripts/events.rpy:3492
 translate russian tailservice_bear_hyper_84fbced8:
 
     # Fen "Should we be making such a big mess?"
-    Fen ""
+    Fen "Стоит ли устраивать такой большой беспорядок?"
 
 # game/scripts/events.rpy:3494
 translate russian tailservice_bear_hyper_6abeb16e:
 
     # Oran "Who said we? You're the one with the big cock~"
-    Oran ""
+    Oran "Кто сказал мы? Это у тебя большой член~"
 
 # game/scripts/events.rpy:3496
 translate russian tailservice_bear_hyper_70dfdbf8:
 
     # "Oran playfully winks at your pouting face, before coming down to lick your nose while sandwiching your cock between both of your bodies."
-    ""
+    "Оран игриво подмигивает тебе, глядя на твое надутое лицо, а затем спускается вниз, чтобы лизнуть тебя в нос, при этом зажав член между вашими телами."
 
 # game/scripts/events.rpy:3498
 translate russian tailservice_bear_hyper_cd2628d7:
 
     # Fen "H-hey, that tickles!"
-    Fen ""
+    Fen "Эй, щекотно!"
 
 # game/scripts/events.rpy:3500
 translate russian tailservice_bear_hyper_d6759d0b:
 
     # Oran "Nothin' wrong with that."
-    Oran ""
+    Oran "Ничего плохого в этом нет."
 
 # game/scripts/events.rpy:3502
 translate russian tailservice_bear_hyper_e22d272b:
 
     # "It takes a bit considering your jerkish reactions, but you slowly come to find out that Oran was cleaning you off, ridding you of that sticky feeling from being all over your facial fur."
-    ""
+    "Потребовалось немного времени, чтобы понять, что Оран вытирал тебя, избавляя от ощущения липкости шерсти на лице."
 
 # game/scripts/events.rpy:3504
 translate russian tailservice_bear_hyper_476cf867:
 
     # "But you feel plenty in other areas, and no doubt Oran was messy too..."
-    ""
+    "Но в других областях ты чувствуешь себя прекрасно, и, несомненно, в Оране тоже было грязно..."
 
 # game/scripts/events.rpy:3506
 translate russian tailservice_bear_hyper_c584d2ab:
 
     # "Oran jolts with surprise when you reach in and bend his head towards your chest, dragging your tongue along the back of his neck since that's where your cum landed."
-    ""
+    "Оран вздрагивает от неожиданности, когда ты протягиваешь руку и наклоняешь его голову к своей груди, проводя языком по его шее, поскольку именно туда попала твоя сперма."
 
 # game/scripts/events.rpy:3508
 translate russian tailservice_bear_hyper_203f9733:
 
     # Oran "Well look at you. Here I was thinking you had no juice left in ya."
-    Oran ""
+    Oran "Посмотри на себя. А я-то думал, что в тебе не осталось ни капли сока."
 
 # game/scripts/events.rpy:3510
 translate russian tailservice_bear_hyper_aeeceda4:
 
     # Fen "It's...only right. You cleaned me off."
-    Fen ""
+    Fen "Это... правильно. Ты меня обчистил."
 
 # game/scripts/events.rpy:3512
 translate russian tailservice_bear_hyper_d1d2c6fe:
 
     # Oran "Guess ya got me there, boy. Take your time."
-    Oran ""
+    Oran "Похоже, ты меня раскусил, парень. Не торопись."
 
 # game/scripts/events.rpy:3516
 translate russian tailservice_bear_hyper_150ec5a5:
 
     # "after a few minutes of thorough swabbing, Oran is starting to look relatively clean."
-    ""
+    "После нескольких минут тщательного обтирания Оран начинает выглядеть относительно чистым."
 
 # game/scripts/events.rpy:3518
 translate russian tailservice_bear_hyper_b137cf2d:
 
     # "You spit out some stray fur clumps from your tongue."
-    ""
+    "Ты выплюнул несколько клочков меха с языка."
 
 # game/scripts/events.rpy:3520
 translate russian tailservice_bear_hyper_50fda1a1:
 
     # Oran "Alright, that'll do, boy. Now it's time I get my other turn..."
-    Oran ""
+    Oran "Ладно, хватит, парень. Теперь настало время для другой очереди..."
 
 # game/scripts/events.rpy:3522
 translate russian tailservice_bear_hyper_bdb647b1:
 
     # Oran "And remember, you cum when I say~"
-    Oran ""
+    Oran "И помни, ты кончаешь, когда я говорю~"
 
 # game/scripts/events.rpy:3524
 translate russian tailservice_bear_hyper_652ba3b2:
 
     # Fen "Mnnh. Okay..."
-    Fen ""
+    Fen "Ммх. Окей..."
 
 # game/scripts/events.rpy:3526
 translate russian tailservice_bear_hyper_7959d5c7:
 
     # "You may sound tentative, but you're still going to enjoy this all the same."
-    ""
+    "Ты можешь звучать неуверенно, но тебе все равно понравится."
 
 # game/scripts/events.rpy:3528
 translate russian tailservice_bear_hyper_b48ef1da:
 
     # "Oran finally pulled out, having felt so good being in there that it felt like you were being yanked away from bliss when his cock popped out of you."
-    ""
+    "Оран, наконец, вытащил его, и ему стало так хорошо внутри, что казалось, будто тебя выдергивают из блаженства, когда его член выскочил из тебя."
 
 # game/scripts/events.rpy:3530
 translate russian tailservice_bear_hyper_0a878e46:
 
     # "{i}SPLURT{/i}"
-    ""
+    "{i}СПЛУПТ{/i}"
 
 # game/scripts/events.rpy:3532
 translate russian tailservice_bear_hyper_d30dd0e2:
 
     # "A few globs exit from your yawning hole, coating your tail base and taint in fresh bear cum."
-    ""
+    "Несколько струек вытекают из твоего отверстия, покрывая основание хвоста и попку свежей медвежьей спермой."
 
 # game/scripts/events.rpy:3534
 translate russian tailservice_bear_hyper_a2ae73ca:
 
     # Oran "Been a bit since I used it myself."
-    Oran ""
+    Oran "Я сам давно не пользовался им."
 
 # game/scripts/events.rpy:3540
 translate russian tailservice_bear_hyper_6cec8e8f:
 
     # "The bear went ahead and grabbed the crystal artifact, its crimson glow filling your view with wonder as he brought it up from under the bed."
-    ""
+    "Медведь взял хрустальный артефакт, и его багровое сияние наполнило твой взгляд удивлением, когда он поднял его из-под кровати."
 
 # game/scripts/events.rpy:3542
 translate russian tailservice_bear_hyper_171629dd:
 
     # "This time, however, he put it on his cock."
-    ""
+    "Однако на этот раз он надел его на свой член."
 
 # game/scripts/events.rpy:3547
 translate russian tailservice_bear_hyper_63d6b238:
 
     # "From an onlooker's perspective, it was almost terrifying watching Oran's dick rise back up to full hardness just to grow longer on the spot."
-    ""
+    "Со стороны было почти страшно наблюдать за тем, как член Орана снова становится твердым, чтобы затем удлиниться на месте."
 
 # game/scripts/events.rpy:3549
 translate russian tailservice_bear_hyper_ee77cf23:
 
     # "As someone who has just gotten into this, you were having second thoughts."
-    ""
+    "Как человек, который только начал заниматься этим, ты сомневался."
 
 # game/scripts/events.rpy:3551
 translate russian tailservice_bear_hyper_da8ed617:
 
     # "But, the allure of seeing someone grow so big with the intent to fuck you was enamoring."
-    ""
+    "Но мания видеть, как кто-то вырастает настолько большим, чтобы трахнуть тебя, была восхитительной."
 
 # game/scripts/events.rpy:3554
 translate russian tailservice_bear_hyper_0581993c:
 
     # "Surely you would want to know what it feels like, even once - least you never get your chance with Terrance."
-    ""
+    "Конечно, ты захочешь узнать, каково это, хотя бы раз - ведь с Терренслм у тебя никогда не будет такого шанса."
 
 # game/scripts/events.rpy:3556
 translate russian tailservice_bear_hyper_4f76f003:
 
     # "So you relax, allowing yourself to take in the sight of Oran's massive cock casting a shadow over your face."
-    ""
+    "Поэтому ты расслабляешься, позволяя себе насладиться видом массивного члена Орана, отбрасывающего тень на твое лицо."
 
 # game/scripts/events.rpy:3558
 translate russian tailservice_bear_hyper_3495bae0:
 
     # Oran "I figured ya'd jus' stare, so I took a guess at what you could handle."
-    Oran ""
+    Oran "Я подумал, что ты будешь просто пялиться, и решил прикинуть, с чем ты сможешь справиться."
 
 # game/scripts/events.rpy:3560
 translate russian tailservice_bear_hyper_9ad0c93d:
 
     # "Oran presses his overgrown cock against yours, and you realize that they're somewhat on par."
-    ""
+    "Оран прижимает свой заросший член к твоему, и ты понимаешь, что они в некотором роде равны."
 
 # game/scripts/events.rpy:3562
 translate russian tailservice_bear_hyper_edd7e667:
 
     # "Either he was good at guessing, or he got lucky that he did, though you were both a way away from being as big as Terrance."
-    ""
+    "Либо он хорошо угадал, либо ему повезло, что он угадал, хотя вы оба были далеко не такими большими, как Терренс."
 
 # game/scripts/events.rpy:3564
 translate russian tailservice_bear_hyper_4b839f9d:
 
     # "Either way, it was time to take it."
-    ""
+    "В любом случае, пора было браться за дело."
 
 # game/scripts/events.rpy:3566
 translate russian tailservice_bear_hyper_42e98240:
 
     # Oran "Don't worry 'bout hurtin', you saw how I took it."
-    Oran ""
+    Oran "Не бойся, что будет больно, ты же видел, как я это перенес."
 
 # game/scripts/events.rpy:3568
 translate russian tailservice_bear_hyper_ee6698b2:
 
     # Fen "B-but you're uh...used to it...right?"
-    Fen ""
+    Fen "Но ты же... привык к этому... верно?"
 
 # game/scripts/events.rpy:3570
 translate russian tailservice_bear_hyper_c2b95ece:
 
     # Oran "Pffft, naw, that was the first cock I've taken that was that big. That relic don't work that well on just anyone."
-    Oran ""
+    Oran "Нет, это был первый член, который я взял в рот такого размера. Этот реликт не работает так хорошо на ком-то одном."
 
 # game/scripts/events.rpy:3572
 translate russian tailservice_bear_hyper_51ddbddb:
 
     # Oran "Guess you popped my cherry, boy~"
-    Oran ""
+    Oran "Полагаю, ты сорвал мне вишенку, парень~"
 
 # game/scripts/events.rpy:3574
 translate russian tailservice_bear_hyper_88b0ecf3:
 
     # "A hint of pride fills you where the anxiety was trying to settle, dispelling it as he decided on the position he wanted you in."
-    ""
+    "Намек на гордость наполняет тебя там, где пыталась поселиться тревога, и рассеивается, когда он принимает решение о том, в какой позе ты должен находиться."
 
 # game/scripts/events.rpy:3576
 translate russian tailservice_bear_hyper_32759ae7:
 
     # "All fours. Just like how this started, it would be how this ended, it seemed."
-    ""
+    "На четвереньках. Как все началось, так, похоже, и закончится."
 
 # game/scripts/events.rpy:3578
 translate russian tailservice_bear_hyper_c3e17540:
 
     # Oran "Dogs like gettin' mounted, right boy~?"
-    Oran ""
+    Oran "Собаки любят, когда на них наезжают, правда, парень~?"
 
 # game/scripts/events.rpy:3580
 translate russian tailservice_bear_hyper_a9aa4ca6:
 
     # Fen "Y-yeah..."
-    Fen ""
+    Fen "А-ага..."
 
 # game/scripts/events.rpy:3582
 translate russian tailservice_bear_hyper_0d6f4307:
 
     # Oran "Can't hear ya...Speak up."
-    Oran ""
+    Oran "Я тебя не слышу... Говори громче."
 
 # game/scripts/events.rpy:3584
 translate russian tailservice_bear_hyper_0842ba32:
 
     # "You shudder as you feel the cock head touch your hole..."
-    ""
+    "Ты вздрагиваешь, когда чувствуешь, как головка члена касается твоего отверстия..."
 
 # game/scripts/events.rpy:3586
 translate russian tailservice_bear_hyper_ec0dd051:
 
     # "...so gargantuan when it was pressed against you compared to feeling it thrust against your own mega-sized shaft, yet you do not feel your ass close up."
-    ""
+    "...такой огромный, когда он был прижат к тебе, по сравнению с тем, как он упирается в твой собственный гигантский ствол, и при этом ты не чувствуешь, как твоя задница закрывается."
 
 # game/scripts/events.rpy:3588
 translate russian tailservice_bear_hyper_40efb834:
 
     # Fen "I'm ready...t-to get mounted."
-    Fen ""
+    Fen "Я готов... к принятии."
 
 # game/scripts/events.rpy:3590
 translate russian tailservice_bear_hyper_e927bd85:
 
     # Oran "Heheh, good boy."
-    Oran ""
+    Oran "Хехех, хороший мальчик."
 
 # game/scripts/events.rpy:3592
 translate russian tailservice_bear_hyper_69579645:
 
     # "The bear's hands plant down on your back, keeping your torso pinned to the mattress while your ass stays up."
-    ""
+    "Руки медведя опускаются тебе на спину, удерживая твой торс прижатым к матрасу, а задницу - приподнятой."
 
 # game/scripts/events.rpy:3594
 translate russian tailservice_bear_hyper_f7bab0d2:
 
     # "Oran's cock starts gaining headway, seemingly impossible, before it pops in."
-    ""
+    "Член Орана начинает продвигаться вперед, кажется, что это невозможно, прежде чем он войдет."
 
 # game/scripts/events.rpy:3597
 translate russian tailservice_bear_hyper_b553a0fc:
 
     # "{i}SHPLP{/i}"
-    ""
+    "{i}ШПЛП{/i}"
 
 # game/scripts/events.rpy:3599
 translate russian tailservice_bear_hyper_ccb2ba09:
 
     # Fen "GAH!"
-    Fen ""
+    Fen "ГАХ!"
 
 # game/scripts/events.rpy:3601
 translate russian tailservice_bear_hyper_ca60b82c:
 
     # "He was right. There was no pain whatsoever, just the alien sensation of being stretched open so obscenely."
-    ""
+    "Он был прав. Боли не было, только чуждое ощущение, что тебя так непристойно растягивают."
 
 # game/scripts/events.rpy:3603
 translate russian tailservice_bear_hyper_e9d6b4e1:
 
     # "It was...well, there was no word for it just yet, as it was only the tip."
-    ""
+    "Это было... ну... пока не было слов, ведь это была только верхушка."
 
 # game/scripts/events.rpy:3605
 translate russian tailservice_bear_hyper_5bd07cf9:
 
     # Oran "Easy does it now. First time's gonna rock your world..."
-    Oran ""
+    Oran "Теперь это легко. Первый раз потрясет твой мир..."
 
 # game/scripts/events.rpy:3607
 translate russian tailservice_bear_hyper_b6d1342a:
 
     # "Oran pushes on, and you can hardly keep air inside of your lungs the entire time."
-    ""
+    "Оран наседает, а ты все это время с трудом удерживаешь воздух в легких."
 
 # game/scripts/events.rpy:3609
 translate russian tailservice_bear_hyper_528dbfbc:
 
     # "It was so big, reaching in so deep...you can feel it bulging through your stomach, much more than he already has."
-    ""
+    "Он был таким большим, проникал так глубоко... ты чувствовал, как он выпирает через твой живот, гораздо больше, чем уже есть."
 
 # game/scripts/events.rpy:3611
 translate russian tailservice_bear_hyper_ce03ebc8:
 
     # "You swore it would never end by the time it did."
-    ""
+    "Ты поклялся, что это никогда не закончится."
 
 # game/scripts/events.rpy:3613
 translate russian tailservice_bear_hyper_3e109acc:
 
     # Oran "All in, boy...Took it like a champ."
-    Oran ""
+    Oran "Все в порядке, парень... Взял это как чемпион."
 
 # game/scripts/events.rpy:3615
 translate russian tailservice_bear_hyper_f6b4852f:
 
     # Fen "Unnnfh..."
-    Fen ""
+    Fen "Уннф..."
 
 # game/scripts/events.rpy:3617
 translate russian tailservice_bear_hyper_bfc748b0:
 
     # "You can feel it pulsing between your chest and belly, just a few inches shy from being right next to your own beating heart."
-    ""
+    "Ты чувствуешь, как он пульсирует между грудью и животом, всего в нескольких дюймах от того, чтобы оказаться рядом с твоим собственным бьющимся сердцем."
 
 # game/scripts/events.rpy:3619
 translate russian tailservice_bear_hyper_e23d9f3d:
 
     # "Only reason you can tell it was that deep was from its much slower throbbing."
-    ""
+    "О том, что он был настолько глубоким, можно судить только по его гораздо более медленному пульсированию."
 
 # game/scripts/events.rpy:3621
 translate russian tailservice_bear_hyper_2be3e1cb:
 
     # "You breathe out, trying not to get inundated by such an intense feeling."
-    ""
+    "Выдохнув, стараясь не поддаться столь сильному чувству."
 
 # game/scripts/events.rpy:3623
 translate russian tailservice_bear_hyper_dbaa266f:
 
     # "You shudder, when Oran moves and the girth jolts your entire body from head to toe like you had been zapped by something."
-    ""
+    "Ты вздрагиваешь, когда Оран двигается, и обхват сотрясает все твое тело с головы до ног, словно тебя ударило чем-то."
 
 # game/scripts/events.rpy:3625
 translate russian tailservice_bear_hyper_4c1ce351_1:
 
     # Fen "MMMPH!"
-    Fen ""
+    Fen "МММФ!"
 
 # game/scripts/events.rpy:3627
 translate russian tailservice_bear_hyper_111a251f:
 
     # Oran "Here we go..."
-    Oran ""
+    Oran "Ну вот..."
 
 # game/scripts/events.rpy:3629
 translate russian tailservice_bear_hyper_c5857ba3:
 
     # "Slow and steady was the best way to go about this."
-    ""
+    "Медленно и неуклонно - лучший способ сделать это."
 
 # game/scripts/events.rpy:3631
 translate russian tailservice_bear_hyper_eb1f1344:
 
     # "You may not be screaming for mercy from the nonexistent agony, but you certainly needed some time - time Oran was willing to give."
-    ""
+    "Может, ты и не кричал о пощаде от несуществующих мучений, но тебе определенно требовалось время - время, которое Оран был готов предоставить."
 
 # game/scripts/events.rpy:3633
 translate russian tailservice_bear_hyper_83be654a:
 
     # "You could count each and every single inch that brushed over your prostate..."
-    ""
+    "Ты мог бы сосчитать каждый сантиметр, проходящий по твоей простате..."
 
 # game/scripts/events.rpy:3635
 translate russian tailservice_bear_hyper_9448bf6c:
 
     # "...losing thoughts by the twentieth, and nearly rolling your eyes back all the way into your head once he was past halfway out of you."
-    ""
+    "...теряя мысли с каждой двадцатой, и почти закатывая глаза обратно в голову, когда он уже наполовину вышел из тебя."
 
 # game/scripts/events.rpy:3638
 translate russian tailservice_bear_hyper_25ed9fac:
 
     # "Then it was all back in, with a simple thrust."
-    ""
+    "Затем все вернулось на место простым движением."
 
 # game/scripts/events.rpy:3640
 translate russian tailservice_bear_hyper_97250136:
 
     # "{i}PAP{/i}"
-    ""
+    "{i}ШЛАП{/i}"
 
 # game/scripts/events.rpy:3642
 translate russian tailservice_bear_hyper_c45c26f3:
 
     # Fen "AUUUH!"
-    Fen ""
+    Fen "УУХ!"
 
 # game/scripts/events.rpy:3644
 translate russian tailservice_bear_hyper_45ec4fa8:
 
     # "Feeling it all rush back in had you breathless, struggling to breathe without sounding like you were trying not to - raspy and hoarse."
-    ""
+    "Чувствуя, как все это возвращается обратно, ты начинал задыхаться, пытаясь дышать так, чтобы не звучать, как будто ты стараешься этого не делать, хрипло и хрипло."
 
 # game/scripts/events.rpy:3646
 translate russian tailservice_bear_hyper_3c9cf078:
 
     # "Oran digs back into your body, stretching your entire being from the inside."
-    ""
+    "Оран погружается в тело, растягивая все твое существо изнутри."
 
 # game/scripts/events.rpy:3648
 translate russian tailservice_bear_hyper_5461848d:
 
     # "Your fingers and toes ball up every single time, the pleasure immeasurable and the waves of lust slamming your rationale into a heap."
-    ""
+    "Твои пальцы на руках и ногах каждый раз сворачиваются в клубок, удовольствие безмерно, а волны похоти сбивают тебя в кучу."
 
 # game/scripts/events.rpy:3650
 translate russian tailservice_bear_hyper_683d824f:
 
     # "Your prostate was crushed, but it was the good kind."
-    ""
+    "Твоя простата была раздавлена, но это был хороший вид."
 
 # game/scripts/events.rpy:3652
 translate russian tailservice_bear_hyper_24179cbc:
 
     # "Whenever Oran's cock would throb, it would send all the right singles into that spot and practically give you a full-body orgasm, Blissful."
-    ""
+    "Всякий раз, когда член Орана пульсировал, он посылал все нужные импульсы в это место и практически доводил тебя до оргазма всего тела, Блаженна."
 
 # game/scripts/events.rpy:3654
 translate russian tailservice_bear_hyper_e9b06ae7:
 
     # Oran "You're doing good, b-boy...Almost thought you passed out..."
-    Oran ""
+    Oran "Ты молодец, парень... Чуть не подумал, что потерял сознание..."
 
 # game/scripts/events.rpy:3656
 translate russian tailservice_bear_hyper_ef3fadaf:
 
     # Fen "Hnnfh...n-n-no..."
-    Fen ""
+    Fen "Ннф... н-н-нет..."
 
 # game/scripts/events.rpy:3658
 translate russian tailservice_bear_hyper_286a99b0:
 
     # Oran "Heheh."
-    Oran ""
+    Oran "Хехех."
 
 # game/scripts/events.rpy:3660
 translate russian tailservice_bear_hyper_50e365fb:
 
     # Oran "Guess I'll speed up then~"
-    Oran ""
+    Oran "Тогда я ускорюсь~"
 
 # game/scripts/events.rpy:3664
 translate russian tailservice_bear_hyper_0741957b:
 
     # "Your back arches when Oran lives up to such a promise, hips barreling into your ass and making you moan to the gunked-up ceiling above."
-    ""
+    "Твоя спина выгибается, когда Оран выполняет это обещание, впиваясь бедрами в твою задницу и заставляя тебя стонать под провалившимся потолком."
 
 # game/scripts/events.rpy:3666
 translate russian tailservice_bear_hyper_94db7a67:
 
     # "His balls were smacking you now, reminding you of how full and heavy they were with seed he intended to pump into you, and you bite your lip in anticipation for that."
-    ""
+    "Его яйца уже шлепали тебя, напоминая о том, как они полны и тяжелы от семени, которое он намеревался влить в тебя, и ты прикусил губу в предвкушении этого."
 
 # game/scripts/events.rpy:3668
 translate russian tailservice_bear_hyper_8b8fa395:
 
     # "{i}PAP PAP PAP PAP PAP PAP PAP{/i}"
-    ""
+    "{i}ШЛАП ШЛАП ШЛАП ШЛАП ШЛАП ШЛАП ШЛАП{/i}"
 
 # game/scripts/events.rpy:3670
 translate russian tailservice_bear_hyper_ed23fda6:
 
     # "You can hardly process anything else around you."
-    ""
+    "Ты почти не можешь воспринимать окружающее."
 
 # game/scripts/events.rpy:3672
 translate russian tailservice_bear_hyper_85aa67ac:
 
     # "All you can feel is the indomitable presence of Oran's cock running through you back and forth, and the noise made when it slid back in."
-    ""
+    "Все, что ты чувствуешь, это неукротимое присутствие члена Орана, проходящего по тебе взад-вперед, и шум, издаваемый им, когда он проскальзывает обратно."
 
 # game/scripts/events.rpy:3674
 translate russian tailservice_bear_hyper_de92a45f:
 
     # "You feel a growing fire in your core, as if your affinity was being drawn out by such pleasure."
-    ""
+    "Ты чувствуешь, как в твоей душе разгорается огонь, как будто твоя близость вытягивается из такого удовольствия."
 
 # game/scripts/events.rpy:3676
 translate russian tailservice_bear_hyper_2b9dd62a:
 
     # "But it turned out to be a howl that came to be from Oran slipping in a little too fast and knocking the precum out of you again."
-    ""
+    "Но это оказался вой, возникший из-за того, что Оран слишком быстро вошел в тебя и снова выбил из тебя сперму."
 
 # game/scripts/events.rpy:3678
 translate russian tailservice_bear_hyper_647c4509:
 
     # Oran "Hoooffh...still a hugger in there, boy...Keep that up~"
-    Oran ""
+    Oran "Хуфф... все еще обнимается, парень... Продолжай в том же духе~"
 
 # game/scripts/events.rpy:3680
 translate russian tailservice_bear_hyper_c1fb31cc:
 
     # "There was no way you couldn't."
-    ""
+    "Не может быть, чтобы ты не мог."
 
 # game/scripts/events.rpy:3682
 translate russian tailservice_bear_hyper_4ee081d7:
 
     # "You were clenching down on Oran no matter what, too deep to even try to relax while he plowed you like fertile soil."
-    ""
+    "Ты прижималась к Орану, несмотря ни на что, слишком глубоко, чтобы даже попытаться расслабиться, пока он вспахивал тебя, как плодородную почву."
 
 # game/scripts/events.rpy:3684
 translate russian tailservice_bear_hyper_84358c4d:
 
     # "At this rate, if you don't cum within the next five seconds, it'd be a miracle."
-    ""
+    "При таком темпе, если ты не кончишь в течение следующих пяти секунд, это будет чудо."
 
 # game/scripts/events.rpy:3686
 translate russian tailservice_bear_hyper_5097cd7e:
 
     # Oran "Tell me...how it feels...I wanna hear...just how badly you want me to finish...H-heheh..."
-    Oran ""
+    Oran "Расскажи мне... что ты чувствуешь... Я хочу услышать... как сильно ты хочешь, чтобы я кончил... Х-хехех..."
 
 # game/scripts/events.rpy:3688
 translate russian tailservice_bear_hyper_75a6572a:
 
     # "A heated exchange, but not out of your scope."
-    ""
+    "Горячий обмен мнениями, но не выходящий за рамки."
 
 # game/scripts/events.rpy:3690
 translate russian tailservice_bear_hyper_bc4458f2:
 
     # Fen "Ghhhah! Am-m-mazing...! UMPH! D-don't stop...!"
-    Fen ""
+    Fen "Гххххх! Потрясающе...! УМПХ! Не останавливайся...!"
 
 # game/scripts/events.rpy:3692
 translate russian tailservice_bear_hyper_d3ccd901:
 
     # Oran "Good boy~"
-    Oran ""
+    Oran "Хороший мальчик~"
 
 # game/scripts/events.rpy:3694
 translate russian tailservice_bear_hyper_48546926:
 
     # "Even though you felt ready to give out at a moment's notice should Oran find a way to make things feel better, you still find yourself on the receiving end of some real fucking as Oran ramps up the force."
-    ""
+    "Несмотря на то, что ты чувствовал себя готовым в любой момент отступить, если Оран найдет способ улучшить ситуацию, ты все равно оказался в роли получателя настоящего траха, пока Оран наращивал силы."
 
 # game/scripts/events.rpy:3696
 translate russian tailservice_bear_hyper_fd8c227f:
 
     # "Your ears ring with the sound of hips slamming forth into your ass, and you can even feel your buttcheeks jiggle - not like water, but giving away that there was some pudge in you at least."
-    ""
+    "В ушах звенит от звука ударов бедер по заднице, и ты даже чувствуешь, как покачиваются твои ягодицы не как вода, но, по крайней мере, это говорит о том, что в тебе есть какой-то пушок."
 
 # game/scripts/events.rpy:3698
 translate russian tailservice_bear_hyper_1cb24e6a:
 
     # "And at some point, it was not enough for the bear, and Oran's pace hastened after a particular throb had him groaning."
-    ""
+    "В какой-то момент медведю этого стало недостаточно, и Оран ускорил темп после того, как у него застонала одна из пульсаций."
 
 # game/scripts/events.rpy:3700
 translate russian tailservice_bear_hyper_8ae9698a:
 
     # "{i}PAP-PAP-PAP-PAP-PAP-PAP-PAP-PAP-PAP{/i}"
-    ""
+    "{i}ШЛАП-ШЛАП-ШЛАП-ШЛАП-ШЛАП-ШЛАП-ШЛАП-ШЛАП-ШЛАП{/i}"
 
 # game/scripts/events.rpy:3702
 translate russian tailservice_bear_hyper_b6c07bb8:
 
     # "{i}PAP-PAP-PAP-PAP-PAP-PAPPAPPAPPAP{/i}"
-    ""
+    "{i}ШЛАП-PAШЛАП-ШЛАП-ШЛАП-ШЛАП-ШЛАПШЛАПШЛАПШЛАП{/i}"
 
 # game/scripts/events.rpy:3704
 translate russian tailservice_bear_hyper_d81a99c7:
 
     # Fen "AUUUGH!...PL-PLEASE! ORAN! I C-C-CAN'T...!"
-    Fen ""
+    Fen "АУУУУ!...ПО-ПОЖАЛУЙСТА! ОРАН! Я Н-НЕ М-МОГУ...!"
 
 # game/scripts/events.rpy:3706
 translate russian tailservice_bear_hyper_a04e47da:
 
     # Oran "Y-yesh...you can....rrrnnngh...Hold it, boy...I wanna savor this - HNNNFH!"
-    Oran ""
+    Oran "А-ага... ты можешь....рррнннгх... Подожди, мальчик... Я хочу насладиться этим - НННФ!"
 
 # game/scripts/events.rpy:3708
 translate russian tailservice_bear_hyper_1b55e6d3:
 
     # "Despite their composure, you can tell Oran was not holding up so well either."
-    ""
+    "Несмотря на их самообладание, можно сказать, что Оран тоже не очень хорошо держался."
 
 # game/scripts/events.rpy:3710
 translate russian tailservice_bear_hyper_0422932c:
 
     # "He was going to cum soon, and you would have to wait to get your own - truly inhumane stuff."
-    ""
+    "Он скоро кончит, и тебе придется подождать, чтобы получить свой собственный - поистине бесчеловечная вещь."
 
 # game/scripts/events.rpy:3712
 translate russian tailservice_bear_hyper_ed908441:
 
     # "Yet, you cannot help but be in this dreamlike state, the pleasure reaching a scale that almost has you white out from the moment."
-    ""
+    "И все же ты не можешь не пребывать в этом состоянии, похожем на сон, а удовольствие достигает таких масштабов, что ты почти теряешь сознание от происходящего."
 
 # game/scripts/events.rpy:3714
 translate russian tailservice_bear_hyper_e5d2f696:
 
     # "To be able to fathom this would take ages, and you were still getting more."
-    ""
+    "Чтобы понять это, потребовалась бы целая вечность, а ты все еще получал больше."
 
 # game/scripts/events.rpy:3716
 translate russian tailservice_bear_hyper_5475e234:
 
     # Oran "Unnnfh...it's coming...f-fuck...ffff-fu-huck..."
-    Oran ""
+    Oran "Уннфх... близко... б-блять... бля-ха-ть..."
 
 # game/scripts/events.rpy:3719
 translate russian tailservice_bear_hyper_6d505f6f:
 
     # Oran "GNNNNHRRRGH!" with vpunch
-    Oran "" with vpunch
+    Oran "ГННННРРРХ!" with vpunch
 
 # game/scripts/events.rpy:3726
 translate russian tailservice_bear_hyper_e1976b5f:
 
     # "You gasp one last time and everything goes mute again, the sheer power in Oran's pulsating cock rendering you immobile as their lustful peak sent fireworks through your prostate in tandem."
-    ""
+    "Ты задыхаешься в последний раз, и все вокруг снова становится немым - мощь пульсирующего члена Орана делает тебя неподвижной, а их похотливый пик посылает фейерверки через твою простату в тандеме."
 
 # game/scripts/events.rpy:3729
 translate russian tailservice_bear_hyper_87b3b671:
 
     # "The first blast erased any trace of Oran's cock being inside your body, replacing somewhat hardened abs molded by hard work into nothing but a spherical weight of cum."
-    ""
+    "Первый взрыв стер все следы пребывания члена Орана в твоем теле, заменив несколько затвердевший пресс, выточенный тяжелым трудом, лишь шарообразной массой спермы."
 
 # game/scripts/events.rpy:3731
 translate russian tailservice_bear_hyper_ca6c5121:
 
     # "It pools within you, having so much room and plenty of reason to expand that you cannot help it any longer."
-    ""
+    "Оно течет внутри тебя, имея столько места и поводов для расширения, что ты уже ничего не можешь с этим поделать."
 
 # game/scripts/events.rpy:3733
 translate russian tailservice_bear_hyper_dec6516c:
 
     # "You cum before he even reaches the start of the real orgasm."
-    ""
+    "Ты кончаешь еще до того, как он достигает начала настоящего оргазма."
 
 # game/scripts/events.rpy:3735
 translate russian tailservice_bear_hyper_81ab4a8e:
 
     # "{i}SPLOOOSH GLOORSH SPLRSH SHSPLRT SPLRT{/i}" with vpunch
-    "" with vpunch
+    "{i}СПЛУОШ ГЛОРШ СПЛРШ ШСПЛРТ СПЛРТ{/i}" with vpunch
 
 # game/scripts/events.rpy:3737
 translate russian tailservice_bear_hyper_92fe550f:
 
     # "Your shared orgasm was something of a messy marvel."
-    ""
+    "Ваш совместный оргазм был чем-то вроде беспорядочного чуда."
 
 # game/scripts/events.rpy:3739
 translate russian tailservice_bear_hyper_397e5a68:
 
     # "You, with your mouth open for a silent scream of bliss, paint the wall behind the bed to the point of it scaling up to the ceiling."
-    ""
+    "Ты, приоткрыв рот для беззвучного крика блаженства, разрисовываешь стену за кроватью так, что она взлетает до самого потолка."
 
 # game/scripts/events.rpy:3741
 translate russian tailservice_bear_hyper_299875c9:
 
     # "Oran, on the other hand, paints the entirety of your insides white as his cum settled inside your body with gusto, forcing your cock to aim lower as it pressed down onto your heated flesh."
-    ""
+    "Оран, напротив, окрашивает все твои внутренности в белый цвет, когда его сперма стремительно оседает в твоем теле, заставляя твой член стремиться ниже, прижимаясь к твоей разгоряченной плоти."
 
 # game/scripts/events.rpy:3743
 translate russian tailservice_bear_hyper_7f5cf013:
 
     # "You can feel Oran's balls flexing against the back of your thighs, dragging their hefty size against your fur as if marking you with the sweat beads running off of them."
-    ""
+    "Ты чувствуешь, как яйца Орана упираются в заднюю поверхность твоих бедер, прижимаясь своими огромными размерами к твоему меху, словно отмечая тебя бисеринками пота, стекающими с них."
 
 # game/scripts/events.rpy:3745
 translate russian tailservice_bear_hyper_a708f2af:
 
     # "Yet your own were doing the same, freely bobbing between your legs to show just how hard you were dispensing all that hot spunk out into the room while Oran stuffed you with his own."
-    ""
+    "Твой собственные член делал то же самое, свободно покачиваясь между ног, чтобы показать, как сильно ты выплескиваешь всю эту горячую сперму в комнату, пока Оран набивает тебя своей."
 
 # game/scripts/events.rpy:3747
 translate russian tailservice_bear_hyper_efa5b37d:
 
     # "There were no words to spare when you both would enter the final rush of ecstasy almost simultaneously though."
-    ""
+    "Не было слов, когда вы оба почти одновременно вошли в последний прилив оргазма."
 
 # game/scripts/events.rpy:3749
 translate russian tailservice_bear_hyper_936b4ed4:
 
     # "Oran filled you up with so much of it that you had cum come out of your mouth."
-    ""
+    "Оран наполнил тебя таким количеством, что у тебя изо рта потекла сперма."
 
 # game/scripts/events.rpy:3751
 translate russian tailservice_bear_hyper_ab2e900a:
 
     # "But you certainly looked to be trying to remodel the room you were in with how much space you turned white from your own load, putting Oran's cock in an inescapable chokehold the whole time."
-    ""
+    "Но по тому, как сильно ты побелел от собственной нагрузки, казалось, что ты пытаешься переделать комнату, в которой находишься, и все это время держишь член Орана в неизбежной удушающей хватке."
 
 # game/scripts/events.rpy:3757
 translate russian tailservice_bear_hyper_6b94627c:
 
     # "It takes so much time for the white in your eyes to even fade, to where you actually thought you got your own cum on your face again, but you do come to after some time."
-    ""
+    "Проходит так много времени, пока белизна в глазах не исчезает, и ты думаешь, что снова получил свою сперму на лицо, но через некоторое время приходишь в себя."
 
 # game/scripts/events.rpy:3759
 translate russian tailservice_bear_hyper_b0969d06:
 
     # "You can feel Oran breathing down on the back of your head, a sign that you were still conscious, and one means to help you recover as your cock finally settled."
-    ""
+    "Ты почувствовал, как Оран дышит тебе на затылок - знак того, что ты все еще в сознании, и средство помочь тебе прийти в себя, когда твои яйца окончательно успокоятся."
 
 # game/scripts/events.rpy:3761
 translate russian tailservice_bear_hyper_ccb83716:
 
     # Fen "Hnnngh..."
-    Fen ""
+    Fen "Нннх..."
 
 # game/scripts/events.rpy:3763
 translate russian tailservice_bear_hyper_14ee4827:
 
     # "You feel bloated, like you just took a Terrance's worth of water in a sitting ten times in a row without thinking, and your stomach makes an audible noise when you shift around."
-    ""
+    "Ты чувствуешь вздутие живота, как будто только что, не задумываясь, выпил за один присест десять раз подряд по столовой ложке воды, а твой желудок издает звуки, когда ты двигаешься."
 
 # game/scripts/events.rpy:3765
 translate russian tailservice_bear_hyper_48af0daf:
 
     # "{i}SLOOSH{/i}"
-    ""
+    "{i}СЛУШ{/i}"
 
 # game/scripts/events.rpy:3768
 translate russian tailservice_bear_hyper_fb38ff19:
 
     # "There was no need to guess what all that could be when the culprit was still pulsing inside your stomach."
-    ""
+    "Не нужно было гадать, что это может быть, когда виновник все еще пульсировал в твоем желудке."
 
 # game/scripts/events.rpy:3770
 translate russian tailservice_bear_hyper_ec4ad56e:
 
     # Oran "Whew...now th-that...is how you empty your balls."
-    Oran ""
+    Oran "Ух... вот как надо опустошать яйца."
 
 # game/scripts/events.rpy:3772
 translate russian tailservice_bear_hyper_1fcbd16e:
 
     # Fen "N-n-no kidding..."
-    Fen ""
+    Fen "Б-без шуток..."
 
 # game/scripts/events.rpy:3774
 translate russian tailservice_bear_hyper_1e76fd7e:
 
     # "Whether it was your own endurance from all the work you've been doing in the Flaming Flagon, or some other third thing, you were still not exhausted."
-    ""
+    "Была ли это твоя собственная выносливость, вызванная работой в Пылающем Кувшине, или что-то третье, но ты все равно не выдохся."
 
 # game/scripts/events.rpy:3776
 translate russian tailservice_bear_hyper_c7f268de:
 
     # "You reason that the crystal was to blame, considering that any logical explanation would have you on the ground passed out from having such an impressive monument of a cock between your legs."
-    ""
+    "Ты рассуждаешь, что во всем виноват кристалл, поскольку любое логическое объяснение привело бы к тому, что ты лежал бы на земле, потеряв сознание от того, что у тебя между ног находится столь впечатляющий памятник члену."
 
 # game/scripts/events.rpy:3778
 translate russian tailservice_bear_hyper_a91d0e11:
 
     # "And you see it in the corner of your eye, its crimson glow promising that if its surface found your cock again, you would certainly lose yourself in the lust and hump anything that breathes."
-    ""
+    "И ты видишь его краем глаза, его багровый отблеск обещает, что если бы его поверхность снова нашла твой член, ты бы точно потерял себя в похоти и стал бы тискать все, что дышит."
 
 # game/scripts/events.rpy:3780
 translate russian tailservice_bear_hyper_9282020a:
 
     # "Oran surprises you with a headpat while you were getting entranced by the artifact."
-    ""
+    "Оран удивляет тебя повязкой на голове, пока ты зачарованно смотрел на артефакт."
 
 # game/scripts/events.rpy:3782
 translate russian tailservice_bear_hyper_42bdd991:
 
     # Oran "You did good, boy. If you were anyone else, I'd might have made you pay rates that'll make you furious."
-    Oran ""
+    Oran "Ты молодец, парень. Будь на твоем месте кто-нибудь другой, я бы заставил тебя заплатить по таким расценкам, что ты пришел бы в ярость."
 
 # game/scripts/events.rpy:3784
 translate russian tailservice_bear_hyper_9257ad99:
 
     # Fen "Th-thank goodness..."
-    Fen ""
+    Fen "С-слава бооогу..."
 
 # game/scripts/events.rpy:3786
 translate russian tailservice_bear_hyper_e09ccdee:
 
     # "You were confident that any price that was not coincidentally over your current budget could be dealt with here."
-    ""
+    "Ты был уверен, что с любой ценой, которая не случайно превышает твой текущий бюджет, можно справиться здесь."
 
 # game/scripts/events.rpy:3788
 translate russian tailservice_bear_hyper_2ee556dd:
 
     # "Oran hums before you feel him back away, your cock jolting back up to life as movement means feeling him twitch against your prostate some more."
-    ""
+    "Оран хмыкает, прежде чем ты чувствуешь, как он отстраняется, и твой член снова оживает, поскольку движение означает, что ты чувствуешь, как он еще раз дергается против твоей простаты."
 
 # game/scripts/events.rpy:3790
 translate russian tailservice_bear_hyper_5b99bded:
 
     # Fen "M-meant to ask but..."
-    Fen ""
+    Fen "Х-хотел спросить, но..."
 
 # game/scripts/events.rpy:3792
 translate russian tailservice_bear_hyper_4e190582:
 
     # Oran "Hmm?"
-    Oran ""
+    Oran "Хм?"
 
 # game/scripts/events.rpy:3794
 translate russian tailservice_bear_hyper_921118a9:
 
     # Fen "Is this supposed to last long - ERFH!"
-    Fen ""
+    Fen "Это должно длиться долго - ЕРФ!"
 
 # game/scripts/events.rpy:3796
 translate russian tailservice_bear_hyper_6e10ba6d:
 
     # "You are cut off when Oran yanks out the last few inches still inside your ass, leaving your buttcheeks swamped with his cum."
-    ""
+    "Ты прерываешься, когда Оран выдергивает последние несколько дюймов, оставаясь в твоей попке, оставляя твои щеки залитыми его спермой."
 
 # game/scripts/events.rpy:3804
 translate russian tailservice_bear_hyper_e12b4bac:
 
     # "Most of what resided in your hole poured out of you like a waterfall."
-    ""
+    "Большая часть того, что находилось в твоей дыре, вылилась из тебя, как водопад."
 
 # game/scripts/events.rpy:3806
 translate russian tailservice_bear_hyper_9f606a0b:
 
     # Oran "Not if you're not wearin' it. If you ain't in a hurry, should come down very soon."
-    Oran ""
+    Oran "Нет, если ты его не носишь. Если ты не спешишь, то должен спуститься очень скоро."
 
 # game/scripts/events.rpy:3808
 translate russian tailservice_bear_hyper_d637b836:
 
     # Fen "O-okay..."
-    Fen ""
+    Fen "Х-хорошо..."
 
 # game/scripts/events.rpy:3810
 translate russian tailservice_bear_hyper_ab1d05a5:
 
     # Oran "Phew..."
-    Oran ""
+    Oran "Фух..."
 
 # game/scripts/events.rpy:3813
 translate russian tailservice_bear_hyper_9da525f8:
 
     # "Oran lies down beside you, leaving your trembling legs to leave you planted on the mattress as well."
-    ""
+    "Оран ложится рядом с тобой, оставляя твои дрожащие ноги лежать на матрасе."
 
 # game/scripts/events.rpy:3815
 translate russian tailservice_bear_hyper_11eac949:
 
     # "You feel sticky all over, as residual cum from the ceiling and the load on your butt continue to trickle."
-    ""
+    "Ты чувствуешь себя липким насквозь, так как остатки спермы с потолка и груз на твоей заднице продолжают стекать."
 
 # game/scripts/events.rpy:3817
 translate russian tailservice_bear_hyper_1f492304:
 
     # "You come to a state of relative normalcy, no more breathing lethargically at least and take to Oran's prone form."
-    ""
+    "Ты приходишь в состояние относительной нормальности, по крайней мере, перестаешь дышать вяло и принимаешь лежачую форму Орана."
 
 # game/scripts/events.rpy:3819
 translate russian tailservice_bear_hyper_01c9f3c0:
 
     # "Turning, he watches you in curiosity as you crawl onto his body and lay on his chest, listening to his heart steadily calm down from all that action."
-    ""
+    "Повернувшись, он с любопытством наблюдает за тем, как ты переползаешь на его тело и ложишься ему на грудь, слушая, как постепенно успокаивается его сердце от всего этого действа."
 
 # game/scripts/events.rpy:3821
 translate russian tailservice_bear_hyper_9582934d:
 
     # "He simply smiles and drapes an arm on your shoulder while you sigh in relief at the comforting gesture."
-    ""
+    "Он просто улыбается и кладет руку тебе на плечо, а ты облегченно вздыхаешь от этого утешительного жеста."
 
 # game/scripts/events.rpy:3823
 translate russian tailservice_bear_hyper_55586b46:
 
     # Fen "Stuffy in here..."
-    Fen ""
+    Fen "Душно здесь..."
 
 # game/scripts/events.rpy:3825
 translate russian tailservice_bear_hyper_423e2a49:
 
     # Oran "We'll be fine. Trip to that bathhouse'll clean you right up. Inside and out."
-    Oran ""
+    Oran "Мы будем в порядке. Поход в баню приведет тебя в порядок. Внутри и снаружи."
 
 # game/scripts/events.rpy:3827
 translate russian tailservice_bear_hyper_f6093aed:
 
     # Fen "Wouldn't Marcus charge extra for that?"
-    Fen ""
+    Fen "Разве Маркус не берет за это дополнительную плату?"
 
 # game/scripts/events.rpy:3829
 translate russian tailservice_bear_hyper_6a314aa6:
 
     # Oran "Only if you hop in right away without rinsin'."
-    Oran ""
+    Oran "Только если ты сразу же залезешь в него, не ополоснув."
 
 # game/scripts/events.rpy:3831
 translate russian tailservice_bear_hyper_803100ed:
 
     # Fen "For sure."
-    Fen ""
+    Fen "Это уж точно."
 
 # game/scripts/events.rpy:3833
 translate russian tailservice_bear_hyper_a59267a9:
 
     # "Idle chatter helps bring the mood down a bit more, and you stop feeling like you need to fuck something every single second you aren't while you stare at your cock."
-    ""
+    "Пустые разговоры помогают немного снизить настроение, и тебе перестает казаться, что каждую секунду, пока ты не смотришь на свой член, тебе нужно что-то трахнуть."
 
 # game/scripts/events.rpy:3835
 translate russian tailservice_bear_hyper_041e8902:
 
     # "Oran's words hold true soon enough, and it was almost comical watching how your cock would seamlessly shrink back down from its oversized state."
-    ""
+    "Слова Орана довольно быстро подтвердились, и было почти комично наблюдать, как твой член плавно сжимается, возвращаясь к своему огромному состоянию."
 
 # game/scripts/events.rpy:3837
 translate russian tailservice_bear_hyper_39158e93:
 
     # "Almost like it was going soft but at a more dramatic scale."
-    ""
+    "Почти так же, как если бы он стал мягким, но в более драматическом масштабе."
 
 # game/scripts/events.rpy:3839
 translate russian tailservice_bear_hyper_159e3127:
 
     # "Soon, you would be back to your old self, just in time for Oran's cock to do the same."
-    ""
+    "Скоро ты снова станешь прежней, как раз к тому времени, когда член Орана сделает то же самое."
 
 # game/scripts/events.rpy:3841
 translate russian tailservice_bear_hyper_9a87da44:
 
     # "Once both of you are back to your normal sizes, you nuzzle into his chest and get a squeeze on your bicep in return."
-    ""
+    "Как только вы оба вернулись к своим обычным размерам, ты утыкаешься ему в грудь и в ответ сжимаешь свой бицепс."
 
 # game/scripts/events.rpy:3843
 translate russian tailservice_bear_hyper_5fa2f095:
 
     # Fen "I had a great time...Didn't know it was gonna be like this."
-    Fen ""
+    Fen "Я отлично провел время... Не знал, что все будет так."
 
 # game/scripts/events.rpy:3845
 translate russian tailservice_bear_hyper_a8d76df7:
 
     # Oran "Oh?"
-    Oran ""
+    Oran "Да?"
 
 # game/scripts/events.rpy:3847
 translate russian tailservice_bear_hyper_cdb67515:
 
     # "Oran perks up at this."
-    ""
+    "Оран очень обрадовался этому."
 
 # game/scripts/events.rpy:3849
 translate russian tailservice_bear_hyper_6f2a6b2d:
 
     # Oran "You weren't a client?"
-    Oran ""
+    Oran "Ты не был клиентом?"
 
 # game/scripts/events.rpy:3851
 translate russian tailservice_bear_hyper_e3ff1342:
 
     # Fen "No...I was, still looking..."
-    Fen ""
+    Fen "Нет... Я все еще искал..."
 
 # game/scripts/events.rpy:3853
 translate russian tailservice_bear_hyper_2bce4e55:
 
     # "Oran guffaws at the misunderstanding, leaving you to blush as you should have told him sooner than after all was said and done."
-    ""
+    "Оран смеется над недоразумением, заставляя тебя краснеть, ведь тебе следовало сказать ему об этом раньше, а не после того, как все было сказано и сделано."
 
 # game/scripts/events.rpy:3855
 translate russian tailservice_bear_hyper_02e94e23:
 
     # Oran "Guess I was being a bit hasty. Doing it outside only feels better when the moon's out."
-    Oran ""
+    Oran "Наверное, я немного поторопился. Заниматься этим на улице лучше только при луне."
 
 # game/scripts/events.rpy:3857
 translate russian tailservice_bear_hyper_145c2d95:
 
     # Oran "Less folks to get in the way an' try to score a freebie from me."
-    Oran ""
+    Oran "Меньше людей, которые будут мешать и пытаться получить от меня халяву."
 
 # game/scripts/events.rpy:3859
 translate russian tailservice_bear_hyper_540fa8ac:
 
     # Fen "People do that?"
-    Fen ""
+    Fen "Они так делают?"
 
 # game/scripts/events.rpy:3861
 translate russian tailservice_bear_hyper_4c1f4f9c:
 
     # Oran "Mmh."
-    Oran ""
+    Oran "Мхм."
 
 # game/scripts/events.rpy:3863
 translate russian tailservice_bear_hyper_ceed35d5:
 
     # "Oran adopts a sour look and you feel the room get a little tense."
-    ""
+    "Оран принимает кислый вид, и ты чувствуешь, как в комнате становится немного напряженно."
 
 # game/scripts/events.rpy:3865
 translate russian tailservice_bear_hyper_b797a64a:
 
     # Oran "When I first started this kinda thing, folks were dashing on me left and right."
-    Oran ""
+    Oran "Когда я только начал заниматься этим делом, люди бросались на меня направо и налево."
 
 # game/scripts/events.rpy:3867
 translate russian tailservice_bear_hyper_9cae35e0:
 
     # Oran "Best ass in the alley I always say, but it didn't feel like it back when folks would pump'n dump without even sayin' a word."
-    Oran ""
+    Oran "Я всегда говорил, что лучшая задница в переулке, но в те времена, когда парни выкачивали деньги, не говоря ни слова, так не казалось."
 
 # game/scripts/events.rpy:3869
 translate russian tailservice_bear_hyper_4d3bd882:
 
     # Fen "That's... I'm sorry you had to go through that."
-    Fen ""
+    Fen "Это... Мне жаль, что тебе пришлось пройти через это."
 
 # game/scripts/events.rpy:3871
 translate russian tailservice_bear_hyper_7efd22f0:
 
     # "Oran's forlorn expression fades when he looks down to you, as if your condolences were enough to brighten up his mood alone, and he smiles a little."
-    ""
+    "Унылое выражение лица Орана исчезает, когда он смотрит на тебя, как будто одного твоего соболезнования достаточно, чтобы скрасить его настроение, и он слегка улыбается."
 
 # game/scripts/events.rpy:3873
 translate russian tailservice_bear_hyper_a94b4f4a:
 
     # Oran "Don't worry 'bout it, that was a while back, and these days folks wish they can have me that easy."
-    Oran ""
+    Oran "Не беспокойся об этом, это было давно, а в наши дни парни мечтают заполучить меня так просто."
 
 # game/scripts/events.rpy:3875
 translate russian tailservice_bear_hyper_a2903a2d:
 
     # Oran "It's why I always call the shots."
-    Oran ""
+    Oran "Именно поэтому я всегда решаю, что делать."
 
 # game/scripts/events.rpy:3877
 translate russian tailservice_bear_hyper_7e99b31d:
 
     # Oran "When folks're real desperate for more, I remind 'em to pay, and that rush to decide whether they wanna skip or get their dick wet turns in my favor."
-    Oran ""
+    Oran "Когда люди действительно отчаянно хотят большего, я напоминаю им, что нужно заплатить, и эта спешка, когда они решают, хотят ли они пропустить или намочить свой член, оборачивается в мою пользу."
 
 # game/scripts/events.rpy:3879
 translate russian tailservice_bear_hyper_efb84877:
 
     # Oran "Ain't had a runner in months."
-    Oran ""
+    Oran "У меня уже несколько месяцев не было бегуна."
 
 # game/scripts/events.rpy:3881
 translate russian tailservice_bear_hyper_34f9ce31:
 
     # Fen "Wow..."
-    Fen ""
+    Fen "Вау..."
 
 # game/scripts/events.rpy:3883
 translate russian tailservice_bear_hyper_83328d7a:
 
     # "You wonder if you'll ever have that kind of sexual charm to make sure people would want to pay that much."
-    ""
+    "Ты задаешься вопросом, будет ли у тебя когда-нибудь такое сексуальное обаяние, чтобы люди захотели платить столько."
 
 # game/scripts/events.rpy:3885
 translate russian tailservice_bear_hyper_b830ef4a:
 
     # Oran "What got you here, boy?"
-    Oran ""
+    Oran "Что привело тебя сюда, парень?"
 
 # game/scripts/events.rpy:3887
 translate russian tailservice_bear_hyper_421cd2e8:
 
     # Fen "Oh, a friend of mine taught me about this."
-    Fen ""
+    Fen "О, мой друг научил меня этому."
 
 # game/scripts/events.rpy:3889
 translate russian tailservice_bear_hyper_2e4ac8de:
 
     # Oran "He a weird fella, got a sword?"
-    Oran ""
+    Oran "Он странный парень, у него есть меч?"
 
 # game/scripts/events.rpy:3891
 translate russian tailservice_bear_hyper_991e67b3:
 
     # Fen "You know 'em?"
-    Fen ""
+    Fen "Ты их знаешь?"
 
 # game/scripts/events.rpy:3893
 translate russian tailservice_bear_hyper_ce22f9bf:
 
     # Oran "Heheh...Boy do I~"
-    Oran ""
+    Oran "Хехех... Я тоже так считаю~"
 
 # game/scripts/events.rpy:3895
 translate russian tailservice_bear_hyper_282568e7:
 
     # "It was cryptic, but your mind was able to piece things together about Oran and Odachi potentially knowing each other, and you were satisfied with the deduction."
-    ""
+    "Это было загадочно, но твой разум смог собрать воедино информацию о том, что Оран и Одачи могут быть знакомы друг с другом, и ты остался доволен своим выводом."
 
 # game/scripts/events.rpy:3897
 translate russian tailservice_bear_hyper_69187b73:
 
     # Oran "Welp, gettin' pretty late. You might wanna head on out, get cleaned up before it gets too sticky."
-    Oran ""
+    Oran "Ну вот, уже довольно поздно. Тебе лучше выйти и привести себя в порядок, пока не стало слишком липко."
 
 # game/scripts/events.rpy:3899
 translate russian tailservice_bear_hyper_9c8a6c1f:
 
     # Fen "Right."
-    Fen ""
+    Fen "Верно."
 
 # game/scripts/events.rpy:3901
 translate russian tailservice_bear_hyper_e492464f:
 
     # "Indeed, you can feel the mess over your body start to harden, and you know if you wait longer then you'll be brushing out matted fur clumps later."
-    ""
+    "Действительно, ты чувствуешь, как по телу начинает застывать кашица, и понимаешь, что если будешь ждать дольше, то потом придется расчесывать свалявшиеся комки меха."
 
 # game/scripts/events.rpy:3903
 translate russian tailservice_bear_hyper_773abc92:
 
     # "You rise out of bed, a limp to your stride since you did take a massive cock up your butt."
-    ""
+    "Ты поднимаешься с кровати, слегка прихрамывая, так как в твою задницу все же вошел массивный член."
 
 # game/scripts/events.rpy:3905
 translate russian tailservice_bear_hyper_e3851b22:
 
     # Fen "Phew."
-    Fen ""
+    Fen "Фух."
 
 # game/scripts/events.rpy:3907
 translate russian tailservice_bear_hyper_2af781f6:
 
     # Oran "See you around, boy~"
-    Oran ""
+    Oran "Увидимся, парень~"
 
 # game/scripts/events.rpy:3915
 translate russian tailservice_bear_bottom_4b70f11e:
 
     # "Oran smiles and winks at you, grateful for your answer before he grabs your legs."
-    ""
+    "Оран улыбается и подмигивает тебе, благодарный за ответ, прежде чем схватить тебя за ноги."
 
 # game/scripts/events.rpy:3917
 translate russian tailservice_bear_bottom_5c330ae7:
 
     # Fen "Hnnnnfh...!"
-    Fen ""
+    Fen "Хнннфх...!"
 
 # game/scripts/events.rpy:3919
 translate russian tailservice_bear_bottom_b6ed8735:
 
     # "Oran's tongue, surprisingly cool but not cold enough to tarnish the mood, explores the inches that made up your cock."
-    ""
+    "Язык Орана, удивительно прохладный, но не настолько, чтобы испортить настроение, исследует дюймы, из которых состоит твой член."
 
 # game/scripts/events.rpy:3921
 translate russian tailservice_bear_bottom_c215b032:
 
     # Oran "Good on ya keeping still."
-    Oran ""
+    Oran "Молодец, что сохраняешь спокойствие."
 
 # game/scripts/events.rpy:3923
 translate russian tailservice_bear_bottom_98c07b98:
 
     # "Oran snorts before hiking up your legs further, spreading them wide so that there was nothing that could tuck away the sight of your own butt."
-    ""
+    "Оран фыркнул и поднял ноги еще выше, широко расставив их так, чтобы ничто не могло скрыть вид собственной задницы."
 
 # game/scripts/events.rpy:3925
 translate russian tailservice_bear_bottom_048868dc:
 
     # "You can feel sweat beads trailing down your taint and into your tail fur as he brings his head in and puffs air onto your asshole."
-    ""
+    "Ты чувствуешь, как бисеринки пота стекают по твоей попке и попадают в шерсть хвоста, когда он подносит голову и надувает твою попку."
 
 # game/scripts/events.rpy:3927
 translate russian tailservice_bear_bottom_2801366c:
 
     # "It clenches in anticipation, not ready despite knowing it will have to be soon."
-    ""
+    "Она сжимается в предвкушении, не готовая к этому, но знающая, что это должно произойти скоро."
 
 # game/scripts/events.rpy:3929
 translate russian tailservice_bear_bottom_3a77349a:
 
     # Oran "Gotta make sure you can handle me for now."
-    Oran ""
+    Oran "Нужно убедиться, что ты сможешь справиться со мной."
 
 # game/scripts/events.rpy:3931
 translate russian tailservice_bear_bottom_fa45556c:
 
     # Oran "Wouldn't wanna break ya, boy~"
-    Oran ""
+    Oran "Не хочу тебя сломать, парень~"
 
 # game/scripts/events.rpy:3933
 translate russian tailservice_bear_bottom_3879dd82:
 
     # "Oran gives a quick reassuring wink, before a slimy cold intruder makes its way through your pucker with ease."
-    ""
+    "Оран быстро ободряюще подмигивает, прежде чем склизкий холодный незваный гость с легкостью прокладывает себе путь через твою пипку."
 
 # game/scripts/events.rpy:3935
 translate russian tailservice_bear_bottom_bfde18e1:
 
     # Fen "Ah-ahhhnh!"
-    Fen ""
+    Fen "Ах-ахххх!"
 
 # game/scripts/events.rpy:3938
 translate russian tailservice_bear_bottom_3e285ad8:
 
     # "Once it wiggled, it was clear that the invasion was being done by Oran's tongue."
-    ""
+    "Когда он зашевелился, стало ясно, что вторжение осуществляется языком Орана."
 
 # game/scripts/events.rpy:3940
 translate russian tailservice_bear_bottom_d16c6f53:
 
     # "The bear traversed your anus, progressively easing your muscles down from within."
-    ""
+    "Постоянно повторяющаяся тема холода все еще преобладала, пока медведь обходил твой зад, постепенно расслабляя мышцы изнутри."
 
 # game/scripts/events.rpy:3942
 translate russian tailservice_bear_bottom_35c404c4:
 
     # "You feel that tension from having something in your butt fade, and you feel more and more of his tongue enter you before he was downright kissing your hole."
-    ""
+    "Ты чувствуешь, как исчезает напряжение от того, что в твоей попке что-то есть, и все больше и больше его языка проникает в тебя, пока он не стал прямо целовать твою дырочку."
 
 # game/scripts/events.rpy:3944
 translate russian tailservice_bear_bottom_df721d6a:
 
     # Oran "Mmmmhhhph~"
-    Oran ""
+    Oran "Мммф~"
 
 # game/scripts/events.rpy:3950
 translate russian tailservice_bear_bottom_00778e16:
 
     # "Things are shaping up to be magical once Oran found your sweet spot, prodding it firmly enough to make your cock shoot enough precum to hit the ceiling."
-    ""
+    "Все складывается просто волшебно, как только Оран нашел твое сладкое место, надавив на него достаточно сильно, чтобы твой член выпустил достаточно спермы, чтобы она ударила в потолок."
 
 # game/scripts/events.rpy:3953
 translate russian tailservice_bear_bottom_54395143:
 
     # "Oran's spelunking comes to an end soon enough, unfortunately, leaving you whining as the shift from topping to bottoming reawakened your inhibitions once more."
-    ""
+    "К сожалению, погружение Орана в подводное царство заканчивается довольно скоро, и ты не успеваешь опомниться, как переход от верха к низу вновь пробуждает твои чувства."
 
 # game/scripts/events.rpy:3955
 translate russian tailservice_bear_bottom_0db96236:
 
     # Fen "C-come on, I was close..."
-    Fen ""
+    Fen "Ну же, я был близок..."
 
 # game/scripts/events.rpy:3957
 translate russian tailservice_bear_bottom_735eaea8:
 
     # Oran "That's just what gettin' your prostate licked feels like."
-    Oran ""
+    Oran "Это как раз то, что нужно для вылизывания твоей попки."
 
 # game/scripts/events.rpy:3959
 translate russian tailservice_bear_bottom_21eae622:
 
     # Oran "You'll nut when I say you can~"
-    Oran ""
+    Oran "Ты будешь орехом, когда я скажу, что ты можешь~"
 
 # game/scripts/events.rpy:3961
 translate russian tailservice_bear_bottom_9997370f:
 
     # "Somehow, the idea of Oran controlling whether or not you would be allowed to embrace release was... oddly thrilling."
-    ""
+    "Мысль о том, что Оран будет контролировать, разрешат ли тебе принять освобождение, была... странно волнующей."
 
 # game/scripts/events.rpy:3964
 translate russian tailservice_bear_bottom_3b9949db:
 
     # "You are pulled from your thoughts, however messy and hazed, when Oran's digit finds its way up your butt."
-    ""
+    "Ты отвлекаешься от своих мыслей, пусть даже беспорядочных и туманных, когда член Орана оказывается у тебя в заднице."
 
 # game/scripts/events.rpy:3966
 translate russian tailservice_bear_bottom_6650ab1c:
 
     # Fen "Unfh! Umfh! Guh!"
-    Fen ""
+    Fen "Унф! Умф! Гах!"
 
 # game/scripts/events.rpy:3968
 translate russian tailservice_bear_bottom_376007d3:
 
     # "For some reason, Oran was hooking his finger around inside your hole..."
-    ""
+    "По какой-то причине Оран засунул палец в твою дырочку..."
 
 # game/scripts/events.rpy:3970
 translate russian tailservice_bear_bottom_e5f88da1:
 
     # "...and feeling it curtly brush just a little bit of your prostate was like feeling your orgasm on the rise but being dragged aside from reaching your peak."
-    ""
+    "...и чувствовать, как он небрежно расчесывает лишь небольшую часть твоей простаты, было все равно что ощущать нарастающий оргазм, но быть оттянутым в сторону от достижения пика."
 
 # game/scripts/events.rpy:3972
 translate russian tailservice_bear_bottom_2da8d17a:
 
     # "So torturous. You whine some more, even going as far as showing begging eyes that could melt even the most stone-cold heart on sight."
-    ""
+    "Так мучительно. Ты еще немного поскуливаешь, даже показываешь умоляющие глаза, которые могут растопить даже самое каменное сердце."
 
 # game/scripts/events.rpy:3974
 translate russian tailservice_bear_bottom_485d5d2e:
 
     # "Oran merely grins with mischief."
-    ""
+    "Оран лишь озорно усмехается."
 
 # game/scripts/events.rpy:3976
 translate russian tailservice_bear_bottom_bbf41e3e:
 
     # Oran "Sorry boy, gotta keep you ready for me no matter what. I ain't exactly easy to take."
-    Oran ""
+    Oran "Прости, парень, но ты должен быть готов к тому, что я не уступлю. Меня не так-то просто взять."
 
 # game/scripts/events.rpy:3978
 translate russian tailservice_bear_bottom_aadee928:
 
     # "Those words almost made you clench your hole on his finger, but you were stopped when he added another, plowing through your ass as if he was already fucking you as-is."
-    ""
+    "Эти слова почти заставили тебя сжать свою дырочку на его пальце, но ты остановился, когда он добавил еще один, проникая в твою попку, как будто уже трахал тебя как есть."
 
 # game/scripts/events.rpy:3980
 translate russian tailservice_bear_bottom_4b6ba593:
 
     # Fen "Hhhh...! HHHHMPH!"
-    Fen ""
+    Fen "Ххх...! ХХХМФ!"
 
 # game/scripts/events.rpy:3982
 translate russian tailservice_bear_bottom_8fdd1c52:
 
     # "You can feel it. The agonizing delay."
-    ""
+    "Ты чувствуешь это. Мучительная задержка."
 
 # game/scripts/events.rpy:3984
 translate russian tailservice_bear_bottom_5938cc59:
 
     # "Oran did not even need to hold your bloated balls hostage in order to bring it about - it just felt like you were so close yet none of this was enough to make you blow."
-    ""
+    "Орану даже не нужно было держать в заложниках твои вздувшиеся яйца, чтобы добиться этого - просто было ощущение, что ты так близок, и все же этого было недостаточно, чтобы ты взорвался."
 
 # game/scripts/events.rpy:3986
 translate russian tailservice_bear_bottom_f40f076c:
 
     # Oran "Good boy...I think you're ready."
-    Oran ""
+    Oran "Хороший мальчик... Думаю, ты готов."
 
 # game/scripts/events.rpy:3988
 translate russian tailservice_bear_bottom_834287ac:
 
     # "Oran probably felt this, but as soon as he said that, your tail started going a mile a second on the spot."
-    ""
+    "Оран, вероятно, чувствовал это, но как только он это сказал, твой хвост начал разгоняться со скоростью мили в секунду на месте."
 
 # game/scripts/events.rpy:3991
 translate russian tailservice_bear_bottom_2626845f:
 
     # "Oran pulls out of your hole, leaving it shiny and convulsing against the open air as his spit covers both inside and out."
-    ""
+    "Оран выходит из твоей дырочки, оставляя ее блестящей и конвульсивно дергающейся на открытом воздухе, а его слюна покрывает ее изнутри и снаружи."
 
 # game/scripts/events.rpy:3993
 translate russian tailservice_bear_bottom_7a7629d5:
 
     # "Then he rises back up, putting your legs onto his shoulders and you feel his cock prod your butt."
-    ""
+    "Затем он поднимается, кладет твои ноги себе на плечи, и ты чувствуешь, как его член упирается тебе в попу."
 
 # game/scripts/events.rpy:3996
 translate russian tailservice_bear_bottom_a4d154a2:
 
     # "You gulp when it makes contact with your hole, and grit your teeth when it slips inside on the first try."
-    ""
+    "Ты глотаешь, когда он соприкасается с твоим отверстием, и скрипишь зубами, когда он проскальзывает внутрь с первой попытки."
 
 # game/scripts/events.rpy:3998
 translate russian tailservice_bear_bottom_4c1ce351:
 
     # Fen "MMMPH!"
-    Fen ""
+    Fen "МММФ!"
 
 # game/scripts/events.rpy:4000
 translate russian tailservice_bear_bottom_db2efb6c:
 
     # Oran "Auhhh...Love me some hot hole~"
-    Oran ""
+    Oran "Аах... Люблю горячие дырочки~"
 
 # game/scripts/events.rpy:4002
 translate russian tailservice_bear_bottom_c66d3444:
 
     # "Oran's cock was by no means cold, yet it felt like the coldest object Fen could ever bother using as a toy as it slid into you, aided and abetted by the prior stretching and lubrication."
-    ""
+    "Член Орана не был холодным, но при этом ощущался как самый холодный предмет, который [name] мог бы использовать в качестве игрушки, когда он скользил в тебя, чему способствовало предварительное растяжение и смазка."
 
 # game/scripts/events.rpy:4004
 translate russian tailservice_bear_bottom_96181f55:
 
     # "You feel him edge closer to your prostate and you unknowingly tense up in hopes that he would focus on that spot, even just a little, only to whine as he merely drags over it."
-    ""
+    "Ты чувствуешь, как он приближается к твоей простате, и неосознанно напрягаешься в надежде, что он сосредоточится на этом месте, хотя бы немного, и только скулишь, когда он просто тащится по нему."
 
 # game/scripts/events.rpy:4006
 translate russian tailservice_bear_bottom_94bad6da:
 
     # "A silent smirk comes down to you and you know he is doing that on purpose."
-    ""
+    "Ты молча ухмыляешься и понимаешь, что он делает это специально."
 
 # game/scripts/events.rpy:4008
 translate russian tailservice_bear_bottom_af4e9c23:
 
     # "Soon, you feel his hips meet your asscheeks, and it was like being given a revelation in that moment."
-    ""
+    "Вскоре ты чувствуешь, как его бедра встречаются с твоими щеками, и в этот момент ты словно получаешь откровение."
 
 # game/scripts/events.rpy:4010
 translate russian tailservice_bear_bottom_4c155b63:
 
     # "You took all of him, no pain, no discomfort."
-    ""
+    "Ты взял его всего, без боли, без дискомфорта."
 
 # game/scripts/events.rpy:4012
 translate russian tailservice_bear_bottom_d01192c3:
 
     # Oran "You fire affinity types always give me the best kinda lays. Hot nut and hot butts plenty...But let's see if you can handle a li'l 'chill'~"
-    Oran ""
+    Oran "Ты, огненный тип, всегда даришь мне самые лучшие постели. Горячие орешки и горячие попки... Но давай посмотрим, сможешь ли ты выдержать небольшую 'прохладу'~"
 
 # game/scripts/events.rpy:4014
 translate russian tailservice_bear_bottom_e1098880:
 
     # "Oran reinforces his grip on your ankles and you feel him pull back, making your hole tug against him as he was thick enough to touch down on your prostate the whole time."
-    ""
+    "Оран усиливает хватку на твоих лодыжках, и ты чувствуешь, как он отстраняется, заставляя твое отверстие напрягаться, поскольку он был достаточно толстым, чтобы все это время касаться твоей простаты."
 
 # game/scripts/events.rpy:4016
 translate russian tailservice_bear_bottom_012ea825:
 
     # "A moment's thought flashes through your mind and you feel compelled to bring it up."
-    ""
+    "В голове промелькнула мысль, и ты почувствовал себя обязанным ее озвучить."
 
 # game/scripts/events.rpy:4018
 translate russian tailservice_bear_bottom_fe119a8b:
 
     # Fen "G-gentle, please... I don't do this...like you do..."
-    Fen ""
+    Fen "Н-нежнее, пожалуйста... Я не делаю этого... как ты..."
 
 # game/scripts/events.rpy:4021
 translate russian tailservice_bear_bottom_b803b868:
 
     # Oran "Oh relax, boy. I know you're a virgin."
-    Oran ""
+    Oran "Расслабься, парень. Я знаю, что ты девственник."
 
 # game/scripts/events.rpy:4023
 translate russian tailservice_bear_bottom_7f0224d5:
 
     # "Again with this. But you had no room to argue when you had a bear's cock in your ass - or at least, half of one at this time, especially when he pushed back inside to silence your whining."
-    ""
+    "Опять это. Но у тебя не было возможности спорить, когда в твоей заднице находился член медведя - или, по крайней мере, половина члена, особенно когда он снова толкнулся внутрь, чтобы заглушить твое хныканье."
 
 # game/scripts/events.rpy:4028
 translate russian tailservice_bear_bottom_9cd650d6:
 
     # "{i}WHAP{/i}"
-    ""
+    "{i}ШЛЕП{/i}"
 
 # game/scripts/events.rpy:4030
 translate russian tailservice_bear_bottom_636c3f26:
 
     # Fen "Ooooough..."
-    Fen ""
+    Fen "Уууух..."
 
 # game/scripts/events.rpy:4032
 translate russian tailservice_bear_bottom_1a366085:
 
     # Oran "Tight and hot...best combo~"
-    Oran ""
+    Oran "Крепкий и горячий... лучшее сочетание~"
 
 # game/scripts/events.rpy:4034
 translate russian tailservice_bear_bottom_f3c7af34:
 
     # "Oran was not as fluffy as you, so your butt was a little bit more cushioned than his as he got started, at first thinking he was trying to go hard before realizing you simply had the fur to handle it better."
-    ""
+    "Оран был не таким пушистым, как ты, поэтому твоя задница была немного более мягкой, чем его, когда он начал, и сначала он подумал, что пытается действовать жестко, но потом понял, что у тебя просто больше шерсти, чтобы справиться с этим."
 
 # game/scripts/events.rpy:4036
 translate russian tailservice_bear_bottom_2edc676f:
 
     # "But, you prefer to ride things out as they are now, to ease yourself into this."
-    ""
+    "Но ты предпочтешь все сделать так, как есть сейчас, чтобы облегчить себе задачу."
 
 # game/scripts/events.rpy:4038
 translate russian tailservice_bear_bottom_b6bfc5c4:
 
     # "Oran stares you down from above, and you can see your face in his simple black pupils."
-    ""
+    "Оран смотрит на тебя сверху вниз, и в его простых черных зрачках можно разглядеть твое лицо."
 
 # game/scripts/events.rpy:4040
 translate russian tailservice_bear_bottom_c6146e7d:
 
     # "You see a needy dog hoping to cum, and it sends a shiver down your spine as your tail sways with more passion."
-    ""
+    "Понимаешь, как нуждающийся пес надеется кончить, и это вызывает дрожь по позвоночнику, а твой хвост подрагивает от страсти."
 
 # game/scripts/events.rpy:4042
 translate russian tailservice_bear_bottom_f2b62c59:
 
     # "{i}WHAP WHAP WHAP WHAP WHAP WHAP WHAP{/i}"
-    ""
+    "{i}ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП{/i}"
 
 # game/scripts/events.rpy:4044
 translate russian tailservice_bear_bottom_e720c3dd:
 
     # Oran "Unnngh..."
-    Oran ""
+    Oran "Нннгх..."
 
 # game/scripts/events.rpy:4046
 translate russian tailservice_bear_bottom_64b2c119:
 
     # Fen "Hooough..."
-    Fen ""
+    Fen "Хуух..."
 
 # game/scripts/events.rpy:4048
 translate russian tailservice_bear_bottom_3847ff77:
 
     # "You can already tell you were going to love tail service if this was going to be what it was like."
-    ""
+    "Ты уже можешь сказать, что тебе понравится хвостовой сервис, если он будет таким."
 
 # game/scripts/events.rpy:4050
 translate russian tailservice_bear_bottom_265a5a4b:
 
     # "Oran winks at you, probably already knowing you were interested in doing this way more often than not."
-    ""
+    "Оран подмигивает тебе, вероятно, уже зная, что ты заинтересован в том, чтобы это происходило чаще всего."
 
 # game/scripts/events.rpy:4052
 translate russian tailservice_bear_bottom_ceb31270:
 
     # "As your ass was repeatedly thrust into, you slowly lost that anxious feeling in your belly, the pit that made you worry about your experience receiving being tainted."
-    ""
+    "По мере того как в твою попку снова и снова вонзались, ты постепенно терял то тревожное чувство в животе, которое заставляло тебя беспокоиться о том, что твой опыт будет испорчен."
 
 # game/scripts/events.rpy:4054
 translate russian tailservice_bear_bottom_2f3e1f21:
 
     # "As a result, the repressed pleasure kicked in."
-    ""
+    "В результате подавленное наслаждение начало действовать."
 
 # game/scripts/events.rpy:4056
 translate russian tailservice_bear_bottom_6cb2c911:
 
     # Fen "Hmmmmrrrph..."
-    Fen ""
+    Fen "Хмммррф..."
 
 # game/scripts/events.rpy:4058
 translate russian tailservice_bear_bottom_8b021006:
 
     # Oran "What's that, boy...?"
-    Oran ""
+    Oran "Что это, парень...?"
 
 # game/scripts/events.rpy:4060
 translate russian tailservice_bear_bottom_a85c616e:
 
     # "You feel your face heat up to the point of being flustered."
-    ""
+    "Ты чувствуешь, как твое лицо накаляется до предела."
 
 # game/scripts/events.rpy:4062
 translate russian tailservice_bear_bottom_f9709717:
 
     # Fen "Mmrrrrph..."
-    Fen ""
+    Fen "Мрррф..."
 
 # game/scripts/events.rpy:4064
 translate russian tailservice_bear_bottom_cdaeef9c:
 
     # Oran "Can't hear you from up here. Gonna have to speak up~"
-    Oran ""
+    Oran "Отсюда тебя не слышно. Придется говорить громче~"
 
 # game/scripts/events.rpy:4066
 translate russian tailservice_bear_bottom_9bc9dc66:
 
     # Fen "M-more...!"
-    Fen ""
+    Fen "Б-больше...!"
 
 # game/scripts/events.rpy:4068
 translate russian tailservice_bear_bottom_593d4b9d:
 
     # "You finally managed to breathe it out, just to gasp when Oran immediately shifts from steady to rough in that instant."
-    ""
+    "Наконец тебе удалось выдохнуть, и ты задыхаешься, когда Оран мгновенно переходит от ровного состояния к грубому."
 
 # game/scripts/events.rpy:4070
 translate russian tailservice_bear_bottom_056aecd1:
 
     # Oran "Can do."
-    Oran ""
+    Oran "Можно."
 
 # game/scripts/events.rpy:4074
 translate russian tailservice_bear_bottom_af28de11:
 
     # "With that affirmative tone, you can only brace yourself against the mattress as Oran really gives it to you."
-    ""
+    "С этим утвердительным тоном ты только и можешь, что упираться в матрас, так как Оран действительно отдает его тебе."
 
 # game/scripts/events.rpy:4076
 translate russian tailservice_bear_bottom_8ce8f39f:
 
     # "You can feel the effort in his every move, knowing he wants to do you in like you had earlier."
-    ""
+    "Ты чувствуешь, как он старается, когда делает каждое движение, и понимаешь, что он хочет сделать это так же, как ты раньше."
 
 # game/scripts/events.rpy:4078
 translate russian tailservice_bear_bottom_b4acefe3:
 
     # "{i}WAP WAP WAP WAP WAP WAP WAP WAP{/i}"
-    ""
+    "{i}ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП ШЛЕП{i}"
 
 # game/scripts/events.rpy:4080
 translate russian tailservice_bear_bottom_e5ad32fa:
 
     # Fen "Urrrrgh...!"
-    Fen ""
+    Fen "Урррх...!"
 
 # game/scripts/events.rpy:4082
 translate russian tailservice_bear_bottom_b2797596:
 
     # Oran "Mmh-hmmh...this'll really give you a good 'un~"
-    Oran ""
+    Oran "Ммх-хмх... это действительно доставит тебе удовольствие~"
 
 # game/scripts/events.rpy:4084
 translate russian tailservice_bear_bottom_db48f8ac:
 
     # "You quickly find out what Oran was insinuating when his thrusts shifted upward and you feel his cock DRAG across your prostate like one dragging a heavy log across the ground."
-    ""
+    "Ты быстро понимаешь, на что намекал Оран, когда его толчки смещаются вверх, и ты чувствуешь, как его член проносится по твоей простате, словно тяжелое бревно по земле."
 
 # game/scripts/events.rpy:4086
 translate russian tailservice_bear_bottom_8696df32:
 
     # "You see genuine stars in your eyes."
-    ""
+    "В твоих глазах появляются настоящие звезды."
 
 # game/scripts/events.rpy:4088
 translate russian tailservice_bear_bottom_bbf8b3b4:
 
     # Fen "AUUUUUUH!"
-    Fen ""
+    Fen "АУУУХ!"
 
 # game/scripts/events.rpy:4090
 translate russian tailservice_bear_bottom_fa0c8e0d:
 
     # "You swore you came, you thought the white was just your seed getting into them."
-    ""
+    "Ты поклялся, что кончил, ты думал, что белое - это просто твое семя попало в него."
 
 # game/scripts/events.rpy:4092
 translate russian tailservice_bear_bottom_c1de67de:
 
     # "But no, when you came to from that flash of euphoria, you realized that your cock was just pulsing between you and Oran still."
-    ""
+    "Но нет, когда ты пришел в себя после вспышки эйфории, то понял, что твой член все еще пульсирует между тобой и Ораном."
 
 # game/scripts/events.rpy:4094
 translate russian tailservice_bear_bottom_8e917c60:
 
     # "No cum. Not yet."
-    ""
+    "Не кончил. Пока нет."
 
 # game/scripts/events.rpy:4096
 translate russian tailservice_bear_bottom_6d6207c0:
 
     # Oran "Be on your toes, boy. You look like the adventurin' type, them monsters ain't no j-joke~"
-    Oran ""
+    Oran "Будь начеку, парень. Ты похож на любителя приключений, а эти монстры не ш-шутка!"
 
 # game/scripts/events.rpy:4098
 translate russian tailservice_bear_bottom_76568f5f:
 
     # "You throw your head back as Oran coyly pummels your ass."
-    ""
+    "Ты откидываешь голову назад, пока Оран сильно лупит тебя по заднице."
 
 # game/scripts/events.rpy:4100
 translate russian tailservice_bear_bottom_88f17250:
 
     # "He's not humping you, he's fucking you, and you're loving every second of it."
-    ""
+    "Он не бьет тебя, он трахает тебя, и тебе нравится каждая секунда."
 
 # game/scripts/events.rpy:4102
 translate russian tailservice_bear_bottom_6ef7318c:
 
     # "His pace was not as breakneck as yours, but the power in his hips was phenomenal."
-    ""
+    "Его темп не был таким бешеным, как у тебя, но сила в его бедрах была просто феноменальной."
 
 # game/scripts/events.rpy:4104
 translate russian tailservice_bear_bottom_018d4a86:
 
     # Fen "Puh...pl-PLEASH!"
-    Fen ""
+    Fen "Фух...по-ПОЖАЛУЙСТА!"
 
 # game/scripts/events.rpy:4106
 translate russian tailservice_bear_bottom_6d3b626c:
 
     # Oran "Not yet, boy...I need my turn~"
-    Oran ""
+    Oran "Еще нет, пацан... Мне нужна своя очередь~"
 
 # game/scripts/events.rpy:4108
 translate russian tailservice_bear_bottom_16c0a4a4:
 
     # "You whimper with depravity as you are left feeling the climb trickle away, the prostate beating coming to an abrupt halt and going back to riding out the sensation of Oran plowing your hole."
-    ""
+    "Ты хнычешь от разврата, чувствуя, как из тебя уходит подъем, а биение простаты резко прекращается, и ты снова погружаешься в ощущения, которые испытывает Оран."
 
 # game/scripts/events.rpy:4110
 translate russian tailservice_bear_bottom_a00b2e4b:
 
     # "But you love it."
-    ""
+    "Но тебе это нравится."
 
 # game/scripts/events.rpy:4112
 translate russian tailservice_bear_bottom_cab4e74d:
 
     # "You love the way Oran was making you melt like ice in his hands."
-    ""
+    "Тебе нравится, как Оран заставляет тебя таять в его руках, словно лед."
 
 # game/scripts/events.rpy:4114
 translate russian tailservice_bear_bottom_68e1c3dc:
 
     # "In time, you perceive the world past looking up at the ceiling where your precum resided and look down."
-    ""
+    "Со временем ты воспринимаешь окружающий мир, глядя на потолок, где находилась твоя сперма, и смотришь вниз."
 
 # game/scripts/events.rpy:4116
 translate russian tailservice_bear_bottom_a9ce7814:
 
     # "His cock is in your guts, and only disappearing every time he pulls back, just to confirm any suspicions you may have about it."
-    ""
+    "Его член находится в твоих кишках и исчезает каждый раз, когда он отстраняется, чтобы подтвердить все твои подозрения на этот счет."
 
 # game/scripts/events.rpy:4118
 translate russian tailservice_bear_bottom_b259b7b8:
 
     # Fen "{i}'He's doing me in...!'{/i}"
-    Fen ""
+    Fen "{i}'Он меня...!'{/i}"
 
 # game/scripts/events.rpy:4120
 translate russian tailservice_bear_bottom_63cfad8c:
 
     # "Your foreshadowing was left to hang in the dank air as your tongue found its way out of your mouth, eyes clamped shut as the loop of feeling unfathomable bliss just to feel it ebb away enough racked your nerves."
-    ""
+    "Твои предчувствия так и остались висеть в промозглом воздухе, а язык так и норовил выскочить изо рта, глаза зажмурились, когда нервы затрещали от ощущения непостижимого блаженства, а потом и вовсе исчезли."
 
 # game/scripts/events.rpy:4122
 translate russian tailservice_bear_bottom_9a6451ea:
 
     # Oran "Here it comes...!"
-    Oran ""
+    Oran "Вот оно...!"
 
 # game/scripts/events.rpy:4124
 translate russian tailservice_bear_bottom_ed976723:
 
     # "Oran's warning felt like such a dismissive gesture that you did not pay heed to it, so when he lurched up and had your back off the bed, it took you for a surprise."
-    ""
+    "Предупреждение Орана показалось тебе настолько пренебрежительным жестом, что ты не обратил на него внимания, поэтому, когда он резко поднялся и оторвал тебя спиной от кровати, это застало тебя врасплох."
 
 # game/scripts/events.rpy:4129
 translate russian tailservice_bear_bottom_34512707:
 
     # Oran "URRRRRRNFH!" with vpunch
-    Oran "" with vpunch
+    Oran "РРРРНФ!" with vpunch
 
 # game/scripts/events.rpy:4132
 translate russian tailservice_bear_bottom_67e3ee64:
 
     # "The bear unloads, and an avalanche of chilly seed pours into your body, making you sigh as if it was like taking a cold bath after being out in the heat all day."
-    ""
+    "Медведь разгружается, и лавина прохладного семени вливается в твое тело, заставляя тебя вздохнуть, как будто ты принимаешь холодную ванну после целого дня, проведенного на жаре."
 
 # game/scripts/events.rpy:4134
 translate russian tailservice_bear_bottom_54b8833f:
 
     # "All manner of tension fades from you as it spreads in your stomach, leaving you to watch the smallest sign of storage within your belly form before Oran doubled over and nearly fell on you."
-    ""
+    "Все напряжение исчезает по мере того, как оно распространяется в животе, и ты наблюдаешь за тем, как в животе образуется малейший признак накопления, прежде чем Оран перевернется на спину и едва не упадет на тебя."
 
 # game/scripts/events.rpy:4136
 translate russian tailservice_bear_bottom_8b1918e2:
 
     # Oran "Whew...! Been a while...since my last client...was a fire affinity..."
-    Oran ""
+    Oran "Фух...! Давненько... с тех пор, как моим последним клиентом... был огненный аффинити..."
 
 # game/scripts/events.rpy:4140
 translate russian tailservice_bear_bottom_d2ee46ec:
 
     # "You only have half a second before Oran recovers on the spot, his hips right back to working in overdrive as his cock goes straight into the motions of fucking you once more."
-    ""
+    "У тебя есть всего полсекунды, прежде чем Оран восстановится на месте, и его бедра снова заработают в ускоренном режиме, а член снова начнет трахать тебя."
 
 # game/scripts/events.rpy:4143
 translate russian tailservice_bear_bottom_e5176f79:
 
     # Fen "AUUUUUGH!" with vpunch
-    Fen "" with vpunch
+    Fen "УУУУХ!" with vpunch
 
 # game/scripts/events.rpy:4145
 translate russian tailservice_bear_bottom_b4f06149:
 
     # "You were not ready for it, so you did not get to feel the cataclysmic way you came."
-    ""
+    "Ты не был готов к этому, поэтому не успел почувствовать, как наступил конец."
 
 # game/scripts/events.rpy:4147
 translate russian tailservice_bear_bottom_25d665c5:
 
     # "It was like white-hot fire was streaming out of you with how Oran managed to fuck you through your orgasm, unyielding despite how much you clenched over him."
-    ""
+    "Из тебя словно вырывался раскаленный огонь, когда Оран трахал тебя до самого оргазма, не поддаваясь, несмотря на то, как сильно ты сжимал его."
 
 # game/scripts/events.rpy:4149
 translate russian tailservice_bear_bottom_abd63258:
 
     # "{i}SPLRTCH SPLRSH SPLRTCH{/i}" with vpunch
-    "" with vpunch
+    "{i}СПЛРТЧ СПЛШ СПЛРТЧ{/i}" with vpunch
 
 # game/scripts/events.rpy:4151
 translate russian tailservice_bear_bottom_bfefabdd:
 
     # "Every other volley was sending more of your cum to the air, and rain down onto the bed and your body, seeing a glob hit Oran on the head yet not stop him from getting more out of you."
-    ""
+    "С каждым залпом в воздух поднималось все больше твоей спермы, которая дождем падала на кровать и твое тело."
 
 # game/scripts/events.rpy:4153
 translate russian tailservice_bear_bottom_8577237c:
 
     # Fen "Ahhh! O-o-oran! WAIT!" with vpunch
-    Fen "" with vpunch
+    Fen "Аххх! О-о-оран! СТОЙ!" with vpunch
 
 # game/scripts/events.rpy:4160
 translate russian tailservice_bear_bottom_2341e7bd:
 
     # "But he keeps going, and you feel the apex of your orgasm hit and silence EVERYTHING."
-    ""
+    "Но он продолжает, и ты чувствуешь, как апогей оргазма настигает тебя и заглушает ВСЕ."
 
 # game/scripts/events.rpy:4162
 translate russian tailservice_bear_bottom_e4794623:
 
     # "You cannot hear, see past the white, nor smell anything. All you can do is feel him fucking the cum out of you."
-    ""
+    "Ты не можешь ни слышать, ни видеть, ни чувствовать запахи. Все, что ты можешь, это чувствовать, как он трахает тебя до потери сознания."
 
 # game/scripts/events.rpy:4164
 translate russian tailservice_bear_bottom_5fb07de2:
 
     # "Pure nirvana at its finest."
-    ""
+    "Чистая нирвана в самом лучшем виде."
 
 # game/scripts/events.rpy:4170
 translate russian tailservice_bear_bottom_0204ee33:
 
     # "By the time you come to, you are still cumming, and you sink into a slump as Oran finally slows down, allowing you to actually ride out your orgasm."
-    ""
+    "К тому времени, когда ты приходишь в себя, ты все еще кончаешь, и ты погружаешься в оцепенение, когда Оран наконец замедляется, позволяя тебе действительно пережить свой оргазм."
 
 # game/scripts/events.rpy:4172
 translate russian tailservice_bear_bottom_3a11b469:
 
     # Fen "Oh man...this is a lot..."
-    Fen ""
+    Fen "О боже... это много..."
 
 # game/scripts/events.rpy:4174
 translate russian tailservice_bear_bottom_26918175:
 
     # "Oran playfully winks at your pouting face, before coming down to lick your nose."
-    ""
+    "Оран игриво подмигивает тебе, глядя на твою надутую мордочку, а затем спускается, чтобы лизнуть тебя в нос."
 
 # game/scripts/events.rpy:4176
 translate russian tailservice_bear_bottom_cd2628d7:
 
     # Fen "H-hey, that tickles!"
-    Fen ""
+    Fen "Эй, щекотно!"
 
 # game/scripts/events.rpy:4178
 translate russian tailservice_bear_bottom_d6759d0b:
 
     # Oran "Nothin' wrong with that."
-    Oran ""
+    Oran "Ничего плохого в этом нет."
 
 # game/scripts/events.rpy:4180
 translate russian tailservice_bear_bottom_e22d272b:
 
     # "It takes a bit considering your jerkish reactions, but you slowly come to find out that Oran was cleaning you off, ridding you of that sticky feeling from being all over your facial fur."
-    ""
+    "Потребовалось немного времени, чтобы понять, что Оран вытирал тебя, избавляя от ощущения липкости шерсти на лице."
 
 # game/scripts/events.rpy:4182
 translate russian tailservice_bear_bottom_476cf867:
 
     # "But you feel plenty in other areas, and no doubt Oran was messy too..."
-    ""
+    "Но в других областях ты чувствуешь себя прекрасно, и, несомненно, в Оране тоже было грязно..."
 
 # game/scripts/events.rpy:4184
 translate russian tailservice_bear_bottom_c584d2ab:
 
     # "Oran jolts with surprise when you reach in and bend his head towards your chest, dragging your tongue along the back of his neck since that's where your cum landed."
-    ""
+    "Оран вздрагивает от неожиданности, когда ты протягиваешь руку и наклоняешь его голову к своей груди, проводя языком по его шее, поскольку именно туда попала твоя сперма."
 
 # game/scripts/events.rpy:4186
 translate russian tailservice_bear_bottom_203f9733:
 
     # Oran "Well look at you. Here I was thinking you had no juice left in ya."
-    Oran ""
+    Oran "Посмотри на себя. А я-то думал, что в тебе не осталось ни капли сока."
 
 # game/scripts/events.rpy:4188
 translate russian tailservice_bear_bottom_aeeceda4:
 
     # Fen "It's...only right. You cleaned me off."
-    Fen ""
+    Fen "Это... правильно. Ты меня обчистил."
 
 # game/scripts/events.rpy:4190
 translate russian tailservice_bear_bottom_d1d2c6fe:
 
     # Oran "Guess ya got me there, boy. Take your time."
-    Oran ""
+    Oran "Похоже, ты меня раскусил, парень. Не торопись."
 
 # game/scripts/events.rpy:4194
 translate russian tailservice_bear_bottom_150ec5a5:
 
     # "after a few minutes of thorough swabbing, Oran is starting to look relatively clean."
-    ""
+    "После нескольких минут тщательного обтирания Оран начинает выглядеть относительно чистым."
 
 # game/scripts/events.rpy:4196
 translate russian tailservice_bear_bottom_b137cf2d:
 
     # "You spit out some stray fur clumps from your tongue."
-    ""
+    "Ты выплюнул несколько клочков меха с языка."
 
 # game/scripts/events.rpy:4198
 translate russian tailservice_bear_bottom_eeee423e:
 
     # Oran "Alright, that'll do, boy."
-    Oran ""
+    Oran "Ладно, хватит, парень."
 
 # game/scripts/events.rpy:4200
 translate russian tailservice_bear_bottom_b48ef1da:
 
     # "Oran finally pulled out, having felt so good being in there that it felt like you were being yanked away from bliss when his cock popped out of you."
-    ""
+    "Оран, наконец, вытащил его, и ему стало так хорошо внутри, что казалось, будто тебя выдергивают из блаженства, когда его член выскочил из тебя."
 
 # game/scripts/events.rpy:4202
 translate russian tailservice_bear_bottom_0a878e46:
 
     # "{i}SPLURT{/i}"
-    ""
+    "{i}СПЛУПТ{/i}"
 
 # game/scripts/events.rpy:4210
 translate russian tailservice_bear_bottom_d30dd0e2:
 
     # "A few globs exit from your yawning hole, coating your tail base and taint in fresh bear cum."
-    ""
+    "Несколько струек вытекают из твоего отверстия, покрывая основание хвоста и попку свежей медвежьей спермой."
 
 # game/scripts/events.rpy:4213
 translate russian tailservice_bear_bottom_6f113b96:
 
     # "The two of you cuddle for a while, basking in the afterglow."
-    ""
+    "Некоторое время вы вдвоем обнимаетесь, греясь в послевкусии."
 
 # game/scripts/events.rpy:4215
 translate russian tailservice_bear_bottom_b88b2d82:
 
     # "You spend a bit longer enjoying the feel of Oran's round belly before you're ready to head out."
-    ""
+    "Ты еще немного наслаждаешься ощущением круглого живота Орана, прежде чем отправиться в путь."
 
 # game/scripts/events.rpy:4217
 translate russian tailservice_bear_bottom_70455bf9:
 
     # "Once you've cleaned up as best as you can, you put on your clothes and prepare to leave."
-    ""
+    "Приведя себя в порядок, ты одеваешься и готовишься к выходу."
 
 # game/scripts/events.rpy:4219
 translate russian tailservice_bear_bottom_b1178d53:
 
     # Oran "It's 10 by the way. Usually 20 coins, but I can't let a cute guy like you feeling drained in your purse for that."
-    Oran ""
+    Oran "Между прочим, это 10. Обычно 20 монет, но я не могу позволить такому симпатичному парню, как ты, чувствовать себя опустошенным в своем кошельке из-за этого."
 
 # game/scripts/events.rpy:4221
 translate russian tailservice_bear_bottom_30a23684:
 
     # Fen "Th-thanks..."
-    Fen ""
+    Fen "С-спасибо..."
 
 # game/scripts/events.rpy:4225
 translate russian tailservice_bear_bottom_e572ddc2:
 
     # "Blushing the whole while, you hand over the money without any objection."
-    ""
+    "Покраснев, ты без возражений отдаешь деньги."
 
 # game/scripts/events.rpy:4227
 translate russian tailservice_bear_bottom_02ac6de5:
 
     # Oran "Thank you, thank you."
-    Oran ""
+    Oran "Спасибо, спасибо."
 
 # game/scripts/events.rpy:4229
 translate russian tailservice_bear_bottom_b0078d3f:
 
     # Fen "Of course."
-    Fen ""
+    Fen "Конечно."
 
 # game/scripts/events.rpy:4233
 translate russian tailservice_bear_bottom_2af781f6:
 
     # Oran "See you around, boy~"
-    Oran ""
+    Oran "Увидимся, парень~"
 
 # game/scripts/events.rpy:5008
 translate russian gunther_talk_topic5_2c1d7897:
 
     # Fen "Niall is back. I talked with him, and he should be fine now."
-    Fen ""
+    Fen "Найл вернулся. Я поговорил с ним, и теперь с ним все должно быть в порядке."
 
 # game/scripts/events.rpy:5010
 translate russian gunther_talk_topic5_f69bf630:
 
     # Gunther uw stern "Well, that's good news."
-    Gunther uw stern ""
+    Gunther uw stern "Что ж, это хорошая новость."
 
 # game/scripts/events.rpy:5012
 translate russian gunther_talk_topic5_310058dd:
 
     # Fen "Yes, it is. Don't you have something else to say?"
-    Fen ""
+    Fen "Да, это так. Тебе больше нечего сказать?"
 
 # game/scripts/events.rpy:5014
 translate russian gunther_talk_topic5_3bb2c3a3:
 
     # Gunther uw stresse4 "..."
-    Gunther uw stresse4 ""
+    Gunther uw stresse4 "..."
 
 # game/scripts/events.rpy:5016
 translate russian gunther_talk_topic5_9a171a8c:
 
     # Gunther "Sorry, I messed up that night."
-    Gunther ""
+    Gunther "Прости, я все испортил в тот вечер."
 
 # game/scripts/events.rpy:5018
 translate russian gunther_talk_topic5_ae716e7e:
 
     # Fen "And?"
-    Fen ""
+    Fen "И?"
 
 # game/scripts/events.rpy:5020
 translate russian gunther_talk_topic5_aa15a7f2:
 
     # Gunther "Thank you for covering for me."
-    Gunther ""
+    Gunther "Спасибо, что прикрыл меня."
 
 # game/scripts/events.rpy:5022
 translate russian gunther_talk_topic5_c5135c02:
 
     # Fen "Heh, I'll take it."
-    Fen ""
+    Fen "Хе, я согласен."
 
 # game/scripts/events.rpy:5024
 translate russian gunther_talk_topic5_88f47e85:
 
     # Fen "I know it's not entirely your fault. Niall was acting a bit off that night as well—he realized that too."
-    Fen ""
+    Fen "Я знаю, что это не совсем твоя вина. Найл тоже вел себя немного не так в тот вечер, он тоже это понял."
 
 # game/scripts/events.rpy:5026
 translate russian gunther_talk_topic5_06f695cb:
 
     # Fen "So... you said the stories he told about you were exaggerated."
-    Fen ""
+    Fen "Итак... ты сказал, что истории, которые он рассказывал о тебе, были преувеличены."
 
 # game/scripts/events.rpy:5028
 translate russian gunther_talk_topic5_cdeefe10:
 
     # Fen "How much of them are actually true?"
-    Fen ""
+    Fen "Насколько они соответствуют действительности?"
 
 # game/scripts/events.rpy:5030
 translate russian gunther_talk_topic5_fa15511a:
 
     # Gunther uw stern "Well, I was an adventurer once, that much is true."
-    Gunther uw stern ""
+    Gunther uw stern "Ну, когда-то я был авантюристом, это правда."
 
 # game/scripts/events.rpy:5032
 translate russian gunther_talk_topic5_dc9b049f:
 
     # Fen "Sure..."
-    Fen ""
+    Fen "Конечно..."
 
 # game/scripts/events.rpy:5034
 translate russian gunther_talk_topic5_a979de9e:
 
     # "It's clear Gunther isn't ready to share more for now."
-    ""
+    "Очевидно, что Гюнтер пока не готов делиться подробностями."
 
 # game/scripts/events.rpy:6211
 translate russian gunther_unlockcooking_c6063f88:
 
     # Gunther normal "Oh, what about it?"
-    Gunther normal ""
+    Gunther normal "О, а как же это?"
 
 # game/scripts/events.rpy:6215
 translate russian gunther_unlockcooking_68142c06:
 
     # Gunther smile "Really? The food has really started drawing more people over. That sounds like a grand idea."
-    Gunther smile ""
+    Gunther smile "Правда? Еда действительно стала привлекать больше людей. Это звучит как грандиозная идея."
 
 # game/scripts/events.rpy:6217
 translate russian gunther_unlockcooking_8920adc3:
 
     # Fen smile "Great! I'll need to get some more ingredients in the kitchen, a place to test new recipes, and someone to help test out new recipes."
-    Fen smile ""
+    Fen smile "Отлично! Мне нужно будет раздобыть еще несколько ингредиентов для кухни, место для тестирования новых рецептов и кого-то, кто будет помогать тестировать новые рецепты."
 
 # game/scripts/events.rpy:6220
 translate russian gunther_unlockcooking_289292c9:
 
     # Gunther grin "I'd be more than happy to assist you with tasting."
-    Gunther grin ""
+    Gunther grin "Я буду рад помочь тебе с дегустацией."
 
 # game/scripts/events.rpy:6222
 translate russian gunther_unlockcooking_98509b55:
 
     # Fen normal "Thanks, I'll need to spend more time in the kitchen."
-    Fen normal ""
+    Fen normal "Спасибо, мне нужно больше времени проводить на кухне."
 
 # game/scripts/events.rpy:6224
 translate russian gunther_unlockcooking_2ef76202:
 
     # Gunther normal "That's fine, just don't burn yourself out."
-    Gunther normal ""
+    Gunther normal "Это нормально, просто не утомляй себя."
 
 # game/scripts/events.rpy:6226
 translate russian gunther_unlockcooking_c9a7426a:
 
     # Fen "I can handle it, something about it feels so familiar."
-    Fen ""
+    Fen "Я справлюсь с этим, что-то в этом есть такое знакомое."
 
 # game/scripts/events.rpy:6228
 translate russian gunther_unlockcooking_2839f011:
 
     # Fen "Even though my mind may not remember, it seems my muscles do."
-    Fen ""
+    Fen "Даже если мой разум не помнит, кажется, что мои мышцы помнят."
 
 # game/scripts/events.rpy:6230
 translate russian gunther_unlockcooking_aac332c6:
 
     # Gunther "If it can help your memory, I'm all for it."
-    Gunther ""
+    Gunther "Если это поможет твоей памяти, я только за."
 
 # game/scripts/events.rpy:6232
 translate russian gunther_unlockcooking_4869c326:
 
     # Gunther stern "Just be sure not to waste too many ingredients, we don't have a large starting budget."
-    Gunther stern ""
+    Gunther stern "Только не переборщите с ингредиентами, ведь у нас не такой уж большой стартовый бюджет."
 
 # game/scripts/events.rpy:6234
 translate russian gunther_unlockcooking_17fd2438:
 
     # Fen smile "Understood."
-    Fen smile ""
+    Fen smile "Понял."
 
 # game/scripts/events.rpy:6236
 translate russian gunther_unlockcooking_5a64a48f:
 
     # Fen normal "Let's start with something easy and tasty."
-    Fen normal ""
+    Fen normal "Начнем с чего-нибудь простого и вкусного."
 
 # game/scripts/events.rpy:6238
 translate russian gunther_unlockcooking_e9e653e7:
 
     # Gunther normal "Yeah?"
-    Gunther normal ""
+    Gunther normal "Да?"
 
 # game/scripts/events.rpy:6462
 translate russian about_Niall_check_in_282fa8c0:
 
     # Niall normal "I'll be honest, I don't know how I would've kept going on without all these delicious snacks, if I decided to stay away."
-    Niall normal ""
+    Niall normal "Честно говоря, я не знаю, как бы я продолжал жить без всех этих вкусных закусок, если бы решил держаться подальше."
 
 # game/scripts/events.rpy:6466
 translate russian about_Niall_check_in_477ebdae:
 
     # Niall smile "Oh, yes~! That's what I'm talking about!"
-    Niall smile ""
+    Niall smile "О, да~! Вот о чем я говорю!"
 
 # game/scripts/events.rpy:6468
 translate russian about_Niall_check_in_8c07e966:
 
     # Niall normal "And you could look forward to great things in the future with me, too."
-    Niall normal ""
+    Niall normal "И ты тоже мог бы рассчитывать на великие дела в будущем вместе со мной."
 
 # game/scripts/events.rpy:6470
 translate russian about_Niall_check_in_98139f33:
 
     # Niall wink "I've already been putting in a heck of a lot more work toward my physical training, if you hadn't noticed."
-    Niall wink ""
+    Niall wink "Я и так уже приложил чертовски много усилий к своей физической подготовке, если ты еще не заметил."
 
 # game/scripts/events.rpy:6492
 translate russian about_Niall_check_in_b204f920:
 
     # Niall normal "Yeah, I can't have you needing to cheer me up like I'm some little kid every time I stumble and fall."
-    Niall normal ""
+    Niall normal "Ага, я не могу допустить, чтобы тебе приходилось подбадривать меня, как маленького ребенка, каждый раз, когда я спотыкаюсь и падаю."
 
 # game/scripts/events.rpy:6494
 translate russian about_Niall_check_in_18e49d7c:
 
     # Niall stern "The road upward's full of all kinds of unexpected twists and lows; it's that way no matter what it is you're trying to do."
-    Niall stern ""
+    Niall stern "Дорога наверх полна всевозможных неожиданных поворотов и падений; это именно тот путь, независимо от того, что ты пытаешься сделать."
 
 # game/scripts/events.rpy:6496
 translate russian about_Niall_check_in_670abd2c:
 
     # Niall normal "And for that, I need to be ready to face mine, whatever they are, and learn how to be confident enough to pick myself up again."
-    Niall normal ""
+    Niall normal "А для этого мне нужно быть готовым встретиться лицом к лицу со своими проблемами, какими бы они ни были, и научиться быть достаточно уверенным в себе, чтобы снова взять себя в руки."
 
 # game/scripts/events.rpy:6498
 translate russian about_Niall_check_in_1c882860:
 
     # Niall smile "That's the conclusion I came to after giving what happened before a whole lot of thought!"
-    Niall smile ""
+    Niall smile "К такому выводу я пришел, хорошенько поразмыслив над тем, что произошло раньше!"
 
 # game/scripts/events.rpy:6500
 translate russian about_Niall_check_in_4fb2bed2:
 
     # Fen "That's a pretty good mindset you got there, actually. Colour me impressed."
-    Fen ""
+    Fen "Ух ты, на самом деле, у тебя очень хорошее мышление. Я впечатлен."
 
 # game/scripts/events.rpy:6506
 translate russian about_Niall_check_in_ea37cf01:
 
     # Niall normal "Thanks, [name]. You're a really awesome guy."
-    Niall normal ""
+    Niall normal "Спасибо, [name]. Ты потрясающий парень."
 
 # game/scripts/events.rpy:6509
 translate russian about_Niall_check_in_18cb979e:
 
     # Niall smile "I'm so grateful you're willing to be my inspiration. I swear I won't let you down!"
-    Niall smile ""
+    Niall smile "Я так благодарен тебе за то, что ты готов вдохновлять меня. Клянусь, я тебя не подведу!"
 
 # game/scripts/events.rpy:6517
 translate russian about_Niall_check_in_73848ecd:
 
     # Niall stern "Hey, [name]..."
-    Niall stern ""
+    Niall stern "Хей, [name]..."
 
 # game/scripts/events.rpy:6549
 translate russian about_Niall_hug_friends_d3e4324d:
 
     # Niall "I just wanted to ask you about it to make sure, though. You get it, yeah?"
-    Niall ""
+    Niall "Я просто хотел спросить тебя об этом, чтобы убедиться. Ты понимаешь, да?"
 
 # game/scripts/events.rpy:6553
 translate russian about_Niall_hug_friends_5b3bd4c4:
 
     # Niall normal "Cool."
-    Niall normal ""
+    Niall normal "Круто."
 
 # game/scripts/events.rpy:6555
 translate russian about_Niall_hug_friends_23728c25:
 
     # Niall "But anyway, I don't plan on making you need to cheer me up like I'm some little kid like back there every time I stumble and fall."
-    Niall ""
+    Niall "Но в любом случае, я не собираюсь заставлять тебя подбадривать меня, как будто я какой-то маленький ребенок, как тогда, каждый раз, когда я спотыкаюсь и падаю."
 
 # game/scripts/events.rpy:6557
 translate russian about_Niall_hug_friends_18e49d7c:
 
     # Niall stern "The road upward's full of all kinds of unexpected twists and lows; it's that way no matter what it is you're trying to do."
-    Niall stern ""
+    Niall stern "Дорога наверх полна всевозможных неожиданных поворотов и падений; это именно тот путь, независимо от того, что ты пытаешься сделать."
 
 # game/scripts/events.rpy:6559
 translate russian about_Niall_hug_friends_670abd2c:
 
     # Niall normal "And for that, I need to be ready to face mine, whatever they are, and learn how to be confident enough to pick myself up again."
-    Niall normal ""
+    Niall normal "А для этого мне нужно быть готовым встретиться лицом к лицу со своими проблемами, какими бы они ни были, и научиться быть достаточно уверенным в себе, чтобы снова взять себя в руки."
 
 # game/scripts/events.rpy:6561
 translate russian about_Niall_hug_friends_1c882860:
 
     # Niall smile "That's the conclusion I came to after giving what happened before a whole lot of thought!"
-    Niall smile ""
+    Niall smile "К такому выводу я пришел, хорошенько поразмыслив над тем, что произошло раньше!"
 
 # game/scripts/events.rpy:6563
 translate russian about_Niall_hug_friends_4fb2bed2:
 
     # Fen "That's a pretty good mindset you got there, actually. Colour me impressed."
-    Fen ""
+    Fen "Ух ты, на самом деле, у тебя очень хорошее мышление. Я впечатлен."
 
 # game/scripts/events.rpy:6565
 translate russian about_Niall_hug_friends_e5db649d:
 
     # Fen "Well, just know that I'm always open to hear whatever you might need me to, if you're ever feeling unsure about something again."
-    Fen ""
+    Fen "Что ж, просто знай, что я всегда готов выслушать все, что тебе может понадобиться, если ты когда-нибудь снова почувствуешь неуверенность в чем-то."
 
 # game/scripts/events.rpy:6569
 translate russian about_Niall_hug_friends_ea37cf01:
 
     # Niall normal "Thanks, [name]. You're a really awesome guy."
-    Niall normal ""
+    Niall normal "Спасибо, [name]. Ты потрясающий парень."
 
 # game/scripts/events.rpy:6572
 translate russian about_Niall_hug_friends_83d669af:
 
     # Niall "I'm so grateful you're willing to be my inspiration. I swear I won't let you down!"
-    Niall ""
+    Niall "Я так благодарен тебе за то, что ты готов вдохновлять меня. Клянусь, я тебя не подведу!"
 
 # game/scripts/events.rpy:6584
 translate russian about_Niall_hug_type_fbc2f0e0:
 
     # Niall stresse "Damn...I was afraid it might've been like that. I'm so sorry."
-    Niall stresse ""
+    Niall stresse "Черт...Я боялся, что все могло быть именно так. Мне так жаль."
 
 # game/scripts/events.rpy:6586
 translate russian about_Niall_hug_type_8b89cf62:
 
     # Fen "Sorry? What for? You're a great guy!"
-    Fen ""
+    Fen "Извини? За что? Ты отличный парень!"
 
 # game/scripts/events.rpy:6588
 translate russian about_Niall_hug_type_a01f8596:
 
     # Fen "Always so bright and charming, it's like I can't get enough."
-    Fen ""
+    Fen "Всегда такой яркий и обаятельный, я никак не могу нарадоваться."
 
 # game/scripts/events.rpy:6590
 translate russian about_Niall_hug_type_7690a6c9:
 
     # Fen "It even had me wondering, if..."
-    Fen ""
+    Fen "Мне даже стало интересно, если..."
 
 # game/scripts/events.rpy:6592
 translate russian about_Niall_hug_type_2b35d98e:
 
     # Fen "Heh, We might, maybe end up something more than friends someday...?"
-    Fen ""
+    Fen "Может быть, когда-нибудь мы станем больше, чем друзьями...?"
 
 # game/scripts/events.rpy:6602
 translate russian about_Niall_hug_type_11bbf205:
 
     # Fen "Oh! Oh, no! Niall, I take it all back! I'm so sorry!"
-    Fen ""
+    Fen "О! О, нет! Найл, я беру свои слова обратно! Мне так жаль!"
 
 # game/scripts/events.rpy:6637
 translate russian about_Niall_hug_unsure_7239f3b2:
 
     # Fen "And...I'm just really happy it worked, I guess. Heh-heh!"
-    Fen ""
+    Fen "И... Я просто очень рад, что это сработало. Хе-хе!"
 
 # game/scripts/events.rpy:6653
 translate russian about_Niall_hug_unsure_92deec07:
 
     # Niall normal "Speaking of which, my plan is to make it so you don't need to cheer me up every time I stumble and fall like you did back there."
-    Niall normal ""
+    Niall normal "Кстати говоря, мой план состоит в том, чтобы сделать так, чтобы тебе не нужно было подбадривать меня каждый раз, когда я спотыкаюсь и падаю, как это делал ты тогда."
 
 # game/scripts/events.rpy:6657
 translate russian about_Niall_hug_unsure_e8ee8e98:
 
     # Niall stern "It's just that the road upward's full of all kinds of unexpected twists and lows; it's that way no matter what it is you might be trying to do."
-    Niall stern ""
+    Niall stern "Просто дорога наверх полна всевозможных неожиданных поворотов и падений; это именно тот путь, что бы ты ни пытался сделать."
 
 # game/scripts/events.rpy:6659
 translate russian about_Niall_hug_unsure_670abd2c:
 
     # Niall normal "And for that, I need to be ready to face mine, whatever they are, and learn how to be confident enough to pick myself up again."
-    Niall normal ""
+    Niall normal "А для этого мне нужно быть готовым встретиться лицом к лицу со своими проблемами, какими бы они ни были, и научиться быть достаточно уверенным в себе, чтобы снова взять себя в руки."
 
 # game/scripts/events.rpy:6661
 translate russian about_Niall_hug_unsure_1c882860:
 
     # Niall smile "That's the conclusion I came to after giving what happened before a whole lot of thought!"
-    Niall smile ""
+    Niall smile "К такому выводу я пришел, хорошенько поразмыслив над тем, что произошло раньше!"
 
 # game/scripts/events.rpy:6663
 translate russian about_Niall_hug_unsure_4fb2bed2:
 
     # Fen "That's a pretty good mindset you got there, actually. Colour me impressed."
-    Fen ""
+    Fen "Ух ты, на самом деле, у тебя очень хорошее мышление. Я впечатлен."
 
 # game/scripts/events.rpy:6669
 translate russian about_Niall_hug_unsure_ea37cf01:
 
     # Niall normal "Thanks, [name]. You're a really awesome guy."
-    Niall normal ""
+    Niall normal "Спасибо, [name]. Ты потрясающий парень."
 
 # game/scripts/events.rpy:6672
 translate russian about_Niall_hug_unsure_18cb979e:
 
     # Niall smile "I'm so grateful you're willing to be my inspiration. I swear I won't let you down!"
-    Niall smile ""
+    Niall smile "Я так благодарен тебе за то, что ты готов вдохновлять меня. Клянусь, я тебя не подведу!"
 
 # game/scripts/events.rpy:7124
 translate russian niall_bond_02pre_8e2d9c7f:
 
     # "You wake up to the warm sunlight gently illuminating your face, coaxing you from your sleep."
-    ""
+    "Ты просыпаешься от теплого солнечного света, мягко освещающего твое лицо и пробуждающего тебя ото сна."
 
 # game/scripts/events.rpy:7127
 translate russian niall_bond_02pre_0760d4ef:
@@ -34659,4951 +34659,4951 @@ translate russian niall_bond_02pre_0760d4ef:
 translate russian niall_bond_02pre_a5d3c1a9:
 
     # "Just as you're slipping on your clothes, a familiar sound catches your attention from the street below."
-    ""
+    "Как раз в тот момент, когда ты натягиваешь на себя одежду, с улицы внизу доносится знакомый звук."
 
 # game/scripts/events.rpy:7133
 translate russian niall_bond_02pre_7b821b4c:
 
     # "Curious, you head outside to investigate."
-    ""
+    "Охваченный любопытством, ты выходишь на улицу и начинаешь исследовать."
 
 # game/scripts/events.rpy:7139
 translate russian niall_bond_02pre_68b00141:
 
     # "There, in the early morning light, you spot Niall."
-    ""
+    "Там, в свете раннего утра, ты замечаешь Найла."
 
 # game/scripts/events.rpy:7141
 translate russian niall_bond_02pre_05ca0dcf:
 
     # "He's busy collecting dried leaves and dirt into a large sack, his movements energetic as always."
-    ""
+    "Он занят тем, что собирает сухие листья и грязь в большой мешок, его движения энергичны, как всегда."
 
 # game/scripts/events.rpy:7148
 translate russian niall_bond_02pre_e392e1fa:
 
     # "You lean over to help him gather the remaining leaves and dirt."
-    ""
+    "Ты наклоняешься, чтобы помочь ему собрать оставшиеся листья и грязь"
 
 # game/scripts/events.rpy:7150
 translate russian niall_bond_02pre_a3076eef:
 
     # "It's a bit of a struggle to get everything back into the sack, and by the time you're done, your hands are covered in dust and grime."
-    ""
+    "Укладывать все обратно в мешок - та еще морока, а к тому времени, как ты закончишь, твои руки будут покрыты пылью и грязью."
 
 # game/scripts/events.rpy:7152
 translate russian niall_bond_02pre_77d371c7:
 
     # "You'll definitely need to wash up after this."
-    ""
+    "После этого тебе обязательно нужно будет помыться."
 
 # game/scripts/events.rpy:7156
 translate russian niall_bond_02pre_114e57c3:
 
     # "Not wanting to get your hands dirty, you step back and watch as Niall finishes up the rest on his own."
-    ""
+    "Не желая пачкать руки, ты отходишь в сторону и смотришь, как Найл доделывает остальное сам."
 
 # game/scripts/events.rpy:7163
 translate russian niall_bond_02pre_028bc699:
 
     # Fen "What's going on here?"
-    Fen ""
+    Fen "Что здесь происходит?"
 
 # game/scripts/events.rpy:7167
 translate russian niall_bond_02pre_21a101df:
 
     # Niall "Phew..."
-    Niall ""
+    Niall "Фух..."
 
 # game/scripts/events.rpy:7172
 translate russian niall_bond_02pre_631e52c9:
 
     # Niall smile "Thank you for the help, [name]!"
-    Niall smile ""
+    Niall smile "Спасибо за помощь, [name]!"
 
 # game/scripts/events.rpy:7177
 translate russian niall_bond_02pre_d2673675:
 
     # Niall normal "I happened to trip and dropped this sack. Sorry it had to happen right in front of your place."
-    Niall normal ""
+    Niall normal "Я случайно споткнулся и уронил этот мешок. Жаль, что это случилось прямо перед вашим заведением."
 
 # game/scripts/events.rpy:7180
 translate russian niall_bond_02pre_01930c7b:
 
     # Niall "But look, it's all cleaned up now! Not a single stray leaf left!"
-    Niall ""
+    Niall "Но посмотри, теперь все убрано! Ни одного бродячего листика!"
 
 # game/scripts/events.rpy:7182
 translate russian niall_bond_02pre_b83cb46c:
 
     # Fen normal "So... what's with the sack?"
-    Fen normal ""
+    Fen normal "Так... что это за мешок?"
 
 # game/scripts/events.rpy:7184
 translate russian niall_bond_02pre_9d369d21:
 
     # Niall normal "Oh, this? I'm just doing my quest! Helping haul this dirt outside the walls."
-    Niall normal ""
+    Niall normal "О, это? Я просто выполняю свое задание! Помогаю таскать эту грязь за стены."
 
 # game/scripts/events.rpy:7186
 translate russian niall_bond_02pre_708e776c:
 
     # Niall "The guild hands out these kinds of quests sometimes, and I'm happy to take them on."
-    Niall ""
+    Niall "Гильдия иногда выдает подобные задания, и я с удовольствием берусь за них."
 
 # game/scripts/events.rpy:7188
 translate russian niall_bond_02pre_eecfea6d:
 
     # Fen "I see, I see. So even cleaning the town can be a quest. Interesting."
-    Fen ""
+    Fen "Понял, понял. Значит, даже уборка города может быть заданием. Интересно."
 
 # game/scripts/events.rpy:7190
 translate russian niall_bond_02pre_e8ed02b0:
 
     # Niall smile "Yep! Like I said before, I gotta start somewhere! Clearing these small quests will help me get access to tougher ones sooner!"
-    Niall smile ""
+    Niall smile "Ага! Как я уже говорил, надо с чего-то начинать! Выполнив эти небольшие задания, я быстрее получу доступ к более сложным!"
 
 # game/scripts/events.rpy:7192
 translate russian niall_bond_02pre_917db613:
 
     # Niall normal "Plus, keeping the town nice and clean keeps the adventurous spirit alive, don't you think?"
-    Niall normal ""
+    Niall normal "Кроме того, поддержание чистоты в городе способствует сохранению духа приключений, не так ли?"
 
 # game/scripts/events.rpy:7194
 translate russian niall_bond_02pre_5245e94b:
 
     # Fen smile "Yeah, you're right."
-    Fen smile ""
+    Fen smile "Да, ты прав."
 
 # game/scripts/events.rpy:7196
 translate russian niall_bond_02pre_eefbb71e:
 
     # Fen normal "Well, keep up the good spirit. I'll see you tonight, right?"
-    Fen normal ""
+    Fen normal "Продолжай в том же духе. Увидимся вечером, верно?"
 
 # game/scripts/events.rpy:7198
 translate russian niall_bond_02pre_359dc0e7:
 
     # Niall normal "Yeah! See you tonight!"
-    Niall normal ""
+    Niall normal "Да! Увидимся вечером!"
 
 # game/scripts/events.rpy:7200
 translate russian niall_bond_02pre_63faf425:
 
     # Niall wink "Niall, legend in the making, won't let you down!"
-    Niall wink ""
+    Niall wink "Найл, легенда в становлении, не подведет тебя!"
 
 # game/scripts/events.rpy:7207
 translate russian niall_bond_02pre_76f9f08a:
 
     # "He waves enthusiastically and continues down the street, lugging the full sack behind him."
-    ""
+    "Он с энтузиазмом машет рукой и идет дальше по улице, таща за собой полный мешок."
 
 # game/scripts/events.rpy:7210
 translate russian niall_bond_02pre_43f2b5e3:
 
     # "You can't help but feel uplifted just watching him go. His upbeat and kind energy is contagious."
-    ""
+    "Невозможно не почувствовать подъем настроения, наблюдая за его работой. Его жизнерадостная и добрая энергия заразительна."
 
 # game/scripts/events.rpy:7212
 translate russian niall_bond_02pre_3676abf8:
 
     # Fen "Now... I should get started on my work too."
-    Fen ""
+    Fen "А теперь... Мне тоже пора приступать к работе."
 
 # game/scripts/events.rpy:7418
 translate russian niall_bond_02_fa9be087:
 
     # Gunther "{size=25}The boy's exaggerating a bit.{/size}"
-    Gunther ""
+    Gunther "{size=25}Мальчик немного преувеличивает.{/size}"
 
 # game/scripts/events.rpy:7447
 translate russian niall_bond_02_2ed8ec13:
 
     # Niall star "With this special Orichalcum relic, I plan on someday taking on a quest that will make me as mythic and brave as you."
-    Niall star ""
+    Niall star "С этой особой реликвией из Орихалка я планирую однажды отправиться на поиски, которые сделают меня таким же мифическим и храбрым, как ты."
 
 # game/scripts/events.rpy:7454
 translate russian niall_bond_02_9f84c840:
 
     # Fen grin "Oh, man. That's such a wild dream! But that's so exactly like you, Niall."
-    Fen grin ""
+    Fen grin "О, боже. Это такой дикий сон! Но это так похоже на тебя, Найл."
 
 # game/scripts/events.rpy:7456
 translate russian niall_bond_02_79153ab0:
 
     # Niall wink "Mhm. I know right. But hey, you gotta be willing to reach for the stars if you want people to start believing that's where you belong, right?"
-    Niall wink ""
+    Niall wink "Мхм. Я знаю. Но ты должен быть готов дотянуться до звезд, если хочешь, чтобы люди поверили, что тебе там самое место, верно?"
 
 # game/scripts/events.rpy:7460
 translate russian niall_bond_02_9f6f57aa:
 
     # Fen normal "How about it, Gunther? You think Niall's showing what it takes to follow in your big footsteps?"
-    Fen normal ""
+    Fen normal "Как тебе это, Гюнтер? Думаешь, Найл показывает, что нужно, чтобы пойти по твоим стопам?"
 
 # game/scripts/events.rpy:7462
 translate russian niall_bond_02_d58afb4e:
 
     # Gunther stresse4 "..."
-    Gunther stresse4 ""
+    Gunther stresse4 "..."
 
 # game/scripts/events.rpy:7472
 translate russian niall_bond_02_f3338b1e:
 
     # Gunther stern2 "We're done here for tonight."
-    Gunther stern2 ""
+    Gunther stern2 "На сегодня мы закончили."
 
 # game/scripts/events.rpy:7482
 translate russian niall_bond_02_82992c9d:
 
     # Fen "I can't tell exactly how much of what he said about you was true, but you shouldn't be so dismissive."
-    Fen ""
+    Fen "Я не могу точно сказать, насколько то, что он говорил о тебе, было правдой, но тебе не стоит быть таким пренебрежительным."
 
 # game/scripts/events.rpy:7484
 translate russian niall_bond_02_879be38f:
 
     # Gunther stern "Sorry, tavern's closed, and I've got some urgent business I just remembered I need to tend to."
-    Gunther stern ""
+    Gunther stern "Прости, таверна закрыта, а у меня есть кое-какие срочные дела, о которых я только что вспомнил."
 
 # game/scripts/events.rpy:7516
 translate russian niall_bond_02_72530a15:
 
     # Gunther stern2 "I'm sorry... but at the end of the day, all these 'heroes' of yours are just foolish folks doing whatever they can to survive."
-    Gunther stern2 ""
+    Gunther stern2 "Мне жаль... но, в конце концов, все эти твои 'герои' просто глупые люди, делающие все возможное, чтобы выжить."
 
 # game/scripts/events.rpy:7525
 translate russian niall_bond_02_2a07025f:
 
     # Niall "[name]...I want to leave."
-    Niall ""
+    Niall "[name]...Я хочу уйти."
 
 # game/scripts/events.rpy:7531
 translate russian niall_bond_02_ca34fa7a:
 
     # Niall cry2 "{sc=1.5}{b}{size=50}I said I want to leave!!!{/size}{/b}{sc}"
-    Niall cry2 ""
+    Niall cry2 "{sc=1.5}{b}{size=50}Я сказал, что хочу уйти!!!{/size}{/b}{sc}"
 
 # game/scripts/events.rpy:7567
 translate russian niall_bond_02_0991b6c9:
 
     # Gunther stern2 "But I couldn't bring myself to crush his poor, little dreams like that."
-    Gunther stern2 ""
+    Gunther stern2 "Но я не мог заставить себя вот так разрушить его бедные, маленькие мечты."
 
 # game/scripts/events.rpy:7569
 translate russian niall_bond_02_69ed9df6:
 
     # Fen stern "Niall waited just for you all this time, though. I think the main reason why he came here in the first place was because of you."
-    Fen stern ""
+    Fen stern "Найл ждал только тебя все это время. Я думаю, что главная причина, по которой он пришел сюда, в первую очередь, была из-за тебя."
 
 # game/scripts/events.rpy:7575
 translate russian niall_bond_02_4f7fff0b:
 
     # Gunther stern "Just drop it, pup. It's for the best that stuff like this stays between me and the floorboards."
-    Gunther stern ""
+    Gunther stern "Просто брось это, щенок. Это к лучшему, что такие вещи остаются между мной и полом."
 
 # game/scripts/events.rpy:7581
 translate russian niall_bond_02_0b0be86c:
 
     # Gunther stern2 "I've seen guys of his type before; they don't give up on the people who help them out so easily..."
-    Gunther stern2 ""
+    Gunther stern2 "Я и раньше встречал парней такого типа; они не отказываются от людей, которые так легко им помогают..."
 
 # game/scripts/events.rpy:7585
 translate russian niall_bond_02_8b0d629b:
 
     # Gunther stern "Yep. Oh, but don't worry about finishing the rest of closing for tonight. I'll get to it in a minute."
-    Gunther stern ""
+    Gunther stern "Ага. О, но не беспокойся о том, чтобы закончить с закрытием на сегодня. Я вернусь к этому через минуту."
 
 # game/scripts/events.rpy:7593
 translate russian niall_bond_02_7374af3a:
 
     # Gunther stresse4 "...Ugh. Fine, then. Good night."
-    Gunther stresse4 ""
+    Gunther stresse4 "...Ух. Ладно. Спокойной ночи."
 
 # game/scripts/events.rpy:7597
 translate russian niall_bond_02_c70b90c2:
 
     # Fen "Good night..."
-    Fen ""
+    Fen "Спокойной ночи..."
 
 # game/scripts/events.rpy:7614
 translate russian niall_bond_02_c06afe6f:
 
     # "Instead, you sneak out the back door and make your way through the streets in the direction where Niall's scent lingers."
-    ""
+    "Вместо этого ты крадешься через заднюю дверь и пробираешься по улицам в том направлении, где витает запах Найла."
 
 # game/scripts/events.rpy:7624
 translate russian niall_bond_02_bfa30080:
 
     # "He jolts as soon as he hears you calling and then scrambles to his feet, looking like he might try to run away again." with vpunch
-    "" with vpunch
+    "Он вздрагивает, как только слышит, что ты его зовешь, а затем вскакивает на ноги с таким видом, словно вот-вот снова попытается убежать." with vpunch
 
 # game/scripts/events.rpy:7644
 translate russian niall_bond_02_83d9acd9:
 
     # Niall "Yeah? And how would you know?"
-    Niall ""
+    Niall "Ага? А тебе откуда знать? Ты ведь никогда не был искателем приключений, верно?"
 
 # game/scripts/events.rpy:7650
 translate russian niall_bond_02_47f390ea:
 
     # Niall "Many ends up killed and eaten by monsters at some point, or use their wealth and power to become tyrants, or get corrupted by fame..."
-    Niall ""
+    Niall "Многие в конце концов оказываются убиты и съедены чудовищами, или используют свое богатство и власть, чтобы стать тиранами, или развращены славой..."
 
 # game/scripts/events.rpy:7652
 translate russian niall_bond_02_1dfc5642:
 
     # Niall cry2 "And he knew... Just from one look at me, he knew I'd never ever get to be as great as him."
-    Niall cry2 ""
+    Niall cry2 "И он знал... Только взглянув на меня, он понял, что я никогда не стану таким же великим, как он."
 
 # game/scripts/events.rpy:7656
 translate russian niall_bond_02_e3f57691:
 
     # Niall cry2 "Almost no one does! It just makes sense!" with vpunch
-    Niall cry2 "" with vpunch
+    Niall cry2 "Почти никто этого не делает! В этом просто есть смысл!" with vpunch
 
 # game/scripts/events.rpy:7658
 translate russian niall_bond_02_09fba5b4:
 
     # Niall "It...It just makes stupid sense... An–And I couldn't see it!"
-    Niall ""
+    Niall "Это... Это просто глупо... И я не мог этого видеть!"
 
 # game/scripts/events.rpy:7660
 translate russian niall_bond_02_4ef732f5:
 
     # Niall cry "I couldn't see it..."
-    Niall cry ""
+    Niall cry "Я не мог этого понять..."
 
 # game/scripts/events.rpy:7662
 translate russian niall_bond_02_b33adb6d_1:
 
     # Fen "..."
-    Fen ""
+    Fen "..."
 
 # game/scripts/events.rpy:7664
 translate russian niall_bond_02_9d9cb544:
 
     # Fen "Niall, if being an adventurer just isn't the right calling for you. It's also ok."
-    Fen ""
+    Fen "Найл, если быть искателем приключений - это не то, что тебе нужно. Это тоже нормально."
 
 # game/scripts/events.rpy:7666
 translate russian niall_bond_02_4c7f6194:
 
     # Fen "You can find lots of other things to put your passion towards."
-    Fen ""
+    Fen "Ты можешь найти множество других занятий, к которым можно приложить свою страсть."
 
 # game/scripts/events.rpy:7668
 translate russian niall_bond_02_5367eaa4:
 
     # Niall cry2 "But whose call is it, then!?"
-    Niall cry2 ""
+    Niall cry2 "Но чей же это выбор?"
 
 # game/scripts/events.rpy:7670
 translate russian niall_bond_02_73a17101:
 
     # Niall "What is it even supposed to take to be the right kind of person for going out and doing heroic works in the world?" with vpunch
-    Niall "" with vpunch
+    Niall "Что вообще нужно для того, чтобы стать таким, который будет совершать героические поступки в мире?" with vpunch
 
 # game/scripts/events.rpy:7676
 translate russian niall_bond_02_8f071185:
 
     # Niall cry "Every day, I doubt myself—questioning the things I do and the choices I make..."
-    Niall cry ""
+    Niall cry "Каждый день я сомневаюсь в себе, подвергаю сомнению свои поступки и выбор, которые я делаю..."
 
 # game/scripts/events.rpy:7695
 translate russian niall_bond_02_12d77c38:
 
     # Niall sweat "So totally different from how I always try to be, because I know that people might hate me if they knew I actually thought like that."
-    Niall sweat ""
+    Niall sweat "Я совершенно не такой, каким всегда стараюсь быть, потому что знаю, что люди могут возненавидеть меня, если узнают, что я действительно так думаю."
 
 # game/scripts/events.rpy:7697
 translate russian niall_bond_02_a45ab6d5:
 
     # Niall stresse "You... You can hate me too now for it, if you want."
-    Niall stresse ""
+    Niall stresse "Ты... Ты можешь ненавидеть меня за это, если хочешь."
 
 # game/scripts/events.rpy:7708
 translate russian niall_bond_02_6a14ea29:
 
     # Fen stern "I never will for something like this."
-    Fen stern ""
+    Fen stern "Я никогда не сделаю этого."
 
 # game/scripts/events.rpy:7712
 translate russian niall_bond_02_6b6ba1ed:
 
     # Fen normal "Because I believe in you."
-    Fen normal ""
+    Fen normal "Потому что я верю в тебя."
 
 # game/scripts/events.rpy:7717
 translate russian niall_bond_02_73417dee:
 
     # Fen "All those kindness and dreams of yours couldn't have just been for nothing; not when you haven't even really tried."
-    Fen ""
+    Fen "Не может быть, чтобы вся твоя доброта и мечты были напрасными, ведь ты даже не пытался."
 
 # game/scripts/events.rpy:7726
 translate russian niall_bond_02_d48945fd:
 
     # Fen smile "You could say that hearing all your stories ended up inspiring me in just that kind of way."
-    Fen smile ""
+    Fen smile "Можно сказать, что выслушивание всех твоих историй в итоге вдохновило меня именно на это."
 
 # game/scripts/events.rpy:7728
 translate russian niall_bond_02_a918b3f7:
 
     # Fen normal "And it wouldn't be very heroic of you to just turn your back on an admirer who's still waiting to hear all about your first great deed, now would it?"
-    Fen normal ""
+    Fen normal "И было бы не очень героично с твоей стороны просто повернуться спиной к поклоннику, который все еще ждет рассказа о твоем первом великом подвиге, не так ли?"
 
 # game/scripts/events.rpy:7775
 translate russian about_Niall_pat_ed26dae7:
 
     # Niall normal "Hehe..."
-    Niall normal ""
+    Niall normal "Хехе..."
 
 # game/scripts/events.rpy:7786
 translate russian about_Niall_pat_2aea8cdd:
 
     # Niall smile "Hahaha! Gee, you really think?"
-    Niall smile ""
+    Niall smile "Хахаха! Боже, ты действительно так думаешь?"
 
 # game/scripts/events.rpy:7788
 translate russian about_Niall_pat_71d60463:
 
     # Niall normal "Well, damn. Maybe, eventually, I'll make it to the point where even Guther can't ignore me."
-    Niall normal ""
+    Niall normal "Черт. Может, в конце концов, я доживу до того момента, когда даже Гюнтер не сможет меня игнорировать."
 
 # game/scripts/events.rpy:7791
 translate russian about_Niall_pat_897ee2c7:
 
     # Niall smile "Or maybe, next time, I'll be the one who gets to shoot {i} him {/i} down for an interview. How's about that? Haha!"
-    Niall smile ""
+    Niall smile "Или, может быть, в следующий раз я буду тем, кто пригласит {i}его{/i} на интервью. Как насчет этого? Хаха!"
 
 # game/scripts/events.rpy:7793
 translate russian about_Niall_pat_577a2252:
 
     # Fen smile "Ahaha!"
-    Fen smile ""
+    Fen smile "Ахаха!"
 
 # game/scripts/events.rpy:7795
 translate russian about_Niall_pat_ba65256f:
 
     # Niall normal "Thanks, [name]. It was stupid of me to think that I was all alone just because of this."
-    Niall normal ""
+    Niall normal "Спасибо, [name]. Глупо было думать, что я был совсем один только из-за этого."
 
 # game/scripts/events.rpy:7797
 translate russian about_Niall_pat_04b8f519:
 
     # Niall stern "And... I get it, Gunther was just worried about me. He know I'm still inexperienced."
-    Niall stern ""
+    Niall stern "И... Я понял, Гюнтер просто беспокоился обо мне. Он знает, что я еще неопытен."
 
 # game/scripts/events.rpy:7801
 translate russian about_Niall_pat_15a1ff34:
 
     # Fen normal "Yeah, he can be a bit harsh with his words sometimes. Today seems to be one of those days."
-    Fen normal ""
+    Fen normal "Да, иногда он бывает резковат в выражениях. Похоже, сегодня один из таких дней."
 
 # game/scripts/events.rpy:7803
 translate russian about_Niall_pat_19c4f40f:
 
     # Niall wink "I should've known—it's in all the stories."
-    Niall wink ""
+    Niall wink "Я должен был догадаться — об этом пишут во всех историях."
 
 # game/scripts/events.rpy:7807
 translate russian about_Niall_pat_1c6626e4:
 
     # Niall smile "Mhm, for sure! You can count on it."
-    Niall smile ""
+    Niall smile "Угу, конечно! Ты можешь на это рассчитывать."
 
 # game/scripts/events.rpy:7809
 translate russian about_Niall_pat_848e4107:
 
     # Niall normal "After all, if you're gonna be so excited to hear tales of my valiant exploits once they're made..."
-    Niall normal ""
+    Niall normal "В конце концов, если тебе так хочется послушать рассказы о моих доблестных подвигах, когда они совершатся..."
 
 # game/scripts/events.rpy:7886
 translate russian about_Niall_hug_f901812b:
 
     # Niall "Does this mean that you..."
-    Niall ""
+    Niall "Это значит, что ты..."
 
 # game/scripts/events.rpy:7890
 translate russian about_Niall_hug_32b83072:
 
     # Niall normal "N-No, nothing. It was just a stupid idea."
-    Niall normal ""
+    Niall normal "Н-нет, ничего. Это была просто глупая идея."
 
 # game/scripts/events.rpy:7894
 translate russian about_Niall_hug_506ac49f:
 
     # Fen smile "Of course, Niall."
-    Fen smile ""
+    Fen smile "Конечно, Найл."
 
 # game/scripts/events.rpy:7896
 translate russian about_Niall_hug_4a593067:
 
     # Fen normal "Don't ask me quite how, but I know you're destined to do great things some day."
-    Fen normal ""
+    Fen normal "Я верю, Найл. Не спрашивай меня, как именно, но я знаю, что однажды тебе суждено совершить великие дела."
 
 # game/scripts/events.rpy:7898
 translate russian about_Niall_hug_3300d356:
 
     # Fen smile2 "Maybe even great enough to give those heroes of legend a run for their money! Who knows?"
-    Fen smile2 ""
+    Fen smile2 "Может быть, даже достаточно велик, чтобы дать возможность этим легендарным героям побегать за свои деньги! Кто знает?"
 
 # game/scripts/events.rpy:7907
 translate russian about_Niall_hug_2aea8cdd:
 
     # Niall smile "Hahaha! Gee, you really think?"
-    Niall smile ""
+    Niall smile "Хахаха! Боже, ты действительно так думаешь?"
 
 # game/scripts/events.rpy:7909
 translate russian about_Niall_hug_71d60463:
 
     # Niall normal "Well, damn. Maybe, eventually, I'll make it to the point where even Guther can't ignore me."
-    Niall normal ""
+    Niall normal "Черт. Может, в конце концов, я доживу до того момента, когда даже Гюнтер не сможет меня игнорировать."
 
 # game/scripts/events.rpy:7914
 translate russian about_Niall_hug_577a2252:
 
     # Fen smile "Ahaha!"
-    Fen smile ""
+    Fen smile "Ахаха!"
 
 # game/scripts/events.rpy:7916
 translate russian about_Niall_hug_ba65256f:
 
     # Niall normal "Thanks, [name]. It was stupid of me to think that I was all alone just because of this."
-    Niall normal ""
+    Niall normal "Спасибо, [name]. Глупо было думать, что я был совсем один только из-за этого."
 
 # game/scripts/events.rpy:7918
 translate russian about_Niall_hug_1f56511e:
 
     # Niall stern "And... I get it now, Gunther was just worried about me. He know I'm still inexperienced."
-    Niall stern ""
+    Niall stern "И... Теперь я понимаю, Гюнтер просто беспокоился обо мне. Он знал, что я еще неопытен."
 
 # game/scripts/events.rpy:7922
 translate russian about_Niall_hug_15a1ff34:
 
     # Fen normal "Yeah, he can be a bit harsh with his words sometimes. Today seems to be one of those days."
-    Fen normal ""
+    Fen normal "Да, иногда он бывает резковат в выражениях. Похоже, сегодня один из таких дней."
 
 # game/scripts/events.rpy:7924
 translate russian about_Niall_hug_19c4f40f:
 
     # Niall wink "I should've known—it's in all the stories."
-    Niall wink ""
+    Niall wink "Я должен был догадаться — об этом пишут во всех историях."
 
 # game/scripts/events.rpy:7928
 translate russian about_Niall_hug_1c6626e4:
 
     # Niall smile "Mhm, for sure! You can count on it."
-    Niall smile ""
+    Niall smile "Угу, конечно! Ты можешь на это рассчитывать."
 
 # game/scripts/events.rpy:7930
 translate russian about_Niall_hug_848e4107:
 
     # Niall normal "After all, if you're gonna be so excited to hear tales of my valiant exploits once they're made..."
-    Niall normal ""
+    Niall normal "В конце концов, если тебе так хочется послушать рассказы о моих доблестных подвигах, когда они совершатся..."
 
 # game/scripts/events.rpy:8203
 translate russian about_terrance_work_ddf480fc:
 
     # Terrance "Nae lad, I do some other labour works as well when I can. Normally things for Gunther or Murry. But hauling be me normal job."
-    Terrance ""
+    Terrance "Нет, парень, я выполняю и другие работы, когда могу. Обычно для Гюнтера или Мурри. Но таскать - это моя обычная работа."
 
 # game/scripts/events.rpy:13123
 translate russian murray_bath_question_5504ad42:
 
     # Fen "It was, um nice to see you at the bathhouse."
-    Fen ""
+    Fen "Было приятно увидеть тебя в бане."
 
 # game/scripts/events.rpy:13125
 translate russian murray_bath_question_4766ab22:
 
     # Murry smile "Ahhh, yes."
-    Murry smile ""
+    Murry smile "Аххх, да."
 
 # game/scripts/events.rpy:13127
 translate russian murray_bath_question_fa296351:
 
     # Murry "I must thank you for the recommendation, it's just what I needed."
-    Murry ""
+    Murry "Я должен поблагодарить тебя за рекомендацию, это как раз то, что мне было нужно."
 
 # game/scripts/events.rpy:13129
 translate russian murray_bath_question_07937d98:
 
     # Fen "You really seemed to be enjoying yourself."
-    Fen ""
+    Fen "Похоже, ты действительно наслаждался собой."
 
 # game/scripts/events.rpy:13131
 translate russian murray_bath_question_20ef220e:
 
     # Murry blush "It's very relaxing. And with the enchanted water, there's hardly any cleanup."
-    Murry blush ""
+    Murry blush "Это очень расслабляет. А с заколдованной водой почти не нужно убираться."
 
 # game/scripts/events.rpy:13133
 translate russian murray_bath_question_cef16920:
 
     # Fen "I was a bit surprised at how flexible you are."
-    Fen ""
+    Fen "Я был немного удивлен тем, насколько ты гибкий."
 
 # game/scripts/events.rpy:13135
 translate russian murray_bath_question_bcd46531:
 
     # Murry smile "Well that's what this fella is for."
-    Murry smile ""
+    Murry smile "Вот для чего нужен этот парень."
 
 # game/scripts/events.rpy:13143
 translate russian murray_bath_question_3bf3cf8c:
 
     # "He retrieves a green amulet from his pouch and holds it up for you to see."
-    ""
+    "Он достает из подсумка зеленый амулет и протягивает его тебе."
 
 # game/scripts/events.rpy:13151
 translate russian murray_bath_question_9b118871:
 
     # Murry "A friend made me this relic as payment for some extensive services."
-    Murry ""
+    Murry "Друг сделал мне эту реликвию в качестве платы за некоторые обширные услуги."
 
 # game/scripts/events.rpy:13153
 translate russian murray_bath_question_3efc2cc4:
 
     # Murry smile "And oh my it do wonders."
-    Murry smile ""
+    Murry smile "И он творит чудеса."
 
 # game/scripts/events.rpy:13159
 translate russian murray_artifact_question_cb6e919f:
 
     # Fen "You said your friend 'made' this?"
-    Fen ""
+    Fen "Ты сказал, что твой друг 'сделал' это?"
 
 # game/scripts/events.rpy:13161
 translate russian murray_artifact_question_7afb6598:
 
     # Murry smile "Yes, he specializes in magic and artifact crafting."
-    Murry smile ""
+    Murry smile "Да, он специализируется на магии и создании артефактов."
 
 # game/scripts/events.rpy:13163
 translate russian murray_artifact_question_28bce160:
 
     # Murry normal "This was originally an artifact that enhances the wearer's endurance and defense. A prized treasure for any dungeon adventurer."
-    Murry normal ""
+    Murry normal "Изначально это был артефакт, повышающий выносливость и защиту владельца. Ценное сокровище для любого искателя приключений в подземельях."
 
 # game/scripts/events.rpy:13165
 translate russian murray_artifact_question_b4ab9e99:
 
     # Murry "However, he found out that the effects did not cover a very large area."
-    Murry ""
+    Murry "Однако он обнаружил, что эффект не распространяется на очень большую территорию."
 
 # game/scripts/events.rpy:13167
 translate russian murray_artifact_question_6c852cfc:
 
     # Murry "Due to my height, it fit perfectly for me. But I'm no adventurer."
-    Murry ""
+    Murry "Благодаря моему росту он идеально мне подошел. Но я не искатель приключений."
 
 # game/scripts/events.rpy:13169
 translate russian murray_artifact_question_89d7c458:
 
     # Fen "You may not be an adventurer, but you're adventurous."
-    Fen ""
+    Fen "Может, ты и не авантюрист, но ты любишь приключения."
 
 # game/scripts/events.rpy:13171
 translate russian murray_artifact_question_93989f2c:
 
     # Murry hot "Ha, I certainly am. I definitely get good use from this."
-    Murry hot ""
+    Murry hot "Да, это точно. Я определенно получаю от этого пользу."
 
 # game/scripts/events.rpy:13210
 translate russian murry_bond_01_e810e13f:
 
     # "The market square is bustling with business everywhere. People walk up and down the aisles looking for anything that catches their eyes."
-    ""
+    "На рыночной площади повсюду кипит торговля. Люди ходят вверх и вниз по проходам и ищут все, что попадается им на глаза."
 
 # game/scripts/events.rpy:13213
 translate russian murry_bond_01_afc71f41:
 
     # "As busy as the place seems, there is one thing that appears to be missing."
-    ""
+    "Как бы ни было оживленно это место, кажется, что здесь не хватает одной вещи."
 
 # game/scripts/events.rpy:13218
 translate russian murry_bond_01_e3acebaa:
 
     # Fen "Hmm, where's that little guy?"
-    Fen ""
+    Fen "А где этот парень?"
 
 # game/scripts/events.rpy:13222
 translate russian murry_bond_01_9800b5f2:
 
     # Fen "He's not at his usual spot."
-    Fen ""
+    Fen "Он не на своем обычном месте."
 
 # game/scripts/events.rpy:13229
 translate russian murry_bond_01_4ccad5e5:
 
     # "He's not standing on his usual box, nor is he anywhere to be found when you walk up to the counter."
-    ""
+    "Он не стоит на своем обычном ящике, и его нигде не видно, когда ты подходишь к прилавку."
 
 # game/scripts/events.rpy:13231
 translate russian murry_bond_01_234d7fa8:
 
     # Fen "-Sniff-sniff-"
-    Fen ""
+    Fen "-Нюх-нюх-"
 
 # game/scripts/events.rpy:13233
 translate russian murry_bond_01_1631bef0:
 
     # "You detect the faint but familiar scent of cottonwood and musk."
-    ""
+    "Ты чувствуешь слабый, но знакомый аромат топольника и мускуса."
 
 # game/scripts/events.rpy:13235
 translate russian murry_bond_01_a469fd55:
 
     # Fen "He's close, perhaps over here?"
-    Fen ""
+    Fen "Он близко, может быть, здесь?"
 
 # game/scripts/events.rpy:13241
 translate russian murry_bond_01_1dc42b0d:
 
     # "You follow the trail that leads behind Murry's stall."
-    ""
+    "Ты идешь по тропе, которая ведет за лавку Мурри."
 
 # game/scripts/events.rpy:13243
 translate russian murry_bond_01_bcf76cb1:
 
     # "As you creep around the corner, the smell of musk grows stronger."
-    ""
+    "По мере того как ты крадешься за угол, запах мускуса становится все сильнее."
 
 # game/scripts/events.rpy:13245
 translate russian murry_bond_01_5c8b19be:
 
     # "Your ears perk up as you pick up Murry's voice."
-    ""
+    "Твои уши напрягаются, когда ты улавливаешь голос Мурри."
 
 # game/scripts/events.rpy:13247
 translate russian murry_bond_01_28dd0f6c:
 
     # "Among the stacks of crates and bundled goods, you spot the merchant surrounded by some rather large and intimidating looking men."
-    ""
+    "Среди груды ящиков и связок товаров ты замечаешь торговца, окруженного довольно крупными и устрашающего вида мужчинами."
 
 # game/scripts/events.rpy:13258
 translate russian murry_bond_01_bf4646e1:
 
     # Murry "Mhmm. I can think of another way to sweeten the deal."
-    Murry ""
+    Murry "Мхмм... Я могу придумать другой способ подсластить сделку."
 
 # game/scripts/events.rpy:13260
 translate russian murry_bond_01_d33ef756:
 
     # "With a dreamy and dazed expression, Murry reaches out to grope the massive bulge in front of him."
-    ""
+    "С мечтательным и ошеломленным выражением лица Мурри протягивает руку, чтобы пощупать массивную выпуклость перед собой."
 
 # game/scripts/events.rpy:13262
 translate russian murry_bond_01_fbc47157:
 
     # "Even from this distance, you can see the man's shaft throb visibly through the taught fabric."
-    ""
+    "Даже с такого расстояния сквозь ткань видно, как ощутимо пульсирует мужской ствол."
 
 # game/scripts/events.rpy:13264
 translate russian murry_bond_01_65ffbb8c:
 
     # "The merchant continues to rub their bulges while they chatter about what sounds like numbers."
-    ""
+    "Торговец продолжает тереть свою выпуклость, болтая о том, что похоже на цифры."
 
 # game/scripts/events.rpy:13266
 translate russian murry_bond_01_09354b54:
 
     # "Eventually everyone starts to nod their heads and they each hand over a bag of coins to the little man."
-    ""
+    "В конце концов все начинают кивать головами и протягивают маленькому человечку мешочек с монетами."
 
 # game/scripts/events.rpy:13272
 translate russian murry_bond_01_1917e39f:
 
     # "Murry accepts their bags of money, and the group leaves down the other end of the alley."
-    ""
+    "Мурри принимает у них сумки с деньгами, и группа уходит в другой конец переулка."
 
 # game/scripts/events.rpy:13278
 translate russian murry_bond_01_a37aeb06:
 
     # "He turns and suddenly spots you at the other end of the alley."
-    ""
+    "Он поворачивается и вдруг замечает тебя в другом конце переулка."
 
 # game/scripts/events.rpy:13281
 translate russian murry_bond_01_be450ef1:
 
     # Murry "Oh! [name], how long have you been standing there?"
-    Murry ""
+    Murry "О! [name], как долго ты там стоишь?"
 
 # game/scripts/events.rpy:13283
 translate russian murry_bond_01_e2b3fa8f:
 
     # Fen "I was just dropping by to say hi. I didn't see you at the front."
-    Fen ""
+    Fen "Я просто зашел поздороваться. Я не видел тебя на входе."
 
 # game/scripts/events.rpy:13285
 translate russian murry_bond_01_1fbc3d9b:
 
     # Fen 2 sweat "When I found you in the back, I didn't want to, ah, interrupt anything."
-    Fen 2 sweat ""
+    Fen 2 sweat "Когда я нашел тебя в подсобке, я не хотел тебя прерывать."
 
 # game/scripts/events.rpy:13287
 translate russian murry_bond_01_db88f318:
 
     # Murry "You're talking about all those beefy men earlier?"
-    Murry ""
+    Murry "Ты говоришь о тех мускулистых мужчинах?"
 
 # game/scripts/events.rpy:13289
 translate russian murry_bond_01_f04a6ba7:
 
     # Fen "Yes. I was a bit worried seeing you surrounded like that."
-    Fen ""
+    Fen "Да. Я немного волновался, видя тебя в таком окружении."
 
 # game/scripts/events.rpy:13291
 translate russian murry_bond_01_ce2d3b68:
 
     # Murry sweat "Alright, there's something I must tell you."
-    Murry sweat ""
+    Murry sweat "Ладно, я должен тебе кое-что сказать."
 
 # game/scripts/events.rpy:13293
 translate russian murry_bond_01_e4f35b4d:
 
     # Murry "You see all those guys are... partners."
-    Murry ""
+    Murry "Видите ли, все эти парни... партнеры."
 
 # game/scripts/events.rpy:13295
 translate russian murry_bond_01_57ad0fd4:
 
     # Fen 2 blush "Oh?"
-    Fen 2 blush ""
+    Fen 2 blush "А?"
 
 # game/scripts/events.rpy:13297
 translate russian murry_bond_01_9af9459a:
 
     # Murry normal "Yes, yes. They're my {b}business{/b} partners."
-    Murry normal ""
+    Murry normal "Да, да. Они мои партнеры по {b}бизнесу{/b}."
 
 # game/scripts/events.rpy:13299
 translate russian murry_bond_01_fff22a71:
 
     # Fen 2 stern "Oh..."
-    Fen 2 stern ""
+    Fen 2 stern "А..."
 
 # game/scripts/events.rpy:13301
 translate russian murry_bond_01_de7aa147:
 
     # Fen 2 blush "Then what's with all of that, um, rubbing and groping?"
-    Fen 2 blush ""
+    Fen 2 blush "Тогда к чему все эти потирания и ощупывания?"
 
 # game/scripts/events.rpy:13303
 translate russian murry_bond_01_1851d1fb:
 
     # Murry hot "Well they're also a bunch of horny guys that like to take turns rearranging my insides."
-    Murry hot ""
+    Murry hot "А еще они - кучка озабоченных парней, которым нравится по очереди перебирать мои внутренности."
 
 # game/scripts/events.rpy:13306
 translate russian murry_bond_01_0c149984:
 
     # Fen "Seriously?"
-    Fen ""
+    Fen "Серьезно?"
 
 # game/scripts/events.rpy:13308
 translate russian murry_bond_01_eac9ac14:
 
     # Murry smile "Of course! Why would I fib about something like that?"
-    Murry smile ""
+    Murry smile "Конечно! Зачем мне врать о чем-то подобном?"
 
 # game/scripts/events.rpy:13310
 translate russian murry_bond_01_0c715a6b:
 
     # Fen "Well...I guess I don't really know."
-    Fen ""
+    Fen "Ну... наверное, я не знаю."
 
 # game/scripts/events.rpy:13312
 translate russian murry_bond_01_75ce931d:
 
     # Murry normal "[name], it's alright being shy. I used to be shy like that too."
-    Murry normal ""
+    Murry normal "[name], быть застенчивым - это нормально. Я тоже когда-то был таким застенчивым."
 
 # game/scripts/events.rpy:13314
 translate russian murry_bond_01_ce21e8cc:
 
     # Fen 2 stern "Really? I mean you seemed really bold to casually grope a group of guys three times your size."
-    Fen 2 stern ""
+    Fen 2 stern "Правда? Я имею в виду, что ты выглядел очень смелым, когда небрежно лапал группу парней в три раза больше тебя."
 
 # game/scripts/events.rpy:13316
 translate russian murry_bond_01_e92c04d3:
 
     # Murry normal "Oh [name], you young innocent thing."
-    Murry normal ""
+    Murry normal "О [name], ты юное невинное создание."
 
 # game/scripts/events.rpy:13318
 translate russian murry_bond_01_463e6222:
 
     # Murry "Let me drop off these heavy bags and their orders and I'll be right with you."
-    Murry ""
+    Murry "Сейчас я занесу эти тяжелые сумки с заказами и подойду к тебе."
 
 # game/scripts/events.rpy:13320
 translate russian murry_bond_01_eaa9c775:
 
     # Fen 2 normal "Let me help you out there."
-    Fen 2 normal ""
+    Fen 2 normal "Давай я тебе помогу."
 
 # game/scripts/events.rpy:13322
 translate russian murry_bond_01_5748b1a6:
 
     # Murry smile "Oh [name], you're too kind."
-    Murry smile ""
+    Murry smile "О [name], ты слишком добр."
 
 # game/scripts/events.rpy:13326
 translate russian murry_bond_01_96714457:
 
     # "You lean down and grab the stack of orders."
-    ""
+    "Ты наклоняешься и берешь стопку заказов."
 
 # game/scripts/events.rpy:13328
 translate russian murry_bond_01_b135b9e3:
 
     # "You follow the merchant back to the front of his stall and wait patiently for him to return."
-    ""
+    "Ты следуешь за торговцем до входа в его лавку и терпеливо ждешь, пока он вернется."
 
 # game/scripts/events.rpy:13330
 translate russian murry_bond_01_790d22fd:
 
     # "Murry puts away his payments and notes all the orders in his logs, you're amazed at how fast the little guy can write."
-    ""
+    "Мурри убирает платежи и записывает все заказы в журнал - ты поражаешься, как быстро он пишет."
 
 # game/scripts/events.rpy:13335
 translate russian murry_bond_01_da450235:
 
     # Murry "Thanks for waiting."
-    Murry ""
+    Murry "Спасибо за ожидание."
 
 # game/scripts/events.rpy:13339
 translate russian murry_bond_01_f46540f7:
 
     # Fen "No problem."
-    Fen ""
+    Fen "Без проблем."
 
 # game/scripts/events.rpy:13341
 translate russian murry_bond_01_5212da39:
 
     # Murry stern "As you know, I'm a very busy guy."
-    Murry stern ""
+    Murry stern "Как ты знаешь, я очень занятой."
 
 # game/scripts/events.rpy:13343
 translate russian murry_bond_01_13e2db9b:
 
     # "You nod as he lets out a long sigh and slumps a bit."
-    ""
+    "Ты киваешь, когда он испускает долгий вздох и немного опускается."
 
 # game/scripts/events.rpy:13345
 translate russian murry_bond_01_066e093a:
 
     # Fen 2 stern "Yeah."
-    Fen 2 stern ""
+    Fen 2 stern "Ага."
 
 # game/scripts/events.rpy:13347
 translate russian murry_bond_01_3ffd4e3a:
 
     # Murry sweat "It never ends, I tell ya."
-    Murry sweat ""
+    Murry sweat "Это никогда не кончается, говорю тебе."
 
 # game/scripts/events.rpy:13349
 translate russian murry_bond_01_0a6302fa:
 
     # Fen "Do you ever take a break?"
-    Fen ""
+    Fen "Ты когда-нибудь делаешь перерыв?"
 
 # game/scripts/events.rpy:13351
 translate russian murry_bond_01_86f14b1f:
 
     # "Murry scratches his head in frustration and sighs."
-    ""
+    "Мурри разочарованно почесывает голову и вздыхает."
 
 # game/scripts/events.rpy:13353
 translate russian murry_bond_01_1f17f7f2:
 
     # Murry "I've so little time, I often have to mix business with pleasure."
-    Murry ""
+    Murry "У меня так мало времени, что часто приходится смешивать бизнес с удовольствием."
 
 # game/scripts/events.rpy:13355
 translate russian murry_bond_01_39b8cf2b:
 
     # Fen "Murry..."
-    Fen ""
+    Fen "Мурри..."
 
 # game/scripts/events.rpy:13357
 translate russian murry_bond_01_6dbece6f:
 
     # Murry "Well what can you do? The good people of this town are in constant need of my services, and the merchant guild won't dare try to replace me."
-    Murry ""
+    Murry "А что ты можешь сделать? Добрые люди этого города постоянно нуждаются в моих услугах, а гильдия купцов не посмеет попытаться заменить меня."
 
 # game/scripts/events.rpy:13359
 translate russian murry_bond_01_79be272b:
 
     # Fen "Sounds like a tough job. I can understand the need to unwind."
-    Fen ""
+    Fen "Похоже, это тяжелая работа. Я понимаю необходимость расслабиться."
 
 # game/scripts/events.rpy:13361
 translate russian murry_bond_01_534e6b7e:
 
     # Fen 2 normal "Have you considered taking a trip to the bathhouse?"
-    Fen 2 normal ""
+    Fen 2 normal "Ты не думал о том, чтобы сходить в баню?"
 
 # game/scripts/events.rpy:13363
 translate russian murry_bond_01_69058375:
 
     # Murry stern "I have...not."
-    Murry stern ""
+    Murry stern "Я... нет."
 
 # game/scripts/events.rpy:13365
 translate russian murry_bond_01_3379dd2e:
 
     # Fen 2 smile "Really? You should. It's a great place to relax your sore body."
-    Fen 2 smile ""
+    Fen 2 smile "Правда? Обязательно. Это отличное место, чтобы расслабить больное тело."
 
 # game/scripts/events.rpy:13367
 translate russian murry_bond_01_fa4f958a:
 
     # Murry normal "Hmm. Perhaps a hot soak after a good stretching does sound nice."
-    Murry normal ""
+    Murry normal "Хм. Пожалуй, горячая ванна после хорошей растяжки звучит неплохо."
 
 # game/scripts/events.rpy:13369
 translate russian murry_bond_01_374a67c8:
 
     # Fen 2 normal "Stretching? You can do that there."
-    Fen 2 normal ""
+    Fen 2 normal "Растяжка? Ты можешь сделать это там."
 
 # game/scripts/events.rpy:13371
 translate russian murry_bond_01_1ad8e6c8:
 
     # Murry "Oh wow...okay. I thought it was a bunch of fru fru health stuff. But it sounds like there might be some decent action there."
-    Murry ""
+    Murry "Ух ты... ладно. Я думал, это просто куча всякой фигни. Но, похоже, там может быть достойный повод."
 
 # game/scripts/events.rpy:13373
 translate russian murry_bond_01_fbedc0d5:
 
     # Fen 2 smile "I always find the baths pretty relaxing on my off days."
-    Fen 2 smile ""
+    Fen 2 smile "В свободные дни я всегда нахожу ванны довольно расслабляющими."
 
 # game/scripts/events.rpy:13375
 translate russian murry_bond_01_f9ace0c4:
 
     # Murry smile "Thanks for the advice."
-    Murry smile ""
+    Murry smile "Спасибо за совет."
 
 # game/scripts/events.rpy:13377
 translate russian murry_bond_01_635a41b7:
 
     # Murry "I need to blow off steam, but my normal group hasn't been able to get together like we normally do."
-    Murry ""
+    Murry "Мне нужно выпустить пар, но моя обычная группа не может собраться вместе, как мы обычно делаем."
 
 # game/scripts/events.rpy:13379
 translate russian murry_bond_01_e823e58b:
 
     # Fen 2 normal "Oh, a group of friends?"
-    Fen 2 normal ""
+    Fen 2 normal "О, компания друзей?"
 
 # game/scripts/events.rpy:13381
 translate russian murry_bond_01_6d2d0960:
 
     # Murry blush "I guess you could call them that. They're more like fuck buddies."
-    Murry blush ""
+    Murry blush "Думаю, их можно так назвать. Они больше похожи на приятелей-трахальщиков."
 
 # game/scripts/events.rpy:13383
 translate russian murry_bond_01_7397f386:
 
     # Fen 2 blush "Oh... um, sorry for the confusion."
-    Fen 2 blush ""
+    Fen 2 blush "О... эм, извини за путаницу."
 
 # game/scripts/events.rpy:13385
 translate russian murry_bond_01_f0550b93:
 
     # Murry smile "It's okay, I get it. They're really sweet guys, but at the end of the day they just want to get their rocks off."
-    Murry smile ""
+    Murry smile "Все в порядке, я понимаю. Они очень милые ребята, но в конце концов они просто хотят получить удовольствие."
 
 # game/scripts/events.rpy:13389
 translate russian murry_bond_01_d102fe75:
 
     # "You notice Murry's gaze nervously darts around all the papers on his desk."
-    ""
+    "Ты замечаешь, что взгляд Мурри нервно шарит по всем бумагам на его столе."
 
 # game/scripts/events.rpy:13391
 translate russian murry_bond_01_be7dde32:
 
     # Fen 2 stern "Backed up on orders?"
-    Fen 2 stern ""
+    Fen 2 stern "Не хватает заказов?"
 
 # game/scripts/events.rpy:13393
 translate russian murry_bond_01_ce52d343:
 
     # Murry normal "I'm backed up, but not on orders. These are mandates from the head of the merchant's guild and adjunct to the Royal Treasurer."
-    Murry normal ""
+    Murry normal "Я подстраховываюсь, но не по приказу. Это поручения главы купеческой гильдии и адъюнкта королевского казначея."
 
 # game/scripts/events.rpy:13395
 translate russian murry_bond_01_2fd3fa81:
 
     # Murry "Felda maintains various trade agreements with other towns around the kingdom. The royal treasurer is also in charge of trade agreements with neighboring powers."
-    Murry ""
+    Murry "Фельда поддерживает различные торговые соглашения с другими городами королевства. Королевский казначей также отвечает за торговые соглашения с соседними державами."
 
 # game/scripts/events.rpy:13397
 translate russian murry_bond_01_20d581e4:
 
     # Murry "All merchant guild masters report to the treasurer, but my guild master actually works for her."
-    Murry ""
+    Murry "Все мастера торговых гильдий подчиняются казначею, но мой мастер гильдии фактически работает на нее."
 
 # game/scripts/events.rpy:13399
 translate russian murry_bond_01_9152a356:
 
     # Murry stern "And because of that, he wants his reports to look better than the other guild masters."
-    Murry stern ""
+    Murry stern "И поэтому он хочет, чтобы его отчеты выглядели лучше, чем у других гильдмастеров."
 
 # game/scripts/events.rpy:13401
 translate russian murry_bond_01_e36b01e6:
 
     # Fen "He just wants to look good for his boss?"
-    Fen ""
+    Fen "Он просто хочет выглядеть хорошо для своего босса?"
 
 # game/scripts/events.rpy:13404
 translate russian murry_bond_01_d2856884:
 
     # Murry "Yes, but I'm the one who has to do all the work!"
-    Murry ""
+    Murry "Да, но ведь это я должен делать всю работу!"
 
 # game/scripts/events.rpy:13406
 translate russian murry_bond_01_d77e465c:
 
     # Murry "Every day, I get a new message from him to shift goods around and that a new shipments would be dropped off at my market and I'm told to get rid of it quick."
-    Murry ""
+    Murry "Каждый день я получаю от него новое сообщение о перестановке товаров, о том, что на мой рынок будет доставлена новая партия, и мне велено побыстрее от нее избавиться."
 
 # game/scripts/events.rpy:13408
 translate russian murry_bond_01_803ba6fe:
 
     # Murry stern "I can't vouch for all these vendors or the quality of the materials."
-    Murry stern ""
+    Murry stern "Я не могу поручиться за всех этих продавцов или качество материалов."
 
 # game/scripts/events.rpy:13410
 translate russian murry_bond_01_6b2d7f85:
 
     # Murry "It makes me uncomfortable to try to push off anything subpar to the people of Felda."
-    Murry ""
+    Murry "Мне не по себе, когда я пытаюсь всучить жителям Фельды что-то некачественное."
 
 # game/scripts/events.rpy:13412
 translate russian murry_bond_01_8e791bd7:
 
     # Fen 2 normal "That's very admirable, Murry."
-    Fen 2 normal ""
+    Fen 2 normal "Это достойно восхищения, Мурри."
 
 # game/scripts/events.rpy:13414
 translate russian murry_bond_01_da42011d:
 
     # Murry normal "Yeah, he's just going to make my life more difficult. I can't trust craftsmen I've never heard of before."
-    Murry normal ""
+    Murry normal "Да, он только усложнит мне жизнь. Я не могу доверять мастерам, о которых никогда не слышал."
 
 # game/scripts/events.rpy:13416
 translate russian murry_bond_01_72dd4868:
 
     # Murry "The best part of my job is making new connections, making a new sale, doing 'whatever' I need to do to seal the deal."
-    Murry ""
+    Murry "Самое приятное в моей работе - заводить новые знакомства, совершать новые продажи, делать все, что нужно, чтобы заключить сделку."
 
 # game/scripts/events.rpy:13418
 translate russian murry_bond_01_d8583183:
 
     # Murry blush "I've had some hard and rough negotiations. But by the end of it, everyone was satisfied."
-    Murry blush ""
+    Murry blush "У меня были трудные и тяжелые переговоры. Но в итоге все остались довольны."
 
 # game/scripts/events.rpy:13420
 translate russian murry_bond_01_8b1b7048:
 
     # Fen 2 stern "And we're talking about..."
-    Fen 2 stern ""
+    Fen 2 stern "И мы говорим о..."
 
 # game/scripts/events.rpy:13423
 translate russian murry_bond_01_dc3664dc:
 
     # Murry "New business deals of course!"
-    Murry ""
+    Murry "Конечно же, новые деловые сделки!"
 
 # game/scripts/events.rpy:13425
 translate russian murry_bond_01_ed651163:
 
     # Fen 2 sweat "Right, yes, do go on."
-    Fen 2 sweat ""
+    Fen 2 sweat "Да, конечно, продолжай."
 
 # game/scripts/events.rpy:13429
 translate russian murry_bond_01_76e44234:
 
     # "As you grow accustomed to the causal nature of rampant sex that seems to be prevalent among the locals, Murry still seems..."
-    ""
+    "По мере того как ты привыкаешь к казуальному характеру безудержного секса, который, кажется, преобладает среди местных жителей, Мурри все еще кажется..."
 
 # game/scripts/events.rpy:13432
 translate russian murry_bond_01_75399e8a:
 
     # "...excessive compared to everyone else."
-    ""
+    "...чрезмерным по сравнению со всеми остальными."
 
 # game/scripts/events.rpy:13444
 translate russian murry_bond_01_25603791:
 
     # Murry "Well enough of my troubles. I really appreciate you letting me talk your ear off."
-    Murry ""
+    Murry "Ну, хватит о моих проблемах. Я очень благодарен тебе за то, что ты позволил мне поговорить с тобой по душам."
 
 # game/scripts/events.rpy:13446
 translate russian murry_bond_01_247b1553:
 
     # Murry smile "What can I help you with today?"
-    Murry smile ""
+    Murry smile "Чем я могу помочь тебе сегодня?"
 
 # game/scripts/events.rpy:15965
 translate russian mjolnik_visit_01_1406a5fc:
 
     # "As you're packing a snack to bring with you, you hear Gunther behind you."
-    ""
+    "Когда ты собираешь перекус, чтобы взять его с собой, ты слышишь позади себя Гюнтера."
 
 # game/scripts/events.rpy:15971
 translate russian mjolnik_visit_01_565229e2:
 
     # Gunther "Got plans for your day off?"
-    Gunther ""
+    Gunther "У тебя есть планы на выходной?"
 
 # game/scripts/events.rpy:15975
 translate russian mjolnik_visit_01_e1e64a97:
 
     # Fen "Sure do, just hit me when I got up."
-    Fen ""
+    Fen "Конечно, есть, просто я встал."
 
 # game/scripts/events.rpy:15978
 translate russian mjolnik_visit_01_e4c6592d:
 
     # Fen "It's really early, so I'm going to go visit Mjolnik!"
-    Fen ""
+    Fen "Еще очень рано, так что я собираюсь навестить Мельника!"
 
 # game/scripts/events.rpy:15982
 translate russian mjolnik_visit_01_7f125aa6:
 
     # "The tiger gives you a surprised look. As he stares at you, you begin to fidget nervously, wondering if he's going to object."
-    ""
+    "Тигр бросает на тебя удивленный взгляд. Пока он смотрит на тебя, ты начинаешь нервно ерзать, гадая, не собирается ли он возразить."
 
 # game/scripts/events.rpy:15985
 translate russian mjolnik_visit_01_d8626dae:
 
     # "Then he smiles."
-    ""
+    "Затем он улыбается."
 
 # game/scripts/events.rpy:15987
 translate russian mjolnik_visit_01_9f665274:
 
     # Gunther "That sounds like a good day. It's a pretty easy trip to his farm."
-    Gunther ""
+    Gunther "Похоже, это хороший день. До его фермы довольно легко добраться."
 
 # game/scripts/events.rpy:15989
 translate russian mjolnik_visit_01_176555d0:
 
     # Gunther "I mean it's a straight walk. Bit long but if you're up for the trek."
-    Gunther ""
+    Gunther "Я имею в виду, это прямая прогулка. Немного длинновато, но если ты готов к такому походу."
 
 # game/scripts/events.rpy:15992
 translate russian mjolnik_visit_01_d90f70c5:
 
     # "You nod, smiling broadly at this sort of unexpected support from Gunther."
-    ""
+    "Ты киваешь, широко улыбаясь такой неожиданной поддержке со стороны Гюнтера."
 
 # game/scripts/events.rpy:15994
 translate russian mjolnik_visit_01_e5310311:
 
     # Fen 2 normal "I know, but it's really early. So if I leave soon, I'll be there before noon."
-    Fen 2 normal ""
+    Fen 2 normal "Я знаю, но еще очень рано. Так что если я скоро уйду, то буду там до полудня."
 
 # game/scripts/events.rpy:15996
 translate russian mjolnik_visit_01_5be8c3e6:
 
     # Fen "I can spend the night there or at Terrance's and be back by early afternoon tomorrow to help with the cleaning up."
-    Fen ""
+    Fen "Я могу переночевать там или у Терренса и вернуться завтра к раннему полудню, чтобы помочь с уборкой."
 
 # game/scripts/events.rpy:15998
 translate russian mjolnik_visit_01_af5c76fa:
 
     # "Gunther nods."
-    ""
+    "Гюнтер кивает."
 
 # game/scripts/events.rpy:16000
 translate russian mjolnik_visit_01_77126fff:
 
     # Gunther normal "Sounds like you have it all planned out."
-    Gunther normal ""
+    Gunther normal "Похоже, ты все предусмотрел."
 
 # game/scripts/events.rpy:16002
 translate russian mjolnik_visit_01_dd1d2250:
 
     # Gunther normal "Just let the gate guard know where you're going and when you'll be back."
-    Gunther normal ""
+    Gunther normal "Просто сообщи охраннику, куда ты идешь и когда вернешься."
 
 # game/scripts/events.rpy:16004
 translate russian mjolnik_visit_01_0a9d005c:
 
     # Gunther smile "You have a good trip and I expect to see you back by clean up time tomorrow!"
-    Gunther smile ""
+    Gunther smile "Хорошего тебе путешествия, и я надеюсь увидеть тебя завтра к началу уборки!"
 
 # game/scripts/events.rpy:16006
 translate russian mjolnik_visit_01_b3946d7d:
 
     # "He gives you one last smile before turning around and heading back up the stairs."
-    ""
+    "Он улыбнулся тебе в последний раз, после чего развернулся и направился обратно по лестнице."
 
 # game/scripts/events.rpy:16008
 translate russian mjolnik_visit_01_ceb35725:
 
     # Gunther normal "Now if you'll excuse me, I'm going back to bed. It's unhealthy to be up this early."
-    Gunther normal ""
+    Gunther normal "А теперь, если ты меня извинишь, я пойду спать. Вставать в такую рань вредно для здоровья."
 
 # game/scripts/events.rpy:16014
 translate russian mjolnik_visit_01_dbd41aa2:
 
     # "Snickering a bit at that, you finish packing a snack for yourself."
-    ""
+    "Немного посмеиваясь над этим, ты заканчиваешь собирать себе перекус."
 
 # game/scripts/events.rpy:16016
 translate russian mjolnik_visit_01_ec8dc3d9:
 
     # "Grabbing a small rucksack, you store your supplies and walk outside."
-    ""
+    "Схватив небольшой рюкзак, ты складываешь в него свои припасы и выходишь наружу."
 
 # game/scripts/events.rpy:16020
 translate russian mjolnik_visit_01_e7908459:
 
     # "Taking a deep breath, you start off on your journey."
-    ""
+    "Глубоко вздохнув, ты отправляешься в путь."
 
 # game/scripts/events.rpy:16025
 translate russian mjolnik_visit_01_565fb378:
 
     # "You nod politely and make some small talk with the few people you meet until you reach the gate."
-    ""
+    "Ты вежливо киваешь и ведешь светскую беседу с несколькими встречными, пока не дойдешь до ворот."
 
 # game/scripts/events.rpy:16030
 translate russian mjolnik_visit_01_8b93b57b:
 
     # "One of the guards is there, standing at attention, halberd at the ready."
-    ""
+    "Один из стражников стоит наготове, алебарда наготове."
 
 # game/scripts/events.rpy:16034
 translate russian mjolnik_visit_01_f7e1944c:
 
     # Fen "Morning Guardsmen. Great day today?"
-    Fen ""
+    Fen "Доброе утро, стражи. Отличный день сегодня?"
 
 # game/scripts/events.rpy:16038
 translate russian mjolnik_visit_01_56d4b4d8:
 
     # "The guard turns and you know he is looking at you but he says nothing. Shuffling awkwardly you continue."
-    ""
+    "Стражник поворачивается, и ты понимаешь, что он смотрит на тебя, но он ничего не говорит. Неловко шаркая, ты продолжаешь."
 
 # game/scripts/events.rpy:16040
 translate russian mjolnik_visit_01_17c20893:
 
     # Fen "Ummm, I'm going to visit a friend who lives on a farm outside of town. I'll be back probably tomorrow afternoon."
-    Fen ""
+    Fen "Я собираюсь навестить друга, который живет на ферме за городом. Вернусь, наверное, завтра днем."
 
 # game/scripts/events.rpy:16046
 translate russian mjolnik_visit_01_bddbdc49:
 
     # "The guard still remains silent but you do see him nod his head. Giving him a smile you walk past him."
-    ""
+    "Охранник по-прежнему молчит, но ты видишь, как он кивает головой. Улыбнувшись, ты проходишь мимо него."
 
 # game/scripts/events.rpy:16050
 translate russian mjolnik_visit_01_7a147cba:
 
     # "As you pass by the silent guard, you jump as he slaps you hard on the rump."
-    ""
+    "Проходя мимо молчаливого охранника, ты подпрыгиваешь, когда он сильно шлепает тебя по заднице."
 
 # game/scripts/events.rpy:16052
 translate russian mjolnik_visit_01_108521cc:
 
     # "His hand stays there for a moment, squeezing your ass and you hear his voice."
-    ""
+    "Его рука на мгновение замирает, сжимая твою попку, и ты слышишь его голос."
 
 # game/scripts/events.rpy:16057
 translate russian mjolnik_visit_01_777b7333:
 
     # SGuard "Good boy. I'll pass that on."
-    SGuard ""
+    SGuard "Хороший мальчик. Я передам это."
 
 # game/scripts/events.rpy:16062
 translate russian mjolnik_visit_01_28d6eaed:
 
     # "He lets your ass go and returns to his previous state of attention."
-    ""
+    "Он отпускает твою задницу и возвращается к прежнему состоянию внимания."
 
 # game/scripts/events.rpy:16064
 translate russian mjolnik_visit_01_7eee5caf:
 
     # "You look over your shoulder at him and notice his pants are bulging just a little more."
-    ""
+    "Ты оглядываешься на него через плечо и замечаешь, что его штаны еще немного оттопырились."
 
 # game/scripts/events.rpy:16066
 translate russian mjolnik_visit_01_7e2ab528:
 
     # "You lick your lips, determined to find the time to service the silent one again."
-    ""
+    "Ты облизываешь губы, решив найти время, чтобы снова обслужить молчаливого."
 
 # game/scripts/events.rpy:16079
 translate russian mjolnik_visit_01_fd5a7f46:
 
     # "Walking down the path, you try to keep a fast pace as you know the trip is a few hours at least."
-    ""
+    "Идя по тропинке, ты стараешься идти в быстром темпе, так как знаешь, что путешествие займет не меньше нескольких часов."
 
 # game/scripts/events.rpy:16081
 translate russian mjolnik_visit_01_01d28a35:
 
     # "You don't know how long exactly as you were asleep the last time you made it but Terrance seemed to indicate it would take him three to four hours."
-    ""
+    "Ты не знаешь, сколько именно времени прошло, поскольку в прошлый раз ты спал, но Терренс сказал, что это займет у него от трех до четырех часов."
 
 # game/scripts/events.rpy:16083
 translate russian mjolnik_visit_01_71431141:
 
     # "You're sure you'll make it faster because you're not hauling a heavy cart."
-    ""
+    "Ты уверен, что сделаешь это быстрее, ведь ты не тащишь тяжелую тележку."
 
 # game/scripts/events.rpy:16087
 translate russian mjolnik_visit_01_b6507a39:
 
     # "About an hour later you pause to take a rest."
-    ""
+    "Примерно через час ты делаешь паузу, чтобы передохнуть."
 
 # game/scripts/events.rpy:16089
 translate russian mjolnik_visit_01_5de7c9d4:
 
     # "Looking around you, you realise that Felda is completely out of view and you can see nothing but fields and woods all around you, with some isolated buildings here and there."
-    ""
+    "Оглядевшись вокруг, ты понимаешь, что Фельда совсем исчезла из виду, и вокруг тебя только поля и леса, да отдельные здания."
 
 # game/scripts/events.rpy:16091
 translate russian mjolnik_visit_01_8a0d939e:
 
     # "You're struck by how scenic it is but also how desolate it seems. You scan the road and surrounding fields but fail to see anyone at all."
-    ""
+    "Тебя поражает, насколько живописна эта местность, но в то же время она кажется безлюдной. Ты осматриваешь дорогу и окружающие поля, но никого не видишь."
 
 # game/scripts/events.rpy:16093
 translate russian mjolnik_visit_01_b7792b5b:
 
     # "You knew that most people in this area live in Felda or in the surrounding villages but you expected to see at least one or two travellers."
-    ""
+    "Ты знал, что большинство людей в этих краях живут в Фельде или в окрестных деревнях, но ожидал увидеть хотя бы одного-двух путешественников."
 
 # game/scripts/events.rpy:16095
 translate russian mjolnik_visit_01_e78938e6:
 
     # "You realise how lonely it must get for Terrance, as he spends most of his days walking back and forth along this route."
-    ""
+    "Ты понимаешь, как одиноко должно быть Терренсу, ведь он проводит большую часть дня, прогуливаясь туда-сюда по этому маршруту."
 
 # game/scripts/events.rpy:16097
 translate russian mjolnik_visit_01_743ac891:
 
     # "Shrugging your shoulders, you grab some of the food from your rucksack and eat it while continuing your trip."
-    ""
+    "Пожав плечами, ты достаешь из рюкзака немного еды и ешь ее, продолжая путь."
 
 # game/scripts/events.rpy:16099
 translate russian mjolnik_visit_01_7a3ef15c:
 
     # "As you walk, you begin to notice a few landmarks that Terrance had pointed out when you both had walked back from his house."
-    ""
+    "По мере того как ты идешь, ты начинаешь замечать несколько ориентиров, на которые указывал Теренс, когда вы оба шли от его дома."
 
 # game/scripts/events.rpy:16101
 translate russian mjolnik_visit_01_4009bb3d:
 
     # "An old bridge to nowhere, half collapsed over a stream."
-    ""
+    "Старый мост в никуда, полуразвалившийся над ручьем."
 
 # game/scripts/events.rpy:16105
 translate russian mjolnik_visit_01_4e26ac65:
 
     # "A grove of trees where Terrance said he'd sneak a nap if tired on his route."
-    ""
+    "Роща деревьев, где, по словам Терренса, он мог вздремнуть, если уставал на маршруте."
 
 # game/scripts/events.rpy:16107
 translate russian mjolnik_visit_01_7f31aab4:
 
     # "You detour to check, but the grove is empty."
-    ""
+    "Ты отходишь в сторону, чтобы проверить, но роща пуста."
 
 # game/scripts/events.rpy:16111
 translate russian mjolnik_visit_01_7b0875af:
 
     # "You've been walking for a while now, and it feels like you're getting close."
-    ""
+    "Ты идешь уже некоторое время, и кажется, что ты уже близко."
 
 # game/scripts/events.rpy:16113
 translate russian mjolnik_visit_01_6ab00956:
 
     # "Finally you see a broken old cart, one of the last things you'd pass to Mjolnik's farm and you slow down, making sure you don't miss the turn off."
-    ""
+    "Наконец ты видишь старую сломанную телегу, одну из последних, мимо которых ты проедешь к ферме Мельника, и сбавляешь скорость, стараясь не пропустить поворот."
 
 # game/scripts/events.rpy:16119
 translate russian mjolnik_visit_01_3ae57a7d:
 
     # "Seeing the dusty path, you turn and walk down it and soon Mjolnik's farm comes into view."
-    ""
+    "Увидев пыльную тропинку, ты поворачиваешь и идешь по ней, и вскоре в поле зрения появляется ферма Мельника."
 
 # game/scripts/events.rpy:16129
 translate russian mjolnik_visit_01_5e077218:
 
     # "You smile as you see the young bull in the fields on his knees, you assuming weeding the crops."
-    ""
+    "Ты улыбаешься, когда видишь молодого быка на полях, стоящего на коленях и, как ты предполагаешь, пропалывающего посевы."
 
 # game/scripts/events.rpy:16138
 translate russian mjolnik_visit_01_a85d244b:
 
     # "You also notice like last time, he's fully naked."
-    ""
+    "Ты также замечаешь, что, как и в прошлый раз, он полностью обнажен."
 
 # game/scripts/events.rpy:16142
 translate russian mjolnik_visit_01_ae2c7b1e:
 
     # "Cupping your hands to your mouth, you call out."
-    ""
+    "Прижав ладони ко рту, ты кричишь."
 
 # game/scripts/events.rpy:16144
 translate russian mjolnik_visit_01_7a35bbb2:
 
     # Fen "MJOLNIK!!! It's me [name]! I've come to visit you like I promised!"
-    Fen ""
+    Fen "МЕЛЬНИК!!! Это я [name]! Я пришел к тебе в гости, как и обещал!"
 
 # game/scripts/events.rpy:16146
 translate russian mjolnik_visit_01_defd83f7:
 
     # "You watch the bull glance up in surprise as he hears his name and even from this distance you can see the enormous grin on his face."
-    ""
+    "Ты видишь, как бык удивленно вскидывает голову, услышав свое имя, и даже с такого расстояния можно разглядеть огромную ухмылку на его лице."
 
 # game/scripts/events.rpy:16151
 translate russian mjolnik_visit_01_7d027541:
 
     # "He gets up and dashes towards you, so fast you're worried he's going to knock you clean off your feet, but instead he grabs you in a bearhug and twirls you both around." with vpunch
-    "" with vpunch
+    "Он встает и бросается к тебе, так быстро, что ты боишься, что он собьет тебя с ног, но вместо этого он хватает тебя в медвежьи объятия и кружит тебя." with vpunch
 
 # game/scripts/events.rpy:16155
 translate russian mjolnik_visit_01_ce1c869f:
 
     # Mjolnik "Well butter my biscuits! Y'all did come to visit!"
-    Mjolnik ""
+    Mjolnik "Ну-ка, намажь мое печенье маслом! Ты пришел в гости!"
 
 # game/scripts/events.rpy:16157
 translate russian mjolnik_visit_01_cf8dfa02:
 
     # "He stops twirling the pair of you but continues to hug you close even as your feet hit the ground again."
-    ""
+    "Он перестает кружить тебя, но продолжает крепко обнимать, даже когда твои ноги снова опускаются на землю."
 
 # game/scripts/events.rpy:16159
 translate russian mjolnik_visit_01_9505be33:
 
     # "Remembering what Terrance said, you simply return the embrace. Eventually he lets you go and beams at you."
-    ""
+    "Вспомнив слова Терренса, ты просто возвращаешь ему объятия. В конце концов он отпускает тебя и радуется."
 
 # game/scripts/events.rpy:16165
 translate russian mjolnik_visit_01_3ba7a9ff:
 
     # Mjolnik "Sure does make this a special day now dunnit?"
-    Mjolnik ""
+    Mjolnik "Это делает этот день особенным, не так ли?"
 
 # game/scripts/events.rpy:16167
 translate russian mjolnik_visit_01_8d5d9e78:
 
     # Mjolnik normal "Let's get y'all inside and grab some vittles. Y'all must be hungrier than a newborn critter."
-    Mjolnik normal ""
+    Mjolnik normal "Давай зайдем внутрь и перекусим. Ты, должно быть, голоднее новорожденного зверька."
 
 # game/scripts/events.rpy:16172
 translate russian mjolnik_visit_01_6021aa09:
 
     # "Turning, he walks quickly to his house and you almost have to run to keep up with him."
-    ""
+    "Повернувшись, он быстро идет к своему дому, и тебе приходится почти бежать, чтобы поспеть за ним."
 
 # game/scripts/events.rpy:16177
 translate russian mjolnik_visit_01_fb4e4333:
 
     # "As you step inside the farmhouse, you are again struck by not only how cosy it feels, but by the wonderful aroma of all the various herbs and spices Mjolnik has."
-    ""
+    "Как только переступаешь порог фермерского дома, снова поражаешься не только уюту, но и чудесному аромату различных трав и специй, которые есть у Мельника."
 
 # game/scripts/events.rpy:16179
 translate russian mjolnik_visit_01_c5f80631:
 
     # "Grabbing a chair he offers it to you."
-    ""
+    "Схватив стул, он предлагает его тебе."
 
 # game/scripts/events.rpy:16184
 translate russian mjolnik_visit_01_14fec18d:
 
     # Mjolnik "Plant yer arse down [name]! I'll grab us some drinks n' food and we can chat for a while. Sure do appreciate y'all visiting!"
-    Mjolnik ""
+    Mjolnik "Сажай свою задницу сюда [имя]! Я принесу нам немного выпивки и еды, и мы сможем немного поболтать. Я очень ценю твой визит!"
 
 # game/scripts/events.rpy:16189
 translate russian mjolnik_visit_01_de76e9c6:
 
     # "The bull hustles in the kitchen area, swiftly ladling up some bowls of stew and a few mugs of water, placing them on the table and sitting down."
-    ""
+    "Бык суетится на кухне, быстро наливает в миски тушеное мясо и несколько кружек воды, ставит их на стол и садится."
 
 # game/scripts/events.rpy:16191
 translate russian mjolnik_visit_01_b6444f75:
 
     # "You notice he's beaming ear to ear."
-    ""
+    "Ты замечаешь, что он сияет от уха до уха."
 
 # game/scripts/events.rpy:16196
 translate russian mjolnik_visit_01_c9c41f2f:
 
     # Mjolnik "So what brought y'all to my neck of the woods? Just to visit?"
-    Mjolnik ""
+    Mjolnik "Так что привело тебя в мои края? Просто в гости?"
 
 # game/scripts/events.rpy:16200
 translate russian mjolnik_visit_01_3e2f9000:
 
     # "You nod and smile back at him."
-    ""
+    "Ты киваешь и улыбаешься ему в ответ."
 
 # game/scripts/events.rpy:16202
 translate russian mjolnik_visit_01_4c5ac9be:
 
     # Fen 2 normal "Pretty much that. I said I would and I try to keep my promises."
-    Fen 2 normal ""
+    Fen 2 normal "В основном так. Я сказал, что сделаю это, и стараюсь выполнять свои обещания."
 
 # game/scripts/events.rpy:16204
 translate russian mjolnik_visit_01_c9242daa:
 
     # Fen 2 smile "Plus it was a beautiful day and I got up really early."
-    Fen 2 smile ""
+    Fen 2 smile "К тому же был прекрасный день, и я встал очень рано."
 
 # game/scripts/events.rpy:16207
 translate russian mjolnik_visit_01_2d691995:
 
     # "Mjolnik beams at you and begins to eat."
-    ""
+    "Мельник смотрит на тебя и начинает есть."
 
 # game/scripts/events.rpy:16213
 translate russian mjolnik_visit_01_984a997b:
 
     # "You also start eating and you notice the stew, while simple, is quite tasty and seems to be spiced even better than the last time you were here."
-    ""
+    "Ты тоже начинаешь есть и замечаешь, что рагу, хотя и простое, но довольно вкусное и, кажется, приправлено даже лучше, чем в прошлый раз, когда ты был здесь."
 
 # game/scripts/events.rpy:16215
 translate russian mjolnik_visit_01_44d1808a:
 
     # "As you savour the meal, you see the bull is staring at you quite intensely."
-    ""
+    "Наслаждаясь едой, ты видишь, что бык пристально смотрит на тебя."
 
 # game/scripts/events.rpy:16222
 translate russian mjolnik_visit_01_e668aa77:
 
     # Mjolnik "After y'all were here last time, I got to thinking about all the spices."
-    Mjolnik ""
+    Mjolnik "После того, как ты был здесь в прошлый раз, я задумался о всех специях."
 
 # game/scripts/events.rpy:16224
 translate russian mjolnik_visit_01_31979e84:
 
     # Mjolnik normal "So I tried adding more. I went a bit crazy with it. Crazy as a shithouse rat."
-    Mjolnik normal ""
+    Mjolnik normal "Поэтому я попробовал добавить еще. Я немного сошел с ума. С ума сошел, как крыса в трущобах."
 
 # game/scripts/events.rpy:16226
 translate russian mjolnik_visit_01_aff6b7ff:
 
     # "You can't help but chuckle at that and sample the food again, this time really trying to taste the flavours."
-    ""
+    "Ты не можешь не усмехнуться по этому поводу и снова пробуешь еду, на этот раз действительно пытаясь распробовать ее вкус."
 
 # game/scripts/events.rpy:16228
 translate russian mjolnik_visit_01_7cc8f8b8:
 
     # "While you would have done a few things different, like less salt, it's a very well done soup and you tell Mjolnik as much."
-    ""
+    "Хотя ты бы сделал кое-что по-другому, например, меньше соли, это очень хорошо приготовленный суп, о чем ты и сказал Мельнику."
 
 # game/scripts/events.rpy:16230
 translate russian mjolnik_visit_01_e6d54134:
 
     # Fen "You did a great job. This is delicious!"
-    Fen ""
+    Fen "Ты проделал отличную работу. Это восхитительно!"
 
 # game/scripts/events.rpy:16232
 translate russian mjolnik_visit_01_1c46956f:
 
     # Mjolnik blush2 "Aw shucks. Y'all making me blush."
-    Mjolnik blush2 ""
+    Mjolnik blush2 "О, блин. Ты заставляешь меня краснеть."
 
 # game/scripts/events.rpy:16234
 translate russian mjolnik_visit_01_5be3742d:
 
     # "You notice the bull is indeed blushing, and you find that adorable."
-    ""
+    "Ты замечаешь, что бык действительно покраснел, и находишь это очаровательным."
 
 # game/scripts/events.rpy:16237
 translate russian mjolnik_visit_01_7dc7e897:
 
     # "The pair of you finish the meal and while relaxing, you decide to ask Mjolnik about a few things."
-    ""
+    "Закончив трапезу и расслабившись, ты решаешь расспросить Мельника о некоторых вещах."
 
 # game/scripts/events.rpy:16244
 translate russian mjolnik_visit_02_7f72dfd0:
 
     # "You go back up to your room and plop down on your bed and think about your options."
-    ""
+    "Ты возвращаешься в комнату, ложишься на кровать и обдумываешь варианты."
 
 # game/scripts/events.rpy:16246
 translate russian mjolnik_visit_02_02459351:
 
     # "Thinking of the promise you made to one young innocent bull with an adorable smile, you decide to visit Mjolnik again."
-    ""
+    "Ты возвращаешься в свою комнату, ложишься на кровать и обдумываешь варианты."
 
 # game/scripts/events.rpy:16251
 translate russian mjolnik_visit_02_4818d7e6:
 
     # "Quickly getting ready, you bound downstairs to get some snacks for the road and are surprised to see Guther in the kitchen, having breakfast."
-    ""
+    "Быстро собравшись, ты спускаешься вниз, чтобы перекусить в дорогу, и с удивлением видишь Гюнтера на кухне, завтракающего."
 
 # game/scripts/events.rpy:16257
 translate russian mjolnik_visit_02_5343c9e5:
 
     # Gunther "Morning [name]."
-    Gunther ""
+    Gunther "Утро [name]."
 
 # game/scripts/events.rpy:16259
 translate russian mjolnik_visit_02_0f6e8eb5:
 
     # "He sees your surprised look and rolls his eyes."
-    ""
+    "Он видит твой удивленный взгляд и закатывает глаза."
 
 # game/scripts/events.rpy:16261
 translate russian mjolnik_visit_02_ba42cb15:
 
     # Gunther stern "Yes, I know I'm up early, woke up and couldn't get back to sleep. What are you up to today?"
-    Gunther stern ""
+    Gunther stern "Да, я знаю, что встал рано, проснулся и не смог снова заснуть. Что ты делаешь сегодня?"
 
 # game/scripts/events.rpy:16265
 translate russian mjolnik_visit_02_bc017fdc:
 
     # Fen "I'm going out to visit Mjolnik again."
-    Fen ""
+    Fen "Я собираюсь снова навестить Мельника."
 
 # game/scripts/events.rpy:16267
 translate russian mjolnik_visit_02_2af65ca8:
 
     # "Gunther pauses and looks at you with a raised eyebrow."
-    ""
+    "Гюнтер делает паузу и смотрит на тебя, приподняв бровь."
 
 # game/scripts/events.rpy:16269
 translate russian mjolnik_visit_02_4e83a52e:
 
     # Gunther "Out to see him again? You must like him if you're willing to go all that way to see him."
-    Gunther ""
+    Gunther "Хочешь увидеть его снова? Он должен тебе нравиться, если ты готов проделать такой путь, чтобы увидеть его."
 
 # game/scripts/events.rpy:16271
 translate russian mjolnik_visit_02_3e566641:
 
     # Fen 2 blush "Now hold on, it's not that..."
-    Fen 2 blush ""
+    Fen 2 blush "Подожди, это не то..."
 
 # game/scripts/events.rpy:16273
 translate russian mjolnik_visit_02_90077761:
 
     # Gunther normal "Granted, I don't know much about him. Just who he vaguely is and where he lives."
-    Gunther normal ""
+    Gunther normal "Конечно, я мало что о нем знаю. Только кто он такой и где живет."
 
 # game/scripts/events.rpy:16275
 translate russian mjolnik_visit_02_f01cd221:
 
     # Gunther "Terrance has mentioned him a few times. I've never met him. I don't even know if he's ever been to town."
-    Gunther ""
+    Gunther "Терренс упоминал о нем несколько раз. Но я никогда с ним не встречался. Я даже не знаю, бывал ли он в городе."
 
 # game/scripts/events.rpy:16279
 translate russian mjolnik_visit_02_576db2a5:
 
     # "You grab some fruit, slices of bread, a thick slice of beef and a few bottles of water and put them in a rucksack."
-    ""
+    "Ты взял фрукты, ломтики хлеба, толстый кусок говядины и несколько бутылок воды и положил их в рюкзак."
 
 # game/scripts/events.rpy:16282
 translate russian mjolnik_visit_02_25c9599f:
 
     # "You see Gunther giving you a bit of a stinkeye."
-    ""
+    "Ты видишь, как Гюнтер слегка потупился."
 
 # game/scripts/events.rpy:16286
 translate russian mjolnik_visit_02_c327b046:
 
     # Fen 2 "It's not that much for a trip. Sheesh."
-    Fen 2 ""
+    Fen 2 "Это не так много для поездки. Ну и ну."
 
 # game/scripts/events.rpy:16288
 translate russian mjolnik_visit_02_a241bda9:
 
     # Fen 2 normal "But yeah, Mjolnik says he doesn't like the town much. He did say he'd come in with me someday though."
-    Fen 2 normal ""
+    Fen 2 normal "Но да, Мельник говорит, что город ему не очень нравится. Но он сказал, что когда-нибудь придет со мной."
 
 # game/scripts/events.rpy:16290
 translate russian mjolnik_visit_02_e0c1fe9b:
 
     # "Gunther nods. Getting up to head back upstairs, he pauses and speaks."
-    ""
+    "Гюнтер кивает. Встав, чтобы вернуться наверх, он приостановился и заговорил."
 
 # game/scripts/events.rpy:16292
 translate russian mjolnik_visit_02_a83e5c57:
 
     # Gunther normal "Well, you have a fun time. You know what I expect from you."
-    Gunther normal ""
+    Gunther normal "Ну, ты весело проведешь время. Ты знаешь, чего я от тебя жду."
 
 # game/scripts/events.rpy:16294
 translate russian mjolnik_visit_02_70ef1c7a:
 
     # Gunther normal "But if you do bring him to visit, make sure to bring him here."
-    Gunther normal ""
+    Gunther normal "Но если ты все-таки приведешь его в гости, обязательно приведи его сюда."
 
 # game/scripts/events.rpy:16296
 translate russian mjolnik_visit_02_e9b12764:
 
     # Gunther wink "I'd like to meet him. And see if he's willing to give me deals on fresh produce."
-    Gunther wink ""
+    Gunther wink "Я хочу с ним встретиться. И узнать, не согласится ли он предложить мне свежие продукты."
 
 # game/scripts/events.rpy:16302
 translate russian mjolnik_visit_02_e248560a:
 
     # "He winks at you before vanishing from view."
-    ""
+    "Он подмигивает тебе, прежде чем исчезнуть из виду."
 
 # game/scripts/events.rpy:16305
 translate russian mjolnik_visit_02_f284ec94:
 
     # "You laugh to yourself about his mercenary tendencies and head out to start your trip."
-    ""
+    "Ты смеешься про себя над его наемническими наклонностями и отправляешься в путь."
 
 # game/scripts/events.rpy:16310
 translate russian mjolnik_visit_02_56d552fc:
 
     # "You again say hello to the various folk you meet and when you reach the guard gate, you notice that the guards are busy doing a changeover."
-    ""
+    "Ты снова здороваешься с разными встречными, а когда доходишь до ворот, замечаешь, что стражники заняты пересменкой."
 
 # game/scripts/events.rpy:16312
 translate russian mjolnik_visit_02_0f6e54db:
 
     # "There's a new guard there you notice. He seems to be ordering the other guards around and is carrying a large shield and an ornate halberd."
-    ""
+    "Ты замечаешь нового стражника. Он, похоже, приказывает остальным стражникам, а в руках у него большой щит и богато украшенная алебарда."
 
 # game/scripts/events.rpy:16314
 translate russian mjolnik_visit_02_266e5416:
 
     # "One of them notices you and calls out to where you're going and when you'll be back."
-    ""
+    "Один из них замечает тебя и спрашивает, куда ты идешь и когда вернешься."
 
 # game/scripts/events.rpy:16317
 translate russian mjolnik_visit_02_e95ab896:
 
     # "You reply and the guard waves you on through. You wave back and head on your way, though you do wonder about the new guard."
-    ""
+    "Ты отвечаешь, и охранник пропускает тебя вперед. Ты машешь ему в ответ и отправляешься дальше, хотя и удивляешься новому охраннику."
 
 # game/scripts/events.rpy:16322
 translate russian mjolnik_visit_02_75e87bc1:
 
     # "The trip is much the same as the last. You remember a few more of the various landmarks and housing and even see someone heading towards Felda."
-    ""
+    "Путешествие проходит почти так же, как и предыдущее. Ты помнишь еще несколько достопримечательностей и домов и даже видишь, как кто-то направляется в сторону Фельды."
 
 # game/scripts/events.rpy:16324
 translate russian mjolnik_visit_02_b385eed7:
 
     # "You say hello to them in passing, but they simply nod, smile and keep going."
-    ""
+    "Ты здороваешься с ними мимоходом, но они просто кивают, улыбаются и идут дальше."
 
 # game/scripts/events.rpy:16331
 translate russian mjolnik_visit_02_071ca5ae:
 
     # "{color=#16f58d}{i}SXP Check 10 - Success{/i}{/color}"
-    ""
+    "{color=#16f58d}{i}Проверка сексуальности 10 - Успех{/i}{/color}"
 
 # game/scripts/events.rpy:16333
 translate russian mjolnik_visit_02_b68979a7:
 
     # "As you're walking down the road, you get the faintest whiff of something."
-    ""
+    "Когда ты идешь по дороге, до тебя доносится слабый запах чего-то."
 
 # game/scripts/events.rpy:16339
 translate russian mjolnik_visit_02_a1170e17:
 
     # "You stop in puzzlement as you try and identify the scent."
-    ""
+    "Ты останавливаешься в недоумении, пытаясь определить запах."
 
 # game/scripts/events.rpy:16341
 translate russian mjolnik_visit_02_104fbc02:
 
     # "You know you should recognize it and you realise that you're suddenly getting an erection."
-    ""
+    "Ты знаешь, что должен это распознать, и понимаешь, что у тебя внезапно началась эрекция."
 
 # game/scripts/events.rpy:16343
 translate russian mjolnik_visit_02_922f2d8b:
 
     # "That puzzles you even more as there's no reason for that to be happening."
-    ""
+    "Это еще больше озадачивает, ведь для этого нет никаких причин."
 
 # game/scripts/events.rpy:16345
 translate russian mjolnik_visit_02_b9a60e2a:
 
     # "As you begin to walk further down the road, the smell grows a bit stronger."
-    ""
+    "Когда ты начинаешь идти дальше по дороге, запах становится немного сильнее."
 
 # game/scripts/events.rpy:16347
 translate russian mjolnik_visit_02_6e86d757:
 
     # "A familiar scent of musk and earth and you look over to your left and see a grove of trees and suddenly you know exactly what the smell is."
-    ""
+    "Знакомый запах мускуса и земли, ты смотришь налево, видишь рощу деревьев и вдруг понимаешь, что это именно тот запах."
 
 # game/scripts/events.rpy:16352
 translate russian mjolnik_visit_02_073db2c2:
 
     # "Walking slowly over to the grove, your ears perk up as you hear the unmistakable sounds of someone pleasuring themselves and you know exactly who it is..."
-    ""
+    "Медленно подойдя к роще, ты навострил уши, услышав безошибочные звуки чьих-то ласк, и сразу понял, кто это..."
 
 # game/scripts/events.rpy:16354
 translate russian mjolnik_visit_02_250a628c:
 
     # "Terrance."
-    ""
+    "Терренс."
 
 # game/scripts/events.rpy:16356
 translate russian mjolnik_visit_02_95a81361:
 
     # "This is the grove he told you he'll sometimes sneak a nap in if he gets tired during his daily routes and it appears he uses the privacy of the grove for something more."
-    ""
+    "Именно в этой роще, как он говорил тебе, он иногда тайком вздремнет, если устанет во время ежедневных маршрутов, но, похоже, он использует уединение рощи для чего-то большего."
 
 # game/scripts/events.rpy:16361
 translate russian mjolnik_visit_02_c781fab1:
 
     # "You quietly creep closer and eventually come to the treeline and can see inside the grove."
-    ""
+    "Ты тихонько подкрадываешься все ближе и ближе и в конце концов выходишь на линию деревьев и можешь заглянуть внутрь рощи."
 
 # game/scripts/events.rpy:16370
 translate russian mjolnik_visit_02_f39f7498:
 
     # "Sure enough you see Terrance, sitting on a log, cock in hand."
-    ""
+    "Ты видишь Терренса, сидящего на бревне с членом в руке."
 
 # game/scripts/events.rpy:16373
 translate russian mjolnik_visit_02_9c7bdb18:
 
     # "He is leaning back and his eyes are closed and there is a blissful expression on his face."
-    ""
+    "Он откинулся назад, его глаза закрыты, а на лице - блаженное выражение."
 
 # game/scripts/events.rpy:16375
 translate russian mjolnik_visit_02_a5e29596:
 
     # "You feel a bit guilty spying on him and wonder if you should leave him to his private time."
-    ""
+    "Ты чувствуешь себя немного виноватым, подглядывая за ним, и думаешь, не оставить ли его наедине с собой."
 
 # game/scripts/events.rpy:16382
 translate russian mjolnik_visit_02_f2c67b2d:
 
     # "You smile and take one last look at the horse before sneaking quietly back to the road."
-    ""
+    "Ты улыбаешься и бросаешь последний взгляд на лошадь, а затем тихо крадешься к дороге."
 
 # game/scripts/events.rpy:16385
 translate russian mjolnik_visit_02_c444aef8:
 
     # "While it might have been fun to spy on him, and you're almost sure he wouldn't actually mind, something about it seems wrong."
-    ""
+    "Хотя шпионить за ним было бы забавно, и ты почти уверена, что он не стал бы возражать, что-то в этом кажется неправильным."
 
 # game/scripts/events.rpy:16387
 translate russian mjolnik_visit_02_d7ee0c9a:
 
     # "Besides, if you want to get your claws on the massive horse, you're sure you can easily enough."
-    ""
+    "К тому же, если ты захочешь вцепиться когтями в массивную лошадь, то наверняка сможешь это сделать без труда."
 
 # game/scripts/events.rpy:16389
 translate russian mjolnik_visit_02_22c7563f:
 
     # "Smiling at that thought you continue on your way to Mjolnik's."
-    ""
+    "Улыбаясь этой мысли, ты продолжаешь свой путь к Мельнику."
 
 # game/scripts/events.rpy:16395
 translate russian mjolnik_visit_02_5f11f11a:
 
     # "Leaning against a tree, you slide your hand into your own pants and begin to stroke yourself."
-    ""
+    "Прислонившись к дереву, ты запускаешь руку в свои штаны и начинаешь гладить себя."
 
 # game/scripts/events.rpy:16403
 translate russian mjolnik_visit_02_f37bc622:
 
     # "You get fully hard, your eyes are drawn to Terrance's massive cock."
-    ""
+    "Ты становишься полностью твердым, твой взгляд притягивается к огромному члену Терренса."
 
 # game/scripts/events.rpy:16405
 translate russian mjolnik_visit_02_ef963d40:
 
     # "As he pumps his hand up and down the shaft, you lick your lips at the sight."
-    ""
+    "Пока он проводит рукой вверх и вниз по стволу, ты облизываешь губы от удовольствия."
 
 # game/scripts/events.rpy:16409
 translate russian mjolnik_visit_02_e42141d3:
 
     # "Knowing you're safely concealed in the tree and Terrance is fully engrossed in his activity, you pause to strip naked yourself."
-    ""
+    "Зная, что ты надежно укрыт на дереве, а Терренс полностью поглощен своим занятием, ты делаешь паузу, чтобы самому раздеться догола."
 
 # game/scripts/events.rpy:16411
 translate russian mjolnik_visit_02_bf6a9773:
 
     # "You slide off the rutsack and quickly peel off your shirt, tossing both on the ground."
-    ""
+    "Ты соскальзываешь с ранца и быстро сдираешь с себя рубашку, бросая ее на землю."
 
 # game/scripts/events.rpy:16413
 translate russian mjolnik_visit_02_b2ad245a:
 
     # "Soon your pants join them and you stand there, hidden in the trees in just your underwear, which is tenting pretty nicely."
-    ""
+    "Вскоре к ним присоединяются и твои штаны, и ты стоишь, спрятавшись среди деревьев, в одних трусах, которые уже изрядно натягиваются."
 
 # game/scripts/events.rpy:16415
 translate russian mjolnik_visit_02_55daf1d1:
 
     # "But soon you peel them off and kick them aside."
-    ""
+    "Но вскоре ты сдираешь их и отбрасываешь в сторону."
 
 # game/scripts/events.rpy:16423
 translate russian mjolnik_visit_02_b199d54d:
 
     # "You stand there fully nude, watching the horse jerk off and you start to match your own motions to his."
-    ""
+    "Ты стоишь полностью обнаженный, смотришь, как конь дрочит, и начинаешь повторять его движения."
 
 # game/scripts/events.rpy:16425
 translate russian mjolnik_visit_02_41a42b48:
 
     # "The fact that you are watching him and being naked in public is a potent aphrodisiac and you begin to rub your body."
-    ""
+    "Тот факт, что ты наблюдаешь за ним и находишься обнаженной на публике, является мощным афродизиаком, и ты начинаешь тереть свое тело."
 
 # game/scripts/events.rpy:16427
 translate russian mjolnik_visit_02_5ca79774:
 
     # "Running your hands over your chest, you gently tug and squeeze your nipples and whine softly to yourself as they get hard."
-    ""
+    "Проводя руками по груди, ты нежно потягиваешь и сжимаешь соски и тихонько скулишь, когда они становятся твердыми."
 
 # game/scripts/events.rpy:16429
 translate russian mjolnik_visit_02_874792a2:
 
     # "Flicking your fingers over the sensitive nubs, makes you wish that the horse was licking them, but you decide that you do not want to risk revealing yourself."
-    ""
+    "Проводя пальцами по чувствительным уздечкам, тебе хочется, чтобы лошадь лизала их, но ты решаешь, что не хочешь рисковать и раскрывать себя."
 
 # game/scripts/events.rpy:16435
 translate russian mjolnik_visit_02_d2a1f55e:
 
     # "The pair of you stand there, your movements synchronised in a strange dance of desire, as Terrance gets closer to climax, you hear him speak."
-    ""
+    "Вы стоите, ваши движения синхронизированы в странном танце желания, и когда Терренс приближается к кульминации, ты слышишь, как он говорит."
 
 # game/scripts/events.rpy:16447
 translate russian mjolnik_visit_02_d76f4200:
 
     # Terrance "Ooo, Gunther lad... just like that... pull me tail lad. Pull it extra hard, ye know how that gets me going."
-    Terrance ""
+    Terrance "Ооо, Гюнтер, парень... вот так... дерни меня за хвост, парень. Потяни посильнее, ты же знаешь, как это меня заводит."
 
 # game/scripts/events.rpy:16455
 translate russian mjolnik_visit_02_41f5610b:
 
     # "You watch the horse lick his lips as he says that and he begins to stroke himself faster and faster."
-    ""
+    "Ты видишь, как лошадь облизывает губы при этих словах и начинает гладить себя все быстрее и быстрее."
 
 # game/scripts/events.rpy:16457
 translate russian mjolnik_visit_02_241583b3:
 
     # "Even from the distance you're at, you can see his balls beginning to tighten against his body and you know the show is about to reach its climax."
-    ""
+    "Даже с расстояния, на котором ты находишься, видно, как его яйца начинают прижиматься к телу, и ты понимаешь, что шоу вот-вот достигнет своей кульминации."
 
 # game/scripts/events.rpy:16468
 translate russian mjolnik_visit_02_28550711:
 
     # Terrance "Fuck yer pretty pony! Fuck me hard Gunther!"
-    Terrance ""
+    Terrance "Трахни своего милого коня! Трахни меня жестко, Гюнтер!"
 
 # game/scripts/events.rpy:16471
 translate russian mjolnik_visit_02_414a6798:
 
     # Terrance "Ah... even harder lad, I can take it... Oooo.... Gunther!!!" with hpunch
-    Terrance "" with hpunch
+    Terrance "Ах... еще сильнее парень, я могу это выдержать... Oooo.... Гюнтер!!!" with hpunch
 
 # game/scripts/events.rpy:16473
 translate russian mjolnik_visit_02_8f7a4040:
 
     # "With that final utterance, Terrence orgasms."
-    ""
+    "При этих словах Терренс испытывает оргазм."
 
 # game/scripts/events.rpy:16480
 translate russian mjolnik_visit_02_d4d6722a:
 
     # "His whinny is loud but it does cover your own grunt as you also cum."
-    ""
+    "Его хныканье громкое, но оно перекрывает твое собственное хрюканье, когда ты тоже кончаешь."
 
 # game/scripts/events.rpy:16482
 translate russian mjolnik_visit_02_3893cc73:
 
     # "As the pair of you pant in the afterglow, your mind finally reacts to what Terrance said."
-    ""
+    "Пока вы вдвоем пыхтите в послесвечении, твой разум наконец реагирует на слова Терренса."
 
 # game/scripts/events.rpy:16484
 translate russian mjolnik_visit_02_6338d360:
 
     # "Seems the horse likes it a little rough, and especially likes having his tail pulled while being fucked."
-    ""
+    "Похоже, коню нравится, когда его трахают немного грубовато, и особенно ему нравится, когда его дергают за хвост."
 
 # game/scripts/events.rpy:16486
 translate russian mjolnik_visit_02_0f7a63b8:
 
     # "As you try and quietly get dressed, you file that tidbit of information away."
-    ""
+    "Пока ты пытаешься тихонько одеться, ты откладываешь эту информацию."
 
 # game/scripts/events.rpy:16488
 translate russian mjolnik_visit_02_dca2b55d:
 
     # "You stop just before putting your shirt back on and quietly mutter to yourself."
-    ""
+    "Ты останавливаешься перед тем, как надеть рубашку, и тихо бормочешь про себя."
 
 # game/scripts/events.rpy:16490
 translate russian mjolnik_visit_02_0b816644:
 
     # Fen "Pretty pony?"
-    Fen ""
+    Fen "Милый конь?"
 
 # game/scripts/events.rpy:16492
 translate russian mjolnik_visit_02_09944e42:
 
     # "You giggle slightly as you guess that must be some kind of love talk between the two."
-    ""
+    "Ты слегка хихикаешь, догадываясь, что это, должно быть, что-то вроде любовного разговора между этими двумя."
 
 # game/scripts/events.rpy:16501
 translate russian mjolnik_visit_02_e11feab8:
 
     # "Glancing back, you see that Terrance is now sitting on the ground, his eyes still closed but you hear snoring coming from the horse."
-    ""
+    "Оглянувшись, ты видишь, что Терренс сидит на земле, его глаза по-прежнему закрыты, но ты слышишь храп, доносящийся от лошади."
 
 # game/scripts/events.rpy:16503
 translate russian mjolnik_visit_02_97c9a66f:
 
     # "Seems after blowing his load, he decided to take a nap."
-    ""
+    "Похоже, что после того, как он выдохся, он решил вздремнуть."
 
 # game/scripts/events.rpy:16505
 translate russian mjolnik_visit_02_9750564c:
 
     # "While a nap does sound good, you have somewhere to be."
-    ""
+    "Вздремнуть - это, конечно, хорошо, но ведь тебе нужно где-то быть."
 
 # game/scripts/events.rpy:16510
 translate russian mjolnik_visit_02_ffecb93d:
 
     # "Picking up the rucksack, you quietly leave the grove and walk back to the main road, peering in both directions to make sure no one sees you leaving the grove."
-    ""
+    "Подхватив рюкзак, ты тихо выходишь из рощи и идешь обратно к главной дороге, поглядывая в обе стороны, чтобы убедиться, что никто не видит, как ты выходишь из рощи."
 
 # game/scripts/events.rpy:16512
 translate russian mjolnik_visit_02_a3c17f74:
 
     # "Seeing no one, you get back on the road."
-    ""
+    "Никого не видя, ты возвращаешься на дорогу."
 
 # game/scripts/events.rpy:16514
 translate russian mjolnik_visit_02_4537fcc0:
 
     # "You grin to yourself about what just happened."
-    ""
+    "Ты усмехаешься про себя тому, что только что произошло."
 
 # game/scripts/events.rpy:16516
 translate russian mjolnik_visit_02_5f423cc9:
 
     # "And the mental images of Terrance's massive body shuddering as he cums, his thick cock spraying his seed all over the grove fills your mind as you continue to Mjolnik's."
-    ""
+    "Мысленные образы массивного тела Терренса, содрогающегося от конвульсий, его толстого члена, разбрызгивающего семя по всей роще, заполняют твой разум, когда ты продолжаешь путь к Мельнику."
 
 # game/scripts/events.rpy:16528
 translate russian mjolnik_visit_02_3be84b06:
 
     # Terrance "Ooo, [name] lad, get that arse up in the air and let me have a go at it!"
-    Terrance ""
+    Terrance "Ооо, [name], парень, подними свою задницу в воздух и дай мне попробовать!"
 
 # game/scripts/events.rpy:16535
 translate russian mjolnik_visit_02_a7902864:
 
     # "You almost fall over as you hear the horse mention your name."
-    ""
+    "Чуть не упал, услышав, как лошадь назвала твое имя."
 
 # game/scripts/events.rpy:16537
 translate russian mjolnik_visit_02_b067b377:
 
     # "You actually stop masturbating for a moment to make sure you heard him right."
-    ""
+    "Ты на мгновение прекращаешь мастурбировать, чтобы убедиться, что правильно его понял."
 
 # game/scripts/events.rpy:16539
 translate russian mjolnik_visit_02_2d35c18d:
 
     # "And you did. Your heart skips a beat and you start to panic as you're sure Terrance has caught you."
-    ""
+    "И ты это сделала. Сердце заколотилось, и ты начал паниковать, так как был уверен, что Терренс тебя поймал."
 
 # game/scripts/events.rpy:16541
 translate russian mjolnik_visit_02_b8412201:
 
     # "Why else would he mention you by name, unless he knows you're there and is letting you know it."
-    ""
+    "Зачем еще ему упоминать тебя по имени, если только он не знает о твоем присутствии и не хочет дать тебе это понять."
 
 # game/scripts/events.rpy:16543
 translate russian mjolnik_visit_02_b6238db4:
 
     # "Your ears perk up and your face gets red as you hear all kinds of dirty things the horse wants to do to you."
-    ""
+    "У тебя закладывает уши и краснеет лицо, когда ты слышишь всевозможные грязные вещи, которые лошадь хочет с тобой сделать."
 
 # game/scripts/events.rpy:16545
 translate russian mjolnik_visit_02_532be934:
 
     # "You then realise that Terrance hasn't in fact seen you."
-    ""
+    "И тут ты понимаешь, что Терренс на самом деле тебя не видел."
 
 # game/scripts/events.rpy:16554
 translate russian mjolnik_visit_02_64f7660f:
 
     # "The horse is talking about all the things he wants to do to you in the future."
-    ""
+    "Конь говорит обо всем, что он хочет сделать с тобой в будущем."
 
 # game/scripts/events.rpy:16556
 translate russian mjolnik_visit_02_191408c0:
 
     # "And from what he's saying, he really wants to bend you over and fuck you until you can't walk."
-    ""
+    "И судя по тому, что он говорит, он действительно хочет нагнуть тебя и трахать до тех пор, пока ты не перестанешь ходить."
 
 # game/scripts/events.rpy:16558
 translate russian mjolnik_visit_02_e78042c7:
 
     # "And that makes you jerk off even harder."
-    ""
+    "И это заставляет тебя дрочить еще сильнее."
 
 # game/scripts/events.rpy:16566
 translate russian mjolnik_visit_02_e470721f:
 
     # "You picture yourself under the horse, on your hands and knees, ass high in the air."
-    ""
+    "Ты представляешь себя под конем, на руках и коленях, задница высоко в воздухе."
 
 # game/scripts/events.rpy:16568
 translate russian mjolnik_visit_02_b6a03c26:
 
     # "You can almost feel the massive flared head pushing into your tailhole, seeking access."
-    ""
+    "Ты почти чувствуешь, как массивная раздутая головка протискивается в твое отверстие, ища доступа."
 
 # game/scripts/events.rpy:16570
 translate russian mjolnik_visit_02_398bc825:
 
     # "You can feel your tight hole slowly giving way and then..."
-    ""
+    "Ты чувствуешь, как твоя тугая дырочка медленно поддается, а потом..."
 
 # game/scripts/events.rpy:16581
 translate russian mjolnik_visit_02_d01be3d8:
 
     # Terrance "Take it!"
-    Terrance ""
+    Terrance "Бери!"
 
 # game/scripts/events.rpy:16584
 translate russian mjolnik_visit_02_6527d007:
 
     # Terrance "Take me whole fucking cock, [name] ya gorgeous flaming bitch!" with vpunch
-    Terrance "" with vpunch
+    Terrance "Возьми меня на всю катушку, [name], ты, великолепная огненная сучка!" with vpunch
 
 # game/scripts/events.rpy:16588
 translate russian mjolnik_visit_02_5e53ca2e:
 
     # "With that final bit of dirty talk, you erupt, spewing your seed everyone."
-    ""
+    "С последним словом грязной речи ты извергаешься, извергая свое семя из каждого."
 
 # game/scripts/events.rpy:16590
 translate russian mjolnik_visit_02_48cbfb5a:
 
     # "You struggle to not howl, but can't stop some moans. However those moans are drowned out by a thunderous whinny from Terrance as he cums."
-    ""
+    "Ты стараешься не завыть, но не можешь сдержать стоны. Однако эти стоны заглушает громкий вой Терренса, когда он кончает."
 
 # game/scripts/events.rpy:16592
 translate russian mjolnik_visit_02_ef89b8f8:
 
     # "As intense as your orgasm was, you know it pales to the one Terrance is feeling."
-    ""
+    "Каким бы сильным ни был твой оргазм, ты знаешь, что он меркнет по сравнению с тем, что испытывает Терренс."
 
 # game/scripts/events.rpy:16594
 translate russian mjolnik_visit_02_f8152e11:
 
     # "You watch in amazement as multiple jets of cum fly over his broad shoulders, before a few lesser ones hit his chest."
-    ""
+    "Ты с изумлением наблюдаешь, как многочисленные струи спермы летят на его широкие плечи, а несколько меньших попадают на грудь."
 
 # game/scripts/events.rpy:16596
 translate russian mjolnik_visit_02_cc7fcaaa:
 
     # "The horse whinnies again in contentment and slides to the ground. As you clean up and get dressed you think about what just happened."
-    ""
+    "Лошадь снова удовлетворенно хнычет и сползает на землю. Приводя себя в порядок и одеваясь, ты думаешь о том, что только что произошло."
 
 # game/scripts/events.rpy:16598
 translate russian mjolnik_visit_02_8c3479fe:
 
     # "Seems not only is Terrance more interested in you than you might have guessed, he seems to really want to bang you."
-    ""
+    "Похоже, Терренс не только заинтересован в тебе больше, чем ты мог предположить, он, кажется, действительно хочет тебя трахнуть."
 
 # game/scripts/events.rpy:16600
 translate russian mjolnik_visit_02_f0355ca8:
 
     # "The thought makes your cheeks flush as you think you might want that as well. You curse how that is most improbable."
-    ""
+    "От этой мысли у тебя раскраснелись щеки, и ты подумал, что тоже мог бы этого захотеть. Ты проклинаешь себя за то, что это маловероятно."
 
 # game/scripts/events.rpy:16609
 translate russian mjolnik_visit_02_0a0e15da:
 
     # "Glancing back, you see that Terrance is still sitting on the ground, his eyes now closed and you hear snoring coming from the horse."
-    ""
+    "Оглянувшись, ты видишь, что Терренс все еще сидит на земле, глаза его закрыты, и слышишь храп, доносящийся от коня."
 
 # game/scripts/events.rpy:16611
 translate russian mjolnik_visit_02_97c9a66f_1:
 
     # "Seems after blowing his load, he decided to take a nap."
-    ""
+    "Похоже, что после того, как он выдохся, он решил вздремнуть."
 
 # game/scripts/events.rpy:16613
 translate russian mjolnik_visit_02_9750564c_1:
 
     # "While a nap does sound good, you have somewhere to be."
-    ""
+    "Вздремнуть - это, конечно, хорошо, но ведь тебе нужно где-то быть."
 
 # game/scripts/events.rpy:16618
 translate russian mjolnik_visit_02_ffecb93d_1:
 
     # "Picking up the rucksack, you quietly leave the grove and walk back to the main road, peering in both directions to make sure no one sees you leaving the grove."
-    ""
+    "Подхватив рюкзак, ты тихо выходишь из рощи и идешь обратно к главной дороге, поглядывая в обе стороны, чтобы убедиться, что никто не видит, как ты выходишь из рощи."
 
 # game/scripts/events.rpy:16620
 translate russian mjolnik_visit_02_a3c17f74_1:
 
     # "Seeing no one, you get back on the road."
-    ""
+    "Никого не видя, ты возвращаешься на дорогу."
 
 # game/scripts/events.rpy:16622
 translate russian mjolnik_visit_02_4537fcc0_1:
 
     # "You grin to yourself about what just happened."
-    ""
+    "Ты усмехаешься про себя тому, что только что произошло."
 
 # game/scripts/events.rpy:16624
 translate russian mjolnik_visit_02_5f423cc9_1:
 
     # "And the mental images of Terrance's massive body shuddering as he cums, his thick cock spraying his seed all over the grove fills your mind as you continue to Mjolnik's."
-    ""
+    "Мысленные образы массивного тела Терренса, содрогающегося от конвульсий, его толстого члена, разбрызгивающего семя по всей роще, заполняют твой разум, когда ты продолжаешь путь к Мельнику."
 
 # game/scripts/events.rpy:16628
 translate russian mjolnik_visit_02_eaac38c2:
 
     # "{color=#16f58d}{i}SXP Check 10 - Failure{/i}{/color}"
-    ""
+    "{color=#16f58d}{i}Проверка сексуальности 10 - Провалена{/i}{/color}"
 
 # game/scripts/events.rpy:16635
 translate russian mjolnik_visit_02_734fa821:
 
     # "After some more uneventful travel, you're at the path that leads to Mjolnik's."
-    ""
+    "После еще одного неспешного путешествия ты оказываешься на тропе, ведущей к Мельнику."
 
 # game/scripts/events.rpy:16637
 translate russian mjolnik_visit_02_0dc70594:
 
     # "Sighing happily at the near end of your journey, you walk down the path, keeping an eye out for the bull."
-    ""
+    "Счастливо вздохнув, что путь близок к завершению, ты идешь по тропинке, не сводя глаз с быка."
 
 # game/scripts/events.rpy:16642
 translate russian mjolnik_visit_02_bbda97f0:
 
     # "As his farmhouse comes into view, you look around, but don't see him anywhere."
-    ""
+    "Оглянувшись по сторонам, ты увидел его фермерский дом, но нигде его не заметил."
 
 # game/scripts/events.rpy:16644
 translate russian mjolnik_visit_02_5782803f:
 
     # Fen "Crap... I hope he's not gone out. Not like he knew I was coming today."
-    Fen ""
+    Fen "Черт... Надеюсь, он никуда не ушел. Он же не знал, что я приду сегодня."
 
 # game/scripts/events.rpy:16651
 translate russian mjolnik_visit_02_26dfcf1c:
 
     # "You walk up to the front door and pause."
-    ""
+    "Ты подходишь к входной двери и замираешь."
 
 # game/scripts/events.rpy:16653
 translate russian mjolnik_visit_02_0faec016:
 
     # "You almost just walk in but realise that even if Mjolnik is easy going, that might be rude.cSo you simply knock loudly."
-    ""
+    "Ты почти просто входишь, но понимаешь, что, даже если Мельник будет вести себя спокойно, это будет невежливо, поэтому ты просто громко стучишь."
 
 # game/scripts/events.rpy:16655
 translate russian mjolnik_visit_02_4629fcde:
 
     # "You heard a startled grunt from inside."
-    ""
+    "Изнутри послышалось удивленное ворчание."
 
 # game/scripts/events.rpy:16657
 translate russian mjolnik_visit_02_df78b75b:
 
     # Mjolnik "What in blazes?"
-    Mjolnik ""
+    Mjolnik "Что, черт возьми?"
 
 # game/scripts/events.rpy:16663
 translate russian mjolnik_visit_02_7d5e2af7:
 
     # "The door swings open and you're greeted by a very confused Mjolnik, who just appears to have gotten out of bed."
-    ""
+    "Дверь распахивается, и тебя встречает очень смущенный Мельник, который, похоже, только что встал с постели."
 
 # game/scripts/events.rpy:16667
 translate russian mjolnik_visit_02_7e38243c:
 
     # "The bull rubs his eyes and his face breaks out into a huge smile as he recognizes you."
-    ""
+    "Бык протирает глаза, и его лицо расплывается в огромной улыбке, когда он узнает тебя."
 
 # game/scripts/events.rpy:16672
 translate russian mjolnik_visit_02_81e13e24:
 
     # Mjolnik "[name]! Well don't this just beat all?"
-    Mjolnik ""
+    Mjolnik "[name]! Разве это не превосходит все ожидания?"
 
 # game/scripts/events.rpy:16674
 translate russian mjolnik_visit_02_337f6b44:
 
     # Mjolnik normal "I was just thinking to meself, what could make this day even better and y'all just fall out of the sky!"
-    Mjolnik normal ""
+    Mjolnik normal "Я просто думал про себя, что может сделать этот день еще лучше, а ты просто свалился с неба!"
 
 # game/scripts/events.rpy:16676
 translate russian mjolnik_visit_02_66b6803b:
 
     # "He goes to hug you but stops midway."
-    ""
+    "Он собирается обнять тебя, но останавливается на полпути."
 
 # game/scripts/events.rpy:16679
 translate russian mjolnik_visit_02_e197e171:
 
     # "He stands there a bit awkwardly with his arms half out-stretched."
-    ""
+    "Он стоит немного неловко с полураскинутыми руками."
 
 # game/scripts/events.rpy:16681
 translate russian mjolnik_visit_02_e7e5309a:
 
     # Mjolnik "Done forgot, Terrance said I gotta stop hugging people without asking. Seems I have a bad habit of that."
-    Mjolnik ""
+    Mjolnik "Да, забыл, Терренс сказал, что я должен перестать обнимать людей без спроса. Похоже, у меня есть плохая привычка."
 
 # game/scripts/events.rpy:16687
 translate russian mjolnik_visit_02_84f97a96:
 
     # "You shake your head and simply hug the bull."
-    ""
+    "Ты качаешь головой и просто обнимаешь быка."
 
 # game/scripts/events.rpy:16690
 translate russian mjolnik_visit_02_fabb1970:
 
     # "He makes a happy mooing sound and returns the embrace and you spend a good few minutes just standing there in each other's arms."
-    ""
+    "Он издает довольное мычание, возвращает объятия, и вы проводите несколько минут, просто стоя в объятиях друг друга."
 
 # game/scripts/events.rpy:16692
 translate russian mjolnik_visit_02_15a649c5:
 
     # "The fact you can lay your head directly on his chest is a bonus."
-    ""
+    "То, что ты можешь положить голову прямо ему на грудь, является бонусом."
 
 # game/scripts/events.rpy:16697
 translate russian mjolnik_visit_02_8dbd9b13:
 
     # "Eventually it's Mjolnik who breaks the hug and gestures inside."
-    ""
+    "В конце концов Мельник разрывает объятия и жестом приглашает войти внутрь."
 
 # game/scripts/events.rpy:16699
 translate russian mjolnik_visit_02_db053bfb:
 
     # Mjolnik smile "Where's my manners, c'mon in, make yerself at home!"
-    Mjolnik smile ""
+    Mjolnik smile "Где мои манеры, заходи, чувствуй себя как дома!"
 
 # game/scripts/events.rpy:16703
 translate russian mjolnik_visit_02_8106769e:
 
     # Fen "Thanks Mjolnik. Odd I didn't see you out in the fields?"
-    Fen ""
+    Fen "Спасибо, Мельник. Странно, что я не видел тебя в поле?"
 
 # game/scripts/events.rpy:16705
 translate russian mjolnik_visit_02_ef2d13f2:
 
     # "The bull laughs and plops down in a chair, before putting his hooves on the table."
-    ""
+    "Бык смеется и опускается на стул, а затем ставит копыта на стол."
 
 # game/scripts/events.rpy:16707
 translate russian mjolnik_visit_02_5c5b97df:
 
     # "Leaning back in his chair he grins at you."
-    ""
+    "Откинувшись в кресле, он ухмыляется."
 
 # game/scripts/events.rpy:16714
 translate russian mjolnik_visit_02_954f8b4e:
 
     # Mjolnik "Oh, that's easy. I just took a day off."
-    Mjolnik ""
+    Mjolnik "О, это просто. Я просто взял выходной."
 
 # game/scripts/events.rpy:16716
 translate russian mjolnik_visit_02_8fd08aec:
 
     # Mjolnik normal "I worked extra hard the past two days to get everything done. Reckon that'll give me the morning off at least."
-    Mjolnik normal ""
+    Mjolnik normal "Последние два дня я очень много работал, чтобы все успеть. Думаю, это даст мне хотя бы утренний выходной."
 
 # game/scripts/events.rpy:16718
 translate russian mjolnik_visit_02_a7e5c6b1:
 
     # Mjolnik "I only got a few small chores to do later."
-    Mjolnik ""
+    Mjolnik "У меня осталось только несколько мелких дел на потом."
 
 # game/scripts/events.rpy:16720
 translate russian mjolnik_visit_02_91883127:
 
     # "The two of you spend the next few hours just making casual small talk and enjoying a few snacks."
-    ""
+    "Следующие несколько часов вы проведете, ведя непринужденную светскую беседу и перекусывая."
 
 # game/scripts/events.rpy:16723
 translate russian mjolnik_visit_02_f96c5b0b:
 
     # "You find that Mjolnik is extremely good at small talk, able to weave elaborate stories about the smallest incident."
-    ""
+    "Ты обнаруживаешь, что Мельник очень хорош в светских беседах, он может плести замысловатые истории о самых незначительных происшествиях."
 
 # game/scripts/events.rpy:16725
 translate russian mjolnik_visit_02_fac97cf8:
 
     # "He spends a good half hour telling a yarn about a mouse he saw a few days ago and you find it fascinating to listen to."
-    ""
+    "Он добрых полчаса рассказывает о мыши, которую видел несколько дней назад, и ты находишь это увлекательным занятием."
 
 # game/scripts/events.rpy:16727
 translate russian mjolnik_visit_02_dae81345:
 
     # "However, stories about mice aside, you do want to ask him about some other, more in depth topics."
-    ""
+    "Однако, если отбросить истории о мышах, тебе захочется расспросить его о других, более глубоких темах."
 
 # game/scripts/events.rpy:16729
 translate russian mjolnik_visit_02_7598f993:
 
     # "So when there's a bit of a lull in the conversation, you do so."
-    ""
+    "Поэтому, когда в разговоре наступает некоторое затишье, ты делаешь это."
 
 # game/scripts/events.rpy:16741
 translate russian mjolnik_visit_talk_73bb7118:
 
     # Fen "How do you like farming? Seems like hard work."
-    Fen ""
+    Fen "Как тебе нравится фермерство? Кажется, это тяжелая работа."
 
 # game/scripts/events.rpy:16744
 translate russian mjolnik_visit_talk_8d098bde:
 
     # "Mjolnik smiles and nods. He leans back and puts his hands behind his head."
-    ""
+    "Мельник улыбается и кивает. Он откидывается назад и закладывает руки за голову."
 
 # game/scripts/events.rpy:16746
 translate russian mjolnik_visit_talk_1a084452:
 
     # Mjolnik "Y'all have no idea how hard it can get. But I like it."
-    Mjolnik ""
+    Mjolnik "Ты даже не представляешь, как это тяжело. Но мне это нравится."
 
 # game/scripts/events.rpy:16748
 translate russian mjolnik_visit_talk_26666026:
 
     # Mjolnik grin "I'm good at it. Terrance says so and he knows so much. Granted he mostly grows root veggies."
-    Mjolnik grin ""
+    Mjolnik grin "У меня хорошо получается. Терренс так говорит, а он так много знает. Правда, он в основном выращивает корнеплоды."
 
 # game/scripts/events.rpy:16750
 translate russian mjolnik_visit_talk_f1149ff4:
 
     # Mjolnik normal "His mitts are just too big to handle more delicate things, so he sticks to the hardy stuff."
-    Mjolnik normal ""
+    Mjolnik normal "Его руки слишком велики для работы с более деликатными вещами, поэтому он предпочитает работать с прочными вещами."
 
 # game/scripts/events.rpy:16752
 translate russian mjolnik_visit_talk_11c9c012:
 
     # Mjolnik smile "But the turnips he can grow. Mhmm, delicious!"
-    Mjolnik smile ""
+    Mjolnik smile "Но репу он может вырастить. Ммм, вкусно!"
 
 # game/scripts/events.rpy:16754
 translate russian mjolnik_visit_talk_c21e4856:
 
     # Mjolnik normal "But me? I handle grains and greens. Plus I grow some stuff for Eoghann."
-    Mjolnik normal ""
+    Mjolnik normal "А я? Я занимаюсь зерном и зеленью. Плюс выращиваю кое-что для Эоганна."
 
 # game/scripts/events.rpy:16756
 translate russian mjolnik_visit_talk_c4b21e75:
 
     # Mjolnik "Over the years he's taught me a few tricks to grow herbs. I'm right grateful to him."
-    Mjolnik ""
+    Mjolnik "За эти годы он научил меня нескольким приемам выращивания трав. Я ему очень благодарен."
 
 # game/scripts/events.rpy:16758
 translate russian mjolnik_visit_talk_36e86327:
 
     # "You nod. Looking over the relaxed bull, you admire his musculature."
-    ""
+    "Ты киваешь. Оглядывая расслабленного быка, ты восхищаешься его мускулатурой."
 
 # game/scripts/events.rpy:16760
 translate russian mjolnik_visit_talk_cdadec5f:
 
     # Fen "Plus I guess it's a lot of hard physical work? You're pretty muscular. Looks really good."
-    Fen ""
+    Fen "К тому же, наверное, это тяжелая физическая работа? Ты довольно мускулистый. Выглядишь очень хорошо."
 
 # game/scripts/events.rpy:16762
 translate russian mjolnik_visit_talk_d4ea246d:
 
     # Mjolnik blush2 "Oh y'all could sweet talk the birds from the trees [name]!"
-    Mjolnik blush2 ""
+    Mjolnik blush2 "О, как ты умеешь уговаривать птиц с деревьев!"
 
 # game/scripts/events.rpy:16764
 translate russian mjolnik_visit_talk_3d6070f0:
 
     # Mjolnik blush "But yeah, all the labour makes me big n strong."
-    Mjolnik blush ""
+    Mjolnik blush "Но да, все труды делают меня большим и сильным."
 
 # game/scripts/events.rpy:16766
 translate russian mjolnik_visit_talk_f9f32330:
 
     # Mjolnik grin "Almost as big as Terrance. Well, I reckon when I'm as old as him, I'll be just as big!"
-    Mjolnik grin ""
+    Mjolnik grin "Почти такой же большой, как Терренс. Ну, я думаю, когда мне будет столько же лет, сколько ему, я буду таким же большим!"
 
 # game/scripts/events.rpy:16768
 translate russian mjolnik_visit_talk_bea127ea:
 
     # Mjolnik normal "But enough about that, I know farming isn't as interesting as most things. It's important, everyone likes a full belly."
-    Mjolnik normal ""
+    Mjolnik normal "Но хватит об этом, я знаю, что фермерство не так интересно, как большинство других вещей. Но это важно, все любят сытые животы."
 
 # game/scripts/events.rpy:16770
 translate russian mjolnik_visit_talk_cc0876d4:
 
     # Mjolnik "Just not the most exciting. Unless y'all really like taters."
-    Mjolnik ""
+    Mjolnik "Просто не самое интересное. Если только ты не любишь картошку."
 
 # game/scripts/events.rpy:16777
 translate russian mjolnik_visit_talk_ea30769c:
 
     # "Mjolnik gets up and stretches, completely oblivious to the fact that he's naked and full on showing you his body."
-    ""
+    "Мельник встает и потягивается, совершенно не обращая внимания на то, что он голый и полностью демонстрирует тебе свое тело."
 
 # game/scripts/events.rpy:16779
 translate russian mjolnik_visit_talk_ea35cf3f:
 
     # "He scratches his chest and smiles at you."
-    ""
+    "Он почесывает грудь и улыбается тебе."
 
 # game/scripts/events.rpy:16787
 translate russian mjolnik_visit_talk_e6fe4b5f:
 
     # Fen "So, how do you know Terrance anyways?"
-    Fen ""
+    Fen "Так откуда ты знаешь Терренса?"
 
 # game/scripts/events.rpy:16789
 translate russian mjolnik_visit_talk_a2bf2f09:
 
     # Mjolnik grin "I know that big ol 'hoss since I was a kid. He's a friend of the family."
-    Mjolnik grin ""
+    Mjolnik grin "Я знаю этого здоровяка с детства. Он друг нашей семьи."
 
 # game/scripts/events.rpy:16791
 translate russian mjolnik_visit_talk_73cf75e5:
 
     # Mjolnik normal "He's always been around, helping to do things and he totes my produce to market."
-    Mjolnik normal ""
+    Mjolnik normal "Он всегда был рядом, помогал по хозяйству и возил мою продукцию на рынок."
 
 # game/scripts/events.rpy:16793
 translate russian mjolnik_visit_talk_28dcea86:
 
     # Mjolnik smile "Honestly, he's like a second pa to me. I reckon without everything he's shown me I would have burned this place to the ground five times over by now."
-    Mjolnik smile ""
+    Mjolnik smile "Честно говоря, он для меня как второй па. Думаю, без всего, что он мне показал, я бы уже пять раз сжег это место дотла."
 
 # game/scripts/events.rpy:16795
 translate russian mjolnik_visit_talk_b0c0f3b3:
 
     # Mjolnik normal "I owe him so much. I'd do anything for him."
-    Mjolnik normal ""
+    Mjolnik normal "Я так многим ему обязан. Я готов на все ради него."
 
 # game/scripts/events.rpy:16798
 translate russian mjolnik_visit_talk_7671b350:
 
     # "His face grows thoughtful for a moment."
-    ""
+    "Его лицо на мгновение становится задумчивым."
 
 # game/scripts/events.rpy:16801
 translate russian mjolnik_visit_talk_5747b7bd:
 
     # "You see a split second of apprehension or doubt cross his features before it returns to his normal easy going smile."
-    ""
+    "Ты видишь, как на долю секунды в его чертах промелькнуло опасение или сомнение, а затем он снова улыбнулся своей обычной непринужденной улыбкой."
 
 # game/scripts/events.rpy:16803
 translate russian mjolnik_visit_talk_d487ad7b:
 
     # Mjolnik "I'm lucky, if I say so myself. I got so many good folk to help."
-    Mjolnik ""
+    Mjolnik "Мне повезло, если не сказать больше. У меня так много хороших людей, которые мне помогают."
 
 # game/scripts/events.rpy:16805
 translate russian mjolnik_visit_talk_cd49a703:
 
     # Mjolnik "My ma and pa. My brothers. Terrance and ol' Eoghann."
-    Mjolnik ""
+    Mjolnik "Мои мама и папа. Мои братья. Терренс и старина Эоганн."
 
 # game/scripts/events.rpy:16807
 translate russian mjolnik_visit_talk_a88b0c4f:
 
     # Mjolnik smile "Eoghann's like the papaw I never had."
-    Mjolnik smile ""
+    Mjolnik smile "Эоганн - это как папа, которого у меня никогда не было."
 
 # game/scripts/events.rpy:16809
 translate russian mjolnik_visit_talk_8a6aebbd:
 
     # Mjolnik stern "..."
-    Mjolnik stern ""
+    Mjolnik stern "..."
 
 # game/scripts/events.rpy:16811
 translate russian mjolnik_visit_talk_7886fb50:
 
     # Mjolnik "Sad thing is, I think his mind's getting a bit bad. He's old so I reckon that's normal."
-    Mjolnik ""
+    Mjolnik "Печально то, что, по-моему, у него помутился рассудок. Он стар, так что я считаю, что это нормально."
 
 # game/scripts/events.rpy:16813
 translate russian mjolnik_visit_talk_73d463dd:
 
     # Mjolnik "I do worry about him, living alone in those woods. Maybe he should move here."
-    Mjolnik ""
+    Mjolnik "Я беспокоюсь за него, когда он живет один в этом лесу. Может, ему стоит переехать сюда?"
 
 # game/scripts/events.rpy:16815
 translate russian mjolnik_visit_talk_fc6bb33b:
 
     # Mjolnik smile "Oh well. He's a right stubborn ol' goat, so that'll never happen."
-    Mjolnik smile ""
+    Mjolnik smile "Ну что ж. Он упрямый козел, так что этого никогда не случится."
 
 # game/scripts/events.rpy:16822
 translate russian mjolnik_visit_talk_ea30769c_1:
 
     # "Mjolnik gets up and stretches, completely oblivious to the fact that he's naked and full on showing you his body."
-    ""
+    "Мельник встает и потягивается, совершенно не обращая внимания на то, что он голый и полностью демонстрирует тебе свое тело."
 
 # game/scripts/events.rpy:16824
 translate russian mjolnik_visit_talk_ea35cf3f_1:
 
     # "He scratches his chest and smiles at you."
-    ""
+    "Он почесывает грудь и улыбается тебе."
 
 # game/scripts/events.rpy:16832
 translate russian mjolnik_visit_talk_bb1af4ff:
 
     # Fen "So, how about your family? I haven't seen them, so just wondering where they are?"
-    Fen ""
+    Fen "А как твоя семья? Я их не видел, поэтому просто интересуюсь, где они?"
 
 # game/scripts/events.rpy:16835
 translate russian mjolnik_visit_talk_fdd1fc99:
 
     # "Mjolnik gives you a slightly surprised look as if he wasn't expecting the question. He pauses for a moment before replying."
-    ""
+    "Мельник бросает на тебя слегка удивленный взгляд, как будто не ожидал такого вопроса. Он делает небольшую паузу, прежде чем ответить."
 
 # game/scripts/events.rpy:16837
 translate russian mjolnik_visit_talk_df3df778:
 
     # Mjolnik normal "Well, they live in the city, so you wouldn't be seeing em here! My ma and pa are there and so are my two brothers."
-    Mjolnik normal ""
+    Mjolnik normal "Ну, они живут в городе, так что ты их здесь не увидишь! Мои мама и папа там, и два моих брата тоже."
 
 # game/scripts/events.rpy:16839
 translate russian mjolnik_visit_talk_7883d791:
 
     # "You nod, wondering if you may have seen or even served his family at the Flagon and not even known. But your thoughts are interrupted by Mjolnik."
-    ""
+    "Ты киваешь, размышляя о том, что мог видеть или даже обслуживать его семью в Кувшине и даже не знать об этом. Но твои размышления прерывает Мельник."
 
 # game/scripts/events.rpy:16841
 translate russian mjolnik_visit_talk_870688a0:
 
     # Mjolnik smile "Yep. They love it in the city, all of em."
-    Mjolnik smile ""
+    Mjolnik smile "Да. Им нравится в городе, всем им."
 
 # game/scripts/events.rpy:16843
 translate russian mjolnik_visit_talk_1c06687e:
 
     # Mjolnik normal "Not for me though, I don't like the city. Too busy. I rather the country."
-    Mjolnik normal ""
+    Mjolnik normal "Но не для меня, я не люблю город. Слишком много народу. Я предпочитаю деревню."
 
 # game/scripts/events.rpy:16845
 translate russian mjolnik_visit_talk_3ebd3bcc:
 
     # Mjolnik "But my pa, Snorri and my ma, Beltyn, wanted to retire there, so left me the farm, packed up my brothers and left. "
-    Mjolnik ""
+    Mjolnik "Но мой отец, Снорри, и моя мать, Белтын, хотели уйти на покой, поэтому оставили мне ферму, собрали моих братьев и уехали. "
 
 # game/scripts/events.rpy:16847
 translate russian mjolnik_visit_talk_b4614854:
 
     # Mjolnik "I miss em but I got to keep working the farm and make em proud."
-    Mjolnik ""
+    Mjolnik "Я скучаю по ним, но я должен продолжать работать на ферме и гордиться ими."
 
 # game/scripts/events.rpy:16849
 translate russian mjolnik_visit_talk_20968162:
 
     # Mjolnik grin "Pa always said that as the oldest son, I'd get the farm and make him proud."
-    Mjolnik grin ""
+    Mjolnik grin "Папа всегда говорил, что я, как старший сын, получу ферму и буду гордиться им."
 
 # game/scripts/events.rpy:16851
 translate russian mjolnik_visit_talk_59b2875a:
 
     # "He gives you a broad smile, but you sense a hint of sadness. It's obvious he misses his family."
-    ""
+    "Он широко улыбается, но ты чувствуешь нотки грусти. Очевидно, что он скучает по своей семье."
 
 # game/scripts/events.rpy:16853
 translate russian mjolnik_visit_talk_60f1bb16:
 
     # Mjolnik smile "And I reckon I'll make em both right proud!"
-    Mjolnik smile ""
+    Mjolnik smile "И я думаю, что смогу заставить их обоих гордиться собой!"
 
 # game/scripts/events.rpy:16860
 translate russian mjolnik_visit_talk_ea30769c_2:
 
     # "Mjolnik gets up and stretches, completely oblivious to the fact that he's naked and full on showing you his body."
-    ""
+    "Мельник встает и потягивается, совершенно не обращая внимания на то, что он голый и полностью демонстрирует тебе свое тело."
 
 # game/scripts/events.rpy:16862
 translate russian mjolnik_visit_talk_ea35cf3f_2:
 
     # "He scratches his chest and smiles at you."
-    ""
+    "Он почесывает грудь и улыбается тебе."
 
 # game/scripts/events.rpy:16870
 translate russian mjolnik_visit_activity_fe4bacea:
 
     # Mjolnik "I need to go get those last few chores done."
-    Mjolnik ""
+    Mjolnik "Мне нужно сделать последние дела по ферме."
 
 # game/scripts/events.rpy:16872
 translate russian mjolnik_visit_activity_f938dd66:
 
     # Mjolnik "Y'all welcome to come help a bit or watch. I sure don't mind."
-    Mjolnik ""
+    Mjolnik "Приглашаю тебя немного помочь или посмотреть. Я, конечно, не против."
 
 # game/scripts/events.rpy:16877
 translate russian mjolnik_visit_activity_efa8338c:
 
     # "Nodding you get up and follow the bull outside."
-    ""
+    "Кивнув, ты встаешь и следуешь за быком на улицу."
 
 # game/scripts/events.rpy:16883
 translate russian mjolnik_visit_activity_000c70c0:
 
     # "This time he goes over to one of the actual fields."
-    ""
+    "На этот раз он отправляется на одно из настоящих полей."
 
 # game/scripts/events.rpy:16885
 translate russian mjolnik_visit_activity_6412876e:
 
     # "There's a large sack with a strap sitting there and when Mjolnik gets there, he puts it on and steps into the field."
-    ""
+    "Там лежит большой мешок с лямкой, и когда Мельник приходит туда, он надевает его и выходит на поле."
 
 # game/scripts/events.rpy:16890
 translate russian mjolnik_visit_activity_05856fe5:
 
     # Mjolnik "I needs to get a bit more seeding done. It's boring, but well, if y'all don't put the seeds in the dirt, y'all don't get no crops."
-    Mjolnik ""
+    Mjolnik "Мне нужно сделать немного больше посевов. Это скучно, но если не положить семена в землю, то урожая не будет."
 
 # game/scripts/events.rpy:16892
 translate russian mjolnik_visit_activity_76c48ffd:
 
     # Mjolnik "I only have the one seedbag so y'all ain't able to help here."
-    Mjolnik ""
+    Mjolnik "У меня есть только один мешок с семенами, так что тут ты не сможешь помочь."
 
 # game/scripts/events.rpy:16894
 translate russian mjolnik_visit_activity_984ee78b:
 
     # Mjolnik "But if yer of the mind to lend a hand, I never did get to finishing off putting the hay in the barn."
-    Mjolnik ""
+    Mjolnik "Но если ты не против помочь, я так и не закончил укладывать сено в сарай."
 
 # game/scripts/events.rpy:16896
 translate russian mjolnik_visit_activity_661a6a47:
 
     # "With that, he begins to walk up and down the field, pausing every foot or so to plant a seed before moving on."
-    ""
+    "С этими словами он начинает ходить вверх и вниз по полю, останавливаясь на каждом шагу, чтобы посадить семечко, а затем идти дальше."
 
 # game/scripts/events.rpy:16898
 translate russian mjolnik_visit_activity_179a54ff:
 
     # "You think about what to do."
-    ""
+    "Ты думаешь, что делать."
 
 # game/scripts/events.rpy:16906
 translate russian mjolnik_visit_activity_9040b7bc:
 
     # Mjolnik normal "Enough jaw-jacking for now. I gots chores to do."
-    Mjolnik normal ""
+    Mjolnik normal "Хватит уже болтать языком. Мне нужно заняться делами."
 
 # game/scripts/events.rpy:16908
 translate russian mjolnik_visit_activity_cc73c892:
 
     # Mjolnik smile "Y'all welcome to come help a bit or watch. I sure don't mind the company."
-    Mjolnik smile ""
+    Mjolnik smile "Приглашаю тебя немного помочь или посмотреть. Я не против компании."
 
 # game/scripts/events.rpy:16910
 translate russian mjolnik_visit_activity_efa8338c_1:
 
     # "Nodding you get up and follow the bull outside."
-    ""
+    "Кивнув, ты встаешь и следуешь за быком на улицу."
 
 # game/scripts/events.rpy:16914
 translate russian mjolnik_visit_activity_52c1d9ef:
 
     # "Walking around the front of the farmhouse, you follow Mjolnik. He suddenly stops and points to a large garden filled with herbs."
-    ""
+    "Обойдя переднюю часть фермы, ты следуешь за Мельником. Он внезапно останавливается и указывает на большой сад, заросший травами."
 
 # game/scripts/events.rpy:16919
 translate russian mjolnik_visit_activity_400637a6:
 
     # Mjolnik "Well I was planning to weed and tend to the herbs before you came and to start on the hay. But I'll only be able to do one now."
-    Mjolnik ""
+    Mjolnik "Я планировал прополоть и обработать травы до твоего прихода и начать заготавливать сено. Но теперь я смогу сделать только одно."
 
 # game/scripts/events.rpy:16921
 translate russian mjolnik_visit_activity_6d8285ba:
 
     # Mjolnik smile "Y'all showing up ate a bit of time. I reckon it was plum worth it, but.."
-    Mjolnik smile ""
+    Mjolnik smile "Твое появление отняло немного времени. Я считаю, что это того стоило, но..."
 
 # game/scripts/events.rpy:16929
 translate russian mjolnik_visit_activity_e14e6214:
 
     # "He beams at you before going to the garden and getting on his hands and knees."
-    ""
+    "Он приветствует тебя, а затем идет в сад и встает на колени."
 
 # game/scripts/events.rpy:16931
 translate russian mjolnik_visit_activity_5a8f1817:
 
     # "You'd swear the bull was teasing you, with how his ass was pointed directly at you, but you know from what Terrance told you, he's pretty innocent."
-    ""
+    "Ты можешь поклясться, что бык дразнит тебя, поскольку его задница направлена прямо на тебя, но из того, что рассказал тебе Терренс, ты знаешь, что он вполне невиновен."
 
 # game/scripts/events.rpy:16933
 translate russian mjolnik_visit_activity_1b6498b1:
 
     # "Still, nice view..."
-    ""
+    "Тем не менее, прекрасный вид..."
 
 # game/scripts/events.rpy:16935
 translate russian mjolnik_visit_activity_5647dfef:
 
     # "You call out to Mjolnik who looks over his shoulder at you."
-    ""
+    "Ты обращаешься к Мельнику, который смотрит на тебя через плечо."
 
 # game/scripts/events.rpy:16941
 translate russian mjolnik_visit_activity_510f8090:
 
     # Fen "So anything I can do while you work?"
-    Fen ""
+    Fen "Я могу что-нибудь сделать, пока ты работаешь?"
 
 # game/scripts/events.rpy:16945
 translate russian mjolnik_visit_activity_e03b0441:
 
     # Mjolnik "Hmm, reckon y'all can just watch me tend the herbs if that tickles yer fancy."
-    Mjolnik ""
+    Mjolnik "Хм, думаю, ты можешь просто наблюдать, как я ухаживаю за травами, если тебе это нравится."
 
 # game/scripts/events.rpy:16947
 translate russian mjolnik_visit_activity_46a47507:
 
     # Mjolnik grin "Or if y'all want to really be a dear, you can start on the hay for me."
-    Mjolnik grin ""
+    Mjolnik grin "Или, если ты хочешь быть очень добрым, можешь заготовить для меня сено."
 
 # game/scripts/events.rpy:16969
 translate russian watch_the_bull_work_bb97a3fd:
 
     # "You wince as you remember how sore you felt after tangling with that haystack and decide this time, you'll just relax."
-    ""
+    "Ты морщишься, вспоминая, как больно тебе было после того, как ты запутался в стоге сена, и решаешь, что на этот раз ты просто расслабишься."
 
 # game/scripts/events.rpy:16971
 translate russian watch_the_bull_work_2305ac1e:
 
     # "Mjolnik doesn't seem to mind, so you get comfortable on a thick patch of grass."
-    ""
+    "Мельник, похоже, не возражает, и ты устраиваешься поудобнее на густой траве."
 
 # game/scripts/events.rpy:16973
 translate russian watch_the_bull_work_45f872bf:
 
     # "You watch Mjolnik for a while and eventually you begin to forget he's even naked and watch how he works."
-    ""
+    "Ты долго наблюдаешь за Мельником и в конце концов начинаешь забывать, что он вообще голый, и смотришь, как он работает."
 
 # game/scripts/events.rpy:16975
 translate russian watch_the_bull_work_1117d4f4:
 
     # "For such a large bull, he's extremely delicate in what he does. He can work around the most fragile of plants without even breaking a leaf off."
-    ""
+    "Для такого крупного быка он очень деликатен в своих действиях. Он может работать с самыми хрупкими растениями, не отрывая ни одного листочка."
 
 # game/scripts/events.rpy:16977
 translate russian watch_the_bull_work_f16c75a3:
 
     # "But soon enough, the gardening loses your attention and you can't help but stare at the bull."
-    ""
+    "Но вскоре садоводство теряет твое внимание, и ты не можешь не смотреть на быка."
 
 # game/scripts/events.rpy:16980
 translate russian watch_the_bull_work_9ddab663:
 
     # "You watch Mjolnik for a while and eventually you begin to forget he's even naked and just watch how he tends the plants."
-    ""
+    "Ты долго наблюдаешь за Мельником и в конце концов начинаешь забывать, что он вообще голый, и просто смотришь, как он ухаживает за растениями."
 
 # game/scripts/events.rpy:16982
 translate russian watch_the_bull_work_1117d4f4_1:
 
     # "For such a large bull, he's extremely delicate in what he does. He can work around the most fragile of plants without even breaking a leaf off."
-    ""
+    "Для такого крупного быка он очень деликатен в своих действиях. Он может работать с самыми хрупкими растениями, не отрывая ни одного листочка."
 
 # game/scripts/events.rpy:16984
 translate russian watch_the_bull_work_2b62618e:
 
     # "But soon enough, the weeds and herbs lose your attention and you can't help but stare at the bull."
-    ""
+    "Но вскоре сорняки и травы теряют твое внимание, и ты не можешь не смотреть на быка."
 
 # game/scripts/events.rpy:16992
 translate russian watch_the_bull_work_1ccc1dd8:
 
     # "The first thing you notice is the serene look on his face."
-    ""
+    "Первое, на что обращаешь внимание, это безмятежное выражение его лица."
 
 # game/scripts/events.rpy:16994
 translate russian watch_the_bull_work_90be5efe:
 
     # "Mjolnik seems to be extremely content tending to his gardens."
-    ""
+    "Мельник, похоже, очень доволен тем, что занимается своими садами."
 
 # game/scripts/events.rpy:16996
 translate russian watch_the_bull_work_b342a4bb:
 
     # "Every so often, he'll stop to wipe some sweat from his brow or to replace the blade of grass he habitually chews on, but otherwise he's totally focused on his task."
-    ""
+    "Время от времени он останавливается, чтобы вытереть пот со лба или заменить травинку, которую он привычно грызет, но в остальном он полностью сосредоточен на своей задаче."
 
 # game/scripts/events.rpy:17002
 translate russian watch_the_bull_work_1a15a193:
 
     # "However, you finally just shrug and really look at his body."
-    ""
+    "Однако в конце концов ты просто пожимаешь плечами и действительно смотришь на его тело."
 
 # game/scripts/events.rpy:17004
 translate russian watch_the_bull_work_c2e4d3c0:
 
     # "He's completely oblivious so you don't even feel the need to be subtle."
-    ""
+    "Он совершенно ничего не замечает, так что тебе даже не нужно быть хитрым."
 
 # game/scripts/events.rpy:17010
 translate russian watch_the_bull_work_6f8d75bd:
 
     # "What really gets your attention is just how well endowed he is."
-    ""
+    "Что действительно привлекает внимание, так это то, насколько он хорошо одет."
 
 # game/scripts/events.rpy:17012
 translate russian watch_the_bull_work_285dae20:
 
     # "While you think he's not as big as Terrance, you're pretty sure that even soft, Mjolnik is bigger than a lot of guys who you've been with or seen."
-    ""
+    "Хотя ты думаешь, что он не такой большой, как Терренс, ты уверен, что даже мягкий Мельник больше многих парней, с которыми ты был или которых видел."
 
 # game/scripts/events.rpy:17014
 translate russian watch_the_bull_work_72f6a5d0:
 
     # "You really are curious to how big he is fully erect."
-    ""
+    "Тебе действительно интересно узнать, насколько он велик в эрегированном состоянии."
 
 # game/scripts/events.rpy:17019
 translate russian watch_the_bull_work_77a6ee6d:
 
     # "But soon, even ogling the bull gets a bit tiresome and your mind wanders."
-    ""
+    "Но вскоре даже любование быком надоедает, и мысли начинают блуждать."
 
 # game/scripts/events.rpy:17022
 translate russian watch_the_bull_work_b3a0edbd:
 
     # "You know that when Mjolnik is done, he's going to be hungry. You decide to give him a treat and go back to the kitchen."
-    ""
+    "Ты знаешь, что когда Мельник закончит, он будет голоден. Ты решаешь угостить его и возвращаешься на кухню."
 
 # game/scripts/events.rpy:17027
 translate russian watch_the_bull_work_095189c5:
 
     # "You look around the kitchen to see what you could possibly make to surprise him."
-    ""
+    "Ты оглядываешь кухню в поисках того, что можно приготовить, чтобы удивить его."
 
 # game/scripts/events.rpy:17029
 translate russian watch_the_bull_work_b5411d05:
 
     # "One thing that catches your eye is a basket of freshly picked peas."
-    ""
+    "В глаза бросается корзина со свежесобранным горохом."
 
 # game/scripts/events.rpy:17035
 translate russian watch_the_bull_work_84004a1b:
 
     # "Picking one up, you sniff it before opening the pod to taste the peas."
-    ""
+    "Взяв один, ты нюхаешь его, а затем раскрываешь стручок, чтобы попробовать горох."
 
 # game/scripts/events.rpy:17037
 translate russian watch_the_bull_work_83312476:
 
     # "They are crunchy, sweet and very tasty."
-    ""
+    "Они хрустящие, сладкие и очень вкусные."
 
 # game/scripts/events.rpy:17043
 translate russian watch_the_bull_work_6b5e9142:
 
     # "You look at the various spices and decide that maybe a pea soup would be nice."
-    ""
+    "Ты смотришь на различные специи и решаешь, что, возможно, гороховый суп был бы кстати."
 
 # game/scripts/events.rpy:17045
 translate russian watch_the_bull_work_99f5cbeb:
 
     # "Looking around more, you see a few bottles of milk and decide that a cream of pea soup would be best."
-    ""
+    "Оглядевшись по сторонам, ты видишь несколько бутылок молока и решаешь, что лучше всего подойдет гороховый суп с кремом."
 
 # game/scripts/events.rpy:17047
 translate russian watch_the_bull_work_a1b10f0b:
 
     # "You sniff the milk to make sure it's not sour and it smells fine. You sample it and are blown away by how delicious it is."
-    ""
+    "Ты нюхаешь молоко, чтобы убедиться, что оно не прокисшее, и оно пахнет нормально. Ты пробуешь его и поражаешься тому, какое оно вкусное."
 
 # game/scripts/events.rpy:17049
 translate russian watch_the_bull_work_22d40e83:
 
     # "You've had plenty of milk but something about this milk really catches your attention."
-    ""
+    "Ты пил много молока, но что-то в этом молоке привлекает твое внимание."
 
 # game/scripts/events.rpy:17051
 translate russian watch_the_bull_work_de4dfcbd:
 
     # "It almost seems like it's mildly spiced somehow and that adds to the flavour."
-    ""
+    "Кажется, что он слегка приправлен специями, и это добавляет вкуса."
 
 # game/scripts/events.rpy:17053
 translate russian watch_the_bull_work_472ce4a7:
 
     # "Happy with this discovery, you get to work."
-    ""
+    "Довольные этим открытием, ты приступаешь к работе."
 
 # game/scripts/events.rpy:17055
 translate russian watch_the_bull_work_1efd9474:
 
     # "You hum to yourself happily as you prepare the peas, shelling them and discarding any bad one, plus the odd unwelcome bug."
-    ""
+    "Ты радостно напеваешь себе под нос, пока готовишь горох, очищая его от шелухи и выбрасывая все плохие, а также нежелательных жучков."
 
 # game/scripts/events.rpy:17057
 translate russian watch_the_bull_work_5d0c7b13:
 
     # "Once that's done, you grab a pot and fill it with water. Putting it on the fire to boil, you add the peas and wait for them to cook."
-    ""
+    "После этого ты берешь кастрюлю и наполняешь ее водой. Поставив ее на огонь, чтобы закипела, ты добавляешь горох и ждешь, пока он сварится."
 
 # game/scripts/events.rpy:17059
 translate russian watch_the_bull_work_8e2edf08:
 
     # "When done, you grab a mortar and pestle and ground them up."
-    ""
+    "Когда все готово, ты берешь ступку и пестик и измельчаешь их."
 
 # game/scripts/events.rpy:17061
 translate russian watch_the_bull_work_96c49896:
 
     # "Putting the paste back into the pot, you add a bottle of the milk and some spices and slowly simmer the soup."
-    ""
+    "Положив пасту обратно в кастрюлю, добавил бутылку молока, специи и медленно варишь суп."
 
 # game/scripts/events.rpy:17067
 translate russian watch_the_bull_work_fbf65264:
 
     # "Multiple small tastes later, you think you have it just perfect and let it simmer and wait for Mjolnik."
-    ""
+    "Спустя несколько небольших дегустаций ты думаешь, что у тебя получилось идеально, и оставляешь его кипеть и ждать Мельника."
 
 # game/scripts/events.rpy:17071
 translate russian watch_the_bull_work_40e25b5e:
 
     # "Your mind wanders and soon you're daydreaming, only keeping enough awareness to stir the soup so it doesn't burn."
-    ""
+    "Твои мысли блуждают, и вскоре ты уже грезишь наяву, сохраняя осознанность только для того, чтобы помешивать суп, чтобы он не пригорел."
 
 # game/scripts/events.rpy:17073
 translate russian watch_the_bull_work_463b470b:
 
     # "You're shaken from your reverie by a loud voice, that of a very surprised Mjolnik."
-    ""
+    "Тебя выводит из задумчивости громкий голос очень удивленного Мельника."
 
 # game/scripts/events.rpy:17078
 translate russian watch_the_bull_work_aa35811f:
 
     # Mjolnik "What in tarnation smells so good? [name], were you cooking while I was working?"
-    Mjolnik ""
+    Mjolnik "Что это так вкусно пахнет? [name], ты готовил, пока я работал?"
 
 # game/scripts/events.rpy:17083
 translate russian watch_the_bull_work_9d0ad00f:
 
     # "He doesn't wait for a reply as he walks up to the soup and bends over it to smell it."
-    ""
+    "Не дожидаясь ответа, он подходит к супу и наклоняется над ним, чтобы понюхать."
 
 # game/scripts/events.rpy:17085
 translate russian watch_the_bull_work_f9761868:
 
     # "As you're sitting next to the soup, the view is interesting to say the least."
-    ""
+    "Поскольку ты сидишь рядом с супом, вид из окна открывается, мягко говоря, интересный."
 
 # game/scripts/events.rpy:17091
 translate russian watch_the_bull_work_737e251c:
 
     # "You also notice, being so close to the bull, that while he is sweaty from working outside, he doesnt smell bad at all."
-    ""
+    "Находясь так близко к быку, ты замечаешь, что, несмотря на то, что он вспотел от работы на улице, от него совсем не пахнет."
 
 # game/scripts/events.rpy:17093
 translate russian watch_the_bull_work_c055d0f3:
 
     # "Inhaling deeply, you get a little bit of musk, but it's mostly grass and fresh earth."
-    ""
+    "Глубоко вдыхая, вы ощущаешь немного мускуса, но в основном это трава и свежая земля."
 
 # game/scripts/events.rpy:17100
 translate russian watch_the_bull_work_a077bdae:
 
     # "Before you can dwell on that further, you squeak as the bull hauls you off your chair into another of his crushing bearhugs." with hpunch
-    "" with hpunch
+    "Не успел ты об этом подумать, как бык с визгом стаскивает тебя со стула в очередные сокрушительные медвежьи объятия." with hpunch
 
 # game/scripts/events.rpy:17102
 translate russian watch_the_bull_work_ef54c986:
 
     # Mjolnik grin "[name], this is amazing! How'd y'all know sweet peas are my favourite food? I could just kiss you right now!"
-    Mjolnik grin ""
+    Mjolnik grin "[name], это потрясающе! Как ты узнал, что сладкий горошек - моя любимая еда? Я могу поцеловать тебя прямо сейчас!"
 
 # game/scripts/events.rpy:17106
 translate russian watch_the_bull_work_613a6eba:
 
     # "As he lets you down and turns back to the soup."
-    ""
+    "Когда он отпускает тебя и поворачивается к супу."
 
 # game/scripts/events.rpy:17108
 translate russian watch_the_bull_work_e75451af:
 
     # "But soon enough, the pair of you are at the table eating."
-    ""
+    "Но вскоре вы уже сидите за столом и едите."
 
 # game/scripts/events.rpy:17110
 translate russian watch_the_bull_work_11033d93:
 
     # "You only have a small bowl but Mjolnik polishes off the rest. When's he's done, the look of pure happiness on his face warms your heart."
-    ""
+    "У тебя только маленькая миска, но Мельник полирует все остальное. Когда он закончит, выражение чистого счастья на его лице согреет твое сердце."
 
 # game/scripts/events.rpy:17117
 translate russian watch_the_bull_work_aad0939c:
 
     # Mjolnik "[name] this is the best thing to happen to me in so long. I can't thank y'all enough."
-    Mjolnik ""
+    Mjolnik "[name] это лучшее, что случилось со мной за последнее время. Я не могу выразить тебе свою благодарность."
 
 # game/scripts/events.rpy:17119
 translate russian watch_the_bull_work_2945c0f1:
 
     # Mjolnik normal "If there's anything I can do for y'all, just ask."
-    Mjolnik normal ""
+    Mjolnik normal "Если я могу что-то сделать для тебя, просто спроси."
 
 # game/scripts/events.rpy:17121
 translate russian watch_the_bull_work_6654682e:
 
     # "You smile back at him and simply nod, though you definitely can think of a few things off the top of your head."
-    ""
+    "Ты улыбаешься ему в ответ и просто киваешь, хотя, конечно, можешь придумать несколько вариантов."
 
 # game/scripts/events.rpy:17123
 translate russian watch_the_bull_work_8ab7a67a:
 
     # "But knowing how Mjolnik is, you decide to behave tonight."
-    ""
+    "Но, зная характер Мельника, ты решил вести себя сегодня хорошо."
 
 # game/scripts/events.rpy:17127
 translate russian watch_the_bull_work_f09296b0:
 
     # "The two of you spend the rest of the day making idle small talk, but you quickly find out that there are a few topics Mjolnik doesn't seem to be comfortable talking about."
-    ""
+    "Остаток дня вы проводите за пустой светской беседой, но быстро обнаруживаете, что есть несколько тем, о которых Мельнику, похоже, не очень удобно говорить."
 
 # game/scripts/events.rpy:17129
 translate russian watch_the_bull_work_07bef244:
 
     # "He's quick to change the topic whenever his family is brought up, and knowing he's depressed about their absence, you don't prod too much."
-    ""
+    "Он быстро меняет тему разговора, когда речь заходит о его семье, и, зная, что он подавлен их отсутствием, ты не станешь слишком много говорить."
 
 # game/scripts/events.rpy:17131
 translate russian watch_the_bull_work_ae038559:
 
     # "He also is reluctant to talk much about Eoghann or Terrance, aside from stories of their shared past."
-    ""
+    "Он также не желает много говорить об Эоганне и Терренсе, не считая рассказов об их общем прошлом."
 
 # game/scripts/events.rpy:17133
 translate russian watch_the_bull_work_40223455:
 
     # "You quickly realise he idolises both of them and doesn't seem to want to dwell on anything negative about them."
-    ""
+    "Ты быстро понимаешь, что он боготворит их обоих и, кажется, не хочет зацикливаться на чем-то негативном."
 
 # game/scripts/events.rpy:17135
 translate russian watch_the_bull_work_d95451a0:
 
     # "But there's more than enough to chat about."
-    ""
+    "Но и здесь есть о чем поговорить."
 
 # game/scripts/events.rpy:17142
 translate russian watch_the_bull_work_b58f81a5:
 
     # "He seems especially fascinated with your talks of the Flaming Flagon, Gunther and the various people who frequent the tavern."
-    ""
+    "Кажется, он особенно увлечен твоими рассказами о Пылающем Кувшине, Гюнтере и разных людях, которые часто заходят в таверну."
 
 # game/scripts/events.rpy:17144
 translate russian watch_the_bull_work_fe4b99b4:
 
     # Mjolnik normal "Surely, I'm not too keen on going to town. But if I went with y'all... maybe one day I'd go. Just to see."
-    Mjolnik normal ""
+    Mjolnik normal "Конечно, я не очень хочу ехать в город. Но если бы я поехал с тобой... может быть, однажды я бы поехал. Просто чтобы посмотреть."
 
 # game/scripts/events.rpy:17146
 translate russian watch_the_bull_work_22f21292:
 
     # Fen "I'd happily take you there and show you the sights."
-    Fen ""
+    Fen "Я с радостью отведу тебя туда и покажу достопримечательности."
 
 # game/scripts/events.rpy:17149
 translate russian watch_the_bull_work_75265f6f:
 
     # "Mjolink gives you a shy smile, but you notice his tails are wagging about frantically."
-    ""
+    "Мелинк застенчиво улыбается тебе, но ты замечаешь, что его хвост неистово виляет."
 
 # game/scripts/events.rpy:17151
 translate russian watch_the_bull_work_ab400412:
 
     # "A sure sign the bull is excited."
-    ""
+    "Верный признак того, что бык взволнован."
 
 # game/scripts/events.rpy:17158
 translate russian watch_the_bull_work_f0688eaf:
 
     # "Suddenly he yawns and stretches."
-    ""
+    "Вдруг он зевнул и потянулся."
 
 # game/scripts/events.rpy:17160
 translate russian watch_the_bull_work_7e18a905:
 
     # Mjolnik normal "When, I'm plum tuckered out. I'm going to hit the hay. You can stay in the room my parents used to use."
-    Mjolnik normal ""
+    Mjolnik normal "Когда я устану. Я собираюсь лечь спать. Ты можешь остаться в комнате, которую использовали мои родители."
 
 # game/scripts/events.rpy:17162
 translate russian watch_the_bull_work_ee2d619f:
 
     # "Mjolnik gestures to one of the closed doors on the far wall, before walking to the other. Opening it he pauses for a moment."
-    ""
+    "Мельник жестом указывает на одну из закрытых дверей на дальней стене, а затем идет к другой. Открыв ее, он на мгновение приостановился."
 
 # game/scripts/events.rpy:17164
 translate russian watch_the_bull_work_a9f0e5c5:
 
     # Mjolnik "I'm right happy y'all came by [name]. I dunno why, but just being around you makes me feel all giddy."
-    Mjolnik ""
+    Mjolnik "Я очень рад, что ты заглянул сюда. Не знаю почему, но просто находясь рядом с тобой, я чувствую себя на седьмом небе от счастья."
 
 # game/scripts/events.rpy:17166
 translate russian watch_the_bull_work_0d0a906d:
 
     # Mjolnik smile "You sleep tight. I reckon I'm gonna be up and working by the time you get out of bed, being a big city boy."
-    Mjolnik smile ""
+    Mjolnik smile "Ты крепко спишь. Полагаю, что к тому времени, как ты встанешь с постели, я уже буду на ногах и буду работать, ведь я - мальчик из большого города."
 
 # game/scripts/events.rpy:17168
 translate russian watch_the_bull_work_31b55bc5:
 
     # Mjolnik normal "I know you have to get back there, so just head on out."
-    Mjolnik normal ""
+    Mjolnik normal "Я знаю, что тебе нужно вернуться туда, так что просто отправляйся."
 
 # game/scripts/events.rpy:17176
 translate russian watch_the_bull_work_4206e494:
 
     # "You get up and hug the bull."
-    ""
+    "Ты встаешь и обнимаешь быка."
 
 # game/scripts/events.rpy:17178
 translate russian watch_the_bull_work_7618e7bb:
 
     # "You feel him tense up and chuckle about how he seems unsure how to act when he's the one being hugged."
-    ""
+    "Ты чувствуешь, как он напрягается, и хихикаешь над тем, что он, кажется, не знает, как себя вести, когда его обнимают."
 
 # game/scripts/events.rpy:17181
 translate russian watch_the_bull_work_75bf299e:
 
     # "Soon enough he relaxes and he returns the embrace, though this time you notice, he's a lot more gentle."
-    ""
+    "Вскоре он расслабляется и возвращает объятия, но на этот раз, как ты замечаешь, гораздо более нежные."
 
 # game/scripts/events.rpy:17188
 translate russian watch_the_bull_work_1f31a7bb:
 
     # "When you look up at his face, you see that he looks conflicted, like he's trying to figure out if he wants to do something and you notice he's leaning in towards you."
-    ""
+    "Когда ты смотришь на его лицо, ты видишь, что он выглядит противоречиво, как будто пытается понять, хочет ли он что-то сделать, и ты замечаешь, что он наклоняется к тебе."
 
 # game/scripts/events.rpy:17198
 translate russian watch_the_bull_work_917f70a9:
 
     # "Not wanting to potentially confuse him, you gently break the embrace and step back."
-    ""
+    "Не желая вводить его в заблуждение, ты осторожно разрываешь объятия и отступаешь назад."
 
 # game/scripts/events.rpy:17201
 translate russian watch_the_bull_work_0e071a2d:
 
     # "You see him blush slightly but he still has the same happy grin."
-    ""
+    "Ты видишь, как он слегка краснеет, но у него все та же счастливая ухмылка."
 
 # game/scripts/events.rpy:17204
 translate russian watch_the_bull_work_8aad8f5c:
 
     # "Without a word, he steps into his room and closes the door and you walk to the other door, pausing for a moment before opening it."
-    ""
+    "Не говоря ни слова, он уходит в свою комнату и закрывает дверь, а ты идешь к другой двери и на мгновение замираешь, прежде чем открыть ее."
 
 # game/scripts/events.rpy:17210
 translate russian watch_the_bull_work_1554f822:
 
     # "You think you know what the bull is up to, but you decide to let him make the move."
-    ""
+    "Тебе кажется, что ты знаешь, что задумал бык, но ты решаешь позволить ему сделать ход."
 
 # game/scripts/events.rpy:17213
 translate russian watch_the_bull_work_684fb605:
 
     # "He pauses and looks at you, and the confusion in his face is even greater."
-    ""
+    "Он делает паузу и смотрит на тебя, и растерянность на его лице становится еще сильнее."
 
 # game/scripts/events.rpy:17218
 translate russian watch_the_bull_work_3077090b:
 
     # "After a moment, he closes his eyes and kisses you."
-    ""
+    "Через мгновение он закрывает глаза и целует тебя."
 
 # game/scripts/events.rpy:17224
 translate russian watch_the_bull_work_8055bf0a:
 
     # "As he does, he slides his hands behind your head and you feel his fingers entwining in your mane."
-    ""
+    "При этом он заводит руки за голову, и ты чувствуешь, как его пальцы вплетаются в твою гриву."
 
 # game/scripts/events.rpy:17226
 translate russian watch_the_bull_work_4f4f7bdc:
 
     # "You decide to follow his lead and run your own fingers through his hair."
-    ""
+    "Ты решил последовать его примеру и провел пальцами по его волосам."
 
 # game/scripts/events.rpy:17228
 translate russian watch_the_bull_work_ddd06e0e:
 
     # "You feel him trembling as he continues to kiss you and it's obvious this is something he is not used to doing."
-    ""
+    "Ты чувствуешь, как он дрожит, продолжая целовать тебя, и очевидно, что это то, что он не привык делать."
 
 # game/scripts/events.rpy:17230
 translate russian watch_the_bull_work_0c157d34:
 
     # "You help him along, using vocalisations and your own body to guide him."
-    ""
+    "Ты помогаешь ему, используя вокализацию и собственное тело, чтобы направлять его."
 
 # game/scripts/events.rpy:17239
 translate russian watch_the_bull_work_cf7e7aa5:
 
     # "He breaks off the kiss and opens his eyes. You see that he is blushing furiously and is beginning to stammer in embarrassment."
-    ""
+    "Он прерывает поцелуй и открывает глаза. Ты видишь, что он яростно краснеет и начинает заикаться от смущения."
 
 # game/scripts/events.rpy:17244
 translate russian watch_the_bull_work_267fcf2c:
 
     # "You gently guide his face back down to yours and with a simple whine, convince him to kiss you again."
-    ""
+    "Ты нежно возвращаешь его лицо к своему и простым хныканьем убеждаешь его поцеловать тебя снова."
 
 # game/scripts/events.rpy:17246
 translate russian watch_the_bull_work_623d1229:
 
     # "This time he's more confident and even begins to explore your muzzle with his tongue."
-    ""
+    "На этот раз он чувствует себя более уверенно и даже начинает исследовать языком твою мордочку."
 
 # game/scripts/events.rpy:17248
 translate russian watch_the_bull_work_09b1e4a9:
 
     # "With a happy whimper, you open your mouth and let his tongue inside to press against yours."
-    ""
+    "Счастливо хныча, ты открываешь рот и впускаешь его язык внутрь, чтобы он прижался к твоему."
 
 # game/scripts/events.rpy:17257
 translate russian watch_the_bull_work_1d8479af:
 
     # "Soon though, he breaks off the kiss and steps away. He grabs the door frame for support and gives you a worried look."
-    ""
+    "Однако вскоре он прерывает поцелуй и отходит. Он хватается за дверную раму и бросает на тебя обеспокоенный взгляд."
 
 # game/scripts/events.rpy:17259
 translate russian watch_the_bull_work_221f111d:
 
     # Mjolnik blush3 "Umm, I... I hope I didn't just put my hoof in it. Y'all ain't mad or anything?..."
-    Mjolnik blush3 ""
+    Mjolnik blush3 "Ммм, я... Надеюсь, я не засунул туда копыто. Ты не сердишься или что?..."
 
 # game/scripts/events.rpy:17261
 translate russian watch_the_bull_work_5657e57c:
 
     # "You reach up and gently rub the side of his face."
-    ""
+    "Ты поднимаешь руку и нежно гладишь его по лицу."
 
 # game/scripts/events.rpy:17263
 translate russian watch_the_bull_work_70beeb84:
 
     # Fen "Not at all. I rather enjoyed it."
-    Fen ""
+    Fen "Вовсе нет. Мне очень понравилось."
 
 # game/scripts/events.rpy:17266
 translate russian watch_the_bull_work_97279446:
 
     # "He lets loose a huge sigh of relief and the happy look returns."
-    ""
+    "Он испускает огромный вздох облегчения, и к нему возвращается счастливый вид."
 
 # game/scripts/events.rpy:17270
 translate russian watch_the_bull_work_005c6530:
 
     # "Without a word, he steps into his room and closes the door and you walk to the other door."
-    ""
+    "Не говоря ни слова, он уходит в свою комнату и закрывает дверь, а ты идешь к другой двери."
 
 # game/scripts/events.rpy:17272
 translate russian watch_the_bull_work_6cc656e7:
 
     # "Not bad for what you are pretty sure was his first time kissing someone."
-    ""
+    "Неплохо для того, что, как ты уверен, было его первым поцелуем."
 
 # game/scripts/events.rpy:17274
 translate russian watch_the_bull_work_116a1631:
 
     # "You grin to yourself and pause for a moment before opening it."
-    ""
+    "Ты усмехаешься про себя и на мгновение замираешь, прежде чем открыть его."
 
 # game/scripts/events.rpy:17278
 translate russian watch_the_bull_work_ca578c22:
 
     # "The room is extremely plain with only a bed and a small table beside it."
-    ""
+    "Комната очень простая, в ней только кровать и маленький столик рядом с ней."
 
 # game/scripts/events.rpy:17280
 translate russian watch_the_bull_work_c69dbb60:
 
     # "You strip down and crawl into the bed, finding it quite comfortable."
-    ""
+    "Ты раздеваешься и забираешься в кровать, находя ее вполне удобной."
 
 # game/scripts/events.rpy:17283
 translate russian watch_the_bull_work_18181028:
 
     # "Soon you nod off to sleep."
-    ""
+    "Вскоре ты погружаешься в сон."
 
 # game/scripts/events.rpy:17294
 translate russian mjolnik_visit_next_day_7adb74c1:
 
     # "Waking up the next morning, you stretch and get dressed."
-    ""
+    "Проснувшись на следующее утро, ты потягиваешься и одеваешься."
 
 # game/scripts/events.rpy:17300
 translate russian mjolnik_visit_next_day_20b7c6d4:
 
     # "As you leave the room, you can hear Mjolnik snoring in the other bedroom. You smile and decide to make him some breakfast before you go."
-    ""
+    "Выходя из комнаты, ты слышишь, как в другой спальне храпит Мельник. Ты улыбаешься и решаешь приготовить ему завтрак перед уходом."
 
 # game/scripts/events.rpy:17304
 translate russian mjolnik_visit_next_day_f552f75e:
 
     # "You find his baking supplies and make a loaf of fresh bread and put it in the oven to bake."
-    ""
+    "Ты находишь его принадлежности для выпечки, готовишь буханку свежего хлеба и ставишь ее в духовку выпекаться."
 
 # game/scripts/events.rpy:17306
 translate russian mjolnik_visit_next_day_ae713001:
 
     # "Soon the smell of fresh bread is filling the house."
-    ""
+    "Вскоре дом наполняется запахом свежего хлеба."
 
 # game/scripts/events.rpy:17308
 translate russian mjolnik_visit_next_day_634e795e:
 
     # "You can still hear the snoring and shake your head at how sound Mjolnik seems to sleep."
-    ""
+    "Ты все еще слышишь храп и качаешь головой от того, как крепко спит Мельник."
 
 # game/scripts/events.rpy:17310
 translate russian mjolnik_visit_next_day_d44c517b:
 
     # "But you're glad he can sleep in. The bull is one of the hardest workers you know and deserves it."
-    ""
+    "Но ты рад, что он может выспаться. Бык - один из самых трудолюбивых работников, которых ты знаешь, и он заслуживает этого."
 
 # game/scripts/events.rpy:17314
 translate russian mjolnik_visit_next_day_d0314c1d:
 
     # "Once the bread is done, you place the loaf on the table and then look for more."
-    ""
+    "Когда хлеб готов, ты ставишь буханку на стол, а потом ищешь еще."
 
 # game/scripts/events.rpy:17316
 translate russian mjolnik_visit_next_day_2a0a72d4:
 
     # "You find a basket of various fresh fruits and berries and quickly make a fruit salad from those and place it next to the bread."
-    ""
+    "Ты находишь корзину с различными свежими фруктами и ягодами, быстро делаешь из них фруктовый салат и кладешь его рядом с хлебом."
 
 # game/scripts/events.rpy:17320
 translate russian mjolnik_visit_next_day_2f37d83b:
 
     # "Grinning to yourself, you gather up for things and quietly head out to start your walk back to town."
-    ""
+    "Усмехнувшись про себя, ты собираешь вещи и спокойно отправляешься в обратный путь."
 
 # game/scripts/events.rpy:17323
 translate russian mjolnik_visit_next_day_a1603864:
 
     # "As you do, you think about what happened on your visit and look forward to seeing the bull again soon."
-    ""
+    "При этом ты думаешь о том, что произошло во время твоего визита, и надеешься, что скоро снова увидишь быка."
 
 # game/scripts/events.rpy:17330
 translate russian mjolnik_visit_next_day_21d29cac:
 
     # "You return just in time to begin your workday."
-    ""
+    "Ты возвращаешься как раз вовремя, чтобы начать свой рабочий день."
 
 # game/scripts/events.rpy:17339
 translate russian mjolnik_visit_next_day_9435af83:
 
     # "Looking around the farmhouse, you see that Mjolnik is gone and there's a few bits of food left for you on the table."
-    ""
+    "Оглядев фермерский дом, ты видишь, что Мельник ушел, а на столе осталось несколько кусочков еды для тебя."
 
 # game/scripts/events.rpy:17341
 translate russian mjolnik_visit_next_day_0f2bc0fb:
 
     # "You help yourself to them and when done, pack the leftovers to take with you on the trip back to Felda."
-    ""
+    "Ты угощаешься ими, а когда закончишь, собираешь остатки, чтобы взять их с собой в дорогу обратно в Фельду."
 
 # game/scripts/events.rpy:17345
 translate russian mjolnik_visit_next_day_c8277dc2:
 
     # "You spend a few minutes tidying up and when done, leave the farmhouse and set out down the path leading to the main road."
-    ""
+    "Ты тратишь несколько минут на то, чтобы привести себя в порядок, а когда все готово, покидаешь ферму и отправляешься по тропинке, ведущей к главной дороге."
 
 # game/scripts/events.rpy:17347
 translate russian mjolnik_visit_next_day_15c54af8:
 
     # "You fail to see Mjolnik anywhere as you walk and when you reach the main road you look down towards the village."
-    ""
+    "Пока ты идешь, Мельника нигде не видно, а когда выходишь на главную дорогу, то смотришь вниз, на деревню."
 
 # game/scripts/events.rpy:17349
 translate russian mjolnik_visit_next_day_d89b6f07:
 
     # "You're positive you see Mjolnik way down the road, but it could be your mind playing tricks on you."
-    ""
+    "Ты уверен, что видишь Мельника далеко внизу, но, возможно, твой разум играет с тобой."
 
 # game/scripts/events.rpy:17351
 translate russian mjolnik_visit_next_day_4f591496:
 
     # "Hitching up your rucksack, you start the long walk home, thinking about all the things that transpired on the trip."
-    ""
+    "Застегнув рюкзак, ты начинаешь долгий путь домой, размышляя обо всем, что произошло за время путешествия."
 
 # game/scripts/events.rpy:17356
 translate russian mjolnik_visit_next_day_21d29cac_1:
 
     # "You return just in time to begin your workday."
-    ""
+    "Ты возвращаешься как раз вовремя, чтобы начать свой рабочий день."
 
 # game/scripts/events.rpy:17363
 translate russian help_the_bull_with_chores_2023d5b1:
 
     # "You didn't help with the chores the last time you were here and feel a bit guilty about not helping out again."
-    ""
+    "Ты не помогал по хозяйству в прошлый раз, когда был здесь, и чувствуешь себя немного виноватым, что не помог снова."
 
 # game/scripts/events.rpy:17365
 translate russian help_the_bull_with_chores_405af538:
 
     # "You decide to help out with whatever needs doing. How hard could it be?"
-    ""
+    "Ты решаешь помочь всем, что нужно сделать. Разве это может быть сложно?"
 
 # game/scripts/events.rpy:17370
 translate russian help_the_bull_with_chores_be6239c9:
 
     # Fen "I could use a bit of exercise. What would you like me to do?"
-    Fen ""
+    Fen "Мне бы не помешало немного потренироваться. Что бы ты хотел, чтобы я сделал?"
 
 # game/scripts/events.rpy:17372
 translate russian help_the_bull_with_chores_f37d98a9:
 
     # Mjolnik grin "That's mighty fine of y'all."
-    Mjolnik grin ""
+    Mjolnik grin "Это очень мило с твоей стороны."
 
 # game/scripts/events.rpy:17374
 translate russian help_the_bull_with_chores_764346ca:
 
     # Mjolnik normal "What I need today is the hay tossed into that ol' barn. There's a pitchfork there so just heave as much as y'all can into the barn."
-    Mjolnik normal ""
+    Mjolnik normal "Сегодня мне нужно сено в этот старый сарай. Там есть вилы, так что закидывай в сарай столько, сколько сможешь."
 
 # game/scripts/events.rpy:17382
 translate russian help_the_bull_with_chores_7d0387b3:
 
     # "He gestures to a large barn off to the side of the farm."
-    ""
+    "Он указывает жестом на большой сарай в стороне от фермы."
 
 # game/scripts/events.rpy:17384
 translate russian help_the_bull_with_chores_6ce808ce:
 
     # "You nod and walk over there."
-    ""
+    "Ты киваешь и идешь туда."
 
 # game/scripts/events.rpy:17388
 translate russian help_the_bull_with_chores_4960ae0a:
 
     # "Around the far side are the barn doors, wide open with a pile of hay taller than the barn right in front of it."
-    ""
+    "В дальнем углу - двери амбара, распахнутые настежь, а прямо перед ними - охапка сена высотой больше, чем сам амбар."
 
 # game/scripts/events.rpy:17390
 translate russian help_the_bull_with_chores_69038c5b:
 
     # "You gawk at the massive mound of dried grass and see a single pitchfork stuck into the ground by the door."
-    ""
+    "Ты смотришь на огромный курган высохшей травы и видишь одинокие вилы, воткнутые в землю у двери."
 
 # game/scripts/events.rpy:17392
 translate russian help_the_bull_with_chores_71606809:
 
     # "Picking it up, you gaze solemnly at the pile before getting to work."
-    ""
+    "Взяв его в руки, ты торжественно оглядываешь кучу, прежде чем приступить к работе."
 
 # game/scripts/events.rpy:17403
 translate russian help_the_bull_with_chores_66bebf0a:
 
     # "After an hour or so, you've stripped down to your undergarments due to the heat, exertion and the fact the hay was getting all inside your clothes and making you itch like crazy."
-    ""
+    "Через час или около того ты разделся до нижнего белья из-за жары, напряжения и того, что сено въелось в твою одежду и заставляло тебя безумно чесаться."
 
 # game/scripts/events.rpy:17405
 translate russian help_the_bull_with_chores_15f4fc64:
 
     # "Though you're pleased to note that you've made a dent in the pile. Albeit a small one."
-    ""
+    "Хотя ты с радостью отмечаешь, что в этой куче уже есть кое-что. Пусть и небольшую."
 
 # game/scripts/events.rpy:17409
 translate russian help_the_bull_with_chores_c636f68f:
 
     # "Sighing you get back to work. Time blurs as you just focus on throwing as much hay into the barn as possible."
-    ""
+    "Вздохнув, ты возвращаешься к работе. Время расплывается, и ты сосредотачиваешься на том, чтобы закинуть в сарай как можно больше сена."
 
 # game/scripts/events.rpy:17411
 translate russian help_the_bull_with_chores_d1ecf86f:
 
     # "You eventually hit your stride and soon the pile begins to actually shrink."
-    ""
+    "В конце концов, ты набираешь обороты, и вскоре куча начинает действительно уменьшаться."
 
 # game/scripts/events.rpy:17413
 translate russian help_the_bull_with_chores_0cc82097:
 
     # "More and more ends up stuffed into the barn and soon you have to use the pitchfork to ram the hay compactly into it."
-    ""
+    "В итоге в сарай набивается все больше и больше, и вскоре тебе приходится использовать вилы, чтобы компактно утрамбовать сено."
 
 # game/scripts/events.rpy:17419
 translate russian help_the_bull_with_chores_3a4817d0:
 
     # "However, there is a toll."
-    ""
+    "Однако за это приходится платить."
 
 # game/scripts/events.rpy:17421
 translate russian help_the_bull_with_chores_2b37243d:
 
     # "Your muscles are screaming in pain with each heave and you find yourself panting for breath."
-    ""
+    "Твои мышцы кричат от боли при каждом рывке, и ты задыхаешься."
 
 # game/scripts/events.rpy:17425
 translate russian help_the_bull_with_chores_f68ab04a:
 
     # "You force yourself to keep going, but eventually, you collapse into the now much much smaller pile and just lay there panting and wheezing." with vpunch
-    "" with vpunch
+    "Ты заставляешь себя продолжать, но в конце концов рушишься в кучу, которая теперь стала намного меньше, и просто лежишь там, задыхаясь и хрипя." with vpunch
 
 # game/scripts/events.rpy:17427
 translate russian help_the_bull_with_chores_571c1389:
 
     # Mjolnik "[name]!"
-    Mjolnik ""
+    Mjolnik "[name]!"
 
 # game/scripts/events.rpy:17436
 translate russian help_the_bull_with_chores_bc2a2154:
 
     # "You open one eye and see the bull crouched in front of you, a look of concern on his face."
-    ""
+    "Приоткрыв один глаз, ты видишь, что перед тобой склонился бык с озабоченным выражением лица."
 
 # game/scripts/events.rpy:17441
 translate russian help_the_bull_with_chores_766242d9:
 
     # "Without a word, he scoops you up into his arms and walks to the farmhouse."
-    ""
+    "Не говоря ни слова, он подхватывает тебя на руки и идет к ферме."
 
 # game/scripts/events.rpy:17450
 translate russian help_the_bull_with_chores_a51cbce9:
 
     # Mjolnik "Dumb idjit! Y'all trying to kill yourself?"
-    Mjolnik ""
+    Mjolnik "Тупой идиот! Ты хочешь покончить с собой?"
 
 # game/scripts/events.rpy:17452
 translate russian help_the_bull_with_chores_0cc69af8:
 
     # Mjolnik "Y'all just a city boy, y'all ain't used to doing this kinda farmwork!"
-    Mjolnik ""
+    Mjolnik "Ты просто городской парень, ты не привык к такой работе на ферме!"
 
 # game/scripts/events.rpy:17454
 translate russian help_the_bull_with_chores_4014275d:
 
     # "You whimper in response as you feel your entire body screaming in pain."
-    ""
+    "Ты хнычешь в ответ, чувствуя, как все твое тело кричит от боли."
 
 # game/scripts/events.rpy:17456
 translate russian help_the_bull_with_chores_30e52feb:
 
     # "Mjolnik continues to chide you, but you know he's concerned."
-    ""
+    "Мельник продолжает укорять тебя, но ты понимаешь, что он обеспокоен."
 
 # game/scripts/events.rpy:17461
 translate russian help_the_bull_with_chores_2eb67660:
 
     # "Arriving at the farmhouse, he simply kicks the front door open and rushes inside, before repeating the tactic on one of the two closed doors."
-    ""
+    "Достигнув фермерского дома, он просто распахивает входную дверь и вбегает внутрь, а затем повторяет эту тактику с одной из двух закрытых дверей."
 
 # game/scripts/events.rpy:17465
 translate russian help_the_bull_with_chores_c2ffac00:
 
     # "Placing you down on the bed, he frowns."
-    ""
+    "Положив тебя на кровать, он нахмурился."
 
 # game/scripts/events.rpy:17470
 translate russian help_the_bull_with_chores_b8e49a50:
 
     # Mjolnik "Don't y'all go anywhere, I'm gonna go get that salve and get you fixed right up!"
-    Mjolnik ""
+    Mjolnik "Никуда не уходи, я схожу за мазью и приведу тебя в порядок!"
 
 # game/scripts/events.rpy:17475
 translate russian help_the_bull_with_chores_2e76caf6:
 
     # "You actually chuckle a bit at that, as you're pretty sure you can't move, let alone go anywhere."
-    ""
+    "Ты слегка усмехаешься, поскольку уверен, что не можешь двигаться, не говоря уже о том, чтобы куда-то идти."
 
 # game/scripts/events.rpy:17477
 translate russian help_the_bull_with_chores_d478b96f:
 
     # "Soon, the bull returns holding a stone jug with a lid and some towels."
-    ""
+    "Вскоре возвращается бык, держа в руках каменный кувшин с крышкой и несколько полотенец."
 
 # game/scripts/events.rpy:17479
 translate russian help_the_bull_with_chores_ece52470:
 
     # "Setting the jug and towels down on the table, he sits on the bed beside you and begins to pick straw out of your fur."
-    ""
+    "Поставив кувшин и полотенца на стол, он садится на кровать рядом с тобой и начинает выгребать солому из твоего меха."
 
 # game/scripts/events.rpy:17486
 translate russian help_the_bull_with_chores_f6cd5b0a:
 
     # Mjolnik "Well, the pile's decently smaller, so there's that."
-    Mjolnik ""
+    Mjolnik "Ну, куча прилично уменьшилась, так что вот так."
 
 # game/scripts/events.rpy:17488
 translate russian help_the_bull_with_chores_70c11e04:
 
     # Mjolnik grin "But y'all working so hard? That was as dumb as a three-legged goat entering a footrace."
-    Mjolnik grin ""
+    Mjolnik grin "Но ты так стараешься? Это было так же глупо, как если бы трехногий козел участвовал в забеге."
 
 # game/scripts/events.rpy:17490
 translate russian help_the_bull_with_chores_6b3e0ae7:
 
     # "He grins at you as he shakes his head."
-    ""
+    "Он ухмыляется, качая головой."
 
 # game/scripts/events.rpy:17492
 translate russian help_the_bull_with_chores_c978a67a:
 
     # Mjolnik normal "Color me impressed [name]. But now I gotta fix y'all up and it's gonna suck."
-    Mjolnik normal ""
+    Mjolnik normal "Я впечатлен. Но теперь я должен тебя вылечить, и это будет отстойно."
 
 # game/scripts/events.rpy:17498
 translate russian help_the_bull_with_chores_4765b330:
 
     # "He opens the jug and you are instantly hit with a foul pungent odour that makes your eyes water."
-    ""
+    "Он открывает кувшин, и на тебя мгновенно обрушивается дурной резкий запах, от которого слезятся глаза."
 
 # game/scripts/events.rpy:17500
 translate russian help_the_bull_with_chores_4c46203d:
 
     # "You see that Mjolnik is reacting in much the same way."
-    ""
+    "Ты видишь, что Мельник реагирует примерно так же."
 
 # game/scripts/events.rpy:17507
 translate russian help_the_bull_with_chores_126a30cc:
 
     # Mjolnik "This here is some kind of salve that will fix ya right up. But it stings like a swarm of angry bees."
-    Mjolnik ""
+    Mjolnik "Это что-то вроде мази, которая тебя вылечит. Но она жалит, как рой разъяренных пчел."
 
 # game/scripts/events.rpy:17509
 translate russian help_the_bull_with_chores_bb7f5963:
 
     # Mjolnik "And I gotta rub it over all y'all."
-    Mjolnik ""
+    Mjolnik "И я должен втереть это все в тебя."
 
 # game/scripts/events.rpy:17515
 translate russian help_the_bull_with_chores_015797fd:
 
     # "Without a word, Mjolnik turns you over so you're lying on your stomach and he hauls off your underwear."
-    ""
+    "Не говоря ни слова, Мельник переворачивает тебя так, чтобы ты лежал на животе, и стаскивает с тебя нижнее белье."
 
 # game/scripts/events.rpy:17517
 translate russian help_the_bull_with_chores_21ea43b3:
 
     # "You'd normally say something but right now, all you can think about is the pain."
-    ""
+    "В обычной ситуации ты бы что-нибудь сказал, но сейчас все, о чем ты можешь думать, это боль."
 
 # game/scripts/events.rpy:17519
 translate russian help_the_bull_with_chores_88c79177:
 
     # "The pain that sharply increases as Mjolnik takes a handful of the slave and starts to smear it over your body and rub it in."
-    ""
+    "Боль резко усиливается, когда Мельник берет горсть мази и начинает размазывать его по твоему телу и втирать."
 
 # game/scripts/events.rpy:17521
 translate russian help_the_bull_with_chores_257fd60c:
 
     # Fen "ARGH!... Oooo... owww...." with hpunch
-    Fen "" with hpunch
+    Fen "АРГХ!... Ооо... ууу...." with hpunch
 
 # game/scripts/events.rpy:17523
 translate russian help_the_bull_with_chores_e556d4e8:
 
     # Mjolnik "I said it was gonna hurt. But it'll help right fast, just wait. I just gotta get it past yer fur."
-    Mjolnik ""
+    Mjolnik "Я сказал, что будет больно. Но это быстро поможет, просто подожди. Я просто должен пропустить его через твой мех."
 
 # game/scripts/events.rpy:17525
 translate russian help_the_bull_with_chores_b0ec488b:
 
     # "The bull continues to massage your upper back and shoulders and soon enough the pain does begin to vanish."
-    ""
+    "Бык продолжает массировать верхнюю часть спины и плечи, и вскоре боль действительно начинает исчезать."
 
 # game/scripts/events.rpy:17527
 translate russian help_the_bull_with_chores_a68cdd6f:
 
     # "As he works his way down, you marvel at how the pain quickly dissipates as the salve is rubbed into your skin."
-    ""
+    "По мере того как он спускается вниз, ты удивляешься тому, как быстро исчезает боль, когда мазь втирается в твою кожу."
 
 # game/scripts/events.rpy:17529
 translate russian help_the_bull_with_chores_97541002:
 
     # "The smell is horrible though and you hope you can get a bath after."
-    ""
+    "Запах ужасен, и ты надеешься, что после этого сможешь принять ванну."
 
 # game/scripts/events.rpy:17531
 translate russian help_the_bull_with_chores_e6f11557:
 
     # "Though you stop thinking about the smell as Mjolnik reaches your ass."
-    ""
+    "Хотя ты перестаешь думать о запахе, когда Мельник добирается до твоей задницы."
 
 # game/scripts/events.rpy:17533
 translate russian help_the_bull_with_chores_c80be37a:
 
     # "You assumed that he'd just skip over it, but the bull is through and soon you can help but moan as he massages your rump."
-    ""
+    "Ты думал, что он просто пропустит это мимо, но бык прошел, и вскоре ты уже можешь не стонать, когда он массирует твою попку."
 
 # game/scripts/events.rpy:17535
 translate russian help_the_bull_with_chores_cff26d68:
 
     # "He even pushes just a little into your tailhole, which causes some interesting sensations with the salve and you feel yourself getting hard as he even rubs your taint."
-    ""
+    "Он даже немного проникает в твою дырочку, что вызывает интересные ощущения от мази, и ты чувствуешь, как становишься твердым, когда он даже трет твой промежность."
 
 # game/scripts/events.rpy:17537
 translate russian help_the_bull_with_chores_d2319a45:
 
     # "However he soon moves on to your legs and feet."
-    ""
+    "Однако вскоре он переходит к ногам и ступням."
 
 # game/scripts/events.rpy:17544
 translate russian help_the_bull_with_chores_ef1548fe:
 
     # Mjolnik "Can ya turn over [name]? Or do y'all need me to do it?"
-    Mjolnik ""
+    Mjolnik "Ты можешь перевернуть [name]? Или тебе нужно, чтобы это сделал я?"
 
 # game/scripts/events.rpy:17550
 translate russian help_the_bull_with_chores_56235583:
 
     # "You struggle to flip over, but just flounder around."
-    ""
+    "Ты пытаешься перевернуться, но только барахтаешься."
 
 # game/scripts/events.rpy:17552
 translate russian help_the_bull_with_chores_75687132:
 
     # "Mjolnik laughs and helps you turn over."
-    ""
+    "Мельник смеется и помогает тебе перевернуться."
 
 # game/scripts/events.rpy:17562
 translate russian help_the_bull_with_chores_78b15705:
 
     # "Your face is burning as you realise that you're still fully erect, but the bull doesn't seem to even notice as he goes to work on your arms and chest."
-    ""
+    "Твое лицо пылает от осознания того, что ты все еще полностью напряжен, но бык, кажется, даже не замечает этого, принимаясь обрабатывать твои руки и грудь."
 
 # game/scripts/events.rpy:17564
 translate russian help_the_bull_with_chores_b02c9c24:
 
     # "As he does, you can't help but moan in pleasure which makes Mjolnik pause."
-    ""
+    "Когда он это делает, ты не можешь не стонать от удовольствия, что заставляет Мельника сделать паузу."
 
 # game/scripts/events.rpy:17572
 translate russian help_the_bull_with_chores_897eaabb:
 
     # Mjolnik "I'm right sorry [name], I know it hurts, I just gotta do yer belly and leg and around yer junk and I'm all done."
-    Mjolnik ""
+    Mjolnik "Мне очень жаль, я знаю, что это больно, но мне нужно только обработать твой живот, ногу и вокруг твоих причиндалов, и я закончу."
 
 # game/scripts/events.rpy:17578
 translate russian help_the_bull_with_chores_aa3eece2:
 
     # "As he works lower, you realise that Mjolnik thinks that he's hurting you and not arousing you."
-    ""
+    "По мере того как он опускается ниже, ты понимаешь, что Мельник думает, что причиняет тебе боль, а не возбуждает."
 
 # game/scripts/events.rpy:17580
 translate russian help_the_bull_with_chores_3819ee89:
 
     # "Soon, he's working on your legs and the only part of you that is still stinging is around your crotch."
-    ""
+    "Вскоре он уже работает над твоими ногами, и единственная часть тела, которую все еще жжет, это промежность."
 
 # game/scripts/events.rpy:17582
 translate russian help_the_bull_with_chores_66a62aec:
 
     # "You feel his hands beginning to move there."
-    ""
+    "Ты чувствуешь, как его руки начинают двигаться там."
 
 # game/scripts/events.rpy:17586
 translate russian help_the_bull_with_chores_cc50e4b3:
 
     # "You close your eyes and just enjoy the feeling as he rubs his finger through your pubes and your inside thighs."
-    ""
+    "Ты закрываешь глаза и просто наслаждаешься ощущениями, когда он проводит пальцем по твоему лобку и внутренней стороне бедер."
 
 # game/scripts/events.rpy:17588
 translate russian help_the_bull_with_chores_4a001a56:
 
     # "He pauses and asks a question, some concern in his voice."
-    ""
+    "Он делает паузу и задает вопрос, в его голосе звучит беспокойство."
 
 # game/scripts/events.rpy:17590
 translate russian help_the_bull_with_chores_91293b32:
 
     # Mjolnik "Ain't no pain in yer actual junk is there? I'm not sure how y'all might have done something there but y'all moan a lot when I'm poking around there."
-    Mjolnik ""
+    Mjolnik "У тебя ведь не болит в самом деле? Я не знаю, как ты мог что-то там сделать, но ты часто стонешь, когда я там копаюсь."
 
 # game/scripts/events.rpy:17592
 translate russian help_the_bull_with_chores_1018c078:
 
     # Mjolnik "I can rub that too, but the salve might really sting."
-    Mjolnik ""
+    Mjolnik "Я могу натереть и этим, но мазь может сильно щипать."
 
 # game/scripts/events.rpy:17602
 translate russian help_the_bull_with_chores_29db21de:
 
     # Fen "Well... it does hurt a little. Maybe just a little bit of the salve?"
-    Fen ""
+    Fen "Ну... немного больно. Может, просто немного мази?"
 
 # game/scripts/events.rpy:17609
 translate russian help_the_bull_with_chores_c7aef3c1:
 
     # Mjolnik "Ok [name], but if it gets too much tell me ok?"
-    Mjolnik ""
+    Mjolnik "Хорошо [name], но если будет слишком больно, скажи мне, ладно?"
 
 # game/scripts/events.rpy:17615
 translate russian help_the_bull_with_chores_1b60b563:
 
     # "He wipes his hands off and dips one finger into the pot, taking out a small amount of the salve."
-    ""
+    "Он вытирает руки и погружает палец в сосуд, доставая небольшое количество мази."
 
 # game/scripts/events.rpy:17625
 translate russian help_the_bull_with_chores_70cdde75:
 
     # "Spreading it over his hands, he tentatively reaches over and wraps his hand around your erection."
-    ""
+    "Распределив его по своим рукам, он неуверенно протягивает руку и обхватывает твою эрекцию."
 
 # game/scripts/events.rpy:17628
 translate russian help_the_bull_with_chores_b39e4643:
 
     # "You gasp in both pain and pleasure as you instantly feel the effects of the salve."
-    ""
+    "Ты задыхаешься и от боли, и от удовольствия, поскольку мгновенно ощущаешь действие мази."
 
 # game/scripts/events.rpy:17631
 translate russian help_the_bull_with_chores_d9b852d1:
 
     # "It burns slightly, but soon gives way to a pleasant warm sensation."
-    ""
+    "Он слегка жжет, но вскоре уступает место приятному теплому ощущению."
 
 # game/scripts/events.rpy:17633
 translate russian help_the_bull_with_chores_e6d0ac72:
 
     # "As Mjolnik begins to massage your throbbing dick between his hands, you can't help but whimper in happiness."
-    ""
+    "Когда Мельник начинает массировать твой пульсирующий член между ладонями, ты не можешь не хныкать от счастья."
 
 # game/scripts/events.rpy:17641
 translate russian help_the_bull_with_chores_6720603f:
 
     # "You notice Mjolnik is staring intently at your cock, a look of concentration on his face."
-    ""
+    "Ты замечаешь, что Меджник пристально смотрит на твой член, на его лице выражение сосредоточенности."
 
 # game/scripts/events.rpy:17650
 translate russian help_the_bull_with_chores_707ea5ce:
 
     # "You glance down at his cock and are surprised to see it is completely flaccid."
-    ""
+    "Ты опускаешь взгляд на его член и с удивлением замечаешь, что он совсем вялый."
 
 # game/scripts/events.rpy:17652
 translate russian help_the_bull_with_chores_e3a363cd:
 
     # "The bull is obviously so oblivious to how you really feel, it's adorable and you decide to not clue him in."
-    ""
+    "Бык, очевидно, настолько не замечает, что ты чувствуешь на самом деле, что это восхитительно, и ты решаешь не вводить его в курс дела."
 
 # game/scripts/events.rpy:17664
 translate russian help_the_bull_with_chores_8eeceef7:
 
     # "Soon enough, you feel an orgasm building and you squirm."
-    ""
+    "Вскоре ты чувствуешь, что оргазм нарастает, и корчишься."
 
 # game/scripts/events.rpy:17666
 translate russian help_the_bull_with_chores_a3c15e68:
 
     # "As you do, Mjolnik begins to jerk you off with one hand while also spreading the salve on your balls with the other."
-    ""
+    "Пока ты это делаешь, Меджник начинает дрочить тебе одной рукой, а другой наносит мазь на твои яйца."
 
 # game/scripts/events.rpy:17669
 translate russian help_the_bull_with_chores_a83ec0de:
 
     # "You gasp and partially sit up." with hpunch
-    "" with hpunch
+    "Ты задыхаешься и частично приподнимаешься." with hpunch
 
 # game/scripts/events.rpy:17677
 translate russian help_the_bull_with_chores_3fd31e6c:
 
     # Mjolnik "I ain't hurting ya am I? Should I stop?"
-    Mjolnik ""
+    Mjolnik "Я ведь не причиняю тебе вреда? Может, мне остановиться?"
 
 # game/scripts/events.rpy:17679
 translate russian help_the_bull_with_chores_f4a0dd3a:
 
     # Fen "No, this feels amazing, just... Can you squeeze a little harder and rub the very tip a bit?"
-    Fen ""
+    Fen "Нет, ощущения потрясающие, просто... Можешь сжать чуть сильнее и немного потереть самый кончик?"
 
 # game/scripts/events.rpy:17691
 translate russian help_the_bull_with_chores_a348a189:
 
     # "The bull simply nods and does as requested."
-    ""
+    "Бык просто кивает и выполняет просьбу."
 
 # game/scripts/events.rpy:17693
 translate russian help_the_bull_with_chores_12942633:
 
     # "You begin to thrust in time with him and soon you know you're going to cum."
-    ""
+    "Ты начинаешь двигаться в такт с ним и вскоре понимаешь, что сейчас кончишь."
 
 # game/scripts/events.rpy:17696
 translate russian help_the_bull_with_chores_6f05c089:
 
     # "You don't know what to do, so you simply let it play out."
-    ""
+    "Не зная, что делать, ты просто позволяешь этому случиться."
 
 # game/scripts/events.rpy:17705
 translate russian help_the_bull_with_chores_c8773f38:
 
     # "With a whine, you feel yourself cum and you shoot a thick load all over your chest and face, with a small amount getting on a surprised Mjolnik." with hpunch
-    "" with hpunch
+    "Со стоном ты чувствуешь, что кончаешь, и выплескиваешь густую струю на грудь и лицо, а небольшое количество попадает на удивленного Мельника." with hpunch
 
 # game/scripts/events.rpy:17707
 translate russian help_the_bull_with_chores_dca44cd5:
 
     # "The bull looks at you first in surprise and then a huge grin breaks out on his face."
-    ""
+    "Бык сначала удивленно смотрит на тебя, а потом на его лице появляется огромная ухмылка."
 
 # game/scripts/events.rpy:17715
 translate russian help_the_bull_with_chores_311145d4:
 
     # Mjolnik "Tarnation! That must have worked!"
-    Mjolnik ""
+    Mjolnik "Черт возьми! Должно быть, это сработало!"
 
 # game/scripts/events.rpy:17718
 translate russian help_the_bull_with_chores_216a1a3a:
 
     # Mjolnik smile "I know when I get all tense down there, I use a little bit of the salve and rub myself and then that happens and everythings all better."
-    Mjolnik smile ""
+    Mjolnik smile "Я знаю, что когда у меня там все напряжено, я наношу немного мази и растираю себя, и тогда все проходит, и все становится лучше."
 
 # game/scripts/events.rpy:17720
 translate russian help_the_bull_with_chores_64c79a4e:
 
     # Fen "Whew... yeah, that felt amazing... sorry about the mess."
-    Fen ""
+    Fen "Ух ты... да, ощущения потрясающие... извини за беспорядок."
 
 # game/scripts/events.rpy:17723
 translate russian help_the_bull_with_chores_c1dbc26b:
 
     # "Mjolnik laughs and grabs one of the towels and quickly cleans you off."
-    ""
+    "Мельник смеется, хватает одно из полотенец и быстро вытирает тебя."
 
 # game/scripts/events.rpy:17728
 translate russian help_the_bull_with_chores_693fc2a9:
 
     # Mjolnik "Schucks, I make a much bigger mess, so y'all don't worry that pretty little head about it. I'm just glad y'all feeling better."
-    Mjolnik ""
+    Mjolnik "Черт, я устраиваю гораздо больший беспорядок, так что ты не беспокойся об этом. Я просто рад, что тебе лучше."
 
 # game/scripts/events.rpy:17730
 translate russian help_the_bull_with_chores_abed41be:
 
     # Mjolnik normal "Also, don't worry about the smell. That'll vanish in a few hours."
-    Mjolnik normal ""
+    Mjolnik normal "И не волнуйся о запахе. Он исчезнет через несколько часов."
 
 # game/scripts/events.rpy:17732
 translate russian help_the_bull_with_chores_bf554923:
 
     # Mjolnik "I saw yer nose wrinkle a few times. It's a right ripe stink ain't it?"
-    Mjolnik ""
+    Mjolnik "Я несколько раз видел, как ты морщишь нос. Как же воняет, правда?"
 
 # game/scripts/events.rpy:17734
 translate russian help_the_bull_with_chores_64a78884:
 
     # "You nod and grin back at him."
-    ""
+    "Ты киваешь и ухмыляешься ему в ответ."
 
 # game/scripts/events.rpy:17736
 translate russian help_the_bull_with_chores_a95aa300:
 
     # Fen "You can say that again, but it worked."
-    Fen ""
+    Fen "Ты можешь повторить это еще раз, но это сработало."
 
 # game/scripts/events.rpy:17738
 translate russian help_the_bull_with_chores_f4e1cd7d:
 
     # Fen "Thanks for everything Mjolnik, I had a good time, even with the pain. I'm going to visit you again real soon OK?"
-    Fen ""
+    Fen "Спасибо за все, Мельник, я хорошо провел время, даже несмотря на боль. Я собираюсь навестить тебя снова очень скоро, хорошо?"
 
 # game/scripts/events.rpy:17740
 translate russian help_the_bull_with_chores_0ac332f7:
 
     # Mjolnik smile "Y'all serious [name]? Shucks, I'm already thinking about when y'all gonna come back."
-    Mjolnik smile ""
+    Mjolnik smile "Ты серьезно? Черт, я уже думаю, когда ты вернешься."
 
 # game/scripts/events.rpy:17743
 translate russian help_the_bull_with_chores_0ec283de:
 
     # Mjolnik "I really like hanging out with ya."
-    Mjolnik ""
+    Mjolnik "Мне очень нравится общаться с тобой."
 
 # game/scripts/events.rpy:17748
 translate russian help_the_bull_with_chores_5a38efbf:
 
     # "With that, he leaves, closing the door behind you."
-    ""
+    "С этими словами он уходит, закрывая за собой дверь."
 
 # game/scripts/events.rpy:17753
 translate russian help_the_bull_with_chores_c7831a77:
 
     # "And soon you're asleep."
-    ""
+    "И вскоре ты уже спишь."
 
 # game/scripts/events.rpy:17765
 translate russian help_the_bull_with_chores_5bb7b8f5:
 
     # "You honestly think about taking advantage of the situation, but you're tired, still overall sore and just want to go to bed."
-    ""
+    "Ты честно думаешь о том, чтобы воспользоваться ситуацией, но ты устал, все еще болен и просто хочешь лечь спать."
 
 # game/scripts/events.rpy:17767
 translate russian help_the_bull_with_chores_798530ac:
 
     # "You let Mjolnik know you're ok and he grins at you happily."
-    ""
+    "Ты даешь Мельнику понять, что все в порядке, и он радостно улыбается тебе."
 
 # game/scripts/events.rpy:17772
 translate russian help_the_bull_with_chores_3cda6e45:
 
     # Mjolnik "That's great [name]! I'm right glad y'all feeling better! I'll letcha get some shut eye and y'all have a good night."
-    Mjolnik ""
+    Mjolnik "Это замечательно! Я рад, что ты чувствуешь себя лучше! Я дам тебе немного поспать, и спокойной ночи тебе."
 
 # game/scripts/events.rpy:17774
 translate russian help_the_bull_with_chores_fa0d00c0:
 
     # Mjolnik normal "I'll be up extra early to do some errands and chores, so just let yerself out and don't worry none about saying goodbye."
-    Mjolnik normal ""
+    Mjolnik normal "Я встану очень рано, чтобы сделать кое-какие дела, так что просто выйди и не беспокойся о прощании."
 
 # game/scripts/events.rpy:17776
 translate russian help_the_bull_with_chores_0e321fa0:
 
     # Mjolnik smile "Also, don't worry about the smell. That'll vanish in a few hours."
-    Mjolnik smile ""
+    Mjolnik smile "И не волнуйся о запахе. Он исчезнет через несколько часов."
 
 # game/scripts/events.rpy:17778
 translate russian help_the_bull_with_chores_df7c52c0:
 
     # Mjolnik normal "I saw yer nose wrinkle a few times. It's a right ripe stink ain't it?"
-    Mjolnik normal ""
+    Mjolnik normal "Я несколько раз видел, как ты морщишь нос. Как же воняет, правда?"
 
 # game/scripts/events.rpy:17780
 translate russian help_the_bull_with_chores_64a78884_1:
 
     # "You nod and grin back at him."
-    ""
+    "Ты киваешь и ухмыляешься ему в ответ."
 
 # game/scripts/events.rpy:17782
 translate russian help_the_bull_with_chores_a95aa300_1:
 
     # Fen "You can say that again, but it worked."
-    Fen ""
+    Fen "Ты можешь повторить это еще раз, но это сработало."
 
 # game/scripts/events.rpy:17784
 translate russian help_the_bull_with_chores_f4e1cd7d_1:
 
     # Fen "Thanks for everything Mjolnik, I had a good time, even with the pain. I'm going to visit you again real soon OK?"
-    Fen ""
+    Fen "Спасибо за все, Мельник, я хорошо провел время, даже несмотря на боль. Я собираюсь навестить тебя снова очень скоро, хорошо?"
 
 # game/scripts/events.rpy:17786
 translate russian help_the_bull_with_chores_0ac332f7_1:
 
     # Mjolnik smile "Y'all serious [name]? Shucks, I'm already thinking about when y'all gonna come back."
-    Mjolnik smile ""
+    Mjolnik smile "Ты серьезно? Черт, я уже думаю, когда ты вернешься."
 
 # game/scripts/events.rpy:17788
 translate russian help_the_bull_with_chores_0ec283de_1:
 
     # Mjolnik "I really like hanging out with ya."
-    Mjolnik ""
+    Mjolnik "Мне очень нравится общаться с тобой."
 
 # game/scripts/events.rpy:17793
 translate russian help_the_bull_with_chores_5a38efbf_1:
 
     # "With that, he leaves, closing the door behind you."
-    ""
+    "С этими словами он уходит, закрывая за собой дверь."
 
 # game/scripts/events.rpy:17798
 translate russian help_the_bull_with_chores_c7831a77_1:
 
     # "And soon you're asleep."
-    ""
+    "И вскоре ты уже спишь."
 
 # game/scripts/events.rpy:17810
 translate russian mjolnik_generic_visits_d307d8e2:
 
     # "You decide to visit Mjolnik today. It's been awhile and you just want to see him again."
-    ""
+    "Сегодня ты решил навестить Мельника. Прошло уже много времени, и ты просто хочешь увидеть его снова."
 
 # game/scripts/events.rpy:17813
 translate russian mjolnik_generic_visits_d5161571:
 
     # "Quickly packing a few snacks for the road, you set out."
-    ""
+    "Быстро собрав в дорогу несколько закусок, ты отправляешься в путь."
 
 # game/scripts/events.rpy:17818
 translate russian mjolnik_generic_visits_93ca741a:
 
     # "The trip is uneventful and soon you're turning down the path to Mjolnik's farm."
-    ""
+    "Дорога проходит без происшествий, и вскоре ты сворачиваешь на тропинку, ведущую к ферме Мельника."
 
 # game/scripts/events.rpy:17820
 translate russian mjolnik_generic_visits_5a069ad7:
 
     # "You see the bull working in the field and call out to him."
-    ""
+    "Ты видишь быка, работающего в поле, и зовешь его."
 
 # game/scripts/events.rpy:17822
 translate russian mjolnik_generic_visits_383148c1:
 
     # "He stops and waves, his normal broad smile visible even from a distance."
-    ""
+    "Он останавливается и машет рукой, его обычная широкая улыбка видна даже издалека."
 
 # game/scripts/events.rpy:17830
 translate russian mjolnik_generic_visits_14f59384:
 
     # Mjolnik grin "Well ain't this just a right nice surprise!"
-    Mjolnik grin ""
+    Mjolnik grin "Ну разве это не приятный сюрприз!"
 
 # game/scripts/events.rpy:17832
 translate russian mjolnik_generic_visits_a7781af0:
 
     # Mjolnik normal "What brings y'all here today?"
-    Mjolnik normal ""
+    Mjolnik normal "Что привело тебя сюда сегодня?"
 
 # game/scripts/events.rpy:17834
 translate russian mjolnik_generic_visits_548245b8:
 
     # Fen "Just coming to say hello."
-    Fen ""
+    Fen "Просто пришел поздороваться."
 
 # game/scripts/events.rpy:17883
 translate russian mjolnik_generic_chores_c6c0a91a:
 
     # "Mjolnik beams at you and gestures around the farm."
-    ""
+    "Мельник приветствует тебя и жестом обводит ферму."
 
 # game/scripts/events.rpy:17885
 translate russian mjolnik_generic_chores_8c95faea:
 
     # Mjolnik normal "Well I reckon might be a bit of a boring visit."
-    Mjolnik normal ""
+    Mjolnik normal "Ну, я считаю, что посещение может быть немного скучным."
 
 # game/scripts/events.rpy:17887
 translate russian mjolnik_generic_chores_147007a6:
 
     # Mjolnik normal "I have a lot of chores I have to do, so y'all might wanna lend a hand if y'all of a mind."
-    Mjolnik normal ""
+    Mjolnik normal "У меня много дел по дому, так что, если ты не против, можешь помочь."
 
 # game/scripts/events.rpy:17889
 translate russian mjolnik_generic_chores_3f34ad5a:
 
     # Mjolnik smile "Sooner I gets it all done, sooner we can relax."
-    Mjolnik smile ""
+    Mjolnik smile "Как только я закончу со всем этим, мы сможем расслабиться."
 
 # game/scripts/events.rpy:17894
 translate russian mjolnik_generic_chores_fe57865a:
 
     # "You nod and ask what needs to be done. Mjolnik gives you a list of a bunch of small tasks that need doing. Most are trivial but time consuming."
-    ""
+    "Ты киваешь и спрашиваешь, что нужно сделать. Мельник дает тебе список из множества мелких заданий, которые нужно выполнить. Большинство из них пустяковые, но отнимают много времени."
 
 # game/scripts/events.rpy:17896
 translate russian mjolnik_generic_chores_15da983f:
 
     # "As you start, you notice the similarities with all the minor tasks you and Gunther have to do to keep the Flaming Flagon running."
-    ""
+    "Когда ты начинаешь, то замечаешь сходство со всеми мелкими заданиями, которые тебе и Гюнтеру приходится выполнять, чтобы поддерживать работу Пылающего Кувшина."
 
 # game/scripts/events.rpy:17898
 translate russian mjolnik_generic_chores_d6cb8eb1:
 
     # "But you don't mind helping Mjolnik out. The chores he's asked you to do aren't overly hard, just tedious."
-    ""
+    "Но ты не против помочь Мельнику. Работа, которую он поручил тебе, не слишком сложная, просто утомительная."
 
 # game/scripts/events.rpy:17900
 translate russian mjolnik_generic_chores_26b99b48:
 
     # "Some painting, some moving and some simple gardening."
-    ""
+    "Немного покраски, немного передвижения и немного простого садоводства."
 
 # game/scripts/events.rpy:17908
 translate russian mjolnik_generic_chores_a9b160f1:
 
     # "However as you go behind the farmhouse you groan as you see that damnable pile of hay is still there."
-    ""
+    "Однако, зайдя за ферму, ты застонал, увидев, что эта проклятая куча сена все еще там."
 
 # game/scripts/events.rpy:17912
 translate russian mjolnik_generic_chores_e0b6db79:
 
     # "You stare at it balefully for a while and wonder if it's grown since the last time you had to deal with it."
-    ""
+    "Некоторое время ты с недоверием смотришь на него и думаешь, не вырос ли он с тех пор, как тебе в последний раз приходилось иметь с ним дело."
 
 # game/scripts/events.rpy:17914
 translate russian mjolnik_generic_chores_3b849654:
 
     # "Leaving that wretched pile of grass behind, you get back to the tasks at hand."
-    ""
+    "Оставив позади эту жалкую кучку травы, ты возвращаешься к текущим задачам."
 
 # game/scripts/events.rpy:17916
 translate russian mjolnik_generic_chores_928accd3:
 
     # "Soon you have all the painting done and move on to gardening."
-    ""
+    "Вскоре ты закончил с покраской и перешел к садоводству."
 
 # game/scripts/events.rpy:17918
 translate russian mjolnik_generic_chores_8c05a5fd:
 
     # "Many weeds are slain by your hand and many garden pests were vanquished."
-    ""
+    "Твоя рука уничтожила множество сорняков и победила множество садовых вредителей."
 
 # game/scripts/events.rpy:17922
 translate russian mjolnik_generic_chores_69d06e13:
 
     # "You're busy building a small rock wall when you hear Mjolnik calling out for you."
-    ""
+    "Ты занят строительством небольшой каменной стены, когда слышишь, что Мельник зовет тебя."
 
 # game/scripts/events.rpy:17924
 translate russian mjolnik_generic_chores_3797f20d:
 
     # "Leaving the rocks, you head to him and he greets you with one of his bearhugs."
-    ""
+    "Покинув камни, ты направляешься к нему, и он приветствует тебя одним из своих медвежьих объятий."
 
 # game/scripts/events.rpy:17926
 translate russian mjolnik_generic_chores_932aec65:
 
     # "By now you're rather used to them and enjoy them so gladly return the embrace. "
-    ""
+    "К этому времени ты уже привык к ним и наслаждаешься ими, поэтому с удовольствием отвечаешь на объятия. "
 
 # game/scripts/events.rpy:17932
 translate russian mjolnik_generic_chores_80892fe4:
 
     # Mjolnik "Thanks so much! Y'all saved me so much time. Let's go eat and chat and just have a nice ol' night."
-    Mjolnik ""
+    Mjolnik "Огромное спасибо! Ты сэкономил мне столько времени. Пошли поедим, поболтаем и просто хорошо проведем вечер."
 
 # game/scripts/events.rpy:17936
 translate russian mjolnik_generic_chores_db573acf:
 
     # "And that's what you do. You offer to do some cooking and Mjolnik gratefully accepts."
-    ""
+    "И именно так ты и поступаешь. Ты предлагаешь приготовить что-нибудь, и Мельник с благодарностью соглашается."
 
 # game/scripts/events.rpy:17938
 translate russian mjolnik_generic_chores_9aa99ae2:
 
     # "The meal is simple but a success, with Mjolnik praising your cooking profusely."
-    ""
+    "Еда получилась простой, но удачной, и Мельник очень хвалит твою стряпню."
 
 # game/scripts/events.rpy:17943
 translate russian mjolnik_generic_chores_300de6eb:
 
     # "After cleaning up, you spend some time talking about nothing."
-    ""
+    "Приведя себя в порядок, ты еще некоторое время болтаешь ни о чем."
 
 # game/scripts/events.rpy:17945
 translate russian mjolnik_generic_chores_47b3c97e:
 
     # "It's mostly just you listening to Mjolnik tell stories about whatever he thinks about or remembers."
-    ""
+    "В основном ты просто слушаешь, как Мельник рассказывает истории о том, о чем он думает или вспоминает."
 
 # game/scripts/events.rpy:17947
 translate russian mjolnik_generic_chores_01b2bc44:
 
     # "He is a good storyteller, so you don't mind, even when it's a mundane topic."
-    ""
+    "Он хороший рассказчик, поэтому ты не возражаешь, даже если речь идет об обыденной теме."
 
 # game/scripts/events.rpy:17952
 translate russian mjolnik_generic_chores_5f9a16db:
 
     # "After a few hours, the pair of you turn in for the night."
-    ""
+    "Через несколько часов вы укладываетесь спать."
 
 # game/scripts/events.rpy:17955
 translate russian mjolnik_generic_chores_7f466a16:
 
     # "You sleep soundly."
-    ""
+    "Ты крепко спишь."
 
 # game/scripts/events.rpy:17962
 translate russian mjolnik_generic_chores_0fc1bbda:
 
     # "Upon awakening, you hear Mjolnik is already up making some breakfast and you join him."
-    ""
+    "Проснувшись, ты слышишь, что Мельник уже встал и готовит завтрак, и присоединяешься к нему."
 
 # game/scripts/events.rpy:17966
 translate russian mjolnik_generic_chores_487f41cc:
 
     # "Once done, you bid the bull farwell and begin your trip back to town, back to the Flaming Flagon."
-    ""
+    "После этого ты прощаешься с быком и начинаешь свой путь в город, к Пылающему Кувшину."
 
 # game/scripts/events.rpy:17973
 translate russian mjolnik_generic_chores_21d29cac:
 
     # "You return just in time to begin your workday."
-    ""
+    "Ты возвращаешься как раз вовремя, чтобы начать свой рабочий день."
 
 # game/scripts/events.rpy:17980
 translate russian mjolnik_generic_cooking_b8e77737:
 
     # "Mjolnik blinks at you as your stomach growls."
-    ""
+    "Мельник смотрит на тебя, пока твой желудок урчит."
 
 # game/scripts/events.rpy:17984
 translate russian mjolnik_generic_cooking_d0c83134:
 
     # "Giving you a slight grin he ushers you into his house."
-    ""
+    "Слегка улыбнувшись, он приглашает тебя в свой дом."
 
 # game/scripts/events.rpy:17989
 translate russian mjolnik_generic_cooking_597d1609:
 
     # Mjolnik "I mean I have some chores to do, but that stomach is making more racket than a bag of hammers being tossed down the stairs."
-    Mjolnik ""
+    Mjolnik "Мне, конечно, нужно сделать кое-какие дела, но этот живот шумит сильнее, чем мешок с молотками, который сбрасывают с лестницы."
 
 # game/scripts/events.rpy:17993
 translate russian mjolnik_generic_cooking_6186867a:
 
     # "You nod."
-    ""
+    "Ты киваешь."
 
 # game/scripts/events.rpy:17995
 translate russian mjolnik_generic_cooking_09d3ef74:
 
     # Fen "I actually am kinda hungry. I didn't eat much before I came down."
-    Fen ""
+    Fen "Вообще-то я голоден. Я почти ничего не ел перед тем, как спуститься."
 
 # game/scripts/events.rpy:17997
 translate russian mjolnik_generic_cooking_76a539e1:
 
     # Mjolnik normal "Well, y'all a much better cook than I am. Do y'all wanna do the cooking? Maybe show me some tips and tricks?"
-    Mjolnik normal ""
+    Mjolnik normal "Ну, ты готовишь гораздо лучше, чем я. Не хочешь заняться готовкой? Может быть, расскажешь мне несколько советов и хитростей?"
 
 # game/scripts/events.rpy:17999
 translate russian mjolnik_generic_cooking_08cbf4b4:
 
     # Fen 2 smile "Sure, love to."
-    Fen 2 smile ""
+    Fen 2 smile "Конечно, с удовольствием."
 
 # game/scripts/events.rpy:18001
 translate russian mjolnik_generic_cooking_21b2e391:
 
     # "And that's what you do."
-    ""
+    "И именно так ты и поступаешь."
 
 # game/scripts/events.rpy:18005
 translate russian mjolnik_generic_cooking_c3a40e16:
 
     # "After taking an inventory of all the available ingredients, you discuss with Mjolnik what he thinks you should make."
-    ""
+    "Проведя инвентаризацию всех имеющихся ингредиентов, ты обсуждаешь с Мельником, что он считает нужным приготовить."
 
 # game/scripts/events.rpy:18007
 translate russian mjolnik_generic_cooking_c1edf567:
 
     # "Most of his suggestions are plain, but with a bit of subtle prompting, you get him to think of some fancier things."
-    ""
+    "Большинство его предложений просты, но с помощью тонких подсказок ты заставишь его задуматься о более причудливых вещах."
 
 # game/scripts/events.rpy:18009
 translate russian mjolnik_generic_cooking_ccceb525:
 
     # "Soon you're whipping up a tasty dish, explaining carefully to Mjolnik each step and why you're making it a certain way."
-    ""
+    "Вскоре ты уже готовишь вкусное блюдо, тщательно объясняя Мельнику каждый шаг и почему ты делаешь его именно так."
 
 # game/scripts/events.rpy:18011
 translate russian mjolnik_generic_cooking_9a5c0a12:
 
     # "The bull is listening with rapt attention to your every word and you have to admit you really enjoy teaching him a little of what you know."
-    ""
+    "Бык с восторгом внимает каждому твоему слову, и ты должен признать, что тебе очень нравится учить его тому, что знаешь сам."
 
 # game/scripts/events.rpy:18015
 translate russian mjolnik_generic_cooking_9b8651e9:
 
     # "Soon enough the meal is complete and you both sit down to eat."
-    ""
+    "Вскоре трапеза будет закончена, и вы оба садитесь за стол."
 
 # game/scripts/events.rpy:18022
 translate russian mjolnik_generic_cooking_fdff6743:
 
     # "Mjolnik is profuse with his praise, but you're quick to point out that it was his ideas for the food."
-    ""
+    "Мельник обильно хвалит тебя, но ты не спешишь указывать, что это его идеи по поводу блюд."
 
 # game/scripts/events.rpy:18025
 translate russian mjolnik_generic_cooking_1aea86c1:
 
     # "He blushes at that but the smile on his face is heartwarming."
-    ""
+    "Он краснеет, но улыбка на его лице радует."
 
 # game/scripts/events.rpy:18030
 translate russian mjolnik_generic_cooking_6de90697:
 
     # "Mjolnik insists on cleaning up and while he does, you start up a large fire as it's beginning to get chilly."
-    ""
+    "Мельник настаивает на уборке, а ты в это время разжигаешь большой костер, поскольку становится прохладно."
 
 # game/scripts/events.rpy:18037
 translate russian mjolnik_generic_cooking_644db3fe:
 
     # "You then sit by the fire and stare into the flames."
-    ""
+    "Затем вы садитесь у костра и смотрите на пламя."
 
 # game/scripts/events.rpy:18039
 translate russian mjolnik_generic_cooking_ff7ebabf:
 
     # "There's always something entracing about them to you and you barely notice when Mjolnik joins you."
-    ""
+    "В них всегда есть что-то притягательное для тебя, и ты едва замечаешь, когда к тебе присоединяется Мельник."
 
 # game/scripts/events.rpy:18049
 translate russian mjolnik_generic_cooking_feaf5b58:
 
     # "He places an arm around you and pulls in you close."
-    ""
+    "Он обнимает тебя и притягивает к себе."
 
 # game/scripts/events.rpy:18051
 translate russian mjolnik_generic_cooking_3690132d:
 
     # "The two of you wordlessly sit for hours just watching the flickering dancing flames until they die into gently glowing embers."
-    ""
+    "Вы вдвоем безмолвно сидите часами, просто наблюдая за мерцанием танцующего пламени, пока оно не превратится в мягко светящиеся угли."
 
 # game/scripts/events.rpy:18054
 translate russian mjolnik_generic_cooking_911d8a73:
 
     # "When that happens, you both decide that's a good time to turn in for the night."
-    ""
+    "Когда это произойдет, вы оба решите, что самое время отправиться на отдых."
 
 # game/scripts/events.rpy:18059
 translate russian mjolnik_generic_cooking_7f466a16:
 
     # "You sleep soundly."
-    ""
+    "Ты крепко спишь."
 
 # game/scripts/events.rpy:18066
 translate russian mjolnik_generic_cooking_0fc1bbda:
 
     # "Upon awakening, you hear Mjolnik is already up making some breakfast and you join him."
-    ""
+    "Проснувшись, ты слышишь, что Мельник уже встал и готовит завтрак, и присоединяешься к нему."
 
 # game/scripts/events.rpy:18070
 translate russian mjolnik_generic_cooking_487f41cc:
 
     # "Once done, you bid the bull farwell and begin your trip back to town, back to the Flaming Flagon."
-    ""
+    "После этого ты прощаешься с быком и начинаешь свой путь в город, к Пылающему Кувшину."
 
 # game/scripts/events.rpy:18077
 translate russian mjolnik_generic_cooking_21d29cac:
 
     # "You return just in time to begin your workday."
-    ""
+    "Ты возвращаешься как раз вовремя, чтобы начать свой рабочий день."
 
 # game/scripts/events.rpy:18084
 translate russian mjolnik_generic_massage_5aa55f2e:
 
     # Mjolnik "..."
-    Mjolnik ""
+    Mjolnik "..."
 
 # game/scripts/events.rpy:18086
 translate russian mjolnik_generic_massage_14085b74:
 
     # "You notice the bull seems to be in some distress."
-    ""
+    "Ты замечаешь, что бык, похоже, в беде."
 
 # game/scripts/events.rpy:18088
 translate russian mjolnik_generic_massage_6c354af8:
 
     # "He's frowning and whenever he moves in certain ways, he winces."
-    ""
+    "Он хмурится и всякий раз, когда двигается определенным образом, морщится."
 
 # game/scripts/events.rpy:18090
 translate russian mjolnik_generic_massage_dd36e4a6:
 
     # Fen "Umm, are you doing okay? You seem to be in a bit of distress."
-    Fen ""
+    Fen "У тебя все в порядке? Кажется, ты немного расстроен."
 
 # game/scripts/events.rpy:18092
 translate russian mjolnik_generic_massage_3030aeff:
 
     # Mjolnik shock "Huh, that obvious eh?"
-    Mjolnik shock ""
+    Mjolnik shock "Очевидно?"
 
 # game/scripts/events.rpy:18094
 translate russian mjolnik_generic_massage_6074d172:
 
     # Mjolnik sweat "I went and did something to right mess up my back."
-    Mjolnik sweat ""
+    Mjolnik sweat "Я пошел и сделал кое-что, чтобы окончательно испортить себе спину."
 
 # game/scripts/events.rpy:18096
 translate russian mjolnik_generic_massage_df018a91:
 
     # Mjolnik "It's killing me and I can't seem to get it to want to work."
-    Mjolnik ""
+    Mjolnik "Это убивает меня, и я не могу заставить его работать."
 
 # game/scripts/events.rpy:18098
 translate russian mjolnik_generic_massage_e9f2c2fe:
 
     # Mjolnik "Plus, I can't even get Eoghann's salve onto it, cause it's the dead centre of my back. Just don't bend that way."
-    Mjolnik ""
+    Mjolnik "К тому же, я даже не могу нанести на него мазь Эоганна, потому что он находится в центре спины. Просто не наклоняйся в ту сторону."
 
 # game/scripts/events.rpy:18100
 translate russian mjolnik_generic_massage_6f386951:
 
     # "He gives a pained chuckle."
-    ""
+    "Он болезненно усмехается."
 
 # game/scripts/events.rpy:18102
 translate russian mjolnik_generic_massage_cda34302:
 
     # "You think back to how effective that salve was when Mjolnik used it on you, so this is a fine time to return the favour."
-    ""
+    "Ты вспоминаешь, как эффективна была эта мазь, когда Мельник использовал ее на тебе, так что сейчас самое время отплатить ему тем же."
 
 # game/scripts/events.rpy:18104
 translate russian mjolnik_generic_massage_453258e4:
 
     # Fen "Give me the salve. I'll rub it in for you."
-    Fen ""
+    Fen "Дай мне мазь. Я разотру ее для тебя."
 
 # game/scripts/events.rpy:18106
 translate russian mjolnik_generic_massage_09bc2014:
 
     # Mjolnik normal "Really? Y'all be willing to do that for little ol' me?"
-    Mjolnik normal ""
+    Mjolnik normal "Правда? Ты готов сделать это для маленького старого меня?"
 
 # game/scripts/events.rpy:18108
 translate russian mjolnik_generic_massage_4ea165b8:
 
     # Fen "Nothing little about you Mjolnik... in any way."
-    Fen ""
+    Fen "В тебе нет ничего особенного, Мельник... ни в каком смысле."
 
 # game/scripts/events.rpy:18110
 translate russian mjolnik_generic_massage_2849cb68:
 
     # "The innuendo goes straight over the bull's head, but you expected it to anyway."
-    ""
+    "Намек пролетел прямо над головой быка, но ты все равно этого ожидал."
 
 # game/scripts/events.rpy:18114
 translate russian mjolnik_generic_massage_6eee0efe:
 
     # "You follow him into the house and he goes to his room, pausing at the door."
-    ""
+    "Ты следуешь за ним в дом, и он идет в свою комнату, останавливаясь у двери."
 
 # game/scripts/events.rpy:18119
 translate russian mjolnik_generic_massage_f78dd4c4:
 
     # Mjolnik "Y'all mind if we use my room? I'm probably not gonna wanna move after so rather be already tucked in bed."
-    Mjolnik ""
+    Mjolnik "Ты не против, если мы воспользуемся моей комнатой? Я, наверное, не захочу двигаться после, так что лучше уже лечь в постель."
 
 # game/scripts/events.rpy:18122
 translate russian mjolnik_generic_massage_15c05b25:
 
     # "You nod and he opens the door."
-    ""
+    "Ты киваешь, и он открывает дверь."
 
 # game/scripts/events.rpy:18126
 translate russian mjolnik_generic_massage_6771a456:
 
     # "You follow him inside and look around the room while Mjolnik slowly crawls onto the bed."
-    ""
+    "Ты следуешь за ним внутрь и осматриваешь комнату, пока Мельник медленно переползает на кровать."
 
 # game/scripts/events.rpy:18128
 translate russian mjolnik_generic_massage_263c4046:
 
     # "The room is rather plain, but there is a large shelving unit on the far wall that is packed full of various things."
-    ""
+    "Комната довольно простая, но у дальней стены стоит большой стеллаж, забитый различными вещами."
 
 # game/scripts/events.rpy:18133
 translate russian mjolnik_generic_massage_ace65e57:
 
     # Mjolnik "The salve's on that shelf on the far wall."
-    Mjolnik ""
+    Mjolnik "Мазь на той полке у дальней стены."
 
 # game/scripts/events.rpy:18135
 translate russian mjolnik_generic_massage_211aa44b:
 
     # "You nod and go to retrieve the jug."
-    ""
+    "Ты киваешь и идешь за кувшином."
 
 # game/scripts/events.rpy:18140
 translate russian mjolnik_generic_massage_126c68c6:
 
     # "There's a few jugs and jars on the shelf, but your nose quickly picks out the right one. You remember the pungent odour quite well."
-    ""
+    "На полке стоит несколько кувшинов и банок, но твой нос быстро выбирает нужную. Ты хорошо помнишь резкий запах."
 
 # game/scripts/events.rpy:18142
 translate russian mjolnik_generic_massage_05e42122:
 
     # "The shelf is also filled with a lot of small knick-knacks of various types and somewhat unexpectedly, quite a few books."
-    ""
+    "На полке также много мелких безделушек разного рода и, как ни странно, довольно много книг."
 
 # game/scripts/events.rpy:18144
 translate russian mjolnik_generic_massage_80076a81:
 
     # "You glance at the covers as you grab the jar and they all seem to be about herbalism, gardening and potions."
-    ""
+    "Когда ты берешь банку, ты смотришь на обложки, и кажется, что все они посвящены травологии, садоводству и зельям."
 
 # game/scripts/events.rpy:18146
 translate russian mjolnik_generic_massage_8234d779:
 
     # "Your eyebrow raises as that last book was not something you expected to see."
-    ""
+    "Ты поднимаешь бровь, поскольку последняя книга - это не то, что ты ожидал увидеть."
 
 # game/scripts/events.rpy:18153
 translate russian mjolnik_generic_massage_b74112f2:
 
     # "Going back to Mjolnik, you can't help but admire his body."
-    ""
+    "Возвращаясь к Мельнику, нельзя не восхититься его телом."
 
 # game/scripts/events.rpy:18155
 translate russian mjolnik_generic_massage_2f749802:
 
     # "He's face down on the bed, his head hanging over the end, most likely so his horns don't impale the bed."
-    ""
+    "Он лежит на кровати лицом вниз, его голова свесилась за край, скорее всего, чтобы его рога не проткнули кровать."
 
 # game/scripts/events.rpy:18157
 translate russian mjolnik_generic_massage_44a5407a:
 
     # "His legs are just spread enough you can see his balls and you gulp at the size of them."
-    ""
+    "Его ноги раздвинуты настолько, что видны его яйца, и ты задыхаешься от их размера."
 
 # game/scripts/events.rpy:18159
 translate russian mjolnik_generic_massage_f7c623bc:
 
     # "Shaking your head to dispel any erotic thoughts, you get to work."
-    ""
+    "Встряхнув головой, чтобы отогнать эротические мысли, ты приступаешь к работе."
 
 # game/scripts/events.rpy:18161
 translate russian mjolnik_generic_massage_5034fc68:
 
     # "Opening up the jug, you cough as the smell hits your nose."
-    ""
+    "Открыв кувшин, ты кашляешь, когда в нос ударяет запах."
 
 # game/scripts/events.rpy:18163
 translate russian mjolnik_generic_massage_814b10a0:
 
     # "You have no idea what Eoghann puts in this stuff, but does it ever make your eyes water."
-    ""
+    "Ты даже не представляешь, что Эоганн добавляет в это средство, но от него просто слезятся глаза."
 
 # game/scripts/events.rpy:18166
 translate russian mjolnik_generic_massage_4a052d46:
 
     # "You also know first hand it works. Taking a decent handful, you begin to rub it into the bulls back."
-    ""
+    "Ты также знаешь на собственном опыте, что это работает. Взяв приличную горсть, ты начинаешь втирать ее в спину быка."
 
 # game/scripts/events.rpy:18168
 translate russian mjolnik_generic_massage_fa5aef22:
 
     # "At first you hear a few whimpers from him but soon, the whimpers turn to quiet sighs of contentment and even some gentle moo'ings of pleasure."
-    ""
+    "Сначала ты слышишь его хныканье, но вскоре оно переходит в тихие вздохи удовлетворения и даже нежное мычание от удовольствия."
 
 # game/scripts/events.rpy:18170
 translate russian mjolnik_generic_massage_44f36121:
 
     # "The fact Mjolnik actually moo'ed, made you chuckle a bit and you try to get him to do it again."
-    ""
+    "Тот факт, что Мельник действительно мычал, заставил тебя немного посмеяться, и ты попытался заставить его сделать это снова."
 
 # game/scripts/events.rpy:18172
 translate russian mjolnik_generic_massage_bc1c043d:
 
     # "Firmly running your hands along the muscles, you gently knead each in turn. Which does indeed cause Mjolnik to make some more moo'ing noises."
-    ""
+    "Проводя руками по мышцам, ты осторожно разминаешь каждую по очереди. Это действительно заставляет Мельника издавать звуки, похожие на мычание."
 
 # game/scripts/events.rpy:18174
 translate russian mjolnik_generic_massage_06a43230:
 
     # "You eventually get down to his lower back and can't help but stare at his rump."
-    ""
+    "В конце концов ты спускаешься к его пояснице и не можешь удержаться от того, чтобы не поглазеть на его задницу."
 
 # game/scripts/events.rpy:18176
 translate russian mjolnik_generic_massage_6926ad66:
 
     # "His three tails are swishing back and forth, which only highlights his firm but rather plump behind."
-    ""
+    "Три его хвоста развеваются взад-вперед, что только подчеркивает его упругую, но довольно пухлую спину."
 
 # game/scripts/events.rpy:18178
 translate russian mjolnik_generic_massage_46cd97c9:
 
     # "You really want to just grab his cheeks and squeeze, but know it's not the time or place."
-    ""
+    "Тебе очень хочется просто взять его за щеки и сжать, но ты понимаешь, что сейчас не время и не место."
 
 # game/scripts/events.rpy:18180
 translate russian mjolnik_generic_massage_f0313f3a:
 
     # "Going back up to his shoulders, you work some more salve into his shoulders and neck, finding it a bit difficult to get through the thick fur there, but eventually you do."
-    ""
+    "Вернувшись к его плечам, ты наносишь еще немного мази на плечи и шею, с трудом пробираясь сквозь густой мех, но в конце концов тебе это удается."
 
 # game/scripts/events.rpy:18182
 translate russian mjolnik_generic_massage_4ca58b08:
 
     # "You expect more noises from Mjolnik but there's nothing but silence."
-    ""
+    "Ты ждешь от Мельника новых звуков, но в ответ лишь тишина."
 
 # game/scripts/events.rpy:18189
 translate russian mjolnik_generic_massage_b6042a95:
 
     # "You kean over to look at his face and you see that his eyes are closed and he appears to have fallen asleep."
-    ""
+    "Ты наклоняешься, чтобы посмотреть на его лицо, и видишь, что его глаза закрыты и, кажется, он заснул."
 
 # game/scripts/events.rpy:18191
 translate russian mjolnik_generic_massage_a9284678:
 
     # "Shaking your head in amusement, you get up and return the jug to its original place."
-    ""
+    "Покачав головой от удовольствия, ты встаешь и возвращаешь баночку на прежнее место."
 
 # game/scripts/events.rpy:18193
 translate russian mjolnik_generic_massage_4f36972b:
 
     # "Looking around the room, you grab a blanket that was tossed over a chair and spread it over the slumbering bull."
-    ""
+    "Оглядев комнату, ты хватаешь одеяло, брошенное на стул, и расстилаешь его над дремлющим быком."
 
 # game/scripts/events.rpy:18195
 translate russian mjolnik_generic_massage_a10683b7:
 
     # "You quietly leave the room, giving the sleeping bull one last glance. He looks incredibly serene."
-    ""
+    "Ты тихо выходишь из комнаты, бросив последний взгляд на спящего быка. Он выглядит невероятно спокойным."
 
 # game/scripts/events.rpy:18200
 translate russian mjolnik_generic_massage_f0cee0fb:
 
     # "Going to the other room, you get ready for bed yourself."
-    ""
+    "Идя в другую комнату, ты сам готовишься ко сну."
 
 # game/scripts/events.rpy:18203
 translate russian mjolnik_generic_massage_7f466a16:
 
     # "You sleep soundly."
-    ""
+    "Ты крепко спишь."
 
 # game/scripts/events.rpy:18211
 translate russian mjolnik_generic_massage_0fc1bbda:
 
     # "Upon awakening, you hear Mjolnik is already up making some breakfast and you join him."
-    ""
+    "Проснувшись, ты слышишь, что Мельник уже встал и готовит завтрак, и присоединяешься к нему."
 
 # game/scripts/events.rpy:18213
 translate russian mjolnik_generic_massage_88dc5349:
 
     # "He does comment that his back feels amazing and he thanks you for helping him."
-    ""
+    "Он отметил, что его спина чувствует себя великолепно, и поблагодарил тебя за помощь."
 
 # game/scripts/events.rpy:18217
 translate russian mjolnik_generic_massage_487f41cc:
 
     # "Once done, you bid the bull farwell and begin your trip back to town, back to the Flaming Flagon."
-    ""
+    "После этого ты прощаешься с быком и начинаешь свой путь в город, к Пылающему Кувшину."
 
 # game/scripts/events.rpy:18222
 translate russian mjolnik_generic_massage_21d29cac:
 
     # "You return just in time to begin your workday."
-    ""
+    "Ты возвращаешься как раз вовремя, чтобы начать свой рабочий день."
 
 # game/scripts/events.rpy:18231
 translate russian mjolnik_haystack_2_c6c0a91a:
 
     # "Mjolnik beams at you and gestures around the farm."
-    ""
+    "Мельник приветствует тебя и жестом обводит ферму."
 
 # game/scripts/events.rpy:18233
 translate russian mjolnik_haystack_2_ba6b5df8:
 
     # Mjolnik "Well, I'm just about done here and I only have one last chore to do. I really need to finish moving that haypile into the barn. Wanna help?"
-    Mjolnik ""
+    Mjolnik "Ну, я уже почти закончил, осталось сделать последнее дело. Мне очень нужно закончить перенос стога сена в сарай. Хочешь помочь?"
 
 # game/scripts/events.rpy:18235
 translate russian mjolnik_haystack_2_5044dab8:
 
     # "You grimace at the thought of that miserable stack of grass but sigh and nod your head."
-    ""
+    "Ты морщишься при мысли об этом жалком стоге травы, но вздыхаешь и киваешь головой."
 
 # game/scripts/events.rpy:18237
 translate russian mjolnik_haystack_2_360f5f60:
 
     # "At least with Mjolnik helping, it should go a lot faster."
-    ""
+    "По крайней мере, с помощью Мельника дело пойдет гораздо быстрее."
 
 # game/scripts/events.rpy:18241
 translate russian mjolnik_haystack_2_c0c8877e:
 
     # "The pair of you go around the back of the farm to the barn and you stop in horror."
-    ""
+    "Вы идете по задней части фермы к сараю и в ужасе останавливаетесь."
 
 # game/scripts/events.rpy:18243
 translate russian mjolnik_haystack_2_5790bfd0:
@@ -39825,7 +39825,7 @@ translate russian mjolnik_haystack_2_395228b5:
 translate russian mjolnik_haystack_2_db573acf:
 
     # "And that's what you do. You offer to do some cooking and Mjolnik gratefully accepts."
-    ""
+    "И именно так ты и поступаешь. Ты предлагаешь приготовить что-нибудь, и Мельник с благодарностью соглашается."
 
 # game/scripts/events.rpy:18377
 translate russian mjolnik_haystack_2_9aa99ae2:
@@ -39861,13 +39861,13 @@ translate russian mjolnik_haystack_2_5f9a16db:
 translate russian mjolnik_haystack_2_7f466a16:
 
     # "You sleep soundly."
-    ""
+    "Ты крепко спишь."
 
 # game/scripts/events.rpy:18399
 translate russian mjolnik_haystack_2_0fc1bbda:
 
     # "Upon awakening, you hear Mjolnik is already up making some breakfast and you join him."
-    ""
+    "Проснувшись, ты слышишь, что Мельник уже встал и готовит завтрак, и присоединяешься к нему."
 
 # game/scripts/events.rpy:18401
 translate russian mjolnik_haystack_2_a2db35fd:
@@ -39903,7 +39903,7 @@ translate russian mjolnik_haystack_2_e7af0a2d:
 translate russian mjolnik_haystack_2_21d29cac:
 
     # "You return just in time to begin your workday."
-    ""
+    "Ты возвращаешься как раз вовремя, чтобы начать свой рабочий день."
 
 # game/scripts/events.rpy:18425
 translate russian mjolnik_cooking_fruit_e9e74026:
@@ -39939,19 +39939,19 @@ translate russian mjolnik_cooking_fruit_90b4c62a:
 translate russian mjolnik_cooking_fruit_b8e77737:
 
     # "Mjolnik blinks at you as your stomach growls."
-    ""
+    "Мельник смотрит на тебя, пока твой желудок урчит."
 
 # game/scripts/events.rpy:18449
 translate russian mjolnik_cooking_fruit_d0c83134:
 
     # "Giving you a slight grin he ushers you into his house."
-    ""
+    "Слегка улыбнувшись, он приглашает тебя в свой дом."
 
 # game/scripts/events.rpy:18454
 translate russian mjolnik_cooking_fruit_597d1609:
 
     # Mjolnik "I mean I have some chores to do, but that stomach is making more racket than a bag of hammers being tossed down the stairs."
-    Mjolnik ""
+    Mjolnik "Мне, конечно, нужно сделать кое-какие дела, но этот живот шумит сильнее, чем мешок с молотками, который сбрасывают с лестницы."
 
 # game/scripts/events.rpy:18456
 translate russian mjolnik_cooking_fruit_c703c68c:
@@ -39969,7 +39969,7 @@ translate russian mjolnik_cooking_fruit_30ce064f:
 translate russian mjolnik_cooking_fruit_a0c2d392:
 
     # Fen "Sure, love to."
-    Fen ""
+    Fen "Конечно, с удовольствием."
 
 # game/scripts/events.rpy:18466
 translate russian mjolnik_cooking_fruit_333f842b:
@@ -40209,19 +40209,19 @@ translate russian mjolnik_cooking_fruit_e5113ece:
 translate russian mjolnik_cooking_fruit_0fc1bbda:
 
     # "Upon awakening, you hear Mjolnik is already up making some breakfast and you join him."
-    ""
+    "Проснувшись, ты слышишь, что Мельник уже встал и готовит завтрак, и присоединяешься к нему."
 
 # game/scripts/events.rpy:18617
 translate russian mjolnik_cooking_fruit_487f41cc:
 
     # "Once done, you bid the bull farwell and begin your trip back to town, back to the Flaming Flagon."
-    ""
+    "После этого ты прощаешься с быком и начинаешь свой путь в город, к Пылающему Кувшину."
 
 # game/scripts/events.rpy:18624
 translate russian mjolnik_cooking_fruit_21d29cac:
 
     # "You return just in time to begin your workday."
-    ""
+    "Ты возвращаешься как раз вовремя, чтобы начать свой рабочий день."
 
 # game/scripts/events.rpy:18634
 translate russian mjolnik_massage_front_1ede3996:
@@ -40467,7 +40467,7 @@ translate russian mjolnik_massage_front_166404e9:
 translate russian mjolnik_massage_front_db573acf:
 
     # "And that's what you do. You offer to do some cooking and Mjolnik gratefully accepts."
-    ""
+    "И именно так ты и поступаешь. Ты предлагаешь приготовить что-нибудь, и Мельник с благодарностью соглашается."
 
 # game/scripts/events.rpy:18767
 translate russian mjolnik_massage_front_9aa99ae2:
@@ -40509,25 +40509,25 @@ translate russian mjolnik_massage_front_5f9a16db:
 translate russian mjolnik_massage_front_7f466a16:
 
     # "You sleep soundly."
-    ""
+    "Ты крепко спишь."
 
 # game/scripts/events.rpy:18791
 translate russian mjolnik_massage_front_0fc1bbda:
 
     # "Upon awakening, you hear Mjolnik is already up making some breakfast and you join him."
-    ""
+    "Проснувшись, ты слышишь, что Мельник уже встал и готовит завтрак, и присоединяешься к нему."
 
 # game/scripts/events.rpy:18795
 translate russian mjolnik_massage_front_487f41cc:
 
     # "Once done, you bid the bull farwell and begin your trip back to town, back to the Flaming Flagon."
-    ""
+    "После этого ты прощаешься с быком и начинаешь свой путь в город, к Пылающему Кувшину."
 
 # game/scripts/events.rpy:18802
 translate russian mjolnik_massage_front_21d29cac:
 
     # "You return just in time to begin your workday."
-    ""
+    "Ты возвращаешься как раз вовремя, чтобы начать свой рабочий день."
 
 # game/scripts/events.rpy:18817
 translate russian mjolnik_gold_in_field_fc83314c:
@@ -40953,7 +40953,7 @@ translate russian mjolnik_gold_in_field_38e60d06:
 translate russian mjolnik_gold_in_field_0fc1bbda:
 
     # "Upon awakening, you hear Mjolnik is already up making some breakfast and you join him."
-    ""
+    "Проснувшись, ты слышишь, что Мельник уже встал и готовит завтрак, и присоединяешься к нему."
 
 # game/scripts/events.rpy:19125
 translate russian mjolnik_gold_in_field_340d88dd:
@@ -40965,7 +40965,7 @@ translate russian mjolnik_gold_in_field_340d88dd:
 translate russian mjolnik_gold_in_field_21d29cac:
 
     # "You return just in time to begin your workday."
-    ""
+    "Ты возвращаешься как раз вовремя, чтобы начать свой рабочий день."
 
 # game/scripts/events.rpy:20033
 translate russian about_trei_wrestle_2_5244bdc0:

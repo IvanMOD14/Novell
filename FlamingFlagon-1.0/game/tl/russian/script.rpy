@@ -3514,5 +3514,5 @@ translate russian strings:
 
     # game/script.rpy:57
     old "Oran"
-    new "Ораньжевый"
+    new "Оран"
 
