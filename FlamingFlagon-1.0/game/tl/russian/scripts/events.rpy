@@ -36225,7 +36225,7 @@ translate russian mjolnik_visit_01_c5f80631:
 translate russian mjolnik_visit_01_14fec18d:
 
     # Mjolnik "Plant yer arse down [name]! I'll grab us some drinks n' food and we can chat for a while. Sure do appreciate y'all visiting!"
-    Mjolnik "Сажай свою задницу сюда [имя]! Я принесу нам немного выпивки и еды, и мы сможем немного поболтать. Я очень ценю твой визит!"
+    Mjolnik "Сажай свою задницу сюда [name]! Я принесу нам немного выпивки и еды, и мы сможем немного поболтать. Я очень ценю твой визит!"
 
 # game/scripts/events.rpy:16189
 translate russian mjolnik_visit_01_de76e9c6:
