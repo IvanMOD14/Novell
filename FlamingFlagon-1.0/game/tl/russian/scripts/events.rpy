@@ -39609,217 +39609,217 @@ translate russian mjolnik_haystack_2_c0c8877e:
 translate russian mjolnik_haystack_2_5790bfd0:
 
     # "The pile has definitely been added too. It looks about the same size as the first time you tried to fill the barn."
-    ""
+    "Куча определенно тоже прибавилась. Она выглядит примерно такого же размера, как и в первый раз, когда ты пытался заполнить амбар."
 
 # game/scripts/events.rpy:18247
 translate russian mjolnik_haystack_2_f5b01d8b:
 
     # "You peer into the barn and are surprised to see it's mostly empty... you look around in confusion."
-    ""
+    "Ты заглядываешь в сарай и с удивлением видишь, что он почти пуст... Ты оглядываешься вокруг в замешательстве."
 
 # game/scripts/events.rpy:18249
 translate russian mjolnik_haystack_2_854ef11b:
 
     # "You know you filled this whole barn. Then you see a single piece of hay float down in front of you."
-    ""
+    "Ты знаешь, что заполнил весь амбар. И тут ты видишь, как перед тобой проплывает один клочок сена."
 
 # game/scripts/events.rpy:18251
 translate russian mjolnik_haystack_2_cd02a69d:
 
     # "You watch it land at your feet and then you look up."
-    ""
+    "Ты смотришь, как он приземляется у твоих ног, а потом поднимаешь глаза."
 
 # game/scripts/events.rpy:18253
 translate russian mjolnik_haystack_2_2c1416d9:
 
     # "There's an entire second floor you didn't even know existed that is full of straw."
-    ""
+    "Весь второй этаж, о существовании которого ты даже не подозревал, завален соломой."
 
 # game/scripts/events.rpy:18255
 translate russian mjolnik_haystack_2_03702aa4:
 
     # "You assume Mjolnik must have transferred everything up over."
-    ""
+    "Ты полагаешь, что Мельник должен был перевести все на другой уровень."
 
 # game/scripts/events.rpy:18257
 translate russian mjolnik_haystack_2_cd685444:
 
     # "Sighing you pick up the single piece of straw and look at it forlornly."
-    ""
+    "Вздохнув, ты подбираешь единственный кусочек соломы и тоскливо смотришь на него."
 
 # game/scripts/events.rpy:18259
 translate russian mjolnik_haystack_2_6d7fcc84:
 
     # "Returning to Mjolnik, you offer him the straw and smiling, he takes it and sticks it in his mouth and begins to chew on it."
-    ""
+    "Вернувшись к Мельнику, ты предлагаешь ему соломинку, и он, улыбаясь, берет ее, засовывает в рот и начинает жевать."
 
 # game/scripts/events.rpy:18264
 translate russian mjolnik_haystack_2_0a97a4a8:
 
     # "He offers you a pitchfork and the two of you get to work."
-    ""
+    "Он предлагает тебе вилы, и вы вдвоем приступаете к работе."
 
 # game/scripts/events.rpy:18266
 translate russian mjolnik_haystack_2_4d228e4c:
 
     # Fen "Sigh..."
-    Fen ""
+    Fen "Вздох..."
 
 # game/scripts/events.rpy:18268
 translate russian mjolnik_haystack_2_557ff8e6:
 
     # Mjolnik smile "Aw buck up [name]. We'll have this done faster than most people eating a fresh apple."
-    Mjolnik smile ""
+    Mjolnik smile "Наберись смелости [name]. Мы сделаем это быстрее, чем большинство людей съедят свежее яблоко."
 
 # game/scripts/events.rpy:18275
 translate russian mjolnik_haystack_2_32d532fb:
 
     # "You snort and get to work. Soon you get into a rhythm and the pile starts to shrink."
-    ""
+    "Ты фыркаешь и принимаешься за работу. Вскоре ты входишь в ритм, и куча начинает уменьшаться."
 
 # game/scripts/events.rpy:18277
 translate russian mjolnik_haystack_2_08c797ee:
 
     # "The fact Mjolnik is shovelling massive loads with each toss, is helping as well."
-    ""
+    "Помогает и тот факт, что Мельник с каждым броском выгребает огромные грузы."
 
 # game/scripts/events.rpy:18279
 translate russian mjolnik_haystack_2_20206473:
 
     # "You begin to zone out as the time passes. Eventually you put the pitchfork in the ground by the barn to catch your breath."
-    ""
+    "С течением времени ты начинаешь отключаться. В конце концов ты втыкаешь вилы в землю у сарая, чтобы перевести дух."
 
 # game/scripts/events.rpy:18288
 translate russian mjolnik_haystack_2_40348846:
 
     # "You peel off your shirt and toss it aside, picking bits of hay out of your fur."
-    ""
+    "Ты сдираешь с себя рубашку и отбрасываешь ее в сторону, собирая клочья сена со своей шерсти."
 
 # game/scripts/events.rpy:18290
 translate russian mjolnik_haystack_2_e35a7e07:
 
     # "As you do so you hear Mjolnik call out."
-    ""
+    "В этот момент ты слышишь, как Мельник окликает тебя."
 
 # game/scripts/events.rpy:18292
 translate russian mjolnik_haystack_2_4bf2afa4:
 
     # Mjolnik "Hey [name]! Think fast!"
-    Mjolnik ""
+    Mjolnik "Эй, [name]! Быстрее думай!"
 
 # game/scripts/events.rpy:18299
 translate russian mjolnik_haystack_2_6d1a9934:
 
     # "You most certainly do not think fast as Mjolnik barrels you over right into the pile, driving both of you deep inside it." with vpunch
-    "" with vpunch
+    "Ты, конечно же, не думаешь о быстроте, так как Мельник опрокидывает тебя прямо в кучу, вбивая тебя в нее." with vpunch
 
 # game/scripts/events.rpy:18301
 translate russian mjolnik_haystack_2_41918175:
 
     # "You yelp in surprise and try to scramble loose, but the bull hauls you back into the pile each time."
-    ""
+    "Ты удивленно вскрикиваешь и пытаешься вырваться, но бык каждый раз втаскивает тебя обратно в кучу."
 
 # game/scripts/events.rpy:18303
 translate russian mjolnik_haystack_2_3e661910:
 
     # "So, Mjolnik wants a war? Well, he's getting one!"
-    ""
+    "Итак, Мельник хочет войны? Что ж, он ее получит!"
 
 # game/scripts/events.rpy:18308
 translate russian mjolnik_haystack_2_d1b4fab8:
 
     # "You pounce on the bull and soon the two of you are rolling around in the pile, tossing hay at each other and laughing." with vpunch
-    "" with vpunch
+    "Ты набрасываешься на быка, и вскоре вы уже вдвоем катаетесь по куче, кидаетесь друг в друга сеном и смеетесь." with vpunch
 
 # game/scripts/events.rpy:18316
 translate russian mjolnik_haystack_2_bba91571:
 
     # "After a while, Mjolnik pins you to the ground, with your hands over your head and he straddles you."
-    ""
+    "Через некоторое время Мельник прижимает тебя к земле, закинув руки за голову, и садится на тебя верхом."
 
 # game/scripts/events.rpy:18318
 translate russian mjolnik_haystack_2_fe275d63:
 
     # Mjolnik "Y'all sure are a slippery little cuss, but give it up [name], I got y'all beat!"
-    Mjolnik ""
+    Mjolnik "Ты, конечно, скользкая маленькая дрянь, но сдавайся, [name], я тебя одолел!"
 
 # game/scripts/events.rpy:18320
 translate russian mjolnik_haystack_2_a4ccbd4b:
 
     # "You try to struggle free, but have to admit the bull is far too strong and you simply nod."
-    ""
+    "Ты пытаешься освободиться, но вынужден признать, что бык слишком силен, и просто киваешь."
 
 # game/scripts/events.rpy:18323
 translate russian mjolnik_haystack_2_5ae82103:
 
     # "Mjolnik grins at you."
-    ""
+    "Мельник ухмыляется."
 
 # game/scripts/events.rpy:18333
 translate russian mjolnik_haystack_2_aa91beff:
 
     # "As he does, you become very aware that his cock is laying directly on your stomach."
-    ""
+    "По мере того как он это делает, ты начинаешь понимать, что его член лежит прямо на твоем животе."
 
 # game/scripts/events.rpy:18335
 translate russian mjolnik_haystack_2_82d5b9ca:
 
     # "It's weighty enough you can feel it as you breathe."
-    ""
+    "Он настолько плотный, что ты чувствуешь его при дыхании."
 
 # game/scripts/events.rpy:18344
 translate russian mjolnik_haystack_2_240ba189:
 
     # "You try to avoid thinking about it and look back up to Mjolnik who has leaned in extra close and has a conflicted expression."
-    ""
+    "Ты стараешься не думать об этом и оглядываешься на Мельника, который наклонился к тебе еще ближе, и у него противоречивое выражение лица."
 
 # game/scripts/events.rpy:18348
 translate russian mjolnik_haystack_2_d6c8f61b:
 
     # "You're sure he's going to kiss you but instead he leans further down and sniffs around your chest and underarms for a moment before quickly rolling off you."
-    ""
+    "Ты уверен, что он собирается поцеловать тебя, но вместо этого он наклоняется еще ниже и обнюхивает твою грудь и подмышки, а затем быстро скатывается с тебя."
 
 # game/scripts/events.rpy:18353
 translate russian mjolnik_haystack_2_bde5f237:
 
     # "He blushes and stands up, hay cascading off of him and covering you."
-    ""
+    "Он краснеет и встает, сено каскадом падает с него и накрывает тебя."
 
 # game/scripts/events.rpy:18355
 translate russian mjolnik_haystack_2_44e09381:
 
     # Mjolnik blush2 "Sorry [name], just y'all smell so nice. Kinda like a fire y'all threw spices on."
-    Mjolnik blush2 ""
+    Mjolnik blush2 "Прости, [name], просто от тебя так приятно пахнет. Как от костра, в который ты бросил специи."
 
 # game/scripts/events.rpy:18357
 translate russian mjolnik_haystack_2_9528c96c:
 
     # Mjolnik "Maybe we should get back to work."
-    Mjolnik ""
+    Mjolnik "Может, нам стоит вернуться к работе?"
 
 # game/scripts/events.rpy:18362
 translate russian mjolnik_haystack_2_7e6f88ff:
 
     # "He turns and does so."
-    ""
+    "Он поворачивается и делает это."
 
 # game/scripts/events.rpy:18364
 translate russian mjolnik_haystack_2_2e1e605e:
 
     # "The two of you shovel about half of what's left into the barn before Mjoolnik calls it a day."
-    ""
+    "Вы вдвоем выгребаете примерно половину того, что осталось, в сарай, прежде чем Мельник объявляет об окончании рабочего дня."
 
 # game/scripts/events.rpy:18369
 translate russian mjolnik_haystack_2_36034f46:
 
     # Mjolnik "Thanks so much! Y'all saved me so much time."
-    Mjolnik ""
+    Mjolnik "Огромное спасибо! Ты сэкономил мне столько времени."
 
 # game/scripts/events.rpy:18371
 translate russian mjolnik_haystack_2_395228b5:
 
     # Mjolnik normal "Let's go eat and chat and just have a nice ol' night."
-    Mjolnik normal ""
+    Mjolnik normal "Пошли поедим, поболтаем и просто хорошо проведем вечер."
 
 # game/scripts/events.rpy:18375
 translate russian mjolnik_haystack_2_db573acf:
@@ -39831,31 +39831,31 @@ translate russian mjolnik_haystack_2_db573acf:
 translate russian mjolnik_haystack_2_9aa99ae2:
 
     # "The meal is simple but a success, with Mjolnik praising your cooking profusely."
-    ""
+    "Еда получилась простой, но удачной, и Мельник очень хвалит твою стряпню."
 
 # game/scripts/events.rpy:18379
 translate russian mjolnik_haystack_2_300de6eb:
 
     # "After cleaning up, you spend some time talking about nothing."
-    ""
+    "Приведя себя в порядок, ты еще некоторое время болтаешь ни о чем."
 
 # game/scripts/events.rpy:18381
 translate russian mjolnik_haystack_2_47b3c97e:
 
     # "It's mostly just you listening to Mjolnik tell stories about whatever he thinks about or remembers."
-    ""
+    "В основном ты просто слушаешь, как Мельник рассказывает истории о том, о чем он думает или вспоминает."
 
 # game/scripts/events.rpy:18383
 translate russian mjolnik_haystack_2_01b2bc44:
 
     # "He is a good storyteller, so you don't mind, even when it's a mundane topic."
-    ""
+    "Он хороший рассказчик, поэтому ты не возражаешь, даже если речь идет об обыденной теме."
 
 # game/scripts/events.rpy:18386
 translate russian mjolnik_haystack_2_5f9a16db:
 
     # "After a few hours, the pair of you turn in for the night."
-    ""
+    "Через несколько часов вы укладываетесь спать."
 
 # game/scripts/events.rpy:18391
 translate russian mjolnik_haystack_2_7f466a16:
@@ -39873,31 +39873,31 @@ translate russian mjolnik_haystack_2_0fc1bbda:
 translate russian mjolnik_haystack_2_a2db35fd:
 
     # "You haven't even bothered to get dressed, coming out in just your underwear."
-    ""
+    "Ты даже не удосужился одеться, выйдя на улицу в одних трусах."
 
 # game/scripts/events.rpy:18403
 translate russian mjolnik_haystack_2_2c8f49bf:
 
     # "You note during breakfast he is trying to sneak some peeks at you, especially if you stretch or lift your arms."
-    ""
+    "Во время завтрака ты замечаешь, что он пытается украдкой подглядывать за тобой, особенно если ты потягиваешься или поднимаешь руки."
 
 # game/scripts/events.rpy:18405
 translate russian mjolnik_haystack_2_97be826d:
 
     # "He's not good at hiding it though."
-    ""
+    "Но он не умеет это скрывать."
 
 # game/scripts/events.rpy:18407
 translate russian mjolnik_haystack_2_045d9e46:
 
     # "Once done, you quickly get dressed and get ready to head out."
-    ""
+    "После этого ты быстро одеваешься и готовишься к выходу."
 
 # game/scripts/events.rpy:18411
 translate russian mjolnik_haystack_2_e7af0a2d:
 
     # "You bid the bull farwell and begin your trip back to town, back to the Flaming Flagon."
-    ""
+    "После этого ты прощаешься с быком и начинаешь свой путь в город, к Пылающему Кувшину."
 
 # game/scripts/events.rpy:18418
 translate russian mjolnik_haystack_2_21d29cac:
@@ -39909,31 +39909,31 @@ translate russian mjolnik_haystack_2_21d29cac:
 translate russian mjolnik_cooking_fruit_e9e74026:
 
     # Fen "Say, can we go get something to eat?"
-    Fen ""
+    Fen "Скажи, мы можем пойти перекусить?"
 
 # game/scripts/events.rpy:18427
 translate russian mjolnik_cooking_fruit_3d9884e5:
 
     # Fen "I didn't have much to eat before I came down. Plus I wanna try something."
-    Fen ""
+    Fen "Я не успел ничего съесть до того, как спустился. К тому же я хочу попробовать кое-что."
 
 # game/scripts/events.rpy:18434
 translate russian mjolnik_cooking_fruit_c1fae0b6:
 
     # "You reach into your rucksack and pull out that new fruit you bought from Murry."
-    ""
+    "Ты лезешь в рюкзак и достаешь новый фрукт, который купил у Мурри."
 
 # game/scripts/events.rpy:18436
 translate russian mjolnik_cooking_fruit_dd9060fa:
 
     # "You show it to the bull and he cocks his head as he looks at it."
-    ""
+    "Ты показываешь его быку, и он, глядя на него, качает головой."
 
 # game/scripts/events.rpy:18443
 translate russian mjolnik_cooking_fruit_90b4c62a:
 
     # Mjolnik "Ain't never seen no fruit that looks like that before."
-    Mjolnik ""
+    Mjolnik "Никогда раньше не видел ни одного фрукта, который бы так выглядел."
 
 # game/scripts/events.rpy:18445
 translate russian mjolnik_cooking_fruit_b8e77737:
@@ -39957,13 +39957,13 @@ translate russian mjolnik_cooking_fruit_597d1609:
 translate russian mjolnik_cooking_fruit_c703c68c:
 
     # Mjolnik "Well, y'all a much better cook than I am. And something new? Reckon with that newfangled fruit you brought?"
-    Mjolnik ""
+    Mjolnik "Ну, вы все готовите гораздо лучше меня. А что-нибудь новенькое? Как насчет тех новомодных фруктов, которые ты принес?"
 
 # game/scripts/events.rpy:18458
 translate russian mjolnik_cooking_fruit_30ce064f:
 
     # Mjolnik smile "Sure thing [name]. Maybe show me some tips and tricks?"
-    Mjolnik smile ""
+    Mjolnik smile "Конечно, [name]. Может быть, расскажешь мне несколько советов и трюков?"
 
 # game/scripts/events.rpy:18462
 translate russian mjolnik_cooking_fruit_a0c2d392:
@@ -39975,235 +39975,235 @@ translate russian mjolnik_cooking_fruit_a0c2d392:
 translate russian mjolnik_cooking_fruit_333f842b:
 
     # Mjolnik "That sure sounds exciting! What y'all planning"
-    Mjolnik ""
+    Mjolnik "Звучит заманчиво! Что ты задумал?"
 
 # game/scripts/events.rpy:18471
 translate russian mjolnik_cooking_fruit_4e3ba8ee:
 
     # "You have to admit that you have no idea. But the first step is cutting them up."
-    ""
+    "Ты должен признать, что понятия не имеешь. Но первый шаг - это разрезать их."
 
 # game/scripts/events.rpy:18473
 translate russian mjolnik_cooking_fruit_a966f535:
 
     # "You know Murry said they needed to be cut up and the seeds removed. The flesh could be eaten raw or cooked."
-    ""
+    "Ты знаешь, Мурри говорил, что их нужно разрезать и удалить семена. Мякоть можно есть сырой или вареной."
 
 # game/scripts/events.rpy:18475
 translate russian mjolnik_cooking_fruit_556d586f:
 
     # "So that's where you start."
-    ""
+    "С этого и надо начинать."
 
 # game/scripts/events.rpy:18486
 translate russian mjolnik_cooking_fruit_c4c673a6:
 
     # "As you're cutting away, you feel Mjolnik behind you and soon enough, his arms wrap around your waist and he rests his head on your shoulder and he watches you intently."
-    ""
+    "Когда ты уходишь, ты чувствуешь, что Мельник стоит у тебя за спиной, и вскоре его руки обхватывают тебя за талию, он кладет голову тебе на плечо и пристально смотрит на тебя."
 
 # game/scripts/events.rpy:18488
 translate russian mjolnik_cooking_fruit_b9ca9440:
 
     # "You try to ignore him but he is holding you close and as usual, he is naked and his dick is big."
-    ""
+    "Ты пытаешься не обращать на него внимания, но он прижимает тебя к себе, и, как обычно, он голый, а его член большой."
 
 # game/scripts/events.rpy:18490
 translate russian mjolnik_cooking_fruit_7096bde9:
 
     # "You feel it pressed up against your rump and you can't help but feel your own cock getting harder."
-    ""
+    "Ты чувствуешь, как он прижимается к твоему животу, и не можешь не ощущать, как твердеет твой собственный член."
 
 # game/scripts/events.rpy:18492
 translate russian mjolnik_cooking_fruit_9b105f4a:
 
     # "Shaking your head to dispel the thought you prepare the fruit."
-    ""
+    "Тряхнув головой, чтобы прогнать эту мысль, ты готовишь фрукты."
 
 # game/scripts/events.rpy:18496
 translate russian mjolnik_cooking_fruit_9c1e8a57:
 
     # "After only a few minutes you have a pile of the fruit ready to go and you pick up a piece and offer it to the bull who accepts eagerly."
-    ""
+    "Через несколько минут у тебя уже готова куча фруктов, ты берешь кусочек и предлагаешь его быку, который охотно принимает."
 
 # game/scripts/events.rpy:18498
 translate russian mjolnik_cooking_fruit_c7c89a92:
 
     # "As he's eating it, you try a piece yourself."
-    ""
+    "Пока он ест, ты пробуешь кусочек сам."
 
 # game/scripts/events.rpy:18500
 translate russian mjolnik_cooking_fruit_bf7a2516:
 
     # "The fruit is quite sweet and has a bit of a spicy aftertaste you find enjoyable."
-    ""
+    "Фрукты довольно сладкие и имеют немного пряное послевкусие, которое кажется тебе приятным."
 
 # game/scripts/events.rpy:18502
 translate russian mjolnik_cooking_fruit_554c880c:
 
     # "If the noises in your ear are correct, so does Mjolnik."
-    ""
+    "Если звуки в ухе правильные, то и Мельник тоже."
 
 # game/scripts/events.rpy:18512
 translate russian mjolnik_cooking_fruit_9cbb16a0:
 
     # "He shifts behind you and as he repositions himself, his cock ends up firmly resting between your cheeks."
-    ""
+    "Он переместился к тебе за спину, и, когда он переместился, его член оказался между твоих щек."
 
 # game/scripts/events.rpy:18514
 translate russian mjolnik_cooking_fruit_a92ca065:
 
     # Mjolnik "Gosh darn, that's a sweet treat. Bit of a kick to it too. Can y'all feel the heat [name]?"
-    Mjolnik ""
+    Mjolnik "Черт возьми, какое сладкое угощение. И с легким привкусом. Ты чувствуешь жару, [name]?"
 
 # game/scripts/events.rpy:18516
 translate russian mjolnik_cooking_fruit_b4d676a9:
 
     # "You indeed can. If you even had a tiny indication the bull wanted something, you'd be begging for him to take you right here and now."
-    ""
+    "Действительно, можешь. Если бы у тебя был хоть малейший признак того, что бык чего-то хочет, ты бы умолял его взять тебя прямо здесь и сейчас."
 
 # game/scripts/events.rpy:18518
 translate russian mjolnik_cooking_fruit_dfe31222:
 
     # "But you can tell that Mjolnik is still flaccid and completely oblivious to the reactions he's eliciting."
-    ""
+    "Но видно, что Мельник все еще вял и совершенно не замечает реакции, которую он вызывает."
 
 # game/scripts/events.rpy:18522
 translate russian mjolnik_cooking_fruit_2fcfc898:
 
     # "You're both relieved and dismayed when he steps away to take a seat at the table."
-    ""
+    "Ты испытываешь одновременно и облегчение, и тревогу, когда он отходит, чтобы занять место за столом."
 
 # game/scripts/events.rpy:18524
 translate russian mjolnik_cooking_fruit_d79dc148:
 
     # "Discreetly adjusting yourself, you grab some other fresh fruits Mjolnik has and make a fruit salad for the pair of you to eat."
-    ""
+    "Незаметно приспособившись, ты берешь другие свежие фрукты, которые есть у Мельника, и готовишь фруктовый салат для вас двоих."
 
 # game/scripts/events.rpy:18526
 translate russian mjolnik_cooking_fruit_93534163:
 
     # "By the time you're done, your erection has at least gone down and you bring the salad over to the table."
-    ""
+    "К тому времени, как ты закончил, твоя эрекция, по крайней мере, ослабла, и ты переносишь салат на стол."
 
 # game/scripts/events.rpy:18528
 translate russian mjolnik_cooking_fruit_25350350:
 
     # "And it's a success! Both you and Mjolnik agree that the new fruit really adds to it and soon the whole bowl is gone."
-    ""
+    "И это успех! И ты, и Мельник согласны с тем, что новые фрукты действительно добавляют ему вкуса, и вскоре вся миска заканчивается."
 
 # game/scripts/events.rpy:18535
 translate russian mjolnik_cooking_fruit_0be2f003:
 
     # Mjolnik "Well after that delicious snack, I reckon I'm not gonna do any more work."
-    Mjolnik ""
+    Mjolnik "После такого вкусного перекуса я, пожалуй, больше не буду работать."
 
 # game/scripts/events.rpy:18537
 translate russian mjolnik_cooking_fruit_abd367c4:
 
     # Mjolnik normal "Let's just sit by the fire again [name]. That was right relaxing."
-    Mjolnik normal ""
+    Mjolnik normal "Давай снова посидим у костра [name]. Это было так расслабляюще."
 
 # game/scripts/events.rpy:18544
 translate russian mjolnik_cooking_fruit_23071923:
 
     # "Mjolnik insists on cleaning up and while he does, you start up a large fire."
-    ""
+    "Мельник настаивает на уборке, а пока он это делает, ты разводишь большой костер."
 
 # game/scripts/events.rpy:18547
 translate russian mjolnik_cooking_fruit_644db3fe:
 
     # "You then sit by the fire and stare into the flames."
-    ""
+    "Затем вы садитесь у костра и смотрите на пламя."
 
 # game/scripts/events.rpy:18549
 translate russian mjolnik_cooking_fruit_ff7ebabf:
 
     # "There's always something entracing about them to you and you barely notice when Mjolnik joins you."
-    ""
+    "В них всегда есть что-то притягательное для тебя, и ты едва замечаешь, когда к тебе присоединяется Мельник."
 
 # game/scripts/events.rpy:18555
 translate russian mjolnik_cooking_fruit_3d6121ae:
 
     # "This time he sits behind you and pulls you into him."
-    ""
+    "На этот раз он садится сзади и притягивает тебя к себе."
 
 # game/scripts/events.rpy:18557
 translate russian mjolnik_cooking_fruit_f37169ca:
 
     # "Without saying anything, he tugs at your shirt and you raise your arms and let him remove it."
-    ""
+    "Ничего не говоря, он задирает твою рубашку, и ты поднимаешь руки, позволяя ему снять ее."
 
 # game/scripts/events.rpy:18570
 translate russian mjolnik_cooking_fruit_fa4212e0:
 
     # "Once bare chested, he pulls you flush against him and begins to just idly rub your chest."
-    ""
+    "Обнажив грудь, он притягивает тебя к себе и начинает лениво теребить твою грудь."
 
 # game/scripts/events.rpy:18572
 translate russian mjolnik_cooking_fruit_0bf3de83:
 
     # "Again, if you thought he wanted something sexual, you'd agree in a heartbeat, but Mjolnik seems more interested in just gently playing with the fur on your chest and stomach."
-    ""
+    "Опять же, если бы ты подумал, что он хочет чего-то сексуального, ты бы сразу согласился, но Мельник, похоже, больше заинтересован в том, чтобы просто нежно поиграть с шерстью на твоей груди и животе."
 
 # game/scripts/events.rpy:18574
 translate russian mjolnik_cooking_fruit_fb2cc699:
 
     # "The heat from both the fire and the bull is relaxing and you enter an almost trance like state."
-    ""
+    "Тепло от огня и быка расслабляет, и ты входишь в состояние, похожее на транс."
 
 # game/scripts/events.rpy:18582
 translate russian mjolnik_cooking_fruit_27371aed:
 
     # "As time passes, Mjolnik hands explore more of your torso, eventually ending up lightly scratching the thick hair above your waistband."
-    ""
+    "Со временем руки Мельника исследуют все больше твоего торса, в итоге слегка почесывая густые волосы над твоим поясом."
 
 # game/scripts/events.rpy:18584
 translate russian mjolnik_cooking_fruit_27933456:
 
     # "Without even thinking, you undo your pants and pull them down slightly."
-    ""
+    "Не задумываясь, ты расстегиваешь брюки и слегка стягиваешь их."
 
 # game/scripts/events.rpy:18586
 translate russian mjolnik_cooking_fruit_f0b87090:
 
     # "With your pubes exposed, Mjolnik's finger entwines into them and gently caresses and tugs at the thick fur."
-    ""
+    "Когда твои лобки обнажены, палец Мельника вплетается в них и нежно ласкает и перебирает густой мех."
 
 # game/scripts/events.rpy:18588
 translate russian mjolnik_cooking_fruit_069b4d7a:
 
     # "It's incredibly erotic but innocent at the same time and this time you don't even get aroused."
-    ""
+    "Это невероятно эротично, но в то же время невинно, и на этот раз ты даже не возбуждаешься."
 
 # game/scripts/events.rpy:18590
 translate russian mjolnik_cooking_fruit_99c49cf0:
 
     # "You just let him proceed and enjoy the sensations."
-    ""
+    "Ты просто позволяешь ему продолжать и наслаждаешься ощущениями."
 
 # game/scripts/events.rpy:18595
 translate russian mjolnik_cooking_fruit_1829b4ba:
 
     # "More time passes and the fire dies down to embers. As the flames flicker out, Mjolniks hand goes back up to your chest and he hugs you for a few minutes."
-    ""
+    "Проходит еще немного времени, и огонь угасает до угольков. Когда пламя угасает, рука Мелникса возвращается к твоей груди, и он обнимает тебя в течение нескольких минут."
 
 # game/scripts/events.rpy:18598
 translate russian mjolnik_cooking_fruit_7ebe609b:
 
     # "When he breaks the embrace and gets up, he offers you a hand and helps you to your feet."
-    ""
+    "Когда он разрывает объятия и встает, он протягивает тебе руку и помогает подняться на ноги."
 
 # game/scripts/events.rpy:18603
 translate russian mjolnik_cooking_fruit_ef045341:
 
     # "You feel completely relaxed and ready for bed."
-    ""
+    "Ты чувствуешь себя полностью расслабленным и готовым ко сну."
 
 # game/scripts/events.rpy:18611
 translate russian mjolnik_cooking_fruit_e5113ece:
 
     # "You sleep extremely soundly and wake up refreshed."
-    ""
+    "Ты спишь очень крепко и просыпаешься свежим."
 
 # game/scripts/events.rpy:18613
 translate russian mjolnik_cooking_fruit_0fc1bbda:
@@ -40227,241 +40227,241 @@ translate russian mjolnik_cooking_fruit_21d29cac:
 translate russian mjolnik_massage_front_1ede3996:
 
     # "You notice that Mjolnik seems to be in a bit of pain."
-    ""
+    "Ты замечаешь, что Мельнику, похоже, немного больно."
 
 # game/scripts/events.rpy:18636
 translate russian mjolnik_massage_front_9b754236:
 
     # "While he's trying to smile, he keeps rubbing his chest and every time he does so, a quick expression of pain flashes across his face."
-    ""
+    "Пытаясь улыбнуться, он продолжает потирать грудь, и каждый раз на его лице мелькает выражение боли."
 
 # game/scripts/events.rpy:18641
 translate russian mjolnik_massage_front_7d8c904a:
 
     # Fen "Are you okay? Did you hurt your chest?"
-    Fen ""
+    Fen "Ты в порядке? Ты не ушиб грудь?"
 
 # game/scripts/events.rpy:18645
 translate russian mjolnik_massage_front_d10c8641:
 
     # Mjolnik "That obvious? Yeah, I was doing some chores and I guess I just twisted the wrong way."
-    Mjolnik ""
+    Mjolnik "Так очевидно? Да, я делал кое-какую работу по дому и, наверное, не туда повернул."
 
 # game/scripts/events.rpy:18647
 translate russian mjolnik_massage_front_f3f13cdb:
 
     # Mjolnik "Now it hurts to move in certain ways and everytime I try to massage it or put on Eoghann's salve, I just can't. Stings to much."
-    Mjolnik ""
+    Mjolnik "Теперь мне больно двигаться в определенных направлениях, и каждый раз, когда я пытаюсь помассировать его или нанести мазь Эоганна, я просто не могу. Слишком больно."
 
 # game/scripts/events.rpy:18649
 translate russian mjolnik_massage_front_f12baab7:
 
     # Fen 2 normal "Maybe I can help put it on?"
-    Fen 2 normal ""
+    Fen 2 normal "Может, я помогу его нанести?"
 
 # game/scripts/events.rpy:18651
 translate russian mjolnik_massage_front_11c32a55:
 
     # Mjolnik normal "Would y'all do that for me?"
-    Mjolnik normal ""
+    Mjolnik normal "Ты бы сделал это для меня?"
 
 # game/scripts/events.rpy:18653
 translate russian mjolnik_massage_front_9a0485da:
 
     # Fen 2 smile "Of course. Let go and get that salve and get you all patched up."
-    Fen 2 smile ""
+    Fen 2 smile "Конечно. Отпусти меня, принесу мазь и подлатаю тебя."
 
 # game/scripts/events.rpy:18657
 translate russian mjolnik_massage_front_a6e484dc:
 
     # "The pair of you go inside, Mjolnik goes into his room and returns with the jug of salve."
-    ""
+    "Ты заходишь внутрь, а Мельник идет в свою комнату и возвращается с кувшином мази."
 
 # game/scripts/events.rpy:18664
 translate russian mjolnik_massage_front_9a62ff41:
 
     # "He hands it over to you and you motion for him to sit on the floor. He does so and you sit down behind him."
-    ""
+    "Он передает ее тебе, и ты предлагаешь ему сесть на пол. Он делает это, а ты садишься позади него."
 
 # game/scripts/events.rpy:18666
 translate russian mjolnik_massage_front_529991b5:
 
     # "Opening the jug, your nose immediately wrinkles from the smell and you hear Mjolnik snort."
-    ""
+    "Открыв кувшин, ты сразу же сморщил нос от запаха и услышал, как Мельник фыркнул."
 
 # game/scripts/events.rpy:18668
 translate russian mjolnik_massage_front_837875cf:
 
     # Mjolnik grin "Smells awful, but sure does work."
-    Mjolnik grin ""
+    Mjolnik grin "Пахнет ужасно, но действительно работает."
 
 # game/scripts/events.rpy:18670
 translate russian mjolnik_massage_front_4a2044cb:
 
     # "You nod as you remember how effective it was on you."
-    ""
+    "Ты киваешь, вспоминая, как эффективно он действовал на тебе."
 
 # game/scripts/events.rpy:18677
 translate russian mjolnik_massage_front_b34304ef:
 
     # "Take a decent amount in your hand, you reach around and begin to rub it into the bull's chest."
-    ""
+    "Взяв в руку приличное количество, ты протягиваешь руку и начинаешь втирать его в грудь быка."
 
 # game/scripts/events.rpy:18680
 translate russian mjolnik_massage_front_0a2d2683:
 
     # "Mjolnik tries to stay silent but you do hear a few quiet whimpers as you work the salve through his fur."
-    ""
+    "Мельник старается молчать, но ты слышишь несколько тихих хныканий, когда наносишь мазь на его шерсть."
 
 # game/scripts/events.rpy:18682
 translate russian mjolnik_massage_front_4ee17aa6:
 
     # "As your hands go over his chest you brush over one of his nipples and you hear a sharp intake of breath and a pained yelp from Mjolnik."
-    ""
+    "Проводя руками по его груди, ты задеваешь один из его сосков, и слышишь резкий вдох и болезненный вскрик Мельника."
 
 # game/scripts/events.rpy:18690
 translate russian mjolnik_massage_front_af29e5b8:
 
     # "Pulling your hand away in concern who ask what was wrong."
-    ""
+    "Отдергивает руку, обеспокоенно спрашивая, что случилось."
 
 # game/scripts/events.rpy:18692
 translate russian mjolnik_massage_front_103ea849:
 
     # Mjolnik "Ah, didn't think it would be a problem, but guess with the salve and the pain... umm... "
-    Mjolnik ""
+    Mjolnik "Не думал, что это будет проблемой, но, видимо, с мазью и болью... хм... "
 
 # game/scripts/events.rpy:18694
 translate russian mjolnik_massage_front_09c4d39f:
 
     # Mjolnik "I got another thing going on, nothing to do with the chest pain."
-    Mjolnik ""
+    Mjolnik "У меня есть еще одна проблема, не связанная с болью в груди."
 
 # game/scripts/events.rpy:18696
 translate russian mjolnik_massage_front_f5c6ace9:
 
     # Mjolnik "I'll tell y'all about it some other time. Just..."
-    Mjolnik ""
+    Mjolnik "Я расскажу тебе об этом в другой раз. Просто..."
 
 # game/scripts/events.rpy:18698
 translate russian mjolnik_massage_front_86dca26d:
 
     # Mjolnik "[name], can y'all just avoid touching around my nipples for now?"
-    Mjolnik ""
+    Mjolnik "[name], не мог бы ты пока избегать прикосновений к моим соскам?"
 
 # game/scripts/events.rpy:18700
 translate russian mjolnik_massage_front_77a8fe85:
 
     # "You wonder why the bull seems extra sensitive there but shrug."
-    ""
+    "Ты удивляешься, почему бык кажется очень чувствительным, но пожимаешь плечами."
 
 # game/scripts/events.rpy:18707
 translate russian mjolnik_massage_front_312202f8:
 
     # "You simply move around to the front, so you can see exactly where you're rubbing and Mjolnik sighs in relief."
-    ""
+    "Ты просто передвигаешься вперед, чтобы было видно, где именно ты трешь, и Мельник облегченно вздыхает."
 
 # game/scripts/events.rpy:18709
 translate russian mjolnik_massage_front_fe156ad7:
 
     # Mjolnik "Thanks [name]. I'll tell y'all later."
-    Mjolnik ""
+    Mjolnik "Спасибо [name]. Я расскажу тебе позже."
 
 # game/scripts/events.rpy:18711
 translate russian mjolnik_massage_front_dab4fada:
 
     # "While you are curious about what the bull might say, you do have a job and you set about doing it."
-    ""
+    "Хотя тебе интересно, что скажет бык, у тебя есть работа, и ты приступаешь к ее выполнению."
 
 # game/scripts/events.rpy:18714
 translate russian mjolnik_massage_front_cd731525:
 
     # "Now that you can see his chest, it's easy to avoid the extra tender spots and work the salve in everywhere else."
-    ""
+    "Теперь, когда ты видишь его грудь, легко избежать особо нежных мест и нанести мазь на все остальные."
 
 # game/scripts/events.rpy:18716
 translate russian mjolnik_massage_front_827124d4:
 
     # "You have to admit that you are enjoying this."
-    ""
+    "Ты должен признать, что тебе это нравится."
 
 # game/scripts/events.rpy:18718
 translate russian mjolnik_massage_front_c57a9b0d:
 
     # "As you trace your hands over every contours of the bulls chest and abs, you can feel the muscles tense and relax under your fingers."
-    ""
+    "Проводя руками по всем контурам груди и пресса быка, ты почувствовал, как мышцы напрягаются и расслабляются под твоими пальцами."
 
 # game/scripts/events.rpy:18720
 translate russian mjolnik_massage_front_41b6245c:
 
     # "You even use the very tips of your claws on some points which causes the bull to gasp in pleasure."
-    ""
+    "В некоторых моментах ты даже используешь самые кончики своих когтей, что заставляет быка задыхаться от удовольствия."
 
 # game/scripts/events.rpy:18722
 translate russian mjolnik_massage_front_01f380cb:
 
     # Mjolnik "Golly [name], I dunno what y'all doing but it feels good. Making me feel right funny though."
-    Mjolnik ""
+    Mjolnik "Черт возьми, не знаю, что ты делаешь, но мне приятно. Я чувствую себя очень смешно."
 
 # game/scripts/events.rpy:18724
 translate russian mjolnik_massage_front_cb580924:
 
     # "You notice that as you continue, Mjolnik closes his eyes and seems to be concentrating on something."
-    ""
+    "Ты замечаешь, что по мере того, как ты продолжаешь, Мельник закрывает глаза и, кажется, сосредотачивается на чем-то."
 
 # game/scripts/events.rpy:18730
 translate russian mjolnik_massage_front_30c003e6:
 
     # "Glancing down, you see that for a change, the bull is actually erect and you do a double take."
-    ""
+    "Взглянув вниз, ты видишь, что для разнообразия бык действительно стоит на ногах, и делаешь двойную попытку."
 
 # game/scripts/events.rpy:18736
 translate russian mjolnik_massage_front_a15ecaec:
 
     # "You knew he was large, but now seeing him hard, you upgrade him to massive."
-    ""
+    "Ты знал, что он крупный, но теперь, увидев его твердым, ты повысил его статус до массивного."
 
 # game/scripts/events.rpy:18738
 translate russian mjolnik_massage_front_18e24c1d:
 
     # "Though you're not trying to actually get him fully hard so you ease off a bit."
-    ""
+    "Хотя ты и не пытаешься довести его до предела, поэтому немного расслабляешься."
 
 # game/scripts/events.rpy:18743
 translate russian mjolnik_massage_front_4558291b:
 
     # "Soon enough you finish and back away from Mjolnik, who gingerly touches his chest."
-    ""
+    "Вскоре ты заканчиваешь и отходишь от Мельника, который осторожно прикасается к своей груди."
 
 # game/scripts/events.rpy:18745
 translate russian mjolnik_massage_front_00a975fa:
 
     # "He then pokes it a few times before slapping it once."
-    ""
+    "Затем он несколько раз тычет в него пальцем, после чего дает ему одну пощечину."
 
 # game/scripts/events.rpy:18751
 translate russian mjolnik_massage_front_d6876c5b:
 
     # "Smiling broadly he gets up. You're thankful on one hand that he's fully flaccid again."
-    ""
+    "Широко улыбаясь, он встает. С одной стороны, ты благодаришь его за то, что он снова стал полностью вялым."
 
 # game/scripts/events.rpy:18753
 translate russian mjolnik_massage_front_554d99b8:
 
     # Mjolnik grin "Well don't that beat all. Everything is perfect! I feel like I could go throw a boulder in the creek!"
-    Mjolnik grin ""
+    Mjolnik grin "Ну разве это не победа. Все прекрасно! Я чувствую, что могу пойти и бросить валун в ручей!"
 
 # game/scripts/events.rpy:18756
 translate russian mjolnik_massage_front_d9914456:
 
     # "He sees your expression and quickly shakes his head."
-    ""
+    "Он видит твое выражение лица и быстро качает головой."
 
 # game/scripts/events.rpy:18758
 translate russian mjolnik_massage_front_166404e9:
 
     # Mjolnik "Now I ain't gonna do anything silly. I'm planning on having some supper and having an early night."
-    Mjolnik ""
+    Mjolnik "Я не собираюсь делать ничего глупого. Я планирую поужинать и пораньше лечь спать."
 
 # game/scripts/events.rpy:18763
 translate russian mjolnik_massage_front_db573acf:
@@ -40473,37 +40473,37 @@ translate russian mjolnik_massage_front_db573acf:
 translate russian mjolnik_massage_front_9aa99ae2:
 
     # "The meal is simple but a success, with Mjolnik praising your cooking profusely."
-    ""
+    "Еда получилась простой, но удачной, и Мельник очень хвалит твою стряпню."
 
 # game/scripts/events.rpy:18769
 translate russian mjolnik_massage_front_300de6eb:
 
     # "After cleaning up, you spend some time talking about nothing."
-    ""
+    "Приведя себя в порядок, ты еще некоторое время болтаешь ни о чем."
 
 # game/scripts/events.rpy:18771
 translate russian mjolnik_massage_front_a4a36282:
 
     # "It's mostly just you listening to Mjolnik tell stories about growing up with Terrance and Eoghann."
-    ""
+    "В основном ты просто слушаешь, как Мельник рассказывает истории о том, как рос с Терренсом и Эоганном."
 
 # game/scripts/events.rpy:18773
 translate russian mjolnik_massage_front_89d47c1d:
 
     # "You find it odd that his family doesn't come up much, but you guess after moving to Felda, they don't come around often."
-    ""
+    "Тебе кажется странным, что его семья редко появляется, но ты полагаешь, что после переезда в Фельду они не часто заглядывают в гости."
 
 # game/scripts/events.rpy:18775
 translate russian mjolnik_massage_front_d5294458:
 
     # "Though you find it odd they moved there when Mjolnik was still young, leaving him in the care of a few neighbours."
-    ""
+    "Хотя тебе кажется странным, что они переехали туда, когда Мельник был еще маленьким, оставив его на попечение нескольких соседей."
 
 # game/scripts/events.rpy:18778
 translate russian mjolnik_massage_front_5f9a16db:
 
     # "After a few hours, the pair of you turn in for the night."
-    ""
+    "Через несколько часов вы укладываетесь спать."
 
 # game/scripts/events.rpy:18783
 translate russian mjolnik_massage_front_7f466a16:
@@ -40533,421 +40533,421 @@ translate russian mjolnik_massage_front_21d29cac:
 translate russian mjolnik_gold_in_field_fc83314c:
 
     # "You notice that Mjolnik has a pile of tools leaned up against the farmhouse."
-    ""
+    "Ты замечаешь, что Мельник прислонил груду инструментов к фермерскому дому."
 
 # game/scripts/events.rpy:18819
 translate russian mjolnik_gold_in_field_774746ed:
 
     # "A shovel, pickaxe, axe and a billhook. You inspect the tools and Mjolnik speaks up."
-    ""
+    "Лопата, кирка, топор и крюк для сбора. Ты осматриваешь инструменты, а Мельник говорит."
 
 # game/scripts/events.rpy:18821
 translate russian mjolnik_gold_in_field_3d6e51b1:
 
     # Mjolnik smile "Ah, see y'all wondering about the tools?"
-    Mjolnik smile ""
+    Mjolnik smile "А, вижу, ты интересуешься инструментами?"
 
 # game/scripts/events.rpy:18823
 translate russian mjolnik_gold_in_field_3c0d06f8:
 
     # Mjolnik normal "Welo today I was planning on finally clearing out a small patch of land on the far side of my farm."
-    Mjolnik normal ""
+    Mjolnik normal "Сегодня я планировал наконец-то расчистить небольшой участок земли на дальней стороне моей фермы."
 
 # game/scripts/events.rpy:18825
 translate russian mjolnik_gold_in_field_bc99dffe:
 
     # Mjolnik smile "Y'all wanna come with?"
-    Mjolnik smile ""
+    Mjolnik smile "Хочешь пойти со мной?"
 
 # game/scripts/events.rpy:18827
 translate russian mjolnik_gold_in_field_2a8c45e7:
 
     # Fen "Sure."
-    Fen ""
+    Fen "Конечно."
 
 # game/scripts/events.rpy:18832
 translate russian mjolnik_gold_in_field_41bbb48f:
 
     # "You grab a few of the tools and Mjolnik grabs the rest along with a basket of food."
-    ""
+    "Ты берешь несколько инструментов, а Мельник - все остальное и корзину с едой."
 
 # game/scripts/events.rpy:18836
 translate russian mjolnik_gold_in_field_4f4a0333:
 
     # "The pair of you walk to small patch of woods at very back of Mjolnik's farm, where a large tangle of bushes awaits."
-    ""
+    "Вдвоем вы идете к небольшому участку леса на задворках фермы Мельника, где вас ждет большой клубок кустов."
 
 # game/scripts/events.rpy:18838
 translate russian mjolnik_gold_in_field_6897a3b3:
 
     # "As Mjolnik begins to get ready, you notice something in the middle of the bushes."
-    ""
+    "Когда Мельник начинает собираться, ты замечаешь что-то среди кустов."
 
 # game/scripts/events.rpy:18843
 translate russian mjolnik_gold_in_field_7e5001f7:
 
     # "You stare hard into the thicket and you swear you see something square. Wondering what it could be you call out to Mjolnik."
-    ""
+    "Ты напряженно всматриваешься в заросли, и тебе кажется, что ты видишь что-то квадратное. Гадая, что бы это могло быть, ты зовешь Мельника."
 
 # game/scripts/events.rpy:18845
 translate russian mjolnik_gold_in_field_b721f96a:
 
     # Fen "Hold on... I see something."
-    Fen ""
+    Fen "Подожди... Я кое-что вижу."
 
 # game/scripts/events.rpy:18847
 translate russian mjolnik_gold_in_field_565f74a2:
 
     # Mjolnik "Whatcha see?"
-    Mjolnik ""
+    Mjolnik "Что ты видишь?"
 
 # game/scripts/events.rpy:18849
 translate russian mjolnik_gold_in_field_700ec10a:
 
     # Fen "Lemme see... if I go under the bushes..."
-    Fen ""
+    Fen "Посмотрим... если я пройду под кустами..."
 
 # game/scripts/events.rpy:18855
 translate russian mjolnik_gold_in_field_ab96f4a5:
 
     # "Getting on all fours, you crawl under the outer bushes."
-    ""
+    "Встав на четвереньки, ты проползаешь под внешними кустами."
 
 # game/scripts/events.rpy:18857
 translate russian mjolnik_gold_in_field_f3a9a84a:
 
     # "To your surprise, the thicket isn't solid all the way through, in fact it's more of a grove than a thicket."
-    ""
+    "К твоему удивлению, заросли не сплошные на всем протяжении, это скорее роща, чем заросли."
 
 # game/scripts/events.rpy:18870
 translate russian mjolnik_gold_in_field_9b3a076c:
 
     # "You see two things. One is that the inside of the thicket is covered in blackberries and they are unusually large and juicy looking."
-    ""
+    "Ты видишь две вещи. Первая - внутри зарослей растет ежевика, необычайно крупная и сочная."
 
 # game/scripts/events.rpy:18880
 translate russian mjolnik_gold_in_field_fcb2e61b:
 
     # "But the other thing is a small wooden chest sitting right in the middle of the thicket."
-    ""
+    "Но самое главное - это небольшой деревянный сундук, стоящий прямо посреди зарослей."
 
 # game/scripts/events.rpy:18882
 translate russian mjolnik_gold_in_field_e704ff55:
 
     # "You grab the chest and drag it backwards."
-    ""
+    "Взяв сундук и оттащив его назад."
 
 # game/scripts/events.rpy:18886
 translate russian mjolnik_gold_in_field_c4fb5401:
 
     # "Exiting the thicket, you place the chest in front of the surprised Mjolnik."
-    ""
+    "Выйдя из зарослей, ты ставишь сундук перед удивленным Мельником."
 
 # game/scripts/events.rpy:18891
 translate russian mjolnik_gold_in_field_ea08fafa:
 
     # Mjolnik "Well I'll be darned. Who'd think there be something like that in this ol' thicket."
-    Mjolnik ""
+    Mjolnik "Ну, будь я проклят. Кто бы мог подумать, что в этих зарослях есть что-то подобное."
 
 # game/scripts/events.rpy:18895
 translate russian mjolnik_gold_in_field_b37ba8f7:
 
     # Fen "Not just that, there's a lot of blackberries in there. Really big ones."
-    Fen ""
+    Fen "И не только это, там много ежевики. Очень крупных."
 
 # game/scripts/events.rpy:18903
 translate russian mjolnik_gold_in_field_8aa1c5e8:
 
     # "Mjolnik harrumphs and turns to stare at the thicket."
-    ""
+    "Мельник хмыкает и поворачивается, чтобы посмотреть на заросли."
 
 # game/scripts/events.rpy:18906
 translate russian mjolnik_gold_in_field_34f47e8b:
 
     # "Grabbing the billhook, with a mighty swing his slices downward through the entire thicket wall and easily peels a section off to the side, exposing the hollow centre." with hpunch
-    "" with hpunch
+    "Схватив крюк, он с размаху пробивает всю стену зарослей и легко отделяет часть в сторону, обнажая полый центр." with hpunch
 
 # game/scripts/events.rpy:18911
 translate russian mjolnik_gold_in_field_9e8f526e:
 
     # Mjolnik "Well, don't that beat all. Guess I got myself a blackberry patch."
-    Mjolnik ""
+    Mjolnik "Ну, разве это не победа над всеми. Похоже, у меня есть ежевичная грядка."
 
 # game/scripts/events.rpy:18913
 translate russian mjolnik_gold_in_field_e34d1e92:
 
     # Mjolnik smile "I reckon I'll leave this alone then. No sense wasting those berries."
-    Mjolnik smile ""
+    Mjolnik smile "Тогда я оставлю все как есть. Нет смысла тратить эти ягоды."
 
 # game/scripts/events.rpy:18915
 translate russian mjolnik_gold_in_field_cff79db1:
 
     # Mjolnik normal "Now what's this chest all about?"
-    Mjolnik normal ""
+    Mjolnik normal "А что это за сундук?"
 
 # game/scripts/events.rpy:18923
 translate russian mjolnik_gold_in_field_07378a72:
 
     # "The two of you inspect the chest."
-    ""
+    "Вы вдвоем осматриваете сундук."
 
 # game/scripts/events.rpy:18925
 translate russian mjolnik_gold_in_field_d807654c:
 
     # "It's very well built, with thick wooden sides bound in iron."
-    ""
+    "Он очень хорошо сделан, с толстыми деревянными боками, окованными железом."
 
 # game/scripts/events.rpy:18927
 translate russian mjolnik_gold_in_field_b83e449e:
 
     # "A lock keeps the contents securely sealed. Of course, the key is nowhere to be found."
-    ""
+    "Замок надежно закрывает содержимое. Разумеется, ключа нигде нет."
 
 # game/scripts/events.rpy:18932
 translate russian mjolnik_gold_in_field_ead98dcc:
 
     # Fen "Great, it's locked."
-    Fen ""
+    Fen "Отлично, он заперт."
 
 # game/scripts/events.rpy:18936
 translate russian mjolnik_gold_in_field_d9d3af32:
 
     # Mjolnik "Not for long..."
-    Mjolnik ""
+    Mjolnik "Ненадолго..."
 
 # game/scripts/events.rpy:18945
 translate russian mjolnik_gold_in_field_fb2e3e74:
 
     # "Grabbing the pickaxe, Mjolnik sizes up the chest and carefully swings the pickaxe."
-    ""
+    "Схватив кирку, Мельник осматривает сундук и осторожно замахивается киркой."
 
 # game/scripts/events.rpy:18949
 translate russian mjolnik_gold_in_field_1bea0913:
 
     # "One direct hit and a shower of sparks later, the lock is loose." with vpunch
-    "" with vpunch
+    "Одно прямое попадание и сноп искр - и замок снят." with vpunch
 
 # game/scripts/events.rpy:18954
 translate russian mjolnik_gold_in_field_5ae82103:
 
     # "Mjolnik grins at you."
-    ""
+    "Мельник ухмыляется."
 
 # game/scripts/events.rpy:18956
 translate russian mjolnik_gold_in_field_33d344d4:
 
     # Mjolnik "That's that. Open it up [name] and let's see what's inside."
-    Mjolnik ""
+    Mjolnik "Вот так. Открой его [name] и посмотрим, что внутри."
 
 # game/scripts/events.rpy:18958
 translate russian mjolnik_gold_in_field_b495b324:
 
     # Mjolnik normal "Hopefully it ain't empty, otherwise I just destroyed a perfectly good lock for nothing."
-    Mjolnik normal ""
+    Mjolnik normal "Надеюсь, он не пустой, иначе я просто зря испортил отличный замок."
 
 # game/scripts/events.rpy:19012
 translate russian mjolnik_gold_in_field_e80bf541:
 
     # "You open the box and the pair of you gasp in shock."
-    ""
+    "Ты открываешь сундук, и вы оба в шоке задыхаетесь."
 
 # game/scripts/events.rpy:19014
 translate russian mjolnik_gold_in_field_337d335a:
 
     # "The chest is full of coins. Hundreds of them."
-    ""
+    "Сундук полон монет. Сотни монет."
 
 # game/scripts/events.rpy:19016
 translate russian mjolnik_gold_in_field_b5288945:
 
     # "You turn to each other and grin widely."
-    ""
+    "Ты поворачиваешься друг к другу и широко улыбаешься."
 
 # game/scripts/events.rpy:19020
 translate russian mjolnik_gold_in_field_ddffe0a2:
 
     # "Closing the lid, you grab the tool and Mjolnik grabs the chest and you hurry back to his farmhouse."
-    ""
+    "Закрыв крышку, ты берешь инструмент, а Мельник - сундук, и вы спешите вернуться в его фермерский дом."
 
 # game/scripts/events.rpy:19022
 translate russian mjolnik_gold_in_field_24dd5ffc:
 
     # "Once inside you dump the coins on the table and start counting."
-    ""
+    "Оказавшись внутри, ты высыпаешь монеты на стол и начинаешь считать."
 
 # game/scripts/events.rpy:19024
 translate russian mjolnik_gold_in_field_70badd2c:
 
     # "There's thousands worth of coins there. A huge sum."
-    ""
+    "Там тысячи монет. Огромная сумма."
 
 # game/scripts/events.rpy:19029
 translate russian mjolnik_gold_in_field_10e29953:
 
     # Mjolnik "Well... damn. Just damn."
-    Mjolnik ""
+    Mjolnik "Ну... черт. Просто черт."
 
 # game/scripts/events.rpy:19031
 translate russian mjolnik_gold_in_field_1b5df069:
 
     # Mjolnik "What y'all reckon we do with it [name]?"
-    Mjolnik ""
+    Mjolnik "Что ты думаешь делать с этим [name]?"
 
 # game/scripts/events.rpy:19035
 translate russian mjolnik_gold_in_field_7a36028d:
 
     # Fen "I mean it's yours. It was on your property."
-    Fen ""
+    Fen "Я имею в виду, что это твое. Это было на твоей территории."
 
 # game/scripts/events.rpy:19038
 translate russian mjolnik_gold_in_field_c4aed71b:
 
     # "Mjolnik shakes his head."
-    ""
+    "Мельник покачал головой."
 
 # game/scripts/events.rpy:19040
 translate russian mjolnik_gold_in_field_694e9025:
 
     # Mjolnik smile "Y'all the one who found it."
-    Mjolnik smile ""
+    Mjolnik smile "Ты тот, кто нашел его."
 
 # game/scripts/events.rpy:19042
 translate russian mjolnik_gold_in_field_47a79252:
 
     # Mjolnik grin "So I say we split it. Half half. That's as fair as fair can be."
-    Mjolnik grin ""
+    Mjolnik grin "Так что я предлагаю разделить его. Половину от половины. Это настолько справедливо, насколько вообще может быть справедливо."
 
 # game/scripts/events.rpy:19047
 translate russian mjolnik_gold_in_field_304c2bea:
 
     # Fen "For real!? Awesome!"
-    Fen ""
+    Fen "По-настоящему!? Потрясающе!"
 
 # game/scripts/events.rpy:19049
 translate russian mjolnik_gold_in_field_2480a1d0:
 
     # Fen 2 smile "To think that a chest like this had been lost here, likely for quite some time. Good thing we discovered it."
-    Fen 2 smile ""
+    Fen 2 smile "Подумать только, что такой сундук был потерян здесь, вероятно, довольно давно. Хорошо, что мы его обнаружили."
 
 # game/scripts/events.rpy:19051
 translate russian mjolnik_gold_in_field_0ca85495:
 
     # Mjolnik smile "Aye, what a lucky day, eh?"
-    Mjolnik smile ""
+    Mjolnik smile "Да, какой удачный день, а?"
 
 # game/scripts/events.rpy:19057
 translate russian mjolnik_gold_in_field_c158b47b:
 
     # "you split the coins into two piles."
-    ""
+    "Ты разбил монеты на две кучки."
 
 # game/scripts/events.rpy:19064
 translate russian mjolnik_gold_in_field_3f289e1a:
 
     # Fen "We can take those!?"
-    Fen ""
+    Fen "Мы можем взять их!?"
 
 # game/scripts/events.rpy:19066
 translate russian mjolnik_gold_in_field_b81782cd:
 
     # Fen "No... I mean... that's too much."
-    Fen ""
+    Fen "Нет... я имею в виду... это слишком."
 
 # game/scripts/events.rpy:19068
 translate russian mjolnik_gold_in_field_bc4209a5:
 
     # Fen 2 stern "You would have found the chest if I hadn't visited today."
-    Fen 2 stern ""
+    Fen 2 stern "Ты бы нашел сундук, если бы я не пришел сегодня."
 
 # game/scripts/events.rpy:19070
 translate russian mjolnik_gold_in_field_c7852941:
 
     # Fen 2 sweat "It's all yours, but if you really wanna insist... you keep three quarters."
-    Fen 2 sweat ""
+    Fen 2 sweat "Он весь твой, но если ты действительно хочешь настоять на своем... три четверти оставишь себе."
 
 # game/scripts/events.rpy:19076
 translate russian mjolnik_gold_in_field_779f537d:
 
     # "Mjolnik reluctantly agrees and you split the coins into two piles."
-    ""
+    "Мельник неохотно соглашается, и ты разделяешь монеты на две кучки."
 
 # game/scripts/events.rpy:19078
 translate russian mjolnik_gold_in_field_f7ebec9a:
 
     # "Mjolnik asks if he can keep the chest and you agree, not wanting to have to lug it back to town."
-    ""
+    "Мельник спрашивает, может ли он оставить сундук себе, и ты соглашаешься, не желая тащить его обратно в город."
 
 # game/scripts/events.rpy:19080
 translate russian mjolnik_gold_in_field_2dd38d9f:
 
     # "You stuff your rucksack full. It's heavy and you're not sure if you want to carry it all the way back to town."
-    ""
+    "Ты набиваешь свой рюкзак до отказа. Он тяжелый, и ты не уверен, что захочешь нести его всю дорогу до города."
 
 # game/scripts/events.rpy:19085
 translate russian mjolnik_gold_in_field_b9aa2656:
 
     # Mjolnik "Well... y'all could leave it here and I can ask Terrance to tote it back to town for ya."
-    Mjolnik ""
+    Mjolnik "Ну... ты можешь оставить его здесь, а я попрошу Терренса отнести его в город."
 
 # game/scripts/events.rpy:19087
 translate russian mjolnik_gold_in_field_871115f4:
 
     # Mjolnik smile "Won't bug him any. Just give him a few coins for his trouble."
-    Mjolnik smile ""
+    Mjolnik smile "Не буду его беспокоить. Просто дай ему пару монет за беспокойство."
 
 # game/scripts/events.rpy:19089
 translate russian mjolnik_gold_in_field_9a270a82:
 
     # "Thinking it over, you agree that's a good idea and you count out some coins and ask Mjolnik to give that to Terrance as a payment."
-    ""
+    "Подумав, ты соглашаешься, что это хорошая идея, отсчитываешь несколько монет и просишь Мельника отдать их Терренсу в качестве оплаты."
 
 # game/scripts/events.rpy:19093
 translate russian mjolnik_gold_in_field_dc1d972c:
 
     # "{color=#16f58d}{i}You receive [gold_in_field] coins.{/i}{/color}"
-    ""
+    "{color=#16f58d}{i}Ты получаешь [gold_in_field] монет.{/i}{/color}"
 
 # game/scripts/events.rpy:19097
 translate russian mjolnik_gold_in_field_ef3736e6:
 
     # "The pair of you are too excited to even eat anything aside from leftovers."
-    ""
+    "Вы слишком взволнованы, чтобы есть хоть что-то, кроме остатков еды."
 
 # game/scripts/events.rpy:19099
 translate russian mjolnik_gold_in_field_51b3b4cf:
 
     # "You spend the rest of the night talking about what you're going to do with your money."
-    ""
+    "Весь остаток вечера вы обсуждаете, что будете делать со своими деньгами."
 
 # game/scripts/events.rpy:19101
 translate russian mjolnik_gold_in_field_d18ca47b:
 
     # "Mjolnik plans to buy a bunch of farming tools and new equipment and stock for his farm."
-    ""
+    "Мельник планирует купить кучу сельскохозяйственных инструментов, новое оборудование и инвентарь для своей фермы."
 
 # game/scripts/events.rpy:19103
 translate russian mjolnik_gold_in_field_d21c3688:
 
     # "When he asks you what you plan on spending your money on, you honestly don't know."
-    ""
+    "Когда он спрашивает тебя, на что ты планируешь потратить деньги, ты честно не знаешь."
 
 # game/scripts/events.rpy:19105
 translate russian mjolnik_gold_in_field_a8b75154:
 
     # "You know you'll think of something."
-    ""
+    "Ты знаешь, что обязательно что-нибудь придумаешь."
 
 # game/scripts/events.rpy:19108
 translate russian mjolnik_gold_in_field_5f9a16db:
 
     # "After a few hours, the pair of you turn in for the night."
-    ""
+    "Через несколько часов вы укладываетесь спать."
 
 # game/scripts/events.rpy:19113
 translate russian mjolnik_gold_in_field_38e60d06:
 
     # "You sleep soundly and have dreams of wealth and opulence."
-    ""
+    "Ты крепко спишь и видишь сны о богатстве и роскоши."
 
 # game/scripts/events.rpy:19121
 translate russian mjolnik_gold_in_field_0fc1bbda:
@@ -40959,7 +40959,7 @@ translate russian mjolnik_gold_in_field_0fc1bbda:
 translate russian mjolnik_gold_in_field_340d88dd:
 
     # "Once done, you bid the bull farwell and begin your trip back."
-    ""
+    "После этого ты прощаешься с быком и отправляешься в обратный путь."
 
 # game/scripts/events.rpy:19132
 translate russian mjolnik_gold_in_field_21d29cac:
@@ -40971,785 +40971,785 @@ translate russian mjolnik_gold_in_field_21d29cac:
 translate russian about_trei_wrestle_2_5244bdc0:
 
     # "{color=#16f58d}{i}Strength Check 6 - Failure{/i}{/color}"
-    ""
+    "{color=#16f58d}{i}Проверка силы 6 - Провалена{/i}{/color}"
 
 # game/scripts/events.rpy:20758
 translate russian bathhouse_luxury_common_6fd1dca4:
 
     # "Marcus hands you a wooden box with a plush towel."
-    ""
+    "Маркус вручает тебе деревянную коробку с плюшевым полотенцем."
 
 # game/scripts/events.rpy:20765
 translate russian bathhouse_luxury_common_d3e1fb7a:
 
     # "You place your clothes into the box and store it on the shelf."
-    ""
+    "Ты кладешь свою одежду в коробку и ставишь ее на полку."
 
 # game/scripts/events.rpy:20771
 translate russian bathhouse_luxury_common_34ab824a:
 
     # "The pool is much smaller than the public bath. A mixture of floral aromas fills the air here."
-    ""
+    "Бассейн намного меньше, чем в общественной бане. Воздух здесь наполнен смесью цветочных ароматов."
 
 # game/scripts/events.rpy:20823
 translate russian bathhouse_luxury_murry_73134309:
 
     # Marcus grin "By the way, you might want to be careful around the pools today."
-    Marcus grin ""
+    Marcus grin "Кстати, будь осторожен сегодня возле бассейнов."
 
 # game/scripts/events.rpy:20825
 translate russian bathhouse_luxury_murry_0eb48208:
 
     # Fen "Why's that?"
-    Fen ""
+    Fen "Почему?"
 
 # game/scripts/events.rpy:20827
 translate russian bathhouse_luxury_murry_35965a7a:
 
     # Marcus smile "It tends to get messy when Murry visits."
-    Marcus smile ""
+    Marcus smile "Когда приезжает Мюрри, здесь обычно становится неспокойно."
 
 # game/scripts/events.rpy:20829
 translate russian bathhouse_luxury_murry_18d6a117:
 
     # Fen "Oh, Murry's here?"
-    Fen ""
+    Fen "О, Мэрри здесь?"
 
 # game/scripts/events.rpy:20831
 translate russian bathhouse_luxury_murry_edb6527b:
 
     # Marcus grin "Yep. Little guy seems to really be enjoying himself, as well as some of the other guests lately."
-    Marcus grin ""
+    Marcus grin "Ага. Малыш, похоже, действительно наслаждается собой, как и некоторые другие гости в последнее время."
 
 # game/scripts/events.rpy:20833
 translate russian bathhouse_luxury_murry_2e186fe0:
 
     # Fen "I'm glad to see him relaxing."
-    Fen ""
+    Fen "Я рад, что он расслабился."
 
 # game/scripts/events.rpy:20835
 translate russian bathhouse_luxury_murry_df0b695b:
 
     # Marcus smile "You could call it that, it brings in good money without too much extra work."
-    Marcus smile ""
+    Marcus smile "Можно сказать, что это приносит хорошие деньги без лишней работы."
 
 # game/scripts/events.rpy:20840
 translate russian bathhouse_luxury_murry_e670b05e:
 
     # "Marcus hands you your bath bucket and you head towards the steamy pools."
-    ""
+    "Маркус вручает тебе ведро для купания, и ты направляешься к распаренным бассейнам."
 
 # game/scripts/events.rpy:20847
 translate russian bathhouse_luxury_murry_b0d56c82:
 
     # "As you enter the pool, you can hear loud slapping and moaning."
-    ""
+    "Когда ты входишь в бассейн, слышны громкие шлепки и стоны."
 
 # game/scripts/events.rpy:20850
 translate russian bathhouse_luxury_murry_97e8cc82:
 
     # "Sounds and Smells like... Murry?"
-    ""
+    "Звучит и пахнет как... Мурри?"
 
 # game/scripts/events.rpy:20852
 translate russian bathhouse_luxury_murry_39fbe008:
 
     # "You know that the source could be no other than Murry getting fucked."
-    ""
+    "Ты знаешь, что источником может быть не кто иной, как трахнувшийся Мурри."
 
 # game/scripts/events.rpy:20857
 translate russian bathhouse_luxury_murry_e340e432:
 
     # "Slowly creeping towards the noise and through the steam, you spot the little merchant."
-    ""
+    "Медленно пробираясь в сторону шума и пара, ты замечаешь маленького торговца."
 
 # game/scripts/events.rpy:20876
 translate russian Murry_sex_reserved_135a3bfe:
 
     # "You turn away and distance yourself from the sounds of the debauchery unfolding behind you."
-    ""
+    "Ты отворачиваешься и отстраняешься от звуков разврата, творящегося позади тебя."
 
 # game/scripts/events.rpy:20878
 translate russian Murry_sex_reserved_72d7e528:
 
     # "Setting that aside, you take a moment to unwind, enjoying the soothing warmth of the pool and sauna."
-    ""
+    "Оставив все это в стороне, ты решил расслабиться, наслаждаясь успокаивающим теплом бассейна и сауны."
 
 # game/scripts/events.rpy:20903
 translate russian murry_partner_gatr_start_c7cbb971:
 
     # "Murry is together with a huge blue gator. His companion seems completely ready to stuff his huge cock into the much smaller male."
-    ""
+    "Мурри вместе с огромным синим аллигатором. Его спутник, кажется, полностью готов засунуть свой огромный член в гораздо меньшего самца."
 
 # game/scripts/events.rpy:20905
 translate russian murry_partner_gatr_start_f204abec:
 
     # "The blue hulk sports an enormous shaft, easily the size of one of Murry's legs."
-    ""
+    "Синяя громадина имеет огромный ствол, размером с одну из ног Мурри."
 
 # game/scripts/events.rpy:20909
 translate russian murry_partner_gatr_start_9f4f0c8a:
 
     # "He holds Murry with ease, spreading the merchant's plump cheeks apart."
-    ""
+    "Он с легкостью удерживает Мурри, раздвигая пухлые щеки торговца."
 
 # game/scripts/events.rpy:20913
 translate russian murry_partner_gatr_start_bd1d1024:
 
     # "As he reveals the smaller male's hole to everyone at the bathhouse, your eyes are unable to look away from the gator's growing erection."
-    ""
+    "Пока он демонстрирует всем в бане отверстие самца поменьше, ты не можешь отвести глаз от растущей эрекции аллигатора."
 
 # game/scripts/events.rpy:20915
 translate russian murry_partner_gatr_start_14b9641c:
 
     # "The massive blue rod rises to full attention till the throbbing tip of that blue monster grinds against Murry's smaller bits."
-    ""
+    "Массивный голубой стержень поднимается на полную высоту, пока пульсирующий кончик этого голубого монстра не упирается в маленькие кусочки Мурри."
 
 # game/scripts/events.rpy:20925
 translate russian murry_partner_saur_start_24bfabf9:
 
     # "You spot Murry sitting on a massive green cock. The amphibian-like cohort is gently humping his length against the tiny merchant."
-    ""
+    "Ты видишь Мурри, сидящего на массивном зеленом члене. Земноводный, похожий на когорту, нежно толкается своей длиной о крошечного торговца."
 
 # game/scripts/events.rpy:20927
 translate russian murry_partner_saur_start_48bf735d:
 
     # "The big spotted man sports an impressive belly on which the smaller male rest upon."
-    ""
+    "У большого пятнистого мужчины внушительный живот, на котором сидит самец поменьше."
 
 # game/scripts/events.rpy:20931
 translate russian murry_partner_saur_start_9c93b834:
 
     # "He easily lifts Murry into prime fucking position, letting spreading his ass to reveal his perky little hole between those plump cheeks."
-    ""
+    "Он легко поднимает Мурри в идеальную позицию для траха, позволяя раздвинуть его задницу, чтобы показать маленькую дырочку между пухлыми щечками."
 
 # game/scripts/events.rpy:20935
 translate russian murry_partner_saur_start_27a9a194:
 
     # "You watch in wonder as the massive cock comes to life and rises between Murry's legs."
-    ""
+    "Ты с удивлением наблюдаешь, как массивный член оживает и поднимается между ног Мурри."
 
 # game/scripts/events.rpy:20937
 translate russian murry_partner_saur_start_ed680328:
 
     # "The thick green shaft pulses with anticipation to be pureed into Murry."
-    ""
+    "Толстый зеленый ствол пульсирует от нетерпения, когда его превратят в пюре для Мурри."
 
 # game/scripts/events.rpy:20939
 translate russian murry_partner_saur_start_46eb694e:
 
     # "Pre leaks down his tip and Murry's cock as the Merchant looks longingly at the green beast below."
-    ""
+    "По его кончику и по члену Мурри течет вода, а торговец с тоской смотрит на зеленое чудовище внизу."
 
 # game/scripts/events.rpy:20941
 translate russian murry_partner_saur_start_1e1c34ad:
 
     # "Their clear fluids mix as the man starts to grind gently, Murry is ready to be split in half."
-    ""
+    "Их прозрачные жидкости смешиваются, когда мужчина начинает осторожно растирать, и Мурри готов разделиться пополам."
 
 # game/scripts/events.rpy:20962
 translate russian Murry_sex_open_8f0cf780:
 
     # "You lean in a bit closer to give yourself a nice view of the action."
-    ""
+    "Наклонившись поближе, ты открываешь прекрасный вид на происходящее."
 
 # game/scripts/events.rpy:20976
 translate russian Murry_sex_open_8deafceb:
 
     # "Murry notices you and leans up from his partner's pillowy chest."
-    ""
+    "Мурри замечает тебя и откидывается от груди своего партнера."
 
 # game/scripts/events.rpy:20978
 translate russian Murry_sex_open_34bb543e:
 
     # Murry "Oh [name], fancy meeting you here."
-    Murry ""
+    Murry "О [name], приятно встретить тебя здесь."
 
 # game/scripts/events.rpy:20980
 translate russian Murry_sex_open_f7eeabcf:
 
     # Fen "H-Hey Murry."
-    Fen ""
+    Fen "П-привет Мурри."
 
 # game/scripts/events.rpy:20983
 translate russian Murry_sex_open_8262a497:
 
     # "He gives you a wink as his partner hoists him into position."
-    ""
+    "Он подмигивает тебе, пока его партнер поднимает его в позицию."
 
 # game/scripts/events.rpy:20990
 translate russian Murry_sex_front_row_7b6ccd11:
 
     # "You step right up to Murry and his partner for a front row seat to the show."
-    ""
+    "Ты подходишь прямо к Мурри и его партнеру, чтобы занять место в первом ряду на шоу."
 
 # game/scripts/events.rpy:21004
 translate russian Murry_sex_front_row_8deafceb:
 
     # "Murry notices you and leans up from his partner's pillowy chest."
-    ""
+    "Мурри замечает тебя и откидывается от груди своего партнера."
 
 # game/scripts/events.rpy:21006
 translate russian Murry_sex_front_row_ba3d3701:
 
     # Murry "O-Oh, a-ah, hey [name]."
-    Murry ""
+    Murry "О-ох, а-ах, привет [name]."
 
 # game/scripts/events.rpy:21008
 translate russian Murry_sex_front_row_7c32bb5b:
 
     # "You see his cock throb in anticipation of being impaled."
-    ""
+    "Ты видишь, как пульсирует его член в предвкушении проникновения."
 
 # game/scripts/events.rpy:21010
 translate russian Murry_sex_front_row_8e084874:
 
     # Murry "Enjoying the show?"
-    Murry ""
+    Murry "Нравится шоу?"
 
 # game/scripts/events.rpy:21012
 translate russian Murry_sex_front_row_008952d1:
 
     # Murry "Not so shy anymore, huh?"
-    Murry ""
+    Murry "Уже не такой застенчивый, да?"
 
 # game/scripts/events.rpy:21014
 translate russian Murry_sex_front_row_41cd134e:
 
     # Fen "Well you just looked so inviting."
-    Fen ""
+    Fen "Ты выглядишь привлекательно."
 
 # game/scripts/events.rpy:21017
 translate russian Murry_sex_front_row_408276aa:
 
     # Murry "Well of course I do!"
-    Murry ""
+    Murry "Ну конечно же!"
 
 # game/scripts/events.rpy:21035
 translate russian murry_sex_cont_193324a1:
 
     # "Murry smiles and leans back into the big belly of his hulking companion."
-    ""
+    "Мурри улыбается и откидывается на большой живот своего громоздкого спутника."
 
 # game/scripts/events.rpy:21037
 translate russian murry_sex_cont_47db3a26:
 
     # "His legs are spread wide apart, offering everyone in the steamy room an unfettered view of his cock and balls."
-    ""
+    "Его ноги широко раздвинуты, открывая всем присутствующим беспрепятственный вид на его член и яйца."
 
 # game/scripts/events.rpy:21039
 translate russian murry_sex_cont_a3000ec2:
 
     # "Below Murry, his partner's massive cock stands at full attention with a heavy set of orbs full of pent up seed."
-    ""
+    "Под Мурри массивный член его партнера стоит в полной готовности с тяжелыми глазницами, полными сдерживаемого семени."
 
 # game/scripts/events.rpy:21054
 translate russian murry_sex_cont_4e497b84:
 
     # "Without hesitation, it rammed in."
-    ""
+    "Без колебаний он вошел внутрь."
 
 # game/scripts/events.rpy:21056
 translate russian murry_sex_cont_ccfffd54:
 
     # "You can't help but stare in wonder at how the tiny guy takes that entire massive thick meat log."
-    ""
+    "Ты не можешь удержаться от того, чтобы не поглазеть на то, как этот крошечный парень забирает все это массивное толстое мясное бревно."
 
 # game/scripts/events.rpy:21073
 translate russian murry_sex_cont_dd15fc31:
 
     # "And just like that, the show began."
-    ""
+    "И вот так шоу началось."
 
 # game/scripts/events.rpy:21075
 translate russian murry_sex_cont_62ff2995:
 
     # "With each thrust, a distinct bulge appears on the raccoon's stomach, marking the intensity of the motion."
-    ""
+    "С каждым толчком на животе енота появляется отчетливая выпуклость, обозначающая интенсивность движения."
 
 # game/scripts/events.rpy:21077
 translate russian murry_sex_cont_542c7539:
 
     # "The charm bouncing off shines with a brilliant green light as Murry's innards are rearranged before you."
-    ""
+    "Отскочивший от него амулет светится ярким зеленым светом, а внутренности Мурри перестраиваются на твоих глазах."
 
 # game/scripts/events.rpy:21079
 translate russian murry_sex_cont_d8dee8d7:
 
     # "Imagining taking such a huge piece of meat causes your own arousal to stir."
-    ""
+    "Представление о том, как ты принимаешь такой огромный кусок мяса, вызывает у тебя возбуждение."
 
 # game/scripts/events.rpy:21081
 translate russian murry_sex_cont_01b6f1da:
 
     # "Wet slapping noises echo with various grunts in the steamy bath, alerting you to the larger audience."
-    ""
+    "Влажные звуки шлепков перекликаются с различными ворчаниями в парной, предупреждая тебя о том, что зрителей стало больше."
 
 # game/scripts/events.rpy:21083
 translate russian murry_sex_cont_393ab275:
 
     # "Murry groans as his partner pulls his body back down on their hips, burying their entire shaft into him."
-    ""
+    "Мурри застонал, когда партнер потянул его тело вниз, на свои бедра, погружая в него весь свой член."
 
 # game/scripts/events.rpy:21085
 translate russian murry_sex_cont_e520d1e0:
 
     # "You can clearly make out the bulge in Murry's belly throb."
-    ""
+    "Ты можешь отчетливо видеть, как пульсирует выпуклость на животе Мурри."
 
 # game/scripts/events.rpy:21087
 translate russian murry_sex_cont_59075737:
 
     # "Murry's escapades draws in a crowd of patrons that watch with excitement."
-    ""
+    "Выходки Мурри привлекают толпу завсегдатаев, которые с восторгом наблюдают за происходящим."
 
 # game/scripts/events.rpy:21089
 translate russian murry_sex_cont_8fefdbaf:
 
     # "There is more than one type of excitement observed as you spot a couple of older merchants stroking each other as they watch the little guy bounce up and down."
-    ""
+    "Ты видишь не один вид возбуждения: пара пожилых торговцев поглаживает друг друга, наблюдая за тем, как малыш подпрыгивает вверх и вниз."
 
 # game/scripts/events.rpy:21091
 translate russian murry_sex_cont_11412d07:
 
     # "The massive cock forces itself all the way into the raccoon, making the jiggling belly bulge obscenely."
-    ""
+    "Массивный член проникает в енота на всю длину, заставляя непристойно вздуваться его покачивающийся живот."
 
 # game/scripts/events.rpy:21093
 translate russian murry_sex_cont_d8657952:
 
     # "To Murry, there is no discomfort, only bliss from the thick pipe lodged inside him plows away into his body like a comical fuck sleeve."
-    ""
+    "Мурри не испытывает никакого дискомфорта, только блаженство от того, что толстая труба, застрявшая внутри него, вонзается в его тело, как комичная втулка для траха."
 
 # game/scripts/events.rpy:21095
 translate russian murry_sex_cont_30d79156:
 
     # "The sloshing bounce of Murry's belly is mesmerizing watching his body stretch to accommodate the sheer mass of the much larger male."
-    ""
+    "Липкое подпрыгивание живота Мурри завораживает, когда его тело растягивается, чтобы вместить массу гораздо более крупного самца."
 
 # game/scripts/events.rpy:21097
 translate russian murry_sex_cont_8f1574b1:
 
     # "You stroke yourself, watching the little man display his perverted act to all around."
-    ""
+    "Ты гладишь себя, наблюдая за тем, как он демонстрирует всем окружающим свои извращенные действия."
 
 # game/scripts/events.rpy:21111
 translate russian murry_sex_cont_909cca06:
 
     # Murry "O-Oh fuck!"
-    Murry ""
+    Murry "О-ох блять!"
 
 # game/scripts/events.rpy:21113
 translate russian murry_sex_cont_d995d1bc:
 
     # "The merchant groans as the bulge pushes out like an arm punching from beneath his fur."
-    ""
+    "Торговец застонал, когда выпуклость высунулась, словно рука, бьющая из-под шерсти."
 
 # game/scripts/events.rpy:21115
 translate russian murry_sex_cont_374e7c91:
 
     # "Murry's cock flops against the bulge protruding above his belly."
-    ""
+    "Член Мурри прижимается к выпуклости, выступающей над его животом."
 
 # game/scripts/events.rpy:21117
 translate russian murry_sex_cont_1b0c74fa:
 
     # "Every thrust forces the blunt tip of his companion's cock push right above his belly button."
-    ""
+    "Каждый толчок заставляет тупой кончик члена его спутницы толкаться прямо над его пупком."
 
 # game/scripts/events.rpy:21119
 translate russian murry_sex_cont_850b54ff:
 
     # "This in turn pushes out the air from Murry's lungs, causing his moans to end in sharp peaks."
-    ""
+    "Это, в свою очередь, вытесняет воздух из легких Мурри, заставляя его стоны заканчиваться резкими пиками."
 
 # game/scripts/events.rpy:21121
 translate russian murry_sex_cont_898b03ec:
 
     # "The merchant's body takes the abuse without any signs of discomfort."
-    ""
+    "Тело торговца выдерживает все издевательства без каких-либо признаков дискомфорта."
 
 # game/scripts/events.rpy:21123
 translate russian murry_sex_cont_058049b0:
 
     # "In fact, Murry looks like he's having the time of his life being split in half by a hulking man with a cock half the length of the raccoon."
-    ""
+    "На самом деле Мурри выглядит так, как будто он получает удовольствие от того, что его делит пополам громадный мужчина с членом длиной в половину енота."
 
 # game/scripts/events.rpy:21125
 translate russian murry_sex_cont_9ffbe2fa:
 
     # "More patrons have gathered to bear witness to the head merchant letting loose in the upscale bathhouse."
-    ""
+    "Еще больше посетителей собралось, чтобы увидеть, как главный торговец отрывается в элитной бане."
 
 # game/scripts/events.rpy:21127
 translate russian murry_sex_cont_47efe277:
 
     # "Grunts and moans among the audience built along with the speed of Murry's partner."
-    ""
+    "Ворчание и стоны зрителей нарастали вместе со скоростью партнера Мурри."
 
 # game/scripts/events.rpy:21144
 translate russian murry_sex_cont_4b9588f0:
 
     # "Things are getting hot and steamy, and not because of the hot water."
-    ""
+    "В помещении становится жарко и душно, и не из-за горячей воды."
 
 # game/scripts/events.rpy:21146
 translate russian murry_sex_cont_3fe25f9f:
 
     # "The crowd is focused on the action, openly jerking it to the display. You included."
-    ""
+    "Толпа сосредоточена на действии, откровенно дергая ее к месту показа. Ты в том числе."
 
 # game/scripts/events.rpy:21148
 translate russian murry_sex_cont_1736fcb2:
 
     # "The man's fat balls slapped into the tiny rump while he pulled Murry down against his thrust, forcing his cock deeper into the stretchy raccoon."
-    ""
+    "Толстые яйца мужчины шлепались о крошечный крестец, пока он прижимал Мурри к себе, заставляя его член все глубже входить в растянутого енота."
 
 # game/scripts/events.rpy:21150
 translate russian murry_sex_cont_c072b61d:
 
     # "He groans as his girthy shaft disappears all the way into Murry, almost poking into the smaller man's chest."
-    ""
+    "Он застонал, когда его обхватывающий член полностью вошел в Мурри, почти упираясь в грудь маленького мужчины."
 
 # game/scripts/events.rpy:21152
 translate russian murry_sex_cont_ae104b76:
 
     # "Everyone can tell the guy's about to erupt."
-    ""
+    "Все видят, что парень вот-вот вспыхнет."
 
 # game/scripts/events.rpy:21154
 translate russian murry_sex_cont_9d738587:
 
     # "His balls pull up and his hands grip Murry's little thighs, yanking him down onto his throbbing cock."
-    ""
+    "Его яйца вздымаются вверх, а руки обхватывают маленькие бедра Мурри, опуская его на свой пульсирующий член."
 
 # game/scripts/events.rpy:21173
 translate russian murry_sex_cont_f104aca7:
 
     # "With the bulbous tip pushing out from Murry's belly, everyone can see the orgasmic explosion unfold."
-    ""
+    "Когда луковичный наконечник выпирает из живота Мурри, все видят, как разворачивается оргазм."
 
 # game/scripts/events.rpy:21175
 translate russian murry_sex_cont_0960dd3e:
 
     # "He unleashes a bellowing roar as hot cum spews inside Murry with such force, you can see it stretching his belly beneath his fur."
-    ""
+    "Он издает рев, когда горячая сперма выплескивается внутрь Мурри с такой силой, что видно, как она растягивает его живот под шерстью."
 
 # game/scripts/events.rpy:21189
 translate russian murry_sex_cont_0dee5cc9:
 
     # "Murry is completely lost in the sensation of being filled."
-    ""
+    "Мурри полностью погрузился в ощущение наполненности."
 
 # game/scripts/events.rpy:21191
 translate russian murry_sex_cont_e41ceb96:
 
     # "You can make out every throb of the man's cock as it pulses inside the merchant."
-    ""
+    "Ты можешь различить каждую пульсацию мужского члена, как он пульсирует внутри торговки."
 
 # game/scripts/events.rpy:21205
 translate russian murry_sex_cont_7bee0399:
 
     # "Each jet of virile seed gushes into Murry, filling him slowly like a balloon."
-    ""
+    "Каждая струя мужественного семени вливается в Мурри, медленно наполняя его, как воздушный шар."
 
 # game/scripts/events.rpy:21207
 translate russian murry_sex_cont_ad289231:
 
     # "You can imagine every gush coming from that massive thing lodged with Murry is crushing his prostate into new shapes."
-    ""
+    "Ты можешь представить, что каждый толчок, исходящий из этой массивной штуки, застрявшей в Мурри, сминает его простату, придавая ей новые формы."
 
 # game/scripts/events.rpy:21209
 translate russian murry_sex_cont_8d28fc77:
 
     # "Your cock throbs harder as you think about what that would feel like if it were you."
-    ""
+    "Твой член запульсировал сильнее, когда ты подумал о том, что бы ты почувствовал, если бы это был ты."
 
 # game/scripts/events.rpy:21211
 translate russian murry_sex_cont_c1481380:
 
     # "Soon the clear outline of the man's tip poking out from his stomach fades, leaving only a slowly growing belly."
-    ""
+    "Вскоре четкие очертания мужского кончика, выпирающего из живота, исчезают, остается только медленно растущий живот."
 
 # game/scripts/events.rpy:21213
 translate russian murry_sex_cont_2cf992c0:
 
     # "The man's thrusting gradually slows until his shaft no longer moved."
-    ""
+    "Постепенно толчки мужчины замедляются, пока его член не прекращает двигаться."
 
 # game/scripts/events.rpy:21215
 translate russian murry_sex_cont_ac4bf23c:
 
     # "Only the continuous torrent of cum spilling out from the enormous cock lodged within Murry kept his bulbous belly bouncing."
-    ""
+    "Только непрерывный поток спермы, вытекающий из огромного члена, засевшего в Мурри, заставлял его пузатый живот подпрыгивать."
 
 # game/scripts/events.rpy:21217
 translate russian murry_sex_cont_2c782650:
 
     # "Murry trembles from the immaculate pressure building inside him culminating into a burst of pleasure."
-    ""
+    "Мурри содрогается от безупречного давления, нарастающего внутри него и переходящего во взрыв удовольствия."
 
 # game/scripts/events.rpy:21219
 translate russian murry_sex_cont_e4f28d6a:
 
     # "The racoon's smaller cock explodes and he releases his own orgasm all over himself."
-    ""
+    "Маленький член енота взрывается, и он выпускает свой собственный оргазм на себя."
 
 # game/scripts/events.rpy:21221
 translate russian murry_sex_cont_c4d000f3:
 
     # "With a long groan, he starts to pull out from Murry's stretched hole."
-    ""
+    "С протяжным стоном он начинает выходить из растянутого отверстия Мурри."
 
 # game/scripts/events.rpy:21235
 translate russian murry_sex_cont_c0f89ba6:
 
     # "{size=50}POP!{/size}"
-    ""
+    "{size=50}ПОП!{/size}"
 
 # game/scripts/events.rpy:21237
 translate russian murry_sex_cont_36e87294:
 
     # "Like a cork in the neck of a bottle, the man's fat dong plops out from Murry's ass."
-    ""
+    "Как пробка в горлышке бутылки, толстый член мужчины выскочил из задницы Мурри."
 
 # game/scripts/events.rpy:21239
 translate russian murry_sex_cont_652b4f94:
 
     # "Buckets of creamy cum leak out from Murry's still tight hole."
-    ""
+    "Ведра сливочной спермы вытекают из все еще тугого отверстия Мурри."
 
 # game/scripts/events.rpy:21253
 translate russian murry_sex_cont_40a7e703:
 
     # "You let out an audible groan as you finally let loose as well."
-    ""
+    "Ты издал звучный стон, когда наконец-то и ты выпустил его на свободу."
 
 # game/scripts/events.rpy:21267
 translate russian murry_sex_cont_8533b93c:
 
     # "His heavy breathing causes that giant belly to slosh gently as he catches his breath."
-    ""
+    "Его тяжелое дыхание заставляет огромный живот мягко вздыматься, пока он переводит дух."
 
 # game/scripts/events.rpy:21269
 translate russian murry_sex_cont_23f04554:
 
     # "Excess cum splatters loudly against the floor of the bath. Thankfully there's a nearby drain for it to wash away into, leaving little mess behind."
-    ""
+    "Излишки спермы громко брызгают на пол ванны. К счастью, рядом есть слив, в который она смывается, не оставляя после себя никакого беспорядка."
 
 # game/scripts/events.rpy:21271
 translate russian murry_sex_cont_fb516e7c:
 
     # "Murry settles against the big man as creamy white seed drips from his used hole."
-    ""
+    "Мурри прижимается к большому мужчине, а из его дырочки капает кремово-белое семя."
 
 # game/scripts/events.rpy:21280
 translate russian murry_sex_cont_53f3b939:
 
     # "It looks like some of the other occupants in the bahthouse have also spilled a bit of their own excitement on Marcus's floors."
-    ""
+    "Похоже, что и другие обитатели батхауса пролили на полы Маркуса немного своего волнения."
 
 # game/scripts/events.rpy:21285
 translate russian murry_sex_cont_adde5324:
 
     # "Now that the show's over, most of the crowd dispersed and the big guy helped Murry get cleaned up."
-    ""
+    "Теперь, когда шоу закончилось, большая часть толпы разошлась, и здоровяк помог Мурри привести себя в порядок."
 
 # game/scripts/events.rpy:21287
 translate russian murry_sex_cont_0d2b4695:
 
     # "You quickly get back to finishing your own bath while quietly waiting for your still very much stiff erection to die down."
-    ""
+    "Ты быстро возвращаешься к принятию ванны, спокойно ожидая, пока твоя все еще очень сильная эрекция угаснет."
 
 # game/scripts/events.rpy:21298
 translate russian murry_sex_cont_02a6edde:
 
     # "Your charm increases as a result of the... sauna?"
-    ""
+    "Твое обаяние увеличивается в результате... сауны?"
 
 # game/scripts/events.rpy:21301
 translate russian murry_sex_cont_2f56cd01:
 
     # "It seems like you can't gain any more charm from... sauna?"
-    ""
+    "Кажется, что ты не можешь получить больше очарования от... сауны?"
 
 # game/scripts/events.rpy:21654
 translate russian lunch_service_02_57e117de:
 
     # "You head out and set up the lunch stall, arranging everything neatly."
-    ""
+    "Ты выходишь и устанавливаешь киоск с обедом, аккуратно расставляя все по местам."
 
 # game/scripts/events.rpy:21656
 translate russian lunch_service_02_e0161951:
 
     # "Along with the usual soup and bread, there are a few new dishes freshly added to the menu, ready to entice customers."
-    ""
+    "Наряду с привычными супом и хлебом, в меню появилось несколько новых блюд, готовых завлечь клиентов."
 
 # game/scripts/events.rpy:21666
 translate russian lunch_service_03_334daa9d:
 
     # "You head out and set up the lunch stall."
-    ""
+    "Ты выходишь и устанавливаешь киоск с обедом."
 
 # game/scripts/events.rpy:21668
 translate russian lunch_service_03_79a08cb4:
 
     # "With the newly expanded menu, there are now a variety of dishes on display, and everything looks fantastic, ready to impress your hungry customers."
-    ""
+    "Благодаря новому расширенному меню, на витрине теперь представлено множество блюд, и все они выглядят фантастически, готовые произвести впечатление на ваших голодных клиентов."
 
 # game/scripts/events.rpy:21713
 translate russian lunch_service_end_7fc8d3f3:
 
     # "The lunch business is booming today. It's clear that the new dishes are drawing in more guests."
-    ""
+    "Сегодня обеденный бизнес процветает. Очевидно, что новые блюда привлекают все больше гостей."
 
 # game/scripts/events.rpy:21715
 translate russian lunch_service_end_8214c34b:
 
     # "You can tell many are stopping by just to sample the latest additions to the menu, eager to taste something fresh and exciting."
-    ""
+    "Можно сказать, что многие заходят сюда только для того, чтобы попробовать последние новинки в меню, стремясь попробовать что-то свежее и интересное."
 
 # game/scripts/events.rpy:21719
 translate russian lunch_service_end_672aa5a5:
 
     # "Great! You got 8 coins from the lunch service."
-    ""
+    "Отлично! Ты получил 8 монет за обед."
 
 translate russian strings:
 
     # game/scripts/events.rpy:1977
     old "Today you see..."
-    new ""
+    new "Сегодня ты видишь..."
 
     # game/scripts/events.rpy:1977
     old "Pair of bunnies."
-    new ""
+    new "Пара кроликов."
 
     # game/scripts/events.rpy:1977
     old "A white furred bear."
-    new ""
+    new "Медведь с белым мехом."
 
     # game/scripts/events.rpy:2071
     old "I want to top."
-    new ""
+    new "Я хочу быть активом."
 
     # game/scripts/events.rpy:2071
     old "I want to bottom."
-    new ""
+    new "Я хочу быть пасивом."
 
     # game/scripts/events.rpy:2341
     old "I would prefer to top."
-    new ""
+    new "Я бы предпочел, чтобы это был актив."
 
     # game/scripts/events.rpy:2341
     old "I would prefer to bottom."
-    new ""
+    new "Я бы предпочел, чтобы это был пасив."
 
     # game/scripts/events.rpy:2502
     old "Have Oran under you."
-    new ""
+    new "Пусть Оран будет пасивом."
 
     # game/scripts/events.rpy:2502
     old "Let Oran on top."
-    new ""
+    new "Пусть Оран будет активом."
 
     # game/scripts/events.rpy:2868
     old "Maybe next time..."
-    new ""
+    new "Может быть, в следующий раз..."
 
     # game/scripts/events.rpy:4858
     old "About Niall..."
-    new ""
+    new "О Найле..."
 
     # game/scripts/events.rpy:7143
     old "Help him."
-    new ""
+    new "Помочь ему."
 
     # game/scripts/events.rpy:7143
     old "Keep distance."
-    new ""
+    new "Держать дистанцию."
 
     # game/scripts/events.rpy:13054
     old "Ask about his artifact."
-    new ""
+    new "Спросить о его артефакте."
 
     # game/scripts/events.rpy:13054
     old "Ask him about the Baths."
-    new ""
+    new "Спросить его о банях."
 
     # game/scripts/events.rpy:16377
     old "Leave him be."
-    new ""
+    new "Оставить его в покое."
 
     # game/scripts/events.rpy:16377
     old "Enjoy the show."
-    new ""
+    new "Наслаждаться шоу."
 
     # game/scripts/events.rpy:16735
     old "About farming..."
-    new ""
+    new "О фермерстве..."
 
     # game/scripts/events.rpy:16735
     old "About Terrance..."
-    new ""
+    new "О Терренсе..."
 
     # game/scripts/events.rpy:16950
     old "Watch the bull work."
-    new ""
+    new "Наблюдать за работой быка."
 
     # game/scripts/events.rpy:16950
     old "Help the bull with chores."
-    new ""
+    new "Помочь быку с делами."
 
     # game/scripts/events.rpy:17190
     old "Wish him goodnight."
-    new ""
+    new "Пожелать ему спокойной ночи."
 
     # game/scripts/events.rpy:17190
     old "See what he does"
-    new ""
+    new "Посмотреть, что он делает"
 
     # game/scripts/events.rpy:17598
     old "Maybe just a little bit of the salve? (SXP 10)"
-    new ""
+    new "Может, просто немного мази? (сексуальность 10)"
 
     # game/scripts/events.rpy:17598
     old "I'm fine."
-    new ""
+    new "Я в порядке."
 
     # game/scripts/events.rpy:17838
     old "What to do today?"
-    new ""
+    new "Что делать сегодня?"
 
     # game/scripts/events.rpy:17838
     old "About this fruit... (Need Ember Fruit)"
-    new ""
+    new "Об этом фрукте... (Нужен фрукт Эмбер)"
 
     # game/scripts/events.rpy:19044
     old "For real!? Awesome!"
-    new ""
+    new "По-настоящему!? Потрясающе!"
 
     # game/scripts/events.rpy:19044
     old "We can take those!?"
-    new ""
+    new "Мы можем взять их!?"
 
     # game/scripts/events.rpy:20863
     old "Shy away."
-    new ""
+    new "Постесняться."
 
     # game/scripts/events.rpy:20863
     old "Get closer."
-    new ""
+    new "Подойти ближе."
 
     # game/scripts/events.rpy:20948
     old "What do you do?"
-    new ""
+    new "Чем ты делаешь?"
 
     # game/scripts/events.rpy:20948
     old "Stay a respectful distance."
-    new ""
+    new "Держаться на расстоянии."
 
     # game/scripts/events.rpy:20948
     old "Grab yourself a front row seat!"
-    new ""
+    new "Занять место в первом ряду!"
 
